@@ -3,8 +3,6 @@ import json
 import api_key
 import re
 import os
-import sys
-
 
 # Function to send a request to Genius API, where the type of request is required and its endpoint 
 def requestFormat(method, endpoint):
@@ -40,6 +38,28 @@ for name in allNames:
         id = pageToJSON[0]['result']['primary_artist']['id']
 
         # For each artist found we create their own json with relevant infos such as all the songs they made 
-        with open('genius/artistsJSON/' + name.replace(" ", "_") + '.json', 'w') as f:
+        formatedName = name.replace(" ", "_")
+
+        # We create a directory for the artist
+        file_path = working_directory + '/genius/artistsJSON/' + formatedName
+        isExist = os.path.exists(file_path)
+        if not isExist:
+            os.makedirs(file_path)
+
+        # Pattern to replace songs titles
+        rep = {"\xa0": "", " ": "_", "/": ""}
+        rep = dict((re.escape(k), v) for k, v in rep.items()) 
+        pattern = re.compile("|".join(rep.keys()))
+
+        with open('genius/artistsJSON/'+ formatedName +'/' + formatedName + '.json', 'w') as f:
             artistPage = requestFormat("get", 'artists/' + str(id) + '/songs')
             json.dump(artistPage.json(), f, indent=4, separators=(',', ': '))
+
+            # We iterate through all songs from the artist
+            for song in artistPage.json()['response']['songs']:
+                getMusic = requestFormat("get", "song/" + str(song['id']) + '&access_token=' + str(api_key.access_token))
+                fileName = pattern.sub(lambda m: rep[re.escape(m.group(0))], song['full_title'].lower())
+                if len(fileName) > 20:
+                    fileName = fileName[0:34]
+                with open('genius/artistsJSON/' + formatedName + '/' +  fileName + '.json', 'w') as f:
+                    json.dump(getMusic.json(), f, indent=4, separators=(',', ': '))
