@@ -29,28 +29,33 @@ def getLyrics(url):
     # We collect the html object and then parse it with BeautifulSoup to get lyrics from the div class lyrics
     page_url = requests.get(url)
     html = BeautifulSoup(page_url.text, 'html.parser')
-    lyrics = html.select_one(
+    lyrics_div = html.select_one(
         'div[class^="lyrics"], div[class^="SongPage__Section"]'
-    ).get_text(separator="\n")
-    
-    # We clean the lyrics as usual  
-    # We delete a section of the page that indicates how to write lyrics on Genius
-    lyrics = re.sub(r'Embed.*?forum', '', lyrics, flags=re.DOTALL)
+    )
 
-    # We delete every lines where we have "... Lyrics"
-    lyrics = re.sub(r'(?i)^.*\bLyrics\b.*$', '', lyrics, flags=re.MULTILINE)
+    if lyrics_div is not None:
+        lyrics = lyrics_div.get_text(separator="\n")
     
-    # We delete a \n before every lines starting with "[Paroles ..."
-    lyrics = re.sub(r'(\n)[\[]Paroles', '[Paroles', lyrics)
-    
-    # We delete every lines with a single digit in it 
-    lines = lyrics.split('\n')
-    lyrics = ''
-    for line in lines:
-        if not line.strip().isdigit():
-            lyrics += line + '\n'
+        # We clean the lyrics as usual  
+        # We delete a section of the page that indicates how to write lyrics on Genius
+        lyrics = re.sub(r'Embed.*?forum', '', lyrics, flags=re.DOTALL)
 
-    return lyrics
+        # We delete every lines where we have "... Lyrics"
+        lyrics = re.sub(r'(?i)^.*\bLyrics\b.*$', '', lyrics, flags=re.MULTILINE)
+        
+        # We delete a \n before every lines starting with "[Paroles ..."
+        lyrics = re.sub(r'(\n)[\[]Paroles', '[Paroles', lyrics)
+        
+        # We delete every lines with a single digit in it 
+        lines = lyrics.split('\n')
+        lyrics = ''
+        for line in lines:
+            if not line.strip().isdigit():
+                lyrics += line + '\n'
+        return lyrics
+
+    else:
+        return None
 
 def allLyricsToFile(name, urls):
 
@@ -58,8 +63,8 @@ def allLyricsToFile(name, urls):
     f = open(working_directory + '/genius/artistsJSON/' + name + '/lyrics_' + name.lower() + '.txt', 'wb')
     for url in urls:
         lyrics = getLyrics(url)
-        f.write(lyrics.encode("utf8"))
-    print("Done")
+        if lyrics is not None:
+            f.write(lyrics.encode("utf8"))
     f.close()
 
 # We iterate through the array of names
