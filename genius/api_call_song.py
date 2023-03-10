@@ -33,9 +33,23 @@ def getLyrics(url):
         'div[class^="lyrics"], div[class^="SongPage__Section"]'
     ).get_text(separator="\n")
     
-    # We clean the lyrics as usual
-    lyrics = re.sub(r'[\(\[].*?[\)\]]', '', lyrics)
-    lyrics = os.linesep.join([s for s in lyrics.splitlines() if s])         
+    # We clean the lyrics as usual  
+    # We delete a section of the page that indicates how to write lyrics on Genius
+    lyrics = re.sub(r'Embed.*?forum', '', lyrics, flags=re.DOTALL)
+
+    # We delete every lines where we have "... Lyrics"
+    lyrics = re.sub(r'(?i)^.*\bLyrics\b.*$', '', lyrics, flags=re.MULTILINE)
+    
+    # We delete a \n before every lines starting with "[Paroles ..."
+    lyrics = re.sub(r'(\n)[\[]Paroles', '[Paroles', lyrics)
+    
+    # We delete every lines with a single digit in it 
+    lines = lyrics.split('\n')
+    lyrics = ''
+    for line in lines:
+        if not line.strip().isdigit():
+            lyrics += line + '\n'
+
     return lyrics
 
 def allLyricsToFile(name, urls):
@@ -45,6 +59,7 @@ def allLyricsToFile(name, urls):
     for url in urls:
         lyrics = getLyrics(url)
         f.write(lyrics.encode("utf8"))
+    print("Done")
     f.close()
 
 # We iterate through the array of names
