@@ -99,7 +99,6 @@ for name in allNames:
             # Loop until there is no more page to request for this artist
             while artistPage.json()['response']['next_page'] != None:
                 artistPage = requestFormat("get", 'artists/' + str(id) + '/songs?page=' + str(count))
-                print(artistPage.json()['response']['next_page'])
                 json.dump(artistPage.json(), f, indent=4, separators=(',', ': '))
 
                 # We iterate through all songs from the artist
