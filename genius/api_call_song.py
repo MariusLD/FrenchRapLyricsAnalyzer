@@ -1,13 +1,14 @@
+# Run pip install -r requirements.txt in this directory
 import requests
 import json
-import api_key
+from decouple import config
 import re
 import os
 from bs4 import BeautifulSoup
 
 # Function to send a request to Genius API, where the type of request is required and its endpoint 
 def requestFormat(method, endpoint):
-    auth_string = f"{api_key.access_token}"
+    auth_string = f"{config('access_token')}"
     headers = {
         'Accept': 'application/json',
         'Authorization' : f"Bearer {auth_string}"
