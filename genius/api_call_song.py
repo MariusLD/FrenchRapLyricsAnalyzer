@@ -3,6 +3,7 @@ import json
 import api_key
 import re
 import os
+from bs4 import BeautifulSoup
 
 # Function to send a request to Genius API, where the type of request is required and its endpoint 
 def requestFormat(method, endpoint):
@@ -21,6 +22,29 @@ file_path = working_directory + '/beautifulsoup/rappers.txt'
 # We retrieve all artists we are looking for from the file beautifulsoup/rappers.txt
 file = open(file_path, 'r')
 allNames = file.read().splitlines()
+
+def getLyrics(url):
+
+    # We collect the html object and then parse it with BeautifulSoup to get lyrics from the div class lyrics
+    page_url = requests.get(url)
+    html = BeautifulSoup(page_url.text, 'html.parser')
+    lyrics = html.select_one(
+        'div[class^="lyrics"], div[class^="SongPage__Section"]'
+    ).get_text(separator="\n")
+    
+    # We clean the lyrics as usual
+    lyrics = re.sub(r'[\(\[].*?[\)\]]', '', lyrics)
+    lyrics = os.linesep.join([s for s in lyrics.splitlines() if s])         
+    return lyrics
+
+def allLyricsToFile(name, urls):
+
+    # For all the songs urls from the 'name' artist, we call the above function to get the lyrics and concatenate it into a new file
+    f = open(working_directory + '/genius/artistsJSON/' + name + '/lyrics_' + name.lower() + '.txt', 'wb')
+    for url in urls:
+        lyrics = getLyrics(url)
+        f.write(lyrics.encode("utf8"))
+    f.close()
 
 # We iterate through the array of names
 for name in allNames:
@@ -55,11 +79,8 @@ for name in allNames:
             artistPage = requestFormat("get", 'artists/' + str(id) + '/songs')
             json.dump(artistPage.json(), f, indent=4, separators=(',', ': '))
 
+            urls=[]
             # We iterate through all songs from the artist
             for song in artistPage.json()['response']['songs']:
-                getMusic = requestFormat("get", "song/" + str(song['id']) + '&access_token=' + str(api_key.access_token))
-                fileName = pattern.sub(lambda m: rep[re.escape(m.group(0))], song['full_title'].lower())
-                if len(fileName) > 20:
-                    fileName = fileName[0:34]
-                with open('genius/artistsJSON/' + formatedName + '/' +  fileName + '.json', 'w') as f:
-                    json.dump(getMusic.json(), f, indent=4, separators=(',', ': '))
+                urls.append(song['url'])
+            allLyricsToFile(formatedName, urls)          
