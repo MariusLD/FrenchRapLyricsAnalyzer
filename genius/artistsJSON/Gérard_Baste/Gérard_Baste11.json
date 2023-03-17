@@ -1,0 +1,923 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4858548",
+                "artist_names": "G\u00e9rard Baste (Ft. L\u00e9o Berliner)",
+                "full_title": "Speed Dating by\u00a0G\u00e9rard\u00a0Baste (Ft.\u00a0L\u00e9o\u00a0Berliner)",
+                "header_image_thumbnail_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.738x738x1.png",
+                "id": 4858548,
+                "language": null,
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-speed-dating-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-speed-dating-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2010",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.738x738x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Speed Dating",
+                "title_with_featured": "Speed Dating (Ft.\u00a0L\u00e9o\u00a0Berliner)",
+                "url": "https://genius.com/Gerard-baste-speed-dating-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1946106",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                        "id": 1946106,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "L\u00e9o Berliner",
+                        "url": "https://genius.com/artists/Leo-berliner"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4858649",
+                "artist_names": "G\u00e9rard Baste (Ft. Mr. Xavier)",
+                "full_title": "Strip tise by\u00a0G\u00e9rard\u00a0Baste (Ft.\u00a0Mr.\u00a0Xavier)",
+                "header_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "id": 4858649,
+                "language": "en",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-strip-tise-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-strip-tise-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Strip tise",
+                "title_with_featured": "Strip tise (Ft.\u00a0Mr.\u00a0Xavier)",
+                "url": "https://genius.com/Gerard-baste-strip-tise-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/682273",
+                        "header_image_url": "https://images.genius.com/141219fe9405f86c93c8814fb409d78f.600x600x1.jpg",
+                        "id": 682273,
+                        "image_url": "https://images.genius.com/141219fe9405f86c93c8814fb409d78f.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mr. Xavier",
+                        "url": "https://genius.com/artists/Mr-xavier"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4976923",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "Success Story (Beau Goss) by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.300x448x1.jpg",
+                "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                "id": 4976923,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-success-story-beau-goss-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-success-story-beau-goss-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 8,
+                    "day": 25
+                },
+                "release_date_for_display": "August 25, 2009",
+                "release_date_with_abbreviated_month_for_display": "Aug. 25, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.300x448x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Success Story (Beau Goss)",
+                "title_with_featured": "Success Story (Beau Goss)",
+                "url": "https://genius.com/Gerard-baste-success-story-beau-goss-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4858644",
+                "artist_names": "G\u00e9rard Baste (Ft. La Pri\u00e8re du Poulet)",
+                "full_title": "Suce moi la b**e by\u00a0G\u00e9rard\u00a0Baste (Ft.\u00a0La\u00a0Pri\u00e8re du Poulet)",
+                "header_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "id": 4858644,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-suce-moi-la-be-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-suce-moi-la-be-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Suce moi la b**e",
+                "title_with_featured": "Suce moi la b**e (Ft.\u00a0La\u00a0Pri\u00e8re du Poulet)",
+                "url": "https://genius.com/Gerard-baste-suce-moi-la-be-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/674918",
+                        "header_image_url": "https://images.genius.com/13804ef2cadfffad1aa9b8e9b4344141.759x958x1.jpg",
+                        "id": 674918,
+                        "image_url": "https://images.genius.com/13804ef2cadfffad1aa9b8e9b4344141.759x958x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Pri\u00e8re du Poulet",
+                        "url": "https://genius.com/artists/La-priere-du-poulet"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/3489563",
+                "artist_names": "Svinkels",
+                "full_title": "Svinkels 1 by\u00a0Svinkels",
+                "header_image_thumbnail_url": "https://images.genius.com/d40f23e5a1e505e85b7bde3c041cba0c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d40f23e5a1e505e85b7bde3c041cba0c.499x499x1.jpg",
+                "id": 3489563,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Svinkels-svinkels-1-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Svinkels-svinkels-1-sample",
+                "release_date_components": {
+                    "year": 2000,
+                    "month": 9,
+                    "day": 19
+                },
+                "release_date_for_display": "September 19, 2000",
+                "release_date_with_abbreviated_month_for_display": "Sep. 19, 2000",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d40f23e5a1e505e85b7bde3c041cba0c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d40f23e5a1e505e85b7bde3c041cba0c.499x499x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false
+                },
+                "title": "Svinkels 1",
+                "title_with_featured": "Svinkels 1",
+                "url": "https://genius.com/Svinkels-svinkels-1-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15879",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "id": 15879,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Svinkels",
+                    "url": "https://genius.com/artists/Svinkels"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4973126",
+                "artist_names": "Svinkels",
+                "full_title": "Svinkels 1 [Instrumental] by\u00a0Svinkels",
+                "header_image_thumbnail_url": "https://images.genius.com/a0779a9e0ec44c0f73be0a0b81e72ccf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a0779a9e0ec44c0f73be0a0b81e72ccf.575x575x1.jpg",
+                "id": 4973126,
+                "language": "en",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Svinkels-svinkels-1-instrumental-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Svinkels-svinkels-1-instrumental-sample",
+                "release_date_components": {
+                    "year": 2000,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2000",
+                "release_date_with_abbreviated_month_for_display": "2000",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a0779a9e0ec44c0f73be0a0b81e72ccf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a0779a9e0ec44c0f73be0a0b81e72ccf.575x575x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Svinkels 1 [Instrumental]",
+                "title_with_featured": "Svinkels 1 [Instrumental]",
+                "url": "https://genius.com/Svinkels-svinkels-1-instrumental-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15879",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "id": 15879,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Svinkels",
+                    "url": "https://genius.com/artists/Svinkels"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4858636",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "Svinkels.com by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "id": 4858636,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-svinkelscom-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-svinkelscom-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Svinkels.com",
+                "title_with_featured": "Svinkels.com",
+                "url": "https://genius.com/Gerard-baste-svinkelscom-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/3274073",
+                "artist_names": "Svinkels",
+                "full_title": "Tapis rouge by\u00a0Svinkels",
+                "header_image_thumbnail_url": "https://images.genius.com/40be7588c4a0e2c19513ba792238368a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/40be7588c4a0e2c19513ba792238368a.600x600x1.jpg",
+                "id": 3274073,
+                "language": "fr",
+                "lyrics_owner_id": 5103346,
+                "lyrics_state": "complete",
+                "path": "/Svinkels-tapis-rouge-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Svinkels-tapis-rouge-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": 6,
+                    "day": 14
+                },
+                "release_date_for_display": "June 14, 1999",
+                "release_date_with_abbreviated_month_for_display": "Jun. 14, 1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/40be7588c4a0e2c19513ba792238368a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/40be7588c4a0e2c19513ba792238368a.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false
+                },
+                "title": "Tapis rouge",
+                "title_with_featured": "Tapis rouge",
+                "url": "https://genius.com/Svinkels-tapis-rouge-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15879",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "id": 15879,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Svinkels",
+                    "url": "https://genius.com/artists/Svinkels"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4936157",
+                "artist_names": "G\u00e9rard Baste (Ft. Busy P)",
+                "full_title": "The Headbangers by\u00a0G\u00e9rard\u00a0Baste (Ft.\u00a0Busy\u00a0P)",
+                "header_image_thumbnail_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.438x438x1.jpg",
+                "id": 4936157,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-the-headbangers-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-the-headbangers-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 3,
+                    "day": 26
+                },
+                "release_date_for_display": "March 26, 2007",
+                "release_date_with_abbreviated_month_for_display": "Mar. 26, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.438x438x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "The Headbangers",
+                "title_with_featured": "The Headbangers (Ft.\u00a0Busy\u00a0P)",
+                "url": "https://genius.com/Gerard-baste-the-headbangers-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15438",
+                        "header_image_url": "https://images.genius.com/8d4ddbaf4d4aa49fd07363590762b35d.1000x671x1.jpg",
+                        "id": 15438,
+                        "image_url": "https://images.genius.com/e896acd513312ebd3fe1aa10653f5bb6.484x484x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Busy P",
+                        "url": "https://genius.com/artists/Busy-p"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4936159",
+                "artist_names": "G\u00e9rard Baste (Ft. Busy P)",
+                "full_title": "The Headbangers [Instrumental] by\u00a0G\u00e9rard\u00a0Baste (Ft.\u00a0Busy\u00a0P)",
+                "header_image_thumbnail_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.438x438x1.jpg",
+                "id": 4936159,
+                "language": "en",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-the-headbangers-instrumental-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-the-headbangers-instrumental-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 3,
+                    "day": 26
+                },
+                "release_date_for_display": "March 26, 2007",
+                "release_date_with_abbreviated_month_for_display": "Mar. 26, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7cfd49b105ad5f2aeedbfd48bcc2c6fc.438x438x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "The Headbangers [Instrumental]",
+                "title_with_featured": "The Headbangers [Instrumental] (Ft.\u00a0Busy\u00a0P)",
+                "url": "https://genius.com/Gerard-baste-the-headbangers-instrumental-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15438",
+                        "header_image_url": "https://images.genius.com/8d4ddbaf4d4aa49fd07363590762b35d.1000x671x1.jpg",
+                        "id": 15438,
+                        "image_url": "https://images.genius.com/e896acd513312ebd3fe1aa10653f5bb6.484x484x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Busy P",
+                        "url": "https://genius.com/artists/Busy-p"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4858643",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "The Headbangers [Rap Mix] by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "id": 4858643,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-the-headbangers-rap-mix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-the-headbangers-rap-mix-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "The Headbangers [Rap Mix]",
+                "title_with_featured": "The Headbangers [Rap Mix]",
+                "url": "https://genius.com/Gerard-baste-the-headbangers-rap-mix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5296763",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "[Titre Inconnu 2] by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.300x448x1.jpg",
+                "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                "id": 5296763,
+                "language": null,
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "incomplete",
+                "path": "/Gerard-baste-titre-inconnu-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-titre-inconnu-2-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.300x448x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "[Titre Inconnu 2]",
+                "title_with_featured": "[Titre Inconnu 2]",
+                "url": "https://genius.com/Gerard-baste-titre-inconnu-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/378159",
+                "artist_names": "Svinkels",
+                "full_title": "Tout nu yo ! by\u00a0Svinkels",
+                "header_image_thumbnail_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.600x600x1.jpg",
+                "id": 378159,
+                "language": "fr",
+                "lyrics_owner_id": 153454,
+                "lyrics_state": "complete",
+                "path": "/Svinkels-tout-nu-yo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Svinkels-tout-nu-yo-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Tout nu yo !",
+                "title_with_featured": "Tout nu yo !",
+                "url": "https://genius.com/Svinkels-tout-nu-yo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15879",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "id": 15879,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Svinkels",
+                    "url": "https://genius.com/artists/Svinkels"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5364104",
+                "artist_names": "G\u00e9rard Baste (Ft. Mr. Xavier)",
+                "full_title": "Tout P\u00e9ter by\u00a0G\u00e9rard\u00a0Baste (Ft.\u00a0Mr.\u00a0Xavier)",
+                "header_image_thumbnail_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.300x300x1.png",
+                "header_image_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.1000x1000x1.png",
+                "id": 5364104,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-tout-peter-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-tout-peter-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Tout P\u00e9ter",
+                "title_with_featured": "Tout P\u00e9ter (Ft.\u00a0Mr.\u00a0Xavier)",
+                "url": "https://genius.com/Gerard-baste-tout-peter-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/682273",
+                        "header_image_url": "https://images.genius.com/141219fe9405f86c93c8814fb409d78f.600x600x1.jpg",
+                        "id": 682273,
+                        "image_url": "https://images.genius.com/141219fe9405f86c93c8814fb409d78f.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mr. Xavier",
+                        "url": "https://genius.com/artists/Mr-xavier"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/2906142",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "Trop gros by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/cebfd9b1c0cb05c3821e9ed66cf5fe74.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cebfd9b1c0cb05c3821e9ed66cf5fe74.340x340x1.jpg",
+                "id": 2906142,
+                "language": "fr",
+                "lyrics_owner_id": 1630672,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-trop-gros-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-trop-gros-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 10,
+                    "day": 28
+                },
+                "release_date_for_display": "October 28, 2016",
+                "release_date_with_abbreviated_month_for_display": "Oct. 28, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cebfd9b1c0cb05c3821e9ed66cf5fe74.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cebfd9b1c0cb05c3821e9ed66cf5fe74.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 21,
+                    "hot": false,
+                    "pageviews": 5044
+                },
+                "title": "Trop gros",
+                "title_with_featured": "Trop gros",
+                "url": "https://genius.com/Gerard-baste-trop-gros-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/5364103",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "Tu Connais D\u00e9j\u00e0 by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.300x300x1.png",
+                "header_image_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.1000x1000x1.png",
+                "id": 5364103,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-tu-connais-deja-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-tu-connais-deja-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/af2b4122d6b7c06d642c06f478b7b457.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false
+                },
+                "title": "Tu Connais D\u00e9j\u00e0",
+                "title_with_featured": "Tu Connais D\u00e9j\u00e0",
+                "url": "https://genius.com/Gerard-baste-tu-connais-deja-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/378152",
+                "artist_names": "Svinkels",
+                "full_title": "Ultras Festifs by\u00a0Svinkels",
+                "header_image_thumbnail_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.600x600x1.jpg",
+                "id": 378152,
+                "language": "fr",
+                "lyrics_owner_id": 153454,
+                "lyrics_state": "complete",
+                "path": "/Svinkels-ultras-festifs-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Svinkels-ultras-festifs-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/91248d6038b130c9cdfb9ca240887022.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Ultras Festifs",
+                "title_with_featured": "Ultras Festifs",
+                "url": "https://genius.com/Svinkels-ultras-festifs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15879",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "id": 15879,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Svinkels",
+                    "url": "https://genius.com/artists/Svinkels"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3274893",
+                "artist_names": "Svinkels",
+                "full_title": "Vite Fait, Mal Fait by\u00a0Svinkels",
+                "header_image_thumbnail_url": "https://images.genius.com/38fd090cce163fe1b51d1adefd61744b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/38fd090cce163fe1b51d1adefd61744b.706x706x1.jpg",
+                "id": 3274893,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Svinkels-vite-fait-mal-fait-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Svinkels-vite-fait-mal-fait-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 9,
+                    "day": 23
+                },
+                "release_date_for_display": "September 23, 2003",
+                "release_date_with_abbreviated_month_for_display": "Sep. 23, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/38fd090cce163fe1b51d1adefd61744b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/38fd090cce163fe1b51d1adefd61744b.706x706x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Vite Fait, Mal Fait",
+                "title_with_featured": "Vite Fait, Mal Fait",
+                "url": "https://genius.com/Svinkels-vite-fait-mal-fait-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15879",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "id": 15879,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/svinkels.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Svinkels",
+                    "url": "https://genius.com/artists/Svinkels"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4858646",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "Welsh Freestyle by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "id": 4858646,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-welsh-freestyle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-welsh-freestyle-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 7,
+                    "day": 10
+                },
+                "release_date_for_display": "July 10, 2011",
+                "release_date_with_abbreviated_month_for_display": "Jul. 10, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Welsh Freestyle",
+                "title_with_featured": "Welsh Freestyle",
+                "url": "https://genius.com/Gerard-baste-welsh-freestyle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4858534",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "We Will Fuck Horses by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.738x738x1.png",
+                "id": 4858534,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-we-will-fuck-horses-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-we-will-fuck-horses-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2010",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/014c1af4301b751aa1ce2bebb0b4526d.738x738x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "We Will Fuck Horses",
+                "title_with_featured": "We Will Fuck Horses",
+                "url": "https://genius.com/Gerard-baste-we-will-fuck-horses-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            }
+        ],
+        "next_page": 12
+    }
+}

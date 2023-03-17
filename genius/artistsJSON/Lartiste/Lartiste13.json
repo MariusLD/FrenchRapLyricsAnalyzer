@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/2428257",
+                "artist_names": "Lartiste",
+                "full_title": "Zwin & zen by\u00a0Lartiste",
+                "header_image_thumbnail_url": "https://images.genius.com/0dd35d88c0ffc62b8bd5bc96985b2dea.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0dd35d88c0ffc62b8bd5bc96985b2dea.1000x1000x1.jpg",
+                "id": 2428257,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Lartiste-zwin-and-zen-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lartiste-zwin-and-zen-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0dd35d88c0ffc62b8bd5bc96985b2dea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0dd35d88c0ffc62b8bd5bc96985b2dea.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 17357
+                },
+                "title": "Zwin & zen",
+                "title_with_featured": "Zwin & zen",
+                "url": "https://genius.com/Lartiste-zwin-and-zen-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/62687",
+                    "header_image_url": "https://images.genius.com/b1b7c8a6eda08120a297e2dd0f53775b.599x433x1.png",
+                    "id": 62687,
+                    "image_url": "https://images.genius.com/5eea14118626e933a39418c43fe0b241.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lartiste",
+                    "url": "https://genius.com/artists/Lartiste",
+                    "iq": 2587
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

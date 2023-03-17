@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/2954228",
+                "artist_names": "Hayce Lemsi",
+                "full_title": "Young Boss by\u00a0Hayce\u00a0Lemsi",
+                "header_image_thumbnail_url": "https://images.genius.com/408de8d7a71da47ba8c8b3ba86885fce.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/408de8d7a71da47ba8c8b3ba86885fce.640x640x1.jpg",
+                "id": 2954228,
+                "language": "fr",
+                "lyrics_owner_id": 3311615,
+                "lyrics_state": "complete",
+                "path": "/Hayce-lemsi-young-boss-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hayce-lemsi-young-boss-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 17
+                },
+                "release_date_for_display": "February 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/408de8d7a71da47ba8c8b3ba86885fce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/408de8d7a71da47ba8c8b3ba86885fce.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 18437
+                },
+                "title": "Young Boss",
+                "title_with_featured": "Young Boss",
+                "url": "https://genius.com/Hayce-lemsi-young-boss-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/20065",
+                    "header_image_url": "https://images.genius.com/c4f5394b0e2986e6cbc3d3df6cd5d2f0.667x1000x1.jpg",
+                    "id": 20065,
+                    "image_url": "https://images.genius.com/fc3c5ac207b810bbfabe4cace34bc549.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hayce Lemsi",
+                    "url": "https://genius.com/artists/Hayce-lemsi",
+                    "iq": 2330
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/3336958",
+                "artist_names": "Hayce Lemsi",
+                "full_title": "Zombie squad by\u00a0Hayce\u00a0Lemsi",
+                "header_image_thumbnail_url": "https://images.genius.com/4328a8dcbe2168b844a585fe9f4cd245.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4328a8dcbe2168b844a585fe9f4cd245.959x959x1.jpg",
+                "id": 3336958,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Hayce-lemsi-zombie-squad-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hayce-lemsi-zombie-squad-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 8
+                },
+                "release_date_for_display": "December 8, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 8, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4328a8dcbe2168b844a585fe9f4cd245.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4328a8dcbe2168b844a585fe9f4cd245.959x959x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 5625
+                },
+                "title": "Zombie squad",
+                "title_with_featured": "Zombie squad",
+                "url": "https://genius.com/Hayce-lemsi-zombie-squad-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/20065",
+                    "header_image_url": "https://images.genius.com/c4f5394b0e2986e6cbc3d3df6cd5d2f0.667x1000x1.jpg",
+                    "id": 20065,
+                    "image_url": "https://images.genius.com/fc3c5ac207b810bbfabe4cace34bc549.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hayce Lemsi",
+                    "url": "https://genius.com/artists/Hayce-lemsi",
+                    "iq": 2330
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

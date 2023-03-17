@@ -1,0 +1,623 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4123514",
+                "artist_names": "Grand Corps Malade",
+                "full_title": "Sur La Lune by\u00a0Grand\u00a0Corps Malade",
+                "header_image_thumbnail_url": "https://images.genius.com/61a3e2a60b3d4558496d718f3e078899.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/61a3e2a60b3d4558496d718f3e078899.476x268x1.jpg",
+                "id": 4123514,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-sur-la-lune-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-sur-la-lune-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17d4d2561c4e31df4806480cd988433a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17d4d2561c4e31df4806480cd988433a.601x601x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sur La Lune",
+                "title_with_featured": "Sur La Lune",
+                "url": "https://genius.com/Grand-corps-malade-sur-la-lune-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8383064",
+                "artist_names": "Grand Corps Malade, Ben Mazu\u00e9 & Ga\u00ebl Faye",
+                "full_title": "Tailler la route by\u00a0Grand\u00a0Corps Malade, Ben Mazu\u00e9 & Ga\u00ebl Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/94472532c2bc4eb20139a175b8af7462.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/94472532c2bc4eb20139a175b8af7462.1000x1000x1.jpg",
+                "id": 8383064,
+                "language": "fr",
+                "lyrics_owner_id": 13152915,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-ben-mazue-and-gael-faye-tailler-la-route-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-ben-mazue-and-gael-faye-tailler-la-route-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 16
+                },
+                "release_date_for_display": "September 16, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 16, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/94472532c2bc4eb20139a175b8af7462.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/94472532c2bc4eb20139a175b8af7462.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Tailler la route",
+                "title_with_featured": "Tailler la route",
+                "url": "https://genius.com/Grand-corps-malade-ben-mazue-and-gael-faye-tailler-la-route-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3295625",
+                    "header_image_url": "https://images.genius.com/cb8a66b9013545a6e8ebd691a57a5906.864x486x1.jpg",
+                    "id": 3295625,
+                    "image_url": "https://images.genius.com/46a00cadb1742dc62acb57749ebc6cd9.582x582x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade, Ben Mazu\u00e9 & Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Grand-corps-malade-ben-mazue-and-gael-faye"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/329831",
+                "artist_names": "Grand Corps Malade",
+                "full_title": "Tant que les gens font l'amour by\u00a0Grand\u00a0Corps Malade",
+                "header_image_thumbnail_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.1000x1000x1.jpg",
+                "id": 329831,
+                "language": "fr",
+                "lyrics_owner_id": 193466,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-tant-que-les-gens-font-lamour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-tant-que-les-gens-font-lamour-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 10,
+                    "day": 28
+                },
+                "release_date_for_display": "October 28, 2013",
+                "release_date_with_abbreviated_month_for_display": "Oct. 28, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tant que les gens font l\u2019amour",
+                "title_with_featured": "Tant que les gens font l'amour",
+                "url": "https://genius.com/Grand-corps-malade-tant-que-les-gens-font-lamour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/329740",
+                "artist_names": "Grand Corps Malade (Ft. Sandra Nkak\u00e9)",
+                "full_title": "Te manquer by\u00a0Grand\u00a0Corps Malade (Ft.\u00a0Sandra\u00a0Nkak\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.1000x1000x1.jpg",
+                "id": 329740,
+                "language": "fr",
+                "lyrics_owner_id": 193466,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-te-manquer-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-te-manquer-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 10,
+                    "day": 28
+                },
+                "release_date_for_display": "October 28, 2013",
+                "release_date_with_abbreviated_month_for_display": "Oct. 28, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92f31344fede34546e9ca6f2d0987852.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 10443
+                },
+                "title": "Te manquer",
+                "title_with_featured": "Te manquer (Ft.\u00a0Sandra\u00a0Nkak\u00e9)",
+                "url": "https://genius.com/Grand-corps-malade-te-manquer-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/459977",
+                        "header_image_url": "https://images.genius.com/381ade9b8768ebb7a574040433b370a9.600x600x1.jpg",
+                        "id": 459977,
+                        "image_url": "https://images.genius.com/381ade9b8768ebb7a574040433b370a9.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sandra Nkak\u00e9",
+                        "url": "https://genius.com/artists/Sandra-nkake"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/330722",
+                "artist_names": "Grand Corps Malade",
+                "full_title": "Toucher l'instant by\u00a0Grand\u00a0Corps Malade",
+                "header_image_thumbnail_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.600x600x1.jpg",
+                "id": 330722,
+                "language": "fr",
+                "lyrics_owner_id": 193466,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-toucher-linstant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-toucher-linstant-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2006",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Toucher l\u2019instant",
+                "title_with_featured": "Toucher l'instant",
+                "url": "https://genius.com/Grand-corps-malade-toucher-linstant-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/346199",
+                "artist_names": "Grand Corps Malade (Ft. Charles Aznavour)",
+                "full_title": "Tu es donc j'apprends by\u00a0Grand\u00a0Corps Malade (Ft.\u00a0Charles\u00a0Aznavour)",
+                "header_image_thumbnail_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.399x399x1.jpg",
+                "id": 346199,
+                "language": "fr",
+                "lyrics_owner_id": 193466,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-tu-es-donc-japprends-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-tu-es-donc-japprends-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.399x399x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tu es donc j\u2019apprends",
+                "title_with_featured": "Tu es donc j'apprends (Ft.\u00a0Charles\u00a0Aznavour)",
+                "url": "https://genius.com/Grand-corps-malade-tu-es-donc-japprends-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13060",
+                        "header_image_url": "https://images.genius.com/536df95fe8160cf6fac9a4ff8309b1b5.718x718x1.jpg",
+                        "id": 13060,
+                        "image_url": "https://images.genius.com/536df95fe8160cf6fac9a4ff8309b1b5.718x718x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Charles Aznavour",
+                        "url": "https://genius.com/artists/Charles-aznavour"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3530333",
+                "artist_names": "Grand Corps Malade",
+                "full_title": "Tu peux d\u00e9j\u00e0 by\u00a0Grand\u00a0Corps Malade",
+                "header_image_thumbnail_url": "https://images.genius.com/93fba4bf4a7e8e971e1c1de4bcc85c71.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/93fba4bf4a7e8e971e1c1de4bcc85c71.600x600x1.jpg",
+                "id": 3530333,
+                "language": "fr",
+                "lyrics_owner_id": 3663220,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-tu-peux-deja-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-tu-peux-deja-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 16
+                },
+                "release_date_for_display": "February 16, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/93fba4bf4a7e8e971e1c1de4bcc85c71.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/93fba4bf4a7e8e971e1c1de4bcc85c71.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tu peux d\u00e9j\u00e0",
+                "title_with_featured": "Tu peux d\u00e9j\u00e0",
+                "url": "https://genius.com/Grand-corps-malade-tu-peux-deja-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/339992",
+                "artist_names": "Grand Corps Malade",
+                "full_title": "Underground by\u00a0Grand\u00a0Corps Malade",
+                "header_image_thumbnail_url": "https://images.genius.com/b9e14e620c0f41bb89ec066d46cf18a2.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/b9e14e620c0f41bb89ec066d46cf18a2.460x457x1.jpg",
+                "id": 339992,
+                "language": "fr",
+                "lyrics_owner_id": 193466,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-underground-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-underground-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2008",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b9e14e620c0f41bb89ec066d46cf18a2.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b9e14e620c0f41bb89ec066d46cf18a2.460x457x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Underground",
+                "title_with_featured": "Underground",
+                "url": "https://genius.com/Grand-corps-malade-underground-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5700160",
+                "artist_names": "Grand Corps Malade (Ft. V\u00e9ronique Sanson)",
+                "full_title": "Une s\u0153ur by\u00a0Grand\u00a0Corps Malade (Ft.\u00a0V\u00e9ronique\u00a0Sanson)",
+                "header_image_thumbnail_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.1000x1000x1.jpg",
+                "id": 5700160,
+                "language": "fr",
+                "lyrics_owner_id": 4619745,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-une-sur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-une-sur-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2020",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Une s\u0153ur",
+                "title_with_featured": "Une s\u0153ur (Ft.\u00a0V\u00e9ronique\u00a0Sanson)",
+                "url": "https://genius.com/Grand-corps-malade-une-sur-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/344398",
+                        "header_image_url": "https://images.genius.com/96995d8445a64963f9d182780374dbf4.500x684x1.jpg",
+                        "id": 344398,
+                        "image_url": "https://images.genius.com/ad3825250994e66eca2b14bd8cb47612.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "V\u00e9ronique Sanson",
+                        "url": "https://genius.com/artists/Veronique-sanson"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/346201",
+                "artist_names": "Grand Corps Malade",
+                "full_title": "Un verbe by\u00a0Grand\u00a0Corps Malade",
+                "header_image_thumbnail_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.399x399x1.jpg",
+                "id": 346201,
+                "language": "fr",
+                "lyrics_owner_id": 193466,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-un-verbe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-un-verbe-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1bed26b1dc30c1788cba47229cbf672c.399x399x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un verbe",
+                "title_with_featured": "Un verbe",
+                "url": "https://genius.com/Grand-corps-malade-un-verbe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5700159",
+                "artist_names": "Grand Corps Malade (Ft. Laura Smet)",
+                "full_title": "Un verre \u00e0 la main by\u00a0Grand\u00a0Corps Malade (Ft.\u00a0Laura\u00a0Smet)",
+                "header_image_thumbnail_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.1000x1000x1.jpg",
+                "id": 5700159,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-un-verre-a-la-main-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-un-verre-a-la-main-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2020",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/77ddba87e3034fc36565a885a3ea70d2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un verre \u00e0 la main",
+                "title_with_featured": "Un verre \u00e0 la main (Ft.\u00a0Laura\u00a0Smet)",
+                "url": "https://genius.com/Grand-corps-malade-un-verre-a-la-main-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2294288",
+                        "header_image_url": "https://images.genius.com/65c6cfa1ab7a643888a91539538254a4.438x438x1.jpg",
+                        "id": 2294288,
+                        "image_url": "https://images.genius.com/65c6cfa1ab7a643888a91539538254a4.438x438x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Laura Smet",
+                        "url": "https://genius.com/artists/Laura-smet"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/79995",
+                "artist_names": "Rim'K (Ft. Grand Corps Malade & Toma)",
+                "full_title": "Urbaine po\u00e9sie by\u00a0Rim'K (Ft.\u00a0Grand\u00a0Corps Malade & Toma)",
+                "header_image_thumbnail_url": "https://images.genius.com/7093de91c8fa90e2b0a53676870fb499.300x299x1.jpg",
+                "header_image_url": "https://images.genius.com/7093de91c8fa90e2b0a53676870fb499.301x300x1.jpg",
+                "id": 79995,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Rimk-urbaine-poesie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rimk-urbaine-poesie-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 11
+                },
+                "release_date_for_display": "June 11, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 11, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7093de91c8fa90e2b0a53676870fb499.300x299x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7093de91c8fa90e2b0a53676870fb499.301x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Urbaine po\u00e9sie",
+                "title_with_featured": "Urbaine po\u00e9sie (Ft.\u00a0Grand\u00a0Corps Malade & Toma)",
+                "url": "https://genius.com/Rimk-urbaine-poesie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1712",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                        "id": 1712,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Grand Corps Malade",
+                        "url": "https://genius.com/artists/Grand-corps-malade"
+                    },
+                    {
+                        "api_path": "/artists/18968",
+                        "header_image_url": "https://images.genius.com/6686b002b29f939e996d895002a8049a.757x757x1.png",
+                        "id": 18968,
+                        "image_url": "https://images.genius.com/6686b002b29f939e996d895002a8049a.757x757x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Toma",
+                        "url": "https://genius.com/artists/Toma"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2455",
+                    "header_image_url": "https://images.genius.com/58fd31f99d79144a99d186dedf9d60b6.1000x563x1.png",
+                    "id": 2455,
+                    "image_url": "https://images.genius.com/b1b7d2ed16a7de57e9af693f956c3329.502x502x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rim\u2019K",
+                    "url": "https://genius.com/artists/Rimk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/330719",
+                "artist_names": "Grand Corps Malade",
+                "full_title": "Vu de ma fen\u00eatre by\u00a0Grand\u00a0Corps Malade",
+                "header_image_thumbnail_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.600x600x1.jpg",
+                "id": 330719,
+                "language": "fr",
+                "lyrics_owner_id": 193466,
+                "lyrics_state": "complete",
+                "path": "/Grand-corps-malade-vu-de-ma-fenetre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-vu-de-ma-fenetre-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2006",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/97faae099a2b101fb895f56a8de496ce.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vu de ma fen\u00eatre",
+                "title_with_featured": "Vu de ma fen\u00eatre",
+                "url": "https://genius.com/Grand-corps-malade-vu-de-ma-fenetre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1712",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "id": 1712,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/10849_203646471936_6746398_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade",
+                    "url": "https://genius.com/artists/Grand-corps-malade"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

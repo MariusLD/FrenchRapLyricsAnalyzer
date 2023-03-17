@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5248860",
+                "artist_names": "Kofs",
+                "full_title": "Yemma by\u00a0Kofs",
+                "header_image_thumbnail_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.1000x1000x1.jpg",
+                "id": 5248860,
+                "language": "fr",
+                "lyrics_owner_id": 4619745,
+                "lyrics_state": "complete",
+                "path": "/Kofs-yemma-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kofs-yemma-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 21
+                },
+                "release_date_for_display": "February 21, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 21, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Yemma",
+                "title_with_featured": "Yemma",
+                "url": "https://genius.com/Kofs-yemma-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/566498",
+                    "header_image_url": "https://images.genius.com/9b005bd9785fd694387f6ae024b9a8b6.600x600x1.jpg",
+                    "id": 566498,
+                    "image_url": "https://images.genius.com/d4619f2a579e9c3cd6e60348312202a9.593x593x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kofs",
+                    "url": "https://genius.com/artists/Kofs"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4025402",
+                "artist_names": "Soolking",
+                "full_title": "Youv by\u00a0Soolking",
+                "header_image_thumbnail_url": "https://images.genius.com/a3ff1aaf10200718a653da762d463109.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/a3ff1aaf10200718a653da762d463109.1000x563x1.jpg",
+                "id": 4025402,
+                "language": "fr",
+                "lyrics_owner_id": 6380914,
+                "lyrics_state": "complete",
+                "path": "/Soolking-youv-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Soolking-youv-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a431a5f44dfb1ddf70ce493348321f5.220x220x1.png",
+                "song_art_image_url": "https://images.genius.com/7a431a5f44dfb1ddf70ce493348321f5.220x220x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 34363
+                },
+                "title": "Youv",
+                "title_with_featured": "Youv",
+                "url": "https://genius.com/Soolking-youv-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/693078",
+                    "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                    "id": 693078,
+                    "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Soolking",
+                    "url": "https://genius.com/artists/Soolking"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

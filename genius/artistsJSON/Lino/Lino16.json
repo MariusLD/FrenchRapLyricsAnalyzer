@@ -1,0 +1,85 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4389083",
+                "artist_names": "Dosseh (Ft. Kalash l'Afro, Lino & Smoker)",
+                "full_title": "Zone de non droit by\u00a0Dosseh (Ft.\u00a0Kalash\u00a0l'Afro, Lino & Smoker)",
+                "header_image_thumbnail_url": "https://images.genius.com/5b05a9ba4e49c2e1c5d9890c048f65be.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5b05a9ba4e49c2e1c5d9890c048f65be.400x400x1.jpg",
+                "id": 4389083,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Dosseh-zone-de-non-droit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dosseh-zone-de-non-droit-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 11,
+                    "day": 18
+                },
+                "release_date_for_display": "November 18, 2008",
+                "release_date_with_abbreviated_month_for_display": "Nov. 18, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5b05a9ba4e49c2e1c5d9890c048f65be.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5b05a9ba4e49c2e1c5d9890c048f65be.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Zone de non droit",
+                "title_with_featured": "Zone de non droit (Ft.\u00a0Kalash\u00a0l'Afro, Lino & Smoker)",
+                "url": "https://genius.com/Dosseh-zone-de-non-droit-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15230",
+                        "header_image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "id": 15230,
+                        "image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Smoker",
+                        "url": "https://genius.com/artists/Smoker"
+                    },
+                    {
+                        "api_path": "/artists/18874",
+                        "header_image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "id": 18874,
+                        "image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalash l\u2019Afro",
+                        "url": "https://genius.com/artists/Kalash-lafro"
+                    },
+                    {
+                        "api_path": "/artists/1946",
+                        "header_image_url": "https://images.genius.com/2b35363bbcfe6d2987f63ddf3528660b.498x681x1.png",
+                        "id": 1946,
+                        "image_url": "https://images.genius.com/2b35363bbcfe6d2987f63ddf3528660b.498x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lino",
+                        "url": "https://genius.com/artists/Lino",
+                        "iq": 2958
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2223",
+                    "header_image_url": "https://images.genius.com/559c521953ff008a1eca1d304b7abbbc.591x279x1.png",
+                    "id": 2223,
+                    "image_url": "https://images.genius.com/d20e130f4c7d3e8d760650f9ee576662.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dosseh",
+                    "url": "https://genius.com/artists/Dosseh",
+                    "iq": 1690
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

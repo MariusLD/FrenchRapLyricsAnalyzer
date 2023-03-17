@@ -1,0 +1,907 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6355036",
+                "artist_names": "Kemmler",
+                "full_title": "Gr\u00e2ce \u00e0 moi by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.1000x1000x1.jpg",
+                "id": 6355036,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-grace-a-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-grace-a-moi-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Gr\u00e2ce \u00e0 moi",
+                "title_with_featured": "Gr\u00e2ce \u00e0 moi",
+                "url": "https://genius.com/Kemmler-grace-a-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6354997",
+                "artist_names": "Kemmler",
+                "full_title": "Gris coeur by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.1000x1000x1.jpg",
+                "id": 6354997,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-gris-coeur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-gris-coeur-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Gris coeur",
+                "title_with_featured": "Gris coeur",
+                "url": "https://genius.com/Kemmler-gris-coeur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5592919",
+                "artist_names": "Kemmler",
+                "full_title": "Hier by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.1000x1000x1.jpg",
+                "id": 5592919,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-hier-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-hier-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 22
+                },
+                "release_date_for_display": "May 22, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 22, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Hier",
+                "title_with_featured": "Hier",
+                "url": "https://genius.com/Kemmler-hier-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6054742",
+                "artist_names": "Kemmler",
+                "full_title": "J'ai rien fait by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.1000x1000x1.jpg",
+                "id": 6054742,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-jai-rien-fait-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-jai-rien-fait-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 30
+                },
+                "release_date_for_display": "October 30, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 30, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "J\u2019ai rien fait",
+                "title_with_featured": "J'ai rien fait",
+                "url": "https://genius.com/Kemmler-jai-rien-fait-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3778854",
+                "artist_names": "Kemmler",
+                "full_title": "J'avoue by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/bfcf770ed738c8c339461a018a65d567.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bfcf770ed738c8c339461a018a65d567.959x959x1.jpg",
+                "id": 3778854,
+                "language": "fr",
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-javoue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-javoue-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 8
+                },
+                "release_date_for_display": "June 8, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 8, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bfcf770ed738c8c339461a018a65d567.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bfcf770ed738c8c339461a018a65d567.959x959x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "J\u2019avoue",
+                "title_with_featured": "J'avoue",
+                "url": "https://genius.com/Kemmler-javoue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/6054747",
+                "artist_names": "Kemmler",
+                "full_title": "Je veux tout by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.1000x1000x1.jpg",
+                "id": 6054747,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-je-veux-tout-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-je-veux-tout-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 16
+                },
+                "release_date_for_display": "October 16, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 16, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/878f696074f99255f0fdef702a08b343.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Je veux tout",
+                "title_with_featured": "Je veux tout",
+                "url": "https://genius.com/Kemmler-je-veux-tout-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6355057",
+                "artist_names": "Kemmler",
+                "full_title": "J'suis naze by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.1000x1000x1.jpg",
+                "id": 6355057,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-jsuis-naze-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-jsuis-naze-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a03f5bfe1da7e630985a68bcac898258.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "J\u2019suis naze",
+                "title_with_featured": "J'suis naze",
+                "url": "https://genius.com/Kemmler-jsuis-naze-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4376874",
+                "artist_names": "Kemmler",
+                "full_title": "J'suis pas chanteur by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/83e5cc3a2d52c8f66fd7b4c91606ec85.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/83e5cc3a2d52c8f66fd7b4c91606ec85.1000x563x1.jpg",
+                "id": 4376874,
+                "language": "fr",
+                "lyrics_owner_id": 7928651,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-jsuis-pas-chanteur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-jsuis-pas-chanteur-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cecb714e70c6f8d0ab933ec1486c050d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cecb714e70c6f8d0ab933ec1486c050d.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "J\u2019suis pas chanteur",
+                "title_with_featured": "J'suis pas chanteur",
+                "url": "https://genius.com/Kemmler-jsuis-pas-chanteur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/4357163",
+                "artist_names": "Shy\u2019m",
+                "full_title": "La go by\u00a0Shy\u2019m",
+                "header_image_thumbnail_url": "https://images.genius.com/e0846497896201b03348311d60b4a055.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e0846497896201b03348311d60b4a055.600x600x1.jpg",
+                "id": 4357163,
+                "language": "fr",
+                "lyrics_owner_id": 4335124,
+                "lyrics_state": "complete",
+                "path": "/Shym-la-go-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Shym-la-go-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 23
+                },
+                "release_date_for_display": "December 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e0846497896201b03348311d60b4a055.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e0846497896201b03348311d60b4a055.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "La go",
+                "title_with_featured": "La go",
+                "url": "https://genius.com/Shym-la-go-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/328732",
+                    "header_image_url": "https://images.genius.com/b907163a8b3c27b63f8e66f500ef6aab.851x315x1.png",
+                    "id": 328732,
+                    "image_url": "https://images.genius.com/87c29c5d0961a228d59780301666a9b2.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shy\u2019m",
+                    "url": "https://genius.com/artists/Shym"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5437583",
+                "artist_names": "L.E.J (Ft. Kemmler)",
+                "full_title": "La vie n'est qu'un Je by\u00a0L.E.J (Ft.\u00a0Kemmler)",
+                "header_image_thumbnail_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.600x600x1.jpg",
+                "id": 5437583,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Lej-la-vie-nest-quun-je-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lej-la-vie-nest-quun-je-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 22
+                },
+                "release_date_for_display": "May 22, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 22, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La vie n\u2019est qu\u2019un Je",
+                "title_with_featured": "La vie n'est qu'un Je (Ft.\u00a0Kemmler)",
+                "url": "https://genius.com/Lej-la-vie-nest-quun-je-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/651586",
+                        "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                        "id": 651586,
+                        "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kemmler",
+                        "url": "https://genius.com/artists/Kemmler",
+                        "iq": 2853
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/555771",
+                    "header_image_url": "https://images.genius.com/e3a0ae249d5bc4ae0ef7f4ff118e746b.1000x749x1.jpg",
+                    "id": 555771,
+                    "image_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.334x334x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "L.E.J",
+                    "url": "https://genius.com/artists/Lej",
+                    "iq": 377
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2475285",
+                "artist_names": "Kemmler",
+                "full_title": "Les k\u00e9mmatiques - #2 Mon Alphabet by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                "id": 2475285,
+                "language": "fr",
+                "lyrics_owner_id": 2453061,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-les-kemmatiques-2-mon-alphabet-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-les-kemmatiques-2-mon-alphabet-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Les k\u00e9mmatiques - #2 Mon Alphabet",
+                "title_with_featured": "Les k\u00e9mmatiques - #2 Mon Alphabet",
+                "url": "https://genius.com/Kemmler-les-kemmatiques-2-mon-alphabet-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7997250",
+                "artist_names": "Kemmler (Ft. L\u00e9a Castel)",
+                "full_title": "Le temps by\u00a0Kemmler (Ft.\u00a0L\u00e9a\u00a0Castel)",
+                "header_image_thumbnail_url": "https://images.genius.com/d1d67afc3fbb02586aa994deae93f794.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d1d67afc3fbb02586aa994deae93f794.600x600x1.jpg",
+                "id": 7997250,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-le-temps-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-le-temps-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 13
+                },
+                "release_date_for_display": "May 13, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 13, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d1d67afc3fbb02586aa994deae93f794.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d1d67afc3fbb02586aa994deae93f794.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le temps",
+                "title_with_featured": "Le temps (Ft.\u00a0L\u00e9a\u00a0Castel)",
+                "url": "https://genius.com/Kemmler-le-temps-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/28078",
+                        "header_image_url": "https://images.genius.com/64dbddeb2fd4f60f6f1e93403721929a.1000x750x1.jpg",
+                        "id": 28078,
+                        "image_url": "https://images.genius.com/bef3da01ba07f53ff123284e4840a3df.999x999x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "L\u00e9a Castel",
+                        "url": "https://genius.com/artists/Lea-castel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7824028",
+                "artist_names": "Eli Rose (Ft. Kemmler)",
+                "full_title": "Loin de toi by\u00a0Eli\u00a0Rose (Ft.\u00a0Kemmler)",
+                "header_image_thumbnail_url": "https://images.genius.com/2be5e99b8da1df8f2833d1d2322959d2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2be5e99b8da1df8f2833d1d2322959d2.500x500x1.jpg",
+                "id": 7824028,
+                "language": null,
+                "lyrics_owner_id": 6426232,
+                "lyrics_state": "unreleased",
+                "path": "/Eli-rose-loin-de-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eli-rose-loin-de-toi-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/2be5e99b8da1df8f2833d1d2322959d2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2be5e99b8da1df8f2833d1d2322959d2.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Loin de toi",
+                "title_with_featured": "Loin de toi (Ft.\u00a0Kemmler)",
+                "url": "https://genius.com/Eli-rose-loin-de-toi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/651586",
+                        "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                        "id": 651586,
+                        "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kemmler",
+                        "url": "https://genius.com/artists/Kemmler",
+                        "iq": 2853
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1056989",
+                    "header_image_url": "https://images.genius.com/9270a8fe8fa1df6231f38b426559c66a.1000x667x1.jpg",
+                    "id": 1056989,
+                    "image_url": "https://images.genius.com/4281490c001990a3d542ea4f7c3c2904.940x940x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eli Rose",
+                    "url": "https://genius.com/artists/Eli-rose"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5109117",
+                "artist_names": "Kemmler",
+                "full_title": "Mandanda by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/057995285bb1bb98ffab071b093b1775.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/057995285bb1bb98ffab071b093b1775.500x500x1.jpg",
+                "id": 5109117,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-mandanda-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-mandanda-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 13
+                },
+                "release_date_for_display": "December 13, 2019",
+                "release_date_with_abbreviated_month_for_display": "Dec. 13, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/057995285bb1bb98ffab071b093b1775.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/057995285bb1bb98ffab071b093b1775.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mandanda",
+                "title_with_featured": "Mandanda",
+                "url": "https://genius.com/Kemmler-mandanda-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3777145",
+                "artist_names": "Kemmler (Ft. Joachim Pastor)",
+                "full_title": "Minuit pass\u00e9 by\u00a0Kemmler (Ft.\u00a0Joachim\u00a0Pastor)",
+                "header_image_thumbnail_url": "https://images.genius.com/90ee4473413955bb7c8904c3174c483f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/90ee4473413955bb7c8904c3174c483f.500x500x1.jpg",
+                "id": 3777145,
+                "language": "fr",
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-minuit-passe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-minuit-passe-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 8
+                },
+                "release_date_for_display": "June 8, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 8, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/90ee4473413955bb7c8904c3174c483f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/90ee4473413955bb7c8904c3174c483f.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Minuit pass\u00e9",
+                "title_with_featured": "Minuit pass\u00e9 (Ft.\u00a0Joachim\u00a0Pastor)",
+                "url": "https://genius.com/Kemmler-minuit-passe-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/405074",
+                        "header_image_url": "https://images.genius.com/bc4c15078743a6ca0ca320f61d16af82.500x500x1.jpg",
+                        "id": 405074,
+                        "image_url": "https://images.genius.com/ea38838d3051dc714d1a2717be28e4c3.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Joachim Pastor",
+                        "url": "https://genius.com/artists/Joachim-pastor"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3772911",
+                "artist_names": "Kemmler",
+                "full_title": "Moi aussi by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/74bf60a52853e1117c527c2c2f9b8f28.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/74bf60a52853e1117c527c2c2f9b8f28.1000x563x1.jpg",
+                "id": 3772911,
+                "language": "fr",
+                "lyrics_owner_id": 6435622,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-moi-aussi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-moi-aussi-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 8
+                },
+                "release_date_for_display": "June 8, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 8, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d2288db06c7fdb952fc0b514873d14ce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d2288db06c7fdb952fc0b514873d14ce.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 8207
+                },
+                "title": "Moi aussi",
+                "title_with_featured": "Moi aussi",
+                "url": "https://genius.com/Kemmler-moi-aussi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3467558",
+                "artist_names": "Kemmler",
+                "full_title": "Mona lisa by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/4bb4e06338cb14227580437bb30d4749.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4bb4e06338cb14227580437bb30d4749.500x500x1.jpg",
+                "id": 3467558,
+                "language": "fr",
+                "lyrics_owner_id": 4307688,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-mona-lisa-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-mona-lisa-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 22
+                },
+                "release_date_for_display": "December 22, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 22, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4bb4e06338cb14227580437bb30d4749.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4bb4e06338cb14227580437bb30d4749.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mona lisa",
+                "title_with_featured": "Mona lisa",
+                "url": "https://genius.com/Kemmler-mona-lisa-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5595880",
+                "artist_names": "Kemmler",
+                "full_title": "Mon b\u00e9b\u00e9 by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.1000x1000x1.jpg",
+                "id": 5595880,
+                "language": "fr",
+                "lyrics_owner_id": 8509933,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-mon-bebe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-mon-bebe-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 22
+                },
+                "release_date_for_display": "May 22, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 22, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2610d160fd34fc40b816cf697f34f3c3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Mon b\u00e9b\u00e9",
+                "title_with_featured": "Mon b\u00e9b\u00e9",
+                "url": "https://genius.com/Kemmler-mon-bebe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5437561",
+                "artist_names": "L.E.J",
+                "full_title": "Mots noirs by\u00a0L.E.J",
+                "header_image_thumbnail_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.600x600x1.jpg",
+                "id": 5437561,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Lej-mots-noirs-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lej-mots-noirs-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17c77b5e6447084d5fb03c461c610023.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mots noirs",
+                "title_with_featured": "Mots noirs",
+                "url": "https://genius.com/Lej-mots-noirs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/555771",
+                    "header_image_url": "https://images.genius.com/e3a0ae249d5bc4ae0ef7f4ff118e746b.1000x749x1.jpg",
+                    "id": 555771,
+                    "image_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.334x334x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "L.E.J",
+                    "url": "https://genius.com/artists/Lej",
+                    "iq": 377
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8418172",
+                "artist_names": "Kemmler",
+                "full_title": "Nirvhanna by\u00a0Kemmler",
+                "header_image_thumbnail_url": "https://images.genius.com/100230c47ed5e5b4bce5f93c953d1b04.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/100230c47ed5e5b4bce5f93c953d1b04.1000x1000x1.jpg",
+                "id": 8418172,
+                "language": "fr",
+                "lyrics_owner_id": 18197032,
+                "lyrics_state": "complete",
+                "path": "/Kemmler-nirvhanna-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kemmler-nirvhanna-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/100230c47ed5e5b4bce5f93c953d1b04.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/100230c47ed5e5b4bce5f93c953d1b04.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nirvhanna",
+                "title_with_featured": "Nirvhanna",
+                "url": "https://genius.com/Kemmler-nirvhanna-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/651586",
+                    "header_image_url": "https://images.genius.com/0222138534a5474b636bf1a4e4f339c2.1000x541x1.png",
+                    "id": 651586,
+                    "image_url": "https://images.genius.com/f3927ed256cc1db6002a4422f50352fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kemmler",
+                    "url": "https://genius.com/artists/Kemmler",
+                    "iq": 2853
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

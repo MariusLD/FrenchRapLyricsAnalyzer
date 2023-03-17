@@ -1,0 +1,992 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3583339",
+                "artist_names": "Gims",
+                "full_title": "Laissez-moi tranquille by\u00a0Gims",
+                "header_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "id": 3583339,
+                "language": "fr",
+                "lyrics_owner_id": 1094887,
+                "lyrics_state": "complete",
+                "path": "/Gims-laissez-moi-tranquille-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gims-laissez-moi-tranquille-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 19099
+                },
+                "title": "Laissez-moi tranquille",
+                "title_with_featured": "Laissez-moi tranquille",
+                "url": "https://genius.com/Gims-laissez-moi-tranquille-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/3568628",
+                "artist_names": "Gims (Ft. Vianney)",
+                "full_title": "La m\u00eame by\u00a0Gims (Ft.\u00a0Vianney)",
+                "header_image_thumbnail_url": "https://images.genius.com/8dc75c7eb3d7d3feb01a4f9ab39338af.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8dc75c7eb3d7d3feb01a4f9ab39338af.800x800x1.jpg",
+                "id": 3568628,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Gims-la-meme-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Gims-la-meme-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8dc75c7eb3d7d3feb01a4f9ab39338af.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8dc75c7eb3d7d3feb01a4f9ab39338af.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 135409
+                },
+                "title": "La m\u00eame",
+                "title_with_featured": "La m\u00eame (Ft.\u00a0Vianney)",
+                "url": "https://genius.com/Gims-la-meme-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/454305",
+                        "header_image_url": "https://images.genius.com/e3c66831f4d5acefd9d2b0aa0b8e41fa.698x1000x1.jpg",
+                        "id": 454305,
+                        "image_url": "https://images.genius.com/461192cca6c76fea852261853d52ae96.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vianney",
+                        "url": "https://genius.com/artists/Vianney"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2349750",
+                "artist_names": "Vitaa (Ft. H Magnum)",
+                "full_title": "La m\u00eame by\u00a0Vitaa (Ft.\u00a0H\u00a0Magnum)",
+                "header_image_thumbnail_url": "https://images.genius.com/e0e3a42a871fbf964a3c139e97bf5e39.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e0e3a42a871fbf964a3c139e97bf5e39.1000x1000x1.jpg",
+                "id": 2349750,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Vitaa-la-meme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vitaa-la-meme-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e0e3a42a871fbf964a3c139e97bf5e39.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e0e3a42a871fbf964a3c139e97bf5e39.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La m\u00eame",
+                "title_with_featured": "La m\u00eame (Ft.\u00a0H\u00a0Magnum)",
+                "url": "https://genius.com/Vitaa-la-meme-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1875",
+                        "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "id": 1875,
+                        "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "H Magnum",
+                        "url": "https://genius.com/artists/H-magnum",
+                        "iq": 1618
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13327",
+                    "header_image_url": "https://images.genius.com/7ab1648911886c268b1b41f174773a61.1000x750x1.jpg",
+                    "id": 13327,
+                    "image_url": "https://images.genius.com/ffa65eaed1df4da17fafa78392664dee.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vitaa",
+                    "url": "https://genius.com/artists/Vitaa"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/3583352",
+                "artist_names": "Gims (Ft. H Magnum & OrelSan)",
+                "full_title": "La nuit c'est fait pour dormir by\u00a0Gims (Ft.\u00a0H\u00a0Magnum & OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "id": 3583352,
+                "language": "fr",
+                "lyrics_owner_id": 2714350,
+                "lyrics_state": "complete",
+                "path": "/Gims-la-nuit-cest-fait-pour-dormir-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Gims-la-nuit-cest-fait-pour-dormir-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 17751
+                },
+                "title": "La nuit c\u2019est fait pour dormir",
+                "title_with_featured": "La nuit c'est fait pour dormir (Ft.\u00a0H\u00a0Magnum & OrelSan)",
+                "url": "https://genius.com/Gims-la-nuit-cest-fait-pour-dormir-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    },
+                    {
+                        "api_path": "/artists/1875",
+                        "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "id": 1875,
+                        "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "H Magnum",
+                        "url": "https://genius.com/artists/H-magnum",
+                        "iq": 1618
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/132001",
+                "artist_names": "H Magnum",
+                "full_title": "L'App\u00e2t du gain by\u00a0H\u00a0Magnum",
+                "header_image_thumbnail_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.400x400x1.jpg",
+                "id": 132001,
+                "language": "fr",
+                "lyrics_owner_id": 136223,
+                "lyrics_state": "complete",
+                "path": "/H-magnum-lappat-du-gain-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/H-magnum-lappat-du-gain-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "L\u2019App\u00e2t du gain",
+                "title_with_featured": "L'App\u00e2t du gain",
+                "url": "https://genius.com/H-magnum-lappat-du-gain-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/209542",
+                "artist_names": "H Magnum",
+                "full_title": "La Rafale by\u00a0H\u00a0Magnum",
+                "header_image_thumbnail_url": "https://images.genius.com/14426be83f88208bae91bca15c1b8152.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/14426be83f88208bae91bca15c1b8152.400x400x1.jpg",
+                "id": 209542,
+                "language": "fr",
+                "lyrics_owner_id": 136223,
+                "lyrics_state": "complete",
+                "path": "/H-magnum-la-rafale-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/H-magnum-la-rafale-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/14426be83f88208bae91bca15c1b8152.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/14426be83f88208bae91bca15c1b8152.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false
+                },
+                "title": "La Rafale",
+                "title_with_featured": "La Rafale",
+                "url": "https://genius.com/H-magnum-la-rafale-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3583366",
+                "artist_names": "Gims",
+                "full_title": "La v\u00e9rit\u00e9 by\u00a0Gims",
+                "header_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "id": 3583366,
+                "language": "fr",
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "complete",
+                "path": "/Gims-la-verite-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gims-la-verite-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 14279
+                },
+                "title": "La v\u00e9rit\u00e9",
+                "title_with_featured": "La v\u00e9rit\u00e9",
+                "url": "https://genius.com/Gims-la-verite-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7295701",
+                "artist_names": "H Magnum",
+                "full_title": "Le bouquet by\u00a0H\u00a0Magnum",
+                "header_image_thumbnail_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.1000x1000x1.jpg",
+                "id": 7295701,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/H-magnum-le-bouquet-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/H-magnum-le-bouquet-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le bouquet",
+                "title_with_featured": "Le bouquet",
+                "url": "https://genius.com/H-magnum-le-bouquet-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/231832",
+                "artist_names": "H Magnum (Ft. GomGom)",
+                "full_title": "Le Game est p\u00e9rim\u00e9 by\u00a0H\u00a0Magnum (Ft.\u00a0GomGom)",
+                "header_image_thumbnail_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.300x450x1.jpg",
+                "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                "id": 231832,
+                "language": "fr",
+                "lyrics_owner_id": 136223,
+                "lyrics_state": "complete",
+                "path": "/H-magnum-le-game-est-perime-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/H-magnum-le-game-est-perime-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.300x450x1.jpg",
+                "song_art_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false
+                },
+                "title": "Le Game est p\u00e9rim\u00e9",
+                "title_with_featured": "Le Game est p\u00e9rim\u00e9 (Ft.\u00a0GomGom)",
+                "url": "https://genius.com/H-magnum-le-game-est-perime-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/75341",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "id": 75341,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "GomGom",
+                        "url": "https://genius.com/artists/Gomgom"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3374150",
+                "artist_names": "Gims",
+                "full_title": "Le pire by\u00a0Gims",
+                "header_image_thumbnail_url": "https://images.genius.com/8b0e3dcc9544172ed5fc6c9c438d3787.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/8b0e3dcc9544172ed5fc6c9c438d3787.640x480x1.jpg",
+                "id": 3374150,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Gims-le-pire-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Gims-le-pire-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 24
+                },
+                "release_date_for_display": "August 24, 2018",
+                "release_date_with_abbreviated_month_for_display": "Aug. 24, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 67840
+                },
+                "title": "Le pire",
+                "title_with_featured": "Le pire",
+                "url": "https://genius.com/Gims-le-pire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3583367",
+                "artist_names": "Gims",
+                "full_title": "Les roses ont des \u00e9pines by\u00a0Gims",
+                "header_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "id": 3583367,
+                "language": "fr",
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "complete",
+                "path": "/Gims-les-roses-ont-des-epines-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Gims-les-roses-ont-des-epines-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 16860
+                },
+                "title": "Les roses ont des \u00e9pines",
+                "title_with_featured": "Les roses ont des \u00e9pines",
+                "url": "https://genius.com/Gims-les-roses-ont-des-epines-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8883729",
+                "artist_names": "H Magnum",
+                "full_title": "Lieutenant sur terre by\u00a0H\u00a0Magnum",
+                "header_image_thumbnail_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.300x450x1.jpg",
+                "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                "id": 8883729,
+                "language": "la",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/H-magnum-lieutenant-sur-terre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/H-magnum-lieutenant-sur-terre-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.300x450x1.jpg",
+                "song_art_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lieutenant sur terre",
+                "title_with_featured": "Lieutenant sur terre",
+                "url": "https://genius.com/H-magnum-lieutenant-sur-terre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2397437",
+                "artist_names": "H Magnum",
+                "full_title": "L'impasse by\u00a0H\u00a0Magnum",
+                "header_image_thumbnail_url": "https://images.genius.com/c1b4bc420edae6d76bfaf0849dcbcd07.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1b4bc420edae6d76bfaf0849dcbcd07.300x300x1.jpg",
+                "id": 2397437,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/H-magnum-limpasse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/H-magnum-limpasse-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 22
+                },
+                "release_date_for_display": "January 22, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 22, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1b4bc420edae6d76bfaf0849dcbcd07.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1b4bc420edae6d76bfaf0849dcbcd07.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "L\u2019impasse",
+                "title_with_featured": "L'impasse",
+                "url": "https://genius.com/H-magnum-limpasse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3919189",
+                "artist_names": "Gims (Ft. Alvaro Soler)",
+                "full_title": "Lo Mismo by\u00a0Gims (Ft.\u00a0Alvaro\u00a0Soler)",
+                "header_image_thumbnail_url": "https://images.genius.com/5765bc879c58a51642104aaf1ee4fe1a.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/5765bc879c58a51642104aaf1ee4fe1a.1000x517x1.jpg",
+                "id": 3919189,
+                "language": "fr",
+                "lyrics_owner_id": 3360023,
+                "lyrics_state": "complete",
+                "path": "/Gims-lo-mismo-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gims-lo-mismo-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 24
+                },
+                "release_date_for_display": "August 24, 2018",
+                "release_date_with_abbreviated_month_for_display": "Aug. 24, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/27d4414cf0fd07b73ca98b150ddc6962.268x268x1.jpg",
+                "song_art_image_url": "https://images.genius.com/27d4414cf0fd07b73ca98b150ddc6962.268x268x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 23889
+                },
+                "title": "Lo Mismo",
+                "title_with_featured": "Lo Mismo (Ft.\u00a0Alvaro\u00a0Soler)",
+                "url": "https://genius.com/Gims-lo-mismo-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/484298",
+                        "header_image_url": "https://images.genius.com/7f2fa099f687b483acfce4594828914c.1000x667x1.jpg",
+                        "id": 484298,
+                        "image_url": "https://images.genius.com/c8f219f7137513385cc150998f6b51c2.775x775x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alvaro Soler",
+                        "url": "https://genius.com/artists/Alvaro-soler"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/3583349",
+                "artist_names": "Gims",
+                "full_title": "Malheur, malheur by\u00a0Gims",
+                "header_image_thumbnail_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.1000x992x1.jpg",
+                "id": 3583349,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Gims-malheur-malheur-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Gims-malheur-malheur-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.1000x992x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 46095
+                },
+                "title": "Malheur, malheur",
+                "title_with_featured": "Malheur, malheur",
+                "url": "https://genius.com/Gims-malheur-malheur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4616749",
+                "artist_names": "DJ Hamida (Ft. Farida R'guiba & H Magnum)",
+                "full_title": "Mama mama by\u00a0DJ\u00a0Hamida (Ft.\u00a0Farida\u00a0R'guiba & H\u00a0Magnum)",
+                "header_image_thumbnail_url": "https://images.genius.com/846fe0c7f1a73a5dc5368144166c01f1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/846fe0c7f1a73a5dc5368144166c01f1.600x600x1.jpg",
+                "id": 4616749,
+                "language": "fr",
+                "lyrics_owner_id": 6157090,
+                "lyrics_state": "complete",
+                "path": "/Dj-hamida-mama-mama-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dj-hamida-mama-mama-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/846fe0c7f1a73a5dc5368144166c01f1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/846fe0c7f1a73a5dc5368144166c01f1.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mama mama",
+                "title_with_featured": "Mama mama (Ft.\u00a0Farida\u00a0R'guiba & H\u00a0Magnum)",
+                "url": "https://genius.com/Dj-hamida-mama-mama-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2647698",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "id": 2647698,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Farida R\u2019guiba",
+                        "url": "https://genius.com/artists/Farida-rguiba"
+                    },
+                    {
+                        "api_path": "/artists/1875",
+                        "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "id": 1875,
+                        "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "H Magnum",
+                        "url": "https://genius.com/artists/H-magnum",
+                        "iq": 1618
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/62686",
+                    "header_image_url": "https://images.genius.com/e91aeb652a838205e2e765406ec86d97.691x691x1.jpg",
+                    "id": 62686,
+                    "image_url": "https://images.genius.com/e91aeb652a838205e2e765406ec86d97.691x691x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DJ Hamida",
+                    "url": "https://genius.com/artists/Dj-hamida"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/67251",
+                "artist_names": "Dry (Ft. Gims)",
+                "full_title": "Ma m\u00e9lodie by\u00a0Dry (Ft.\u00a0Gims)",
+                "header_image_thumbnail_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.600x600x1.jpg",
+                "id": 67251,
+                "language": "en",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Dry-ma-melodie-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Dry-ma-melodie-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 20
+                },
+                "release_date_for_display": "February 20, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 20, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 44373
+                },
+                "title": "Ma m\u00e9lodie",
+                "title_with_featured": "Ma m\u00e9lodie (Ft.\u00a0Gims)",
+                "url": "https://genius.com/Dry-ma-melodie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13325",
+                        "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                        "id": 13325,
+                        "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gims",
+                        "url": "https://genius.com/artists/Gims"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1260",
+                    "header_image_url": "https://images.genius.com/9c0a4ec6e6e186286e3d8e5967cf0a09.650x250x1.jpg",
+                    "id": 1260,
+                    "image_url": "https://images.genius.com/00604a702de2dd2a6beb6250679a53b5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dry",
+                    "url": "https://genius.com/artists/Dry",
+                    "iq": 558
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3050242",
+                "artist_names": "Sexion d'Assaut (Ft. H Magnum)",
+                "full_title": "Manque de pot by\u00a0Sexion\u00a0d'Assaut (Ft.\u00a0H\u00a0Magnum)",
+                "header_image_thumbnail_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.500x500x1.jpg",
+                "id": 3050242,
+                "language": "en",
+                "lyrics_owner_id": 3258664,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-manque-de-pot-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-manque-de-pot-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2005",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Manque de pot",
+                "title_with_featured": "Manque de pot (Ft.\u00a0H\u00a0Magnum)",
+                "url": "https://genius.com/Sexion-dassaut-manque-de-pot-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1875",
+                        "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "id": 1875,
+                        "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "H Magnum",
+                        "url": "https://genius.com/artists/H-magnum",
+                        "iq": 1618
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7295700",
+                "artist_names": "H Magnum (Ft. Ap Tyl)",
+                "full_title": "Mathilda by\u00a0H\u00a0Magnum (Ft.\u00a0Ap\u00a0Tyl)",
+                "header_image_thumbnail_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.1000x1000x1.jpg",
+                "id": 7295700,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/H-magnum-mathilda-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/H-magnum-mathilda-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/774c218f9e0aab310f622ee742957c3d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mathilda",
+                "title_with_featured": "Mathilda (Ft.\u00a0Ap\u00a0Tyl)",
+                "url": "https://genius.com/H-magnum-mathilda-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2917437",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "id": 2917437,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ap Tyl",
+                        "url": "https://genius.com/artists/Ap-tyl"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/132003",
+                "artist_names": "H Magnum (Ft. Joe Black (FRA) & Kemso)",
+                "full_title": "MC vous \u00eates dead by\u00a0H\u00a0Magnum (Ft.\u00a0Joe\u00a0Black (FRA) & Kemso)",
+                "header_image_thumbnail_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.400x400x1.jpg",
+                "id": 132003,
+                "language": "fr",
+                "lyrics_owner_id": 136223,
+                "lyrics_state": "complete",
+                "path": "/H-magnum-mc-vous-etes-dead-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/H-magnum-mc-vous-etes-dead-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c7487d5926ec84fa004832fb4fac1d2d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "MC vous \u00eates dead",
+                "title_with_featured": "MC vous \u00eates dead (Ft.\u00a0Joe\u00a0Black (FRA) & Kemso)",
+                "url": "https://genius.com/H-magnum-mc-vous-etes-dead-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1802897",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "id": 1802897,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Joe Black (FRA)",
+                        "url": "https://genius.com/artists/Joe-black-fra"
+                    },
+                    {
+                        "api_path": "/artists/42753",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "id": 42753,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kemso",
+                        "url": "https://genius.com/artists/Kemso"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1875",
+                    "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "id": 1875,
+                    "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "H Magnum",
+                    "url": "https://genius.com/artists/H-magnum",
+                    "iq": 1618
+                }
+            }
+        ],
+        "next_page": 7
+    }
+}

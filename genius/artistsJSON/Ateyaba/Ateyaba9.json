@@ -1,0 +1,1036 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7915031",
+                "artist_names": "Stunts DJ's (Ft. Ateyaba, CraiZ, Cuizinier, Killa Daz, Kilroy & Teki Latex)",
+                "full_title": "Nemesis by\u00a0Stunts\u00a0DJ's (Ft.\u00a0Ateyaba, CraiZ, Cuizinier, Killa\u00a0Daz, Kilroy & Teki\u00a0Latex)",
+                "header_image_thumbnail_url": "https://images.genius.com/559bab60100a8f7d0b71f16770b5c38e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/559bab60100a8f7d0b71f16770b5c38e.371x371x1.jpg",
+                "id": 7915031,
+                "language": null,
+                "lyrics_owner_id": 11424617,
+                "lyrics_state": "incomplete",
+                "path": "/Stunts-djs-nemesis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Stunts-djs-nemesis-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 3,
+                    "day": 16
+                },
+                "release_date_for_display": "March 16, 2009",
+                "release_date_with_abbreviated_month_for_display": "Mar. 16, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/559bab60100a8f7d0b71f16770b5c38e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/559bab60100a8f7d0b71f16770b5c38e.371x371x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nemesis",
+                "title_with_featured": "Nemesis (Ft.\u00a0Ateyaba, CraiZ, Cuizinier, Killa\u00a0Daz, Kilroy & Teki\u00a0Latex)",
+                "url": "https://genius.com/Stunts-djs-nemesis-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/32420",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/b7ch8NFkSlCs6qTTlLGs.jpg",
+                        "id": 32420,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/b7ch8NFkSlCs6qTTlLGs.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kilroy",
+                        "url": "https://genius.com/artists/Kilroy",
+                        "iq": 740
+                    },
+                    {
+                        "api_path": "/artists/3138069",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                        "id": 3138069,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Killa Daz",
+                        "url": "https://genius.com/artists/Killa-daz"
+                    },
+                    {
+                        "api_path": "/artists/41623",
+                        "header_image_url": "https://images.genius.com/c3993f45f66eaf46897b276a91ed3df4.770x770x1.jpg",
+                        "id": 41623,
+                        "image_url": "https://images.genius.com/275e0c4ec488854356ebd814dacaeb53.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cuizinier",
+                        "url": "https://genius.com/artists/Cuizinier"
+                    },
+                    {
+                        "api_path": "/artists/23880",
+                        "header_image_url": "https://images.genius.com/1755e5d334e634f4c4ef1bd6c46e9af6.404x404x1.jpg",
+                        "id": 23880,
+                        "image_url": "https://images.genius.com/1755e5d334e634f4c4ef1bd6c46e9af6.404x404x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "CraiZ",
+                        "url": "https://genius.com/artists/Craiz"
+                    },
+                    {
+                        "api_path": "/artists/50894",
+                        "header_image_url": "https://images.genius.com/6ad28db8785e3ae96e2afb70c304b38c.1000x1000x1.jpg",
+                        "id": 50894,
+                        "image_url": "https://images.genius.com/6ad28db8785e3ae96e2afb70c304b38c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Teki Latex",
+                        "url": "https://genius.com/artists/Teki-latex"
+                    },
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/3147487",
+                    "header_image_url": "https://images.genius.com/d68f9ff39cce984d677d1c974eaafe44.300x300x1.jpg",
+                    "id": 3147487,
+                    "image_url": "https://images.genius.com/d68f9ff39cce984d677d1c974eaafe44.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stunts DJ\u2019s",
+                    "url": "https://genius.com/artists/Stunts-djs"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/4144342",
+                "artist_names": "Ateyaba",
+                "full_title": "Neo (911) by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/59c1e97bbb935e3bd77a127ed19ede8c.300x533x1.jpg",
+                "header_image_url": "https://images.genius.com/59c1e97bbb935e3bd77a127ed19ede8c.563x1000x1.jpg",
+                "id": 4144342,
+                "language": "en",
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-neo-911-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Ateyaba-neo-911-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 7
+                },
+                "release_date_for_display": "December 7, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 7, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4c1275abaafaf5d41c3883045e22512d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4c1275abaafaf5d41c3883045e22512d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 9049
+                },
+                "title": "Neo (911)",
+                "title_with_featured": "Neo (911)",
+                "url": "https://genius.com/Ateyaba-neo-911-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 25,
+                "api_path": "/songs/416336",
+                "artist_names": "Ateyaba",
+                "full_title": "New Jack City by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/49aaa9d0bbb5d701817c3214fdc9427d.300x188x1.jpg",
+                "header_image_url": "https://images.genius.com/49aaa9d0bbb5d701817c3214fdc9427d.398x250x1.jpg",
+                "id": 416336,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-new-jack-city-lyrics",
+                "pyongs_count": 13,
+                "relationships_index_url": "https://genius.com/Ateyaba-new-jack-city-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/76e107d400026fdb277af33f15a437a8.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/76e107d400026fdb277af33f15a437a8.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 40768
+                },
+                "title": "New Jack City",
+                "title_with_featured": "New Jack City",
+                "url": "https://genius.com/Ateyaba-new-jack-city-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/704375",
+                "artist_names": "Ateyaba",
+                "full_title": "New shit* by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/e84f61d07235b312c36e9e24fc3588c2.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/e84f61d07235b312c36e9e24fc3588c2.1000x563x1.jpg",
+                "id": 704375,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-new-shit-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Ateyaba-new-shit-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 13
+                },
+                "release_date_for_display": "February 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1ff89c3bafc01e2933ea1c732e3c5c92.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1ff89c3bafc01e2933ea1c732e3c5c92.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "New shit*",
+                "title_with_featured": "New shit*",
+                "url": "https://genius.com/Ateyaba-new-shit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 25,
+                "api_path": "/songs/426439",
+                "artist_names": "Ateyaba",
+                "full_title": "Niamtougou (Outro) by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/03ab9663a21dd044b3d7184bd312e442.300x188x1.jpg",
+                "header_image_url": "https://images.genius.com/03ab9663a21dd044b3d7184bd312e442.398x250x1.jpg",
+                "id": 426439,
+                "language": "fr",
+                "lyrics_owner_id": 44422,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-niamtougou-outro-lyrics",
+                "pyongs_count": 10,
+                "relationships_index_url": "https://genius.com/Ateyaba-niamtougou-outro-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bbdf98f9a5ca85ed370d3a0f21f26848.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bbdf98f9a5ca85ed370d3a0f21f26848.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 12884
+                },
+                "title": "Niamtougou (Outro)",
+                "title_with_featured": "Niamtougou (Outro)",
+                "url": "https://genius.com/Ateyaba-niamtougou-outro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/5012587",
+                "artist_names": "Ateyaba",
+                "full_title": "Nice by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/a8c497705b19ea3181e66412f2b20722.300x107x1.jpg",
+                "header_image_url": "https://images.genius.com/a8c497705b19ea3181e66412f2b20722.1000x355x1.jpg",
+                "id": 5012587,
+                "language": "fr",
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-nice-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ateyaba-nice-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 22
+                },
+                "release_date_for_display": "March 22, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 22, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b04732d84116d28bf53f1ea5f5897daa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b04732d84116d28bf53f1ea5f5897daa.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 6461
+                },
+                "title": "Nice",
+                "title_with_featured": "Nice",
+                "url": "https://genius.com/Ateyaba-nice-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/7975611",
+                "artist_names": "Ateyaba",
+                "full_title": "\u200bniggas in Paris freestyle by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/7244212c9066f9cd343d58488b83d1b4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7244212c9066f9cd343d58488b83d1b4.500x500x1.jpg",
+                "id": 7975611,
+                "language": "fr",
+                "lyrics_owner_id": 11424617,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-niggas-in-paris-freestyle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ateyaba-niggas-in-paris-freestyle-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 9,
+                    "day": 21
+                },
+                "release_date_for_display": "September 21, 2011",
+                "release_date_with_abbreviated_month_for_display": "Sep. 21, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7244212c9066f9cd343d58488b83d1b4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7244212c9066f9cd343d58488b83d1b4.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "\u200bniggas in Paris freestyle",
+                "title_with_featured": "\u200bniggas in Paris freestyle",
+                "url": "https://genius.com/Ateyaba-niggas-in-paris-freestyle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2436556",
+                "artist_names": "Wilow Amsgood (Ft. Ateyaba & Monsieur Ice)",
+                "full_title": "Niggas in Paris (Remix) by\u00a0Wilow\u00a0Amsgood (Ft.\u00a0Ateyaba & Monsieur\u00a0Ice)",
+                "header_image_thumbnail_url": "https://images.genius.com/5af33f0716c79bd09ee1c17e7176a2a3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5af33f0716c79bd09ee1c17e7176a2a3.1000x1000x1.jpg",
+                "id": 2436556,
+                "language": "fr",
+                "lyrics_owner_id": 1574489,
+                "lyrics_state": "complete",
+                "path": "/Wilow-amsgood-niggas-in-paris-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Wilow-amsgood-niggas-in-paris-remix-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 14
+                },
+                "release_date_for_display": "January 14, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jan. 14, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5af33f0716c79bd09ee1c17e7176a2a3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5af33f0716c79bd09ee1c17e7176a2a3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Niggas in Paris (Remix)",
+                "title_with_featured": "Niggas in Paris (Remix) (Ft.\u00a0Ateyaba & Monsieur\u00a0Ice)",
+                "url": "https://genius.com/Wilow-amsgood-niggas-in-paris-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/543919",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                        "id": 543919,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Monsieur Ice",
+                        "url": "https://genius.com/artists/Monsieur-ice"
+                    },
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/20824",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/1379834457_wilowuniversal.png",
+                    "id": 20824,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/1379834457_wilowuniversal.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilow Amsgood",
+                    "url": "https://genius.com/artists/Wilow-amsgood"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3389376",
+                "artist_names": "Skreally Boy (Ft. Ateyaba)",
+                "full_title": "No Lov3 by\u00a0Skreally\u00a0Boy (Ft.\u00a0Ateyaba)",
+                "header_image_thumbnail_url": "https://images.genius.com/ea83a45392486a6bf362bc51fc2f30f3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ea83a45392486a6bf362bc51fc2f30f3.1000x1000x1.jpg",
+                "id": 3389376,
+                "language": "fr",
+                "lyrics_owner_id": 4876625,
+                "lyrics_state": "complete",
+                "path": "/Skreally-boy-no-lov3-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Skreally-boy-no-lov3-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 22
+                },
+                "release_date_for_display": "December 22, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 22, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ea83a45392486a6bf362bc51fc2f30f3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ea83a45392486a6bf362bc51fc2f30f3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "No Lov3",
+                "title_with_featured": "No Lov3 (Ft.\u00a0Ateyaba)",
+                "url": "https://genius.com/Skreally-boy-no-lov3-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/137466",
+                    "header_image_url": "https://images.genius.com/cb2f958bab9bef017ca3886984f353c6.1000x427x1.jpg",
+                    "id": 137466,
+                    "image_url": "https://images.genius.com/80f8d9af8e783f523cb00918a50cfa9a.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Skreally Boy",
+                    "url": "https://genius.com/artists/Skreally-boy"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/147078",
+                "artist_names": "S2keyz (Ft. Ateyaba & Pink Tee)",
+                "full_title": "Nostalgique by\u00a0S2keyz (Ft.\u00a0Ateyaba & Pink\u00a0Tee)",
+                "header_image_thumbnail_url": "https://images.genius.com/25209c4620dc613420e34e83ead495a6.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/25209c4620dc613420e34e83ead495a6.1000x563x1.jpg",
+                "id": 147078,
+                "language": "fr",
+                "lyrics_owner_id": 133616,
+                "lyrics_state": "complete",
+                "path": "/S2keyz-nostalgique-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/S2keyz-nostalgique-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 9,
+                    "day": 10
+                },
+                "release_date_for_display": "September 10, 2012",
+                "release_date_with_abbreviated_month_for_display": "Sep. 10, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ec9abee84e5f6027a11b591644652b76.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ec9abee84e5f6027a11b591644652b76.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Nostalgique",
+                "title_with_featured": "Nostalgique (Ft.\u00a0Ateyaba & Pink\u00a0Tee)",
+                "url": "https://genius.com/S2keyz-nostalgique-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14291",
+                        "header_image_url": "https://images.genius.com/44167e1ff67838d81fc0587c2f66b839.1000x308x1.jpg",
+                        "id": 14291,
+                        "image_url": "https://images.genius.com/63524deb94e8d0061064c3461c72fa75.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Pink Tee",
+                        "url": "https://genius.com/artists/Pink-tee",
+                        "iq": 1565
+                    },
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/27432",
+                    "header_image_url": "https://images.genius.com/fee2b5c3fe387d0dc7c699502280bd4b.799x799x1.jpg",
+                    "id": 27432,
+                    "image_url": "https://images.genius.com/fee2b5c3fe387d0dc7c699502280bd4b.799x799x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "S2keyz",
+                    "url": "https://genius.com/artists/S2keyz"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7975614",
+                "artist_names": "Bip's (Ft. Ateyaba)",
+                "full_title": "No Time by\u00a0Bip's (Ft.\u00a0Ateyaba)",
+                "header_image_thumbnail_url": "https://images.genius.com/7c820d742211693394147c722801767a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7c820d742211693394147c722801767a.333x333x1.jpg",
+                "id": 7975614,
+                "language": null,
+                "lyrics_owner_id": 11424617,
+                "lyrics_state": "incomplete",
+                "path": "/Bips-no-time-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bips-no-time-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 7,
+                    "day": 21
+                },
+                "release_date_for_display": "July 21, 2011",
+                "release_date_with_abbreviated_month_for_display": "Jul. 21, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7c820d742211693394147c722801767a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7c820d742211693394147c722801767a.333x333x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "No Time",
+                "title_with_featured": "No Time (Ft.\u00a0Ateyaba)",
+                "url": "https://genius.com/Bips-no-time-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/34093",
+                    "header_image_url": "https://images.genius.com/64dcffd561921039421c1eee7d1be476.440x440x1.png",
+                    "id": 34093,
+                    "image_url": "https://images.genius.com/64dcffd561921039421c1eee7d1be476.440x440x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bip\u2019s",
+                    "url": "https://genius.com/artists/Bips"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/3648751",
+                "artist_names": "Ateyaba",
+                "full_title": "\u200boh my god by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                "id": 3648751,
+                "language": "fr",
+                "lyrics_owner_id": 421485,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-oh-my-god-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ateyaba-oh-my-god-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "\u200boh my god",
+                "title_with_featured": "\u200boh my god",
+                "url": "https://genius.com/Ateyaba-oh-my-god-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3562516",
+                "artist_names": "Ateyaba",
+                "full_title": "Omega by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/a1cdff7de333a272e3196cc0b48af7cc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a1cdff7de333a272e3196cc0b48af7cc.1000x1000x1.jpg",
+                "id": 3562516,
+                "language": "fr",
+                "lyrics_owner_id": 1094887,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-omega-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ateyaba-omega-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 23
+                },
+                "release_date_for_display": "December 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a1cdff7de333a272e3196cc0b48af7cc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a1cdff7de333a272e3196cc0b48af7cc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Omega",
+                "title_with_featured": "Omega",
+                "url": "https://genius.com/Ateyaba-omega-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/530202",
+                "artist_names": "Titan (Ft. Ateyaba)",
+                "full_title": "On d\u00e9barque by\u00a0Titan (Ft.\u00a0Ateyaba)",
+                "header_image_thumbnail_url": "https://images.genius.com/29c49fc5a2aba53d52b68c2c5909da12.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/29c49fc5a2aba53d52b68c2c5909da12.1000x1000x1.jpg",
+                "id": 530202,
+                "language": "fr",
+                "lyrics_owner_id": 146503,
+                "lyrics_state": "complete",
+                "path": "/Titan-on-debarque-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Titan-on-debarque-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 4,
+                    "day": null
+                },
+                "release_date_for_display": "April 2012",
+                "release_date_with_abbreviated_month_for_display": "Apr. 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/29c49fc5a2aba53d52b68c2c5909da12.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/29c49fc5a2aba53d52b68c2c5909da12.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On d\u00e9barque",
+                "title_with_featured": "On d\u00e9barque (Ft.\u00a0Ateyaba)",
+                "url": "https://genius.com/Titan-on-debarque-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15514",
+                    "header_image_url": "https://images.genius.com/f04722157b2ddfe9103af9d30f674102.1000x1000x1.jpg",
+                    "id": 15514,
+                    "image_url": "https://images.genius.com/f04722157b2ddfe9103af9d30f674102.1000x1000x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Titan",
+                    "url": "https://genius.com/artists/Titan",
+                    "iq": 2812
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/100040",
+                "artist_names": "Ateyaba",
+                "full_title": "One by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/d4c87390c51e5895b1745135ffdf9be3.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/d4c87390c51e5895b1745135ffdf9be3.1000x750x1.jpg",
+                "id": 100040,
+                "language": "en",
+                "lyrics_owner_id": 70527,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-one-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Ateyaba-one-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6d780f8860fd1e0ba0a9f86165a4e485.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6d780f8860fd1e0ba0a9f86165a4e485.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 10473
+                },
+                "title": "One",
+                "title_with_featured": "One",
+                "url": "https://genius.com/Ateyaba-one-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/417149",
+                "artist_names": "Ateyaba",
+                "full_title": "On est sur les nerfs by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/802ec827a03006952715f22fe3edc98e.300x169x1.png",
+                "header_image_url": "https://images.genius.com/802ec827a03006952715f22fe3edc98e.1000x563x1.png",
+                "id": 417149,
+                "language": "fr",
+                "lyrics_owner_id": 44422,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-on-est-sur-les-nerfs-lyrics",
+                "pyongs_count": 66,
+                "relationships_index_url": "https://genius.com/Ateyaba-on-est-sur-les-nerfs-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 5,
+                    "day": 22
+                },
+                "release_date_for_display": "May 22, 2014",
+                "release_date_with_abbreviated_month_for_display": "May. 22, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/f69edfde80ad4a1ad5b1765df6a3ca76.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/f69edfde80ad4a1ad5b1765df6a3ca76.395x395x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 158201
+                },
+                "title": "On est sur les nerfs",
+                "title_with_featured": "On est sur les nerfs",
+                "url": "https://genius.com/Ateyaba-on-est-sur-les-nerfs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5377985",
+                "artist_names": "HIM$ (FRA) (Ft. Ateyaba)",
+                "full_title": "On My Mind (Remix) by\u00a0HIM$\u00a0(FRA) (Ft.\u00a0Ateyaba)",
+                "header_image_thumbnail_url": "https://images.genius.com/f70d361da49ed5d4b14ae6aa18fb7159.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/f70d361da49ed5d4b14ae6aa18fb7159.1000x563x1.jpg",
+                "id": 5377985,
+                "language": "fr",
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "complete",
+                "path": "/Him-fra-on-my-mind-remix-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Him-fra-on-my-mind-remix-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/568b055d9768e06e9e1821b34aa7782b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/568b055d9768e06e9e1821b34aa7782b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "On My Mind (Remix)",
+                "title_with_featured": "On My Mind (Remix) (Ft.\u00a0Ateyaba)",
+                "url": "https://genius.com/Him-fra-on-my-mind-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/750227",
+                    "header_image_url": "https://images.genius.com/9e03a0eb62df1939e540ea382583186f.960x960x1.jpg",
+                    "id": 750227,
+                    "image_url": "https://images.genius.com/9e03a0eb62df1939e540ea382583186f.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "HIM$ (FRA)",
+                    "url": "https://genius.com/artists/Him-fra",
+                    "iq": 165
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7907879",
+                "artist_names": "Ateyaba",
+                "full_title": "Outro by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/e78f3db1f671f4f9fcda0b6346d0d25c.300x269x1.jpg",
+                "header_image_url": "https://images.genius.com/e78f3db1f671f4f9fcda0b6346d0d25c.720x645x1.jpg",
+                "id": 7907879,
+                "language": "fr",
+                "lyrics_owner_id": 11424617,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-outro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ateyaba-outro-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 8,
+                    "day": 31
+                },
+                "release_date_for_display": "August 31, 2009",
+                "release_date_with_abbreviated_month_for_display": "Aug. 31, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92823eb4b37e8ccf1700ecc806c7c1b6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92823eb4b37e8ccf1700ecc806c7c1b6.709x709x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Outro",
+                "title_with_featured": "Outro",
+                "url": "https://genius.com/Ateyaba-outro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/79284",
+                "artist_names": "Ateyaba",
+                "full_title": "Outro (Pr\u00eat pour l'argent 1.5) by\u00a0Ateyaba",
+                "header_image_thumbnail_url": "https://images.genius.com/6fda0ec4e90d5854253fe97173de0d61.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/6fda0ec4e90d5854253fe97173de0d61.480x360x1.jpg",
+                "id": 79284,
+                "language": "fr",
+                "lyrics_owner_id": 115169,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-outro-pret-pour-largent-15-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ateyaba-outro-pret-pour-largent-15-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2011",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8d54e002b5ea9d32c3e5c83b86f9b665.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/8d54e002b5ea9d32c3e5c83b86f9b665.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Outro (Pr\u00eat pour l\u2019argent 1.5)",
+                "title_with_featured": "Outro (Pr\u00eat pour l'argent 1.5)",
+                "url": "https://genius.com/Ateyaba-outro-pret-pour-largent-15-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            },
+            {
+                "annotation_count": 38,
+                "api_path": "/songs/426437",
+                "artist_names": "Ateyaba (Ft. Titan)",
+                "full_title": "Oy\u00e9 Sapapaya by\u00a0Ateyaba (Ft.\u00a0Titan)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/077c2243cede45f26e8c22a47e8e1a19.300x188x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/077c2243cede45f26e8c22a47e8e1a19.398x250x1.jpg",
+                "id": 426437,
+                "language": "fr",
+                "lyrics_owner_id": 81742,
+                "lyrics_state": "complete",
+                "path": "/Ateyaba-oye-sapapaya-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Ateyaba-oye-sapapaya-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/22c0b6c3f78574d4a4659afba926bb06.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/22c0b6c3f78574d4a4659afba926bb06.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 25533
+                },
+                "title": "Oy\u00e9 Sapapaya",
+                "title_with_featured": "Oy\u00e9 Sapapaya (Ft.\u00a0Titan)",
+                "url": "https://genius.com/Ateyaba-oye-sapapaya-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15514",
+                        "header_image_url": "https://images.genius.com/f04722157b2ddfe9103af9d30f674102.1000x1000x1.jpg",
+                        "id": 15514,
+                        "image_url": "https://images.genius.com/f04722157b2ddfe9103af9d30f674102.1000x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Titan",
+                        "url": "https://genius.com/artists/Titan",
+                        "iq": 2812
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14857",
+                    "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                    "id": 14857,
+                    "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ateyaba",
+                    "url": "https://genius.com/artists/Ateyaba",
+                    "iq": 1624
+                }
+            }
+        ],
+        "next_page": 10
+    }
+}

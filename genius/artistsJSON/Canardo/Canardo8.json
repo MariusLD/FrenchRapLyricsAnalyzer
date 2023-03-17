@@ -1,0 +1,978 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3863701",
+                "artist_names": "Sultan (Ft. Aguib & Criks)",
+                "full_title": "M'as-tu vu by\u00a0Sultan (Ft.\u00a0Aguib & Criks)",
+                "header_image_thumbnail_url": "https://i.genius.com/ebfff3408ca32f95a1c1c1c0ffadaf52370f138d?url=http%3A%2F%2Fwww.urbancult.fr%2Fwp-content%2Fuploads%2F2018%2F07%2FCapture-d%25E2%2580%2599%25C3%25A9cran-2018-07-23-%25C3%25A0-09.26.28-1024x426.png",
+                "header_image_url": "https://i.genius.com/ebfff3408ca32f95a1c1c1c0ffadaf52370f138d?url=http%3A%2F%2Fwww.urbancult.fr%2Fwp-content%2Fuploads%2F2018%2F07%2FCapture-d%25E2%2580%2599%25C3%25A9cran-2018-07-23-%25C3%25A0-09.26.28-1024x426.png",
+                "id": 3863701,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Sultan-mas-tu-vu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sultan-mas-tu-vu-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 20
+                },
+                "release_date_for_display": "July 20, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jul. 20, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7829f33e06b929f5bc6c07c5c36a1241.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7829f33e06b929f5bc6c07c5c36a1241.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "M\u2019as-tu vu",
+                "title_with_featured": "M'as-tu vu (Ft.\u00a0Aguib & Criks)",
+                "url": "https://genius.com/Sultan-mas-tu-vu-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1538250",
+                        "header_image_url": "https://images.genius.com/b2f026a47ee0d8862c51d8fff4bf7647.150x150x1.png",
+                        "id": 1538250,
+                        "image_url": "https://images.genius.com/aad6dc139e2f6c2bd5fc155375df9bd5.535x535x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Aguib",
+                        "url": "https://genius.com/artists/Aguib"
+                    },
+                    {
+                        "api_path": "/artists/45557",
+                        "header_image_url": "https://images.rapgenius.com/avatars/medium/a5bf5853a64422fb928877c0a49e2a31",
+                        "id": 45557,
+                        "image_url": "https://images.rapgenius.com/avatars/medium/a5bf5853a64422fb928877c0a49e2a31",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Criks",
+                        "url": "https://genius.com/artists/Criks",
+                        "iq": 557
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/6670",
+                    "header_image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                    "id": 6670,
+                    "image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sultan",
+                    "url": "https://genius.com/artists/Sultan",
+                    "iq": 2066
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4201873",
+                "artist_names": "Canardo",
+                "full_title": "Matrix\u00e9 by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.600x600x1.jpg",
+                "id": 4201873,
+                "language": "fr",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Canardo-matrixe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-matrixe-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2014",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Matrix\u00e9",
+                "title_with_featured": "Matrix\u00e9",
+                "url": "https://genius.com/Canardo-matrixe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7610133",
+                "artist_names": "Canardo",
+                "full_title": "Mauvais gar\u00e7on by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.999x999x1.jpg",
+                "id": 7610133,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/Canardo-mauvais-garcon-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-mauvais-garcon-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 19
+                },
+                "release_date_for_display": "January 19, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 19, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.999x999x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mauvais gar\u00e7on",
+                "title_with_featured": "Mauvais gar\u00e7on",
+                "url": "https://genius.com/Canardo-mauvais-garcon-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/79714",
+                "artist_names": "Canardo (Ft. Gringe & OrelSan)",
+                "full_title": "Mauvais plan by\u00a0Canardo (Ft.\u00a0Gringe & OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "id": 79714,
+                "language": "fr",
+                "lyrics_owner_id": 88700,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mauvais-plan-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Canardo-mauvais-plan-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 11071
+                },
+                "title": "Mauvais plan",
+                "title_with_featured": "Mauvais plan (Ft.\u00a0Gringe & OrelSan)",
+                "url": "https://genius.com/Canardo-mauvais-plan-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13895",
+                        "header_image_url": "https://images.genius.com/9235ff3ea8ed3265920aa6cb9a830156.1000x558x1.jpg",
+                        "id": 13895,
+                        "image_url": "https://images.genius.com/484b1db7599534cfe66bd47403fe8365.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gringe",
+                        "url": "https://genius.com/artists/Gringe"
+                    },
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2333978",
+                "artist_names": "Kenza Farah",
+                "full_title": "MDF by\u00a0Kenza\u00a0Farah",
+                "header_image_thumbnail_url": "https://images.genius.com/5cf7818977b9c12ec7225f5d9fec2c41.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5cf7818977b9c12ec7225f5d9fec2c41.640x640x1.jpg",
+                "id": 2333978,
+                "language": "fr",
+                "lyrics_owner_id": 2217493,
+                "lyrics_state": "complete",
+                "path": "/Kenza-farah-mdf-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kenza-farah-mdf-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2014",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5cf7818977b9c12ec7225f5d9fec2c41.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5cf7818977b9c12ec7225f5d9fec2c41.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "MDF",
+                "title_with_featured": "MDF",
+                "url": "https://genius.com/Kenza-farah-mdf-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/20616",
+                    "header_image_url": "https://images.genius.com/0a33e232abe7690ec7ca4f43f9ef71ac.950x950x1.jpg",
+                    "id": 20616,
+                    "image_url": "https://images.genius.com/0a33e232abe7690ec7ca4f43f9ef71ac.950x950x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kenza Farah",
+                    "url": "https://genius.com/artists/Kenza-farah"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/180042",
+                "artist_names": "Amar Hus (Ft. Canardo)",
+                "full_title": "Medicament by\u00a0Amar\u00a0Hus (Ft.\u00a0Canardo)",
+                "header_image_thumbnail_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.600x601x1.jpg",
+                "id": 180042,
+                "language": "fr",
+                "lyrics_owner_id": 240337,
+                "lyrics_state": "complete",
+                "path": "/Amar-hus-medicament-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Amar-hus-medicament-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.600x601x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Medicament",
+                "title_with_featured": "Medicament (Ft.\u00a0Canardo)",
+                "url": "https://genius.com/Amar-hus-medicament-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11648",
+                        "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "id": 11648,
+                        "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Canardo",
+                        "url": "https://genius.com/artists/Canardo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/57462",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                    "id": 57462,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1678996100",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Amar Hus",
+                    "url": "https://genius.com/artists/Amar-hus"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5814660",
+                "artist_names": "Defcom (Ft. Canardo)",
+                "full_title": "M\u00e9l\u00e9 m\u00e9 by\u00a0Defcom (Ft.\u00a0Canardo)",
+                "header_image_thumbnail_url": "https://www.google.com/url?sa=i&url=https://www.youtube.com/watch?v=omYchmyTgHI&psig=AOvVaw2C2WfMhwMtYdZtbDFHsf8f&ust=1596138549806000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCUws6d8-oCFQAAAAAdAAAAABAD",
+                "header_image_url": "https://www.google.com/url?sa=i&url=https://www.youtube.com/watch?v=omYchmyTgHI&psig=AOvVaw2C2WfMhwMtYdZtbDFHsf8f&ust=1596138549806000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCUws6d8-oCFQAAAAAdAAAAABAD",
+                "id": 5814660,
+                "language": "es",
+                "lyrics_owner_id": 11348542,
+                "lyrics_state": "complete",
+                "path": "/Defcom-mele-me-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Defcom-mele-me-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 26
+                },
+                "release_date_for_display": "July 26, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 26, 2020",
+                "song_art_image_thumbnail_url": "https://www.google.com/url?sa=i&url=https://www.youtube.com/watch?v=omYchmyTgHI&psig=AOvVaw2C2WfMhwMtYdZtbDFHsf8f&ust=1596138549806000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCUws6d8-oCFQAAAAAdAAAAABAD",
+                "song_art_image_url": "https://www.google.com/url?sa=i&url=https://www.youtube.com/watch?v=omYchmyTgHI&psig=AOvVaw2C2WfMhwMtYdZtbDFHsf8f&ust=1596138549806000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCUws6d8-oCFQAAAAAdAAAAABAD",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "M\u00e9l\u00e9 m\u00e9",
+                "title_with_featured": "M\u00e9l\u00e9 m\u00e9 (Ft.\u00a0Canardo)",
+                "url": "https://genius.com/Defcom-mele-me-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11648",
+                        "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "id": 11648,
+                        "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Canardo",
+                        "url": "https://genius.com/artists/Canardo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2327324",
+                    "header_image_url": "https://images.genius.com/9e861a059f26b4689883ee05260fd5d2.1000x527x1.jpg",
+                    "id": 2327324,
+                    "image_url": "https://images.genius.com/e8a16e26f33598a39241facb45fee902.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Defcom",
+                    "url": "https://genius.com/artists/Defcom"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/70953",
+                "artist_names": "Canardo",
+                "full_title": "M\u00e9l\u00e9-m\u00e9 by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "id": 70953,
+                "language": null,
+                "lyrics_owner_id": 85109,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mele-me-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-mele-me-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "M\u00e9l\u00e9-m\u00e9",
+                "title_with_featured": "M\u00e9l\u00e9-m\u00e9",
+                "url": "https://genius.com/Canardo-mele-me-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/82374",
+                "artist_names": "Canardo (Ft. La Fouine & Seth Gueko)",
+                "full_title": "M\u00e9l\u00e9 M\u00e9 (Remix) by\u00a0Canardo (Ft.\u00a0La\u00a0Fouine & Seth\u00a0Gueko)",
+                "header_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "id": 82374,
+                "language": "fr",
+                "lyrics_owner_id": 88700,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mele-me-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-mele-me-remix-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 24
+                },
+                "release_date_for_display": "July 24, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jul. 24, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "M\u00e9l\u00e9 M\u00e9 (Remix)",
+                "title_with_featured": "M\u00e9l\u00e9 M\u00e9 (Remix) (Ft.\u00a0La\u00a0Fouine & Seth\u00a0Gueko)",
+                "url": "https://genius.com/Canardo-mele-me-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1303",
+                        "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                        "id": 1303,
+                        "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Fouine",
+                        "url": "https://genius.com/artists/La-fouine"
+                    },
+                    {
+                        "api_path": "/artists/11499",
+                        "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                        "id": 11499,
+                        "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Seth Gueko",
+                        "url": "https://genius.com/artists/Seth-gueko",
+                        "iq": 1271
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/391361",
+                "artist_names": "Canardo",
+                "full_title": "Memory by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.300x171x1.jpg",
+                "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                "id": 391361,
+                "language": "fr",
+                "lyrics_owner_id": 228495,
+                "lyrics_state": "complete",
+                "path": "/Canardo-memory-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-memory-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.300x171x1.jpg",
+                "song_art_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Memory",
+                "title_with_featured": "Memory",
+                "url": "https://genius.com/Canardo-memory-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/80811",
+                "artist_names": "Canardo (Ft. Taloula)",
+                "full_title": "M'en aller by\u00a0Canardo (Ft.\u00a0Taloula)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/463580c6bac1ca053fa8b31f0d4cea7d.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/463580c6bac1ca053fa8b31f0d4cea7d.600x600x1.jpg",
+                "id": 80811,
+                "language": "fr",
+                "lyrics_owner_id": 104021,
+                "lyrics_state": "complete",
+                "path": "/Canardo-men-aller-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Canardo-men-aller-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 6
+                },
+                "release_date_for_display": "July 6, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jul. 6, 2012",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/463580c6bac1ca053fa8b31f0d4cea7d.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/463580c6bac1ca053fa8b31f0d4cea7d.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 25728
+                },
+                "title": "M\u2019en aller",
+                "title_with_featured": "M'en aller (Ft.\u00a0Taloula)",
+                "url": "https://genius.com/Canardo-men-aller-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/22446",
+                        "header_image_url": "https://images.genius.com/d1366df5070ca54cccd4d25693044733.1000x563x1.jpg",
+                        "id": 22446,
+                        "image_url": "https://images.genius.com/ad3a2e871b44e99bcd8358f37c8c257c.933x933x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Taloula",
+                        "url": "https://genius.com/artists/Taloula"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5657499",
+                "artist_names": "Evan et Marco (Ft. Lou)",
+                "full_title": "M'en Aller by\u00a0Evan\u00a0et Marco (Ft.\u00a0Lou)",
+                "header_image_thumbnail_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.1000x1000x1.jpg",
+                "id": 5657499,
+                "language": "fr",
+                "lyrics_owner_id": 7154073,
+                "lyrics_state": "complete",
+                "path": "/Evan-et-marco-men-aller-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Evan-et-marco-men-aller-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "M\u2019en Aller",
+                "title_with_featured": "M'en Aller (Ft.\u00a0Lou)",
+                "url": "https://genius.com/Evan-et-marco-men-aller-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/4342",
+                        "header_image_url": "https://images.genius.com/2626ac7caa43af74af0850afdf801e3f.750x750x1.jpg",
+                        "id": 4342,
+                        "image_url": "https://images.genius.com/2626ac7caa43af74af0850afdf801e3f.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lou",
+                        "url": "https://genius.com/artists/Lou"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1260458",
+                    "header_image_url": "https://images.genius.com/8e1b6d3cf0c269a04306d5bc528a8c68.500x500x1.jpg",
+                    "id": 1260458,
+                    "image_url": "https://images.genius.com/0a85645038787bda92ab6fe07d367078.236x220x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Evan et Marco",
+                    "url": "https://genius.com/artists/Evan-et-marco"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2016790",
+                "artist_names": "Canardo",
+                "full_title": "Mental De Fer by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.960x960x1.jpg",
+                "id": 2016790,
+                "language": "fr",
+                "lyrics_owner_id": 1074553,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mental-de-fer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-mental-de-fer-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 6,
+                    "day": 1
+                },
+                "release_date_for_display": "June 1, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jun. 1, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Mental De Fer",
+                "title_with_featured": "Mental De Fer",
+                "url": "https://genius.com/Canardo-mental-de-fer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/354955",
+                "artist_names": "Canardo",
+                "full_title": "Mes Ferza by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.960x960x1.jpg",
+                "id": 354955,
+                "language": "fr",
+                "lyrics_owner_id": 258291,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mes-ferza-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Canardo-mes-ferza-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 7
+                },
+                "release_date_for_display": "February 7, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 7, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/78f27c22894782841a1c46281df0beda.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mes Ferza",
+                "title_with_featured": "Mes Ferza",
+                "url": "https://genius.com/Canardo-mes-ferza-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/248912",
+                "artist_names": "Canardo",
+                "full_title": "Mes Images by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.600x601x1.jpg",
+                "id": 248912,
+                "language": "fr",
+                "lyrics_owner_id": 228495,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mes-images-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-mes-images-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 15
+                },
+                "release_date_for_display": "November 15, 2010",
+                "release_date_with_abbreviated_month_for_display": "Nov. 15, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c584da9051ee83c618024ea578860224.600x601x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mes Images",
+                "title_with_featured": "Mes Images",
+                "url": "https://genius.com/Canardo-mes-images-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/85106",
+                "artist_names": "La Fouine",
+                "full_title": "Mes rep\u00e8res by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.400x400x1.jpg",
+                "id": 85106,
+                "language": "fr",
+                "lyrics_owner_id": 68630,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-mes-reperes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-mes-reperes-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2009",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 13770
+                },
+                "title": "Mes rep\u00e8res",
+                "title_with_featured": "Mes rep\u00e8res",
+                "url": "https://genius.com/La-fouine-mes-reperes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4201871",
+                "artist_names": "Canardo",
+                "full_title": "Mi Amor by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.600x600x1.jpg",
+                "id": 4201871,
+                "language": "fr",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mi-amor-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-mi-amor-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fa8ab347beeeac3709c0aa036ee538dd.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mi Amor",
+                "title_with_featured": "Mi Amor",
+                "url": "https://genius.com/Canardo-mi-amor-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3905373",
+                "artist_names": "Ian Thomas",
+                "full_title": "Molly by\u00a0Ian\u00a0Thomas",
+                "header_image_thumbnail_url": "https://images.genius.com/c012db937e75dd9bdb92aa9c81acc8e5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c012db937e75dd9bdb92aa9c81acc8e5.640x640x1.jpg",
+                "id": 3905373,
+                "language": "en",
+                "lyrics_owner_id": 5264673,
+                "lyrics_state": "complete",
+                "path": "/Ian-thomas-molly-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ian-thomas-molly-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 7,
+                    "day": 18
+                },
+                "release_date_for_display": "July 18, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jul. 18, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c012db937e75dd9bdb92aa9c81acc8e5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c012db937e75dd9bdb92aa9c81acc8e5.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Molly",
+                "title_with_featured": "Molly",
+                "url": "https://genius.com/Ian-thomas-molly-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/142164",
+                    "header_image_url": "https://images.genius.com/3173c4078a8aa46e3078adf14706939b.750x1000x1.jpg",
+                    "id": 142164,
+                    "image_url": "https://images.genius.com/8c036e155ae4d3544993c528b46cdaed.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ian Thomas",
+                    "url": "https://genius.com/artists/Ian-thomas",
+                    "iq": 341
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7610128",
+                "artist_names": "Canardo",
+                "full_title": "Mouve by\u00a0Canardo",
+                "header_image_thumbnail_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.999x999x1.jpg",
+                "id": 7610128,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Canardo-mouve-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-mouve-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 24
+                },
+                "release_date_for_display": "November 24, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 24, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92b29fc8982dd26a89f387b5890c7ba1.999x999x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mouve",
+                "title_with_featured": "Mouve",
+                "url": "https://genius.com/Canardo-mouve-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5134050",
+                "artist_names": "La Fouine (Ft. Canardo & Sultan)",
+                "full_title": "Narcos by\u00a0La\u00a0Fouine (Ft.\u00a0Canardo & Sultan)",
+                "header_image_thumbnail_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.1000x1000x1.jpg",
+                "id": 5134050,
+                "language": "fr",
+                "lyrics_owner_id": 9141899,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-narcos-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-narcos-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 24
+                },
+                "release_date_for_display": "January 24, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 24, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Narcos",
+                "title_with_featured": "Narcos (Ft.\u00a0Canardo & Sultan)",
+                "url": "https://genius.com/La-fouine-narcos-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/6670",
+                        "header_image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "id": 6670,
+                        "image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sultan",
+                        "url": "https://genius.com/artists/Sultan",
+                        "iq": 2066
+                    },
+                    {
+                        "api_path": "/artists/11648",
+                        "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "id": 11648,
+                        "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Canardo",
+                        "url": "https://genius.com/artists/Canardo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            }
+        ],
+        "next_page": 9
+    }
+}

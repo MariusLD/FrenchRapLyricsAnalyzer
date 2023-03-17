@@ -1,0 +1,53 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/3084382",
+                "artist_names": "Doums",
+                "full_title": "Z\u00e9nith by\u00a0Doums",
+                "header_image_thumbnail_url": "https://images.genius.com/b1db1d6b9341bfd637bf244343825852.300x116x1.png",
+                "header_image_url": "https://images.genius.com/b1db1d6b9341bfd637bf244343825852.852x330x1.png",
+                "id": 3084382,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Doums-zenith-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Doums-zenith-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 12
+                },
+                "release_date_for_display": "May 12, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 12, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17da211516b59050c6cf75493ff85382.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17da211516b59050c6cf75493ff85382.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 15066
+                },
+                "title": "Z\u00e9nith",
+                "title_with_featured": "Z\u00e9nith",
+                "url": "https://genius.com/Doums-zenith-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13259",
+                    "header_image_url": "https://images.genius.com/2b7f232410b28f8af904043afb9fc0f0.490x369x1.png",
+                    "id": 13259,
+                    "image_url": "https://images.genius.com/cf62164c1bf5688e70b3d1914af8a599.347x347x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Doums",
+                    "url": "https://genius.com/artists/Doums"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

@@ -1,0 +1,960 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3628894",
+                "artist_names": "Jok'Air",
+                "full_title": "T\u00e9l\u00e9phone by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.960x960x1.jpg",
+                "id": 3628894,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Jokair-telephone-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Jokair-telephone-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 25
+                },
+                "release_date_for_display": "May 25, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 25, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 7715
+                },
+                "title": "T\u00e9l\u00e9phone",
+                "title_with_featured": "T\u00e9l\u00e9phone",
+                "url": "https://genius.com/Jokair-telephone-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/3085277",
+                "artist_names": "Les Alchimistes (Ft. Jok'Air & Laylow)",
+                "full_title": "T'en veux encore by\u00a0Les\u00a0Alchimistes (Ft.\u00a0Jok'Air & Laylow)",
+                "header_image_thumbnail_url": "https://images.genius.com/1cfbce55cb05e5800fe19251c8d91dca.300x136x1.jpg",
+                "header_image_url": "https://images.genius.com/1cfbce55cb05e5800fe19251c8d91dca.1000x453x1.jpg",
+                "id": 3085277,
+                "language": "fr",
+                "lyrics_owner_id": 3665808,
+                "lyrics_state": "complete",
+                "path": "/Les-alchimistes-ten-veux-encore-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Les-alchimistes-ten-veux-encore-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fec426fd713179673e602eb95f617f16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fec426fd713179673e602eb95f617f16.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 7804
+                },
+                "title": "T\u2019en veux encore",
+                "title_with_featured": "T'en veux encore (Ft.\u00a0Jok'Air & Laylow)",
+                "url": "https://genius.com/Les-alchimistes-ten-veux-encore-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/308564",
+                        "header_image_url": "https://images.genius.com/b6b494cca78e2fd6097e498b5924b707.250x249x46.gif",
+                        "id": 308564,
+                        "image_url": "https://images.genius.com/7541b47ff09d814042b13ac1b235384d.473x473x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Laylow",
+                        "url": "https://genius.com/artists/Laylow",
+                        "iq": 637
+                    },
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671323",
+                    "header_image_url": "https://images.genius.com/37ac80e819c11c1d7b661828667bd2d4.820x548x1.jpg",
+                    "id": 671323,
+                    "image_url": "https://images.genius.com/7eb088e659b83326d9e45bb06d92ffad.810x810x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Les Alchimistes",
+                    "url": "https://genius.com/artists/Les-alchimistes",
+                    "iq": 552
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6245398",
+                "artist_names": "Jok'Air",
+                "full_title": "Terror Squad by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                "id": 6245398,
+                "language": null,
+                "lyrics_owner_id": 4415864,
+                "lyrics_state": "incomplete",
+                "path": "/Jokair-terror-squad-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jokair-terror-squad-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 5
+                },
+                "release_date_for_display": "December 5, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 5, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Terror Squad",
+                "title_with_featured": "Terror Squad",
+                "url": "https://genius.com/Jokair-terror-squad-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/381020",
+                "artist_names": "MZ",
+                "full_title": "Tiep Bou Dien by\u00a0MZ",
+                "header_image_thumbnail_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.512x512x1.jpg",
+                "id": 381020,
+                "language": "fr",
+                "lyrics_owner_id": 673741,
+                "lyrics_state": "complete",
+                "path": "/Mz-tiep-bou-dien-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Mz-tiep-bou-dien-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 3,
+                    "day": 10
+                },
+                "release_date_for_display": "March 10, 2014",
+                "release_date_with_abbreviated_month_for_display": "Mar. 10, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.512x512x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 26332
+                },
+                "title": "Tiep Bou Dien",
+                "title_with_featured": "Tiep Bou Dien",
+                "url": "https://genius.com/Mz-tiep-bou-dien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/156242",
+                    "header_image_url": "https://images.genius.com/5436aac786a47f0b591189abadc834ad.991x606x1.jpg",
+                    "id": 156242,
+                    "image_url": "https://images.genius.com/89fa1517edc65e223226c803e1d9f08d.1000x966x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "MZ",
+                    "url": "https://genius.com/artists/Mz",
+                    "iq": 2458
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3347692",
+                "artist_names": "Butter Bullets (Ft. Jok'Air)",
+                "full_title": "Timberland by\u00a0Butter\u00a0Bullets (Ft.\u00a0Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/53eecaaefbd2611a975a31333ff060fe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53eecaaefbd2611a975a31333ff060fe.1000x1000x1.jpg",
+                "id": 3347692,
+                "language": "fr",
+                "lyrics_owner_id": 5153952,
+                "lyrics_state": "complete",
+                "path": "/Butter-bullets-timberland-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Butter-bullets-timberland-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 4
+                },
+                "release_date_for_display": "December 4, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 4, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53eecaaefbd2611a975a31333ff060fe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53eecaaefbd2611a975a31333ff060fe.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Timberland",
+                "title_with_featured": "Timberland (Ft.\u00a0Jok'Air)",
+                "url": "https://genius.com/Butter-bullets-timberland-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/27221",
+                    "header_image_url": "https://images.genius.com/064ea3a35fad3b612174a25d792ee7ca.629x500x1.png",
+                    "id": 27221,
+                    "image_url": "https://images.genius.com/413217c54c217daf5d797e0348eee8ec.851x468x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Butter Bullets",
+                    "url": "https://genius.com/artists/Butter-bullets",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4360227",
+                "artist_names": "Jok'Air",
+                "full_title": "Titre by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                "id": 4360227,
+                "language": null,
+                "lyrics_owner_id": 6872384,
+                "lyrics_state": "unreleased",
+                "path": "/Jokair-titre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jokair-titre-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Titre",
+                "title_with_featured": "Titre",
+                "url": "https://genius.com/Jokair-titre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/2433699",
+                "artist_names": "MZ",
+                "full_title": "Toi sur moi by\u00a0MZ",
+                "header_image_thumbnail_url": "https://images.genius.com/4fab7a431fbb6794b1ceac904573a289.300x148x1.png",
+                "header_image_url": "https://images.genius.com/4fab7a431fbb6794b1ceac904573a289.1000x493x1.png",
+                "id": 2433699,
+                "language": "fr",
+                "lyrics_owner_id": 236126,
+                "lyrics_state": "complete",
+                "path": "/Mz-toi-sur-moi-lyrics",
+                "pyongs_count": 9,
+                "relationships_index_url": "https://genius.com/Mz-toi-sur-moi-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/38ded307e7321b44b681759a5f4b61dd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/38ded307e7321b44b681759a5f4b61dd.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 171021
+                },
+                "title": "Toi sur moi",
+                "title_with_featured": "Toi sur moi",
+                "url": "https://genius.com/Mz-toi-sur-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/156242",
+                    "header_image_url": "https://images.genius.com/5436aac786a47f0b591189abadc834ad.991x606x1.jpg",
+                    "id": 156242,
+                    "image_url": "https://images.genius.com/89fa1517edc65e223226c803e1d9f08d.1000x966x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "MZ",
+                    "url": "https://genius.com/artists/Mz",
+                    "iq": 2458
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3628893",
+                "artist_names": "Jok'Air",
+                "full_title": "Ton pied mon pied by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/e71c384140251bd6b38f87fc01f20901.300x152x1.jpg",
+                "header_image_url": "https://images.genius.com/e71c384140251bd6b38f87fc01f20901.960x485x1.jpg",
+                "id": 3628893,
+                "language": "fr",
+                "lyrics_owner_id": 5120323,
+                "lyrics_state": "complete",
+                "path": "/Jokair-ton-pied-mon-pied-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Jokair-ton-pied-mon-pied-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 25
+                },
+                "release_date_for_display": "May 25, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 25, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 12756
+                },
+                "title": "Ton pied mon pied",
+                "title_with_featured": "Ton pied mon pied",
+                "url": "https://genius.com/Jokair-ton-pied-mon-pied-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2923224",
+                "artist_names": "MZ",
+                "full_title": "Ton sauveur by\u00a0MZ",
+                "header_image_thumbnail_url": "https://images.genius.com/b5ff035ca93978f54339a7cf497469f5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5ff035ca93978f54339a7cf497469f5.500x500x1.jpg",
+                "id": 2923224,
+                "language": "fr",
+                "lyrics_owner_id": 1954750,
+                "lyrics_state": "complete",
+                "path": "/Mz-ton-sauveur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mz-ton-sauveur-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 2
+                },
+                "release_date_for_display": "December 2, 2016",
+                "release_date_with_abbreviated_month_for_display": "Dec. 2, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5ff035ca93978f54339a7cf497469f5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5ff035ca93978f54339a7cf497469f5.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Ton sauveur",
+                "title_with_featured": "Ton sauveur",
+                "url": "https://genius.com/Mz-ton-sauveur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/156242",
+                    "header_image_url": "https://images.genius.com/5436aac786a47f0b591189abadc834ad.991x606x1.jpg",
+                    "id": 156242,
+                    "image_url": "https://images.genius.com/89fa1517edc65e223226c803e1d9f08d.1000x966x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "MZ",
+                    "url": "https://genius.com/artists/Mz",
+                    "iq": 2458
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/396040",
+                "artist_names": "MZ",
+                "full_title": "Tourne autour by\u00a0MZ",
+                "header_image_thumbnail_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.512x512x1.jpg",
+                "id": 396040,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Mz-tourne-autour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mz-tourne-autour-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 3,
+                    "day": 10
+                },
+                "release_date_for_display": "March 10, 2014",
+                "release_date_with_abbreviated_month_for_display": "Mar. 10, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/75c8d34071931cb9a99a05af51333037.512x512x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 15150
+                },
+                "title": "Tourne autour",
+                "title_with_featured": "Tourne autour",
+                "url": "https://genius.com/Mz-tourne-autour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/156242",
+                    "header_image_url": "https://images.genius.com/5436aac786a47f0b591189abadc834ad.991x606x1.jpg",
+                    "id": 156242,
+                    "image_url": "https://images.genius.com/89fa1517edc65e223226c803e1d9f08d.1000x966x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "MZ",
+                    "url": "https://genius.com/artists/Mz",
+                    "iq": 2458
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4960429",
+                "artist_names": "RDP (Ft. Jok'Air)",
+                "full_title": "Toute la night by\u00a0RDP (Ft.\u00a0Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/c7ee1f117140b8496ec26bc1caebb459.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c7ee1f117140b8496ec26bc1caebb459.600x600x1.jpg",
+                "id": 4960429,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Rdp-toute-la-night-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rdp-toute-la-night-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c7ee1f117140b8496ec26bc1caebb459.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c7ee1f117140b8496ec26bc1caebb459.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Toute la night",
+                "title_with_featured": "Toute la night (Ft.\u00a0Jok'Air)",
+                "url": "https://genius.com/Rdp-toute-la-night-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1006971",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                    "id": 1006971,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RDP",
+                    "url": "https://genius.com/artists/Rdp"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4926884",
+                "artist_names": "Diddi Trix (Ft. Jok'Air)",
+                "full_title": "Toute la s'maine by\u00a0Diddi\u00a0Trix (Ft.\u00a0Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/2184b43974a4c9f70307114b7cc4e2de.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2184b43974a4c9f70307114b7cc4e2de.1000x1000x1.jpg",
+                "id": 4926884,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Diddi-trix-toute-la-smaine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Diddi-trix-toute-la-smaine-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2184b43974a4c9f70307114b7cc4e2de.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2184b43974a4c9f70307114b7cc4e2de.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Toute la s\u2019maine",
+                "title_with_featured": "Toute la s'maine (Ft.\u00a0Jok'Air)",
+                "url": "https://genius.com/Diddi-trix-toute-la-smaine-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1038275",
+                    "header_image_url": "https://images.genius.com/e519ba39b5f1f91a89af99a7a96c5ab1.589x312x1.png",
+                    "id": 1038275,
+                    "image_url": "https://images.genius.com/9e776a8b4793cc483baec6f40e154688.405x405x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Diddi Trix",
+                    "url": "https://genius.com/artists/Diddi-trix"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3085120",
+                "artist_names": "Jok'Air",
+                "full_title": "Trag\u00e9die by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.1000x1000x1.jpg",
+                "id": 3085120,
+                "language": "fr",
+                "lyrics_owner_id": 3087762,
+                "lyrics_state": "complete",
+                "path": "/Jokair-tragedie-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Jokair-tragedie-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 5969
+                },
+                "title": "Trag\u00e9die",
+                "title_with_featured": "Trag\u00e9die",
+                "url": "https://genius.com/Jokair-tragedie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3628898",
+                "artist_names": "Jok'Air",
+                "full_title": "TSN by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/f587556fd9391cf9ecef3dce4555694e.300x127x1.jpg",
+                "header_image_url": "https://images.genius.com/f587556fd9391cf9ecef3dce4555694e.1000x424x1.jpg",
+                "id": 3628898,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Jokair-tsn-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jokair-tsn-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 25
+                },
+                "release_date_for_display": "May 25, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 25, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/26e79cf4c47d045172c5791c126d7979.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 7768
+                },
+                "title": "TSN",
+                "title_with_featured": "TSN",
+                "url": "https://genius.com/Jokair-tsn-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3085119",
+                "artist_names": "Jok'Air",
+                "full_title": "Tu me manques by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.1000x1000x1.jpg",
+                "id": 3085119,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Jokair-tu-me-manques-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Jokair-tu-me-manques-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c30a5796bb5e8384a79c57318a0b12fa.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 13371
+                },
+                "title": "Tu me manques",
+                "title_with_featured": "Tu me manques",
+                "url": "https://genius.com/Jokair-tu-me-manques-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5325389",
+                "artist_names": "Jok'Air (Ft. Ceylane)",
+                "full_title": "Tu me soup\u00e7onnes by\u00a0Jok'Air (Ft.\u00a0Ceylane)",
+                "header_image_thumbnail_url": "https://images.genius.com/b79684fe36aa99ebb60320382684c935.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b79684fe36aa99ebb60320382684c935.1000x1000x1.jpg",
+                "id": 5325389,
+                "language": "fr",
+                "lyrics_owner_id": 45814,
+                "lyrics_state": "complete",
+                "path": "/Jokair-tu-me-soupconnes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jokair-tu-me-soupconnes-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 20
+                },
+                "release_date_for_display": "March 20, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 20, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b79684fe36aa99ebb60320382684c935.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b79684fe36aa99ebb60320382684c935.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tu me soup\u00e7onnes",
+                "title_with_featured": "Tu me soup\u00e7onnes (Ft.\u00a0Ceylane)",
+                "url": "https://genius.com/Jokair-tu-me-soupconnes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2137096",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "id": 2137096,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ceylane",
+                        "url": "https://genius.com/artists/Ceylane"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6260069",
+                "artist_names": "Jok'Air",
+                "full_title": "Uber Eat Netflix by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/f1c8d653d1973e8354b1f8fc37507f44.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f1c8d653d1973e8354b1f8fc37507f44.1000x1000x1.jpg",
+                "id": 6260069,
+                "language": "fr",
+                "lyrics_owner_id": 12466336,
+                "lyrics_state": "complete",
+                "path": "/Jokair-uber-eat-netflix-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Jokair-uber-eat-netflix-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 11
+                },
+                "release_date_for_display": "December 11, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f1c8d653d1973e8354b1f8fc37507f44.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f1c8d653d1973e8354b1f8fc37507f44.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Uber Eat Netflix",
+                "title_with_featured": "Uber Eat Netflix",
+                "url": "https://genius.com/Jokair-uber-eat-netflix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7404403",
+                "artist_names": "Jok'Air",
+                "full_title": "Un c\u0153ur c'est fragile by\u00a0Jok'Air",
+                "header_image_thumbnail_url": "https://images.genius.com/ab406f25a239c4bf6f4096db63e9aa60.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ab406f25a239c4bf6f4096db63e9aa60.1000x1000x1.jpg",
+                "id": 7404403,
+                "language": "fr",
+                "lyrics_owner_id": 3608483,
+                "lyrics_state": "complete",
+                "path": "/Jokair-un-cur-cest-fragile-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jokair-un-cur-cest-fragile-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 19
+                },
+                "release_date_for_display": "November 19, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ab406f25a239c4bf6f4096db63e9aa60.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ab406f25a239c4bf6f4096db63e9aa60.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un c\u0153ur c\u2019est fragile",
+                "title_with_featured": "Un c\u0153ur c'est fragile",
+                "url": "https://genius.com/Jokair-un-cur-cest-fragile-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/35421",
+                    "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                    "id": 35421,
+                    "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jok\u2019Air",
+                    "url": "https://genius.com/artists/Jokair"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6199495",
+                "artist_names": "Elh Kmer (Ft. Jok'Air)",
+                "full_title": "Un doute by\u00a0Elh\u00a0Kmer (Ft.\u00a0Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/9df14a3f1df24febc8a9c5dfff73fdb5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9df14a3f1df24febc8a9c5dfff73fdb5.421x421x1.jpg",
+                "id": 6199495,
+                "language": "fr",
+                "lyrics_owner_id": 7665393,
+                "lyrics_state": "complete",
+                "path": "/Elh-kmer-un-doute-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elh-kmer-un-doute-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9df14a3f1df24febc8a9c5dfff73fdb5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9df14a3f1df24febc8a9c5dfff73fdb5.421x421x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un doute",
+                "title_with_featured": "Un doute (Ft.\u00a0Jok'Air)",
+                "url": "https://genius.com/Elh-kmer-un-doute-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/607146",
+                    "header_image_url": "https://images.genius.com/e7ed9ad0aa197b4da94534123984d002.480x319x1.jpg",
+                    "id": 607146,
+                    "image_url": "https://images.genius.com/ff3a5af4278b1a55a331f154db89f6b5.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elh Kmer",
+                    "url": "https://genius.com/artists/Elh-kmer"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6032156",
+                "artist_names": "ISHA (Ft. Jok'Air & Key Largo)",
+                "full_title": "Une maman qui pleure by\u00a0ISHA (Ft.\u00a0Jok'Air & Key\u00a0Largo)",
+                "header_image_thumbnail_url": "https://images.genius.com/95a388e40b54406e9ed681ccc2737b4b.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/95a388e40b54406e9ed681ccc2737b4b.1000x539x1.jpg",
+                "id": 6032156,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Isha-une-maman-qui-pleure-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Isha-une-maman-qui-pleure-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 9
+                },
+                "release_date_for_display": "October 9, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 9, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9693440350316ad25cd3791d01c4b3a6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9693440350316ad25cd3791d01c4b3a6.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Une maman qui pleure",
+                "title_with_featured": "Une maman qui pleure (Ft.\u00a0Jok'Air & Key\u00a0Largo)",
+                "url": "https://genius.com/Isha-une-maman-qui-pleure-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1050615",
+                        "header_image_url": "https://images.genius.com/d54dc624e20ff61ae9d5497d7ad45ada.1000x531x1.jpg",
+                        "id": 1050615,
+                        "image_url": "https://images.genius.com/7dfb2bda71ba1b6ad914bf724f2e842b.657x657x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Key Largo",
+                        "url": "https://genius.com/artists/Key-largo"
+                    },
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/e52be9b2e242b1b3693be67cdf96cbb5.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/25569",
+                    "header_image_url": "https://images.genius.com/dbff8c5943a91b07317f97006eee8337.964x590x1.png",
+                    "id": 25569,
+                    "image_url": "https://images.genius.com/5629230621fb0b5dbbbd96c3cc7eebc2.697x697x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "ISHA",
+                    "url": "https://genius.com/artists/Isha",
+                    "iq": 100
+                }
+            }
+        ],
+        "next_page": 16
+    }
+}

@@ -1,0 +1,948 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/6468704",
+                "artist_names": "Hugo TSR",
+                "full_title": "Plaisirs tristes by\u00a0Hugo\u00a0TSR",
+                "header_image_thumbnail_url": "https://images.genius.com/424a689b8d91dc367ae19ac5a3321ec1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/424a689b8d91dc367ae19ac5a3321ec1.1000x1000x1.jpg",
+                "id": 6468704,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Hugo-tsr-plaisirs-tristes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hugo-tsr-plaisirs-tristes-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 19
+                },
+                "release_date_for_display": "February 19, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 19, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/424a689b8d91dc367ae19ac5a3321ec1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/424a689b8d91dc367ae19ac5a3321ec1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 11915
+                },
+                "title": "Plaisirs tristes",
+                "title_with_featured": "Plaisirs tristes",
+                "url": "https://genius.com/Hugo-tsr-plaisirs-tristes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15176",
+                    "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                    "id": 15176,
+                    "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugo TSR",
+                    "url": "https://genius.com/artists/Hugo-tsr"
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/95963",
+                "artist_names": "Hugo TSR",
+                "full_title": "Point de d\u00e9part by\u00a0Hugo\u00a0TSR",
+                "header_image_thumbnail_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.1000x1000x1.jpg",
+                "id": 95963,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Hugo-tsr-point-de-depart-lyrics",
+                "pyongs_count": 17,
+                "relationships_index_url": "https://genius.com/Hugo-tsr-point-de-depart-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 5
+                },
+                "release_date_for_display": "November 5, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 5, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 19,
+                    "hot": false,
+                    "pageviews": 171263
+                },
+                "title": "Point de d\u00e9part",
+                "title_with_featured": "Point de d\u00e9part",
+                "url": "https://genius.com/Hugo-tsr-point-de-depart-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15176",
+                    "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                    "id": 15176,
+                    "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugo TSR",
+                    "url": "https://genius.com/artists/Hugo-tsr"
+                }
+            },
+            {
+                "annotation_count": 36,
+                "api_path": "/songs/96011",
+                "artist_names": "Hugo TSR",
+                "full_title": "Point final by\u00a0Hugo\u00a0TSR",
+                "header_image_thumbnail_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.1000x1000x1.jpg",
+                "id": 96011,
+                "language": "fr",
+                "lyrics_owner_id": 72245,
+                "lyrics_state": "complete",
+                "path": "/Hugo-tsr-point-final-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Hugo-tsr-point-final-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 5
+                },
+                "release_date_for_display": "November 5, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 5, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f10312c21375b8a3bf72b9ad67239d70.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 21,
+                    "hot": false,
+                    "pageviews": 46529
+                },
+                "title": "Point final",
+                "title_with_featured": "Point final",
+                "url": "https://genius.com/Hugo-tsr-point-final-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15176",
+                    "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                    "id": 15176,
+                    "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugo TSR",
+                    "url": "https://genius.com/artists/Hugo-tsr"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5519321",
+                "artist_names": "TSR Crew (Ft. Al Pa, Juste Cause, Sopik & Tos640)",
+                "full_title": "Punchliners by\u00a0TSR\u00a0Crew (Ft.\u00a0Al\u00a0Pa, Juste\u00a0Cause, Sopik & Tos640)",
+                "header_image_thumbnail_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.1000x1000x1.jpg",
+                "id": 5519321,
+                "language": "fr",
+                "lyrics_owner_id": 11265321,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-punchliners-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tsr-crew-punchliners-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Punchliners",
+                "title_with_featured": "Punchliners (Ft.\u00a0Al\u00a0Pa, Juste\u00a0Cause, Sopik & Tos640)",
+                "url": "https://genius.com/Tsr-crew-punchliners-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1042878",
+                        "header_image_url": "https://images.genius.com/935131ecce73ab377e9b324aea184c98.387x387x1.png",
+                        "id": 1042878,
+                        "image_url": "https://images.genius.com/935131ecce73ab377e9b324aea184c98.387x387x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tos640",
+                        "url": "https://genius.com/artists/Tos640"
+                    },
+                    {
+                        "api_path": "/artists/133506",
+                        "header_image_url": "https://images.genius.com/fffb0103fd1596c4d626c01fb2e46421.1000x449x1.png",
+                        "id": 133506,
+                        "image_url": "https://images.genius.com/05b7a61d0e239d253c0cacac4f21abaa.582x582x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sopik",
+                        "url": "https://genius.com/artists/Sopik"
+                    },
+                    {
+                        "api_path": "/artists/188353",
+                        "header_image_url": "https://images.genius.com/c6e5606a984bac4ab7ec8ca301311d6f.200x200x1.jpg",
+                        "id": 188353,
+                        "image_url": "https://images.genius.com/c6e5606a984bac4ab7ec8ca301311d6f.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Al Pa",
+                        "url": "https://genius.com/artists/Al-pa",
+                        "iq": 243
+                    },
+                    {
+                        "api_path": "/artists/400316",
+                        "header_image_url": "https://images.genius.com/b3c6aff5891d9c2982f8996b93ba6443.1000x431x1.png",
+                        "id": 400316,
+                        "image_url": "https://images.genius.com/dcd5515add7f5d74e42876018c4b6b60.886x886x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Juste Cause",
+                        "url": "https://genius.com/artists/Juste-cause"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/81789",
+                "artist_names": "Georgio",
+                "full_title": "Quand je prends le mic by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.960x960x1.jpg",
+                "id": 81789,
+                "language": "fr",
+                "lyrics_owner_id": 81742,
+                "lyrics_state": "complete",
+                "path": "/Georgio-quand-je-prends-le-mic-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Georgio-quand-je-prends-le-mic-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 10
+                },
+                "release_date_for_display": "July 10, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jul. 10, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 14089
+                },
+                "title": "Quand je prends le mic",
+                "title_with_featured": "Quand je prends le mic",
+                "url": "https://genius.com/Georgio-quand-je-prends-le-mic-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/218598",
+                "artist_names": "Hugo TSR",
+                "full_title": "Qui Sera Sur Le Tr\u00f4ne ? by\u00a0Hugo\u00a0TSR",
+                "header_image_thumbnail_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.1000x1000x1.jpg",
+                "id": 218598,
+                "language": "fr",
+                "lyrics_owner_id": 270257,
+                "lyrics_state": "complete",
+                "path": "/Hugo-tsr-qui-sera-sur-le-trone-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Hugo-tsr-qui-sera-sur-le-trone-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c869170428043329e3c93056857e9c2d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Qui Sera Sur Le Tr\u00f4ne ?",
+                "title_with_featured": "Qui Sera Sur Le Tr\u00f4ne ?",
+                "url": "https://genius.com/Hugo-tsr-qui-sera-sur-le-trone-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15176",
+                    "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                    "id": 15176,
+                    "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugo TSR",
+                    "url": "https://genius.com/artists/Hugo-tsr"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/557952",
+                "artist_names": "TSR Crew",
+                "full_title": "Rap Grand Gabarit by\u00a0TSR\u00a0Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/f760f488ec6ca304808e445f99c0a64a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f760f488ec6ca304808e445f99c0a64a.1000x1000x1.jpg",
+                "id": 557952,
+                "language": "en",
+                "lyrics_owner_id": 924199,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-rap-grand-gabarit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tsr-crew-rap-grand-gabarit-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2004",
+                "release_date_with_abbreviated_month_for_display": "2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f760f488ec6ca304808e445f99c0a64a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f760f488ec6ca304808e445f99c0a64a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Rap Grand Gabarit",
+                "title_with_featured": "Rap Grand Gabarit",
+                "url": "https://genius.com/Tsr-crew-rap-grand-gabarit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/3221094",
+                "artist_names": "Hugo TSR",
+                "full_title": "Rei by\u00a0Hugo\u00a0TSR",
+                "header_image_thumbnail_url": "https://images.genius.com/47766614585345a165163b9951614351.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/47766614585345a165163b9951614351.1000x1000x1.jpg",
+                "id": 3221094,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Hugo-tsr-rei-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Hugo-tsr-rei-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 22
+                },
+                "release_date_for_display": "September 22, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 22, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47766614585345a165163b9951614351.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47766614585345a165163b9951614351.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 24,
+                    "hot": false,
+                    "pageviews": 50202
+                },
+                "title": "Rei",
+                "title_with_featured": "Rei",
+                "url": "https://genius.com/Hugo-tsr-rei-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15176",
+                    "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                    "id": 15176,
+                    "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugo TSR",
+                    "url": "https://genius.com/artists/Hugo-tsr"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/530855",
+                "artist_names": "Arco (Ft. Hugo TSR)",
+                "full_title": "Restes discret by\u00a0Arco (Ft.\u00a0Hugo\u00a0TSR)",
+                "header_image_thumbnail_url": "https://images.genius.com/55c0e9b225aca99b8064351ee128074b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/55c0e9b225aca99b8064351ee128074b.1000x1000x1.jpg",
+                "id": 530855,
+                "language": "fr",
+                "lyrics_owner_id": 852233,
+                "lyrics_state": "complete",
+                "path": "/Arco-restes-discret-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Arco-restes-discret-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/55c0e9b225aca99b8064351ee128074b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/55c0e9b225aca99b8064351ee128074b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Restes discret",
+                "title_with_featured": "Restes discret (Ft.\u00a0Hugo\u00a0TSR)",
+                "url": "https://genius.com/Arco-restes-discret-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15176",
+                        "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                        "id": 15176,
+                        "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Hugo TSR",
+                        "url": "https://genius.com/artists/Hugo-tsr"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/36905",
+                    "header_image_url": "https://images.genius.com/f4b6548c8099c5d46a975db31fa848bb.960x639x1.jpg",
+                    "id": 36905,
+                    "image_url": "https://images.genius.com/55c0e9b225aca99b8064351ee128074b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Arco",
+                    "url": "https://genius.com/artists/Arco"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2495219",
+                "artist_names": "FM Crew (Ft. Hugo TSR)",
+                "full_title": "Rien \u00e0 prouver by\u00a0FM\u00a0Crew (Ft.\u00a0Hugo\u00a0TSR)",
+                "header_image_thumbnail_url": "https://images.genius.com/769b8b20565c7491b6407624d64cbf83.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/769b8b20565c7491b6407624d64cbf83.600x449x1.jpg",
+                "id": 2495219,
+                "language": "fr",
+                "lyrics_owner_id": 2203222,
+                "lyrics_state": "complete",
+                "path": "/Fm-crew-rien-a-prouver-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fm-crew-rien-a-prouver-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2007",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/769b8b20565c7491b6407624d64cbf83.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/769b8b20565c7491b6407624d64cbf83.600x449x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Rien \u00e0 prouver",
+                "title_with_featured": "Rien \u00e0 prouver (Ft.\u00a0Hugo\u00a0TSR)",
+                "url": "https://genius.com/Fm-crew-rien-a-prouver-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15176",
+                        "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                        "id": 15176,
+                        "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Hugo TSR",
+                        "url": "https://genius.com/artists/Hugo-tsr"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/684347",
+                    "header_image_url": "https://images.genius.com/769b8b20565c7491b6407624d64cbf83.600x449x1.jpg",
+                    "id": 684347,
+                    "image_url": "https://images.genius.com/769b8b20565c7491b6407624d64cbf83.600x449x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "FM Crew",
+                    "url": "https://genius.com/artists/Fm-crew"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/240764",
+                "artist_names": "TSR Crew",
+                "full_title": "Rod\u00e9o Verbal by\u00a0TSR\u00a0Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/a905f53a3a802e3d5e906011c6636131.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a905f53a3a802e3d5e906011c6636131.400x400x1.jpg",
+                "id": 240764,
+                "language": "fr",
+                "lyrics_owner_id": 292479,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-rodeo-verbal-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tsr-crew-rodeo-verbal-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2007",
+                "release_date_with_abbreviated_month_for_display": "2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a905f53a3a802e3d5e906011c6636131.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a905f53a3a802e3d5e906011c6636131.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Rod\u00e9o Verbal",
+                "title_with_featured": "Rod\u00e9o Verbal",
+                "url": "https://genius.com/Tsr-crew-rodeo-verbal-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2348422",
+                "artist_names": "TSR Crew (Ft. Lille Egal Musik)",
+                "full_title": "Sans appel by\u00a0TSR\u00a0Crew (Ft.\u00a0Lille\u00a0Egal Musik)",
+                "header_image_thumbnail_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                "id": 2348422,
+                "language": "fr",
+                "lyrics_owner_id": 172871,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-sans-appel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tsr-crew-sans-appel-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Sans appel",
+                "title_with_featured": "Sans appel (Ft.\u00a0Lille\u00a0Egal Musik)",
+                "url": "https://genius.com/Tsr-crew-sans-appel-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/590373",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "id": 590373,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1679070161",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lille Egal Musik",
+                        "url": "https://genius.com/artists/Lille-egal-musik"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/1790483",
+                "artist_names": "Juste Cause (Ft. TSR Crew)",
+                "full_title": "Sans artifice by\u00a0Juste\u00a0Cause (Ft.\u00a0TSR\u00a0Crew)",
+                "header_image_thumbnail_url": "https://images.genius.com/c74b32dfcec2a694f645d16bf03e6f67.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c74b32dfcec2a694f645d16bf03e6f67.831x831x1.jpg",
+                "id": 1790483,
+                "language": "fr",
+                "lyrics_owner_id": 4079858,
+                "lyrics_state": "complete",
+                "path": "/Juste-cause-sans-artifice-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Juste-cause-sans-artifice-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 6,
+                    "day": 1
+                },
+                "release_date_for_display": "June 1, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jun. 1, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c74b32dfcec2a694f645d16bf03e6f67.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c74b32dfcec2a694f645d16bf03e6f67.831x831x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Sans artifice",
+                "title_with_featured": "Sans artifice (Ft.\u00a0TSR\u00a0Crew)",
+                "url": "https://genius.com/Juste-cause-sans-artifice-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15056",
+                        "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                        "id": 15056,
+                        "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "TSR Crew",
+                        "url": "https://genius.com/artists/Tsr-crew"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/400316",
+                    "header_image_url": "https://images.genius.com/b3c6aff5891d9c2982f8996b93ba6443.1000x431x1.png",
+                    "id": 400316,
+                    "image_url": "https://images.genius.com/dcd5515add7f5d74e42876018c4b6b60.886x886x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Juste Cause",
+                    "url": "https://genius.com/artists/Juste-cause"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/740932",
+                "artist_names": "TSR Crew",
+                "full_title": "Sans sommation, Pt. 1 by\u00a0TSR\u00a0Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "id": 740932,
+                "language": "fr",
+                "lyrics_owner_id": 808765,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-sans-sommation-pt-1-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Tsr-crew-sans-sommation-pt-1-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 6215
+                },
+                "title": "Sans sommation, Pt. 1",
+                "title_with_featured": "Sans sommation, Pt. 1",
+                "url": "https://genius.com/Tsr-crew-sans-sommation-pt-1-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/740938",
+                "artist_names": "TSR Crew",
+                "full_title": "Sans sommation, Pt. 2 by\u00a0TSR\u00a0Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "id": 740938,
+                "language": "fr",
+                "lyrics_owner_id": 808765,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-sans-sommation-pt-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tsr-crew-sans-sommation-pt-2-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Sans sommation, Pt. 2",
+                "title_with_featured": "Sans sommation, Pt. 2",
+                "url": "https://genius.com/Tsr-crew-sans-sommation-pt-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/740947",
+                "artist_names": "TSR Crew",
+                "full_title": "Sans sommation, Pt. 3 by\u00a0TSR\u00a0Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "id": 740947,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-sans-sommation-pt-3-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Tsr-crew-sans-sommation-pt-3-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 25996
+                },
+                "title": "Sans sommation, Pt. 3",
+                "title_with_featured": "Sans sommation, Pt. 3",
+                "url": "https://genius.com/Tsr-crew-sans-sommation-pt-3-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/740949",
+                "artist_names": "TSR Crew",
+                "full_title": "Savane Sur Du Ciment by\u00a0TSR\u00a0Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "id": 740949,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-savane-sur-du-ciment-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Tsr-crew-savane-sur-du-ciment-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 6357
+                },
+                "title": "Savane Sur Du Ciment",
+                "title_with_featured": "Savane Sur Du Ciment",
+                "url": "https://genius.com/Tsr-crew-savane-sur-du-ciment-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/111702",
+                "artist_names": "Hugo TSR",
+                "full_title": "S\u00e9lection Naturelle by\u00a0Hugo\u00a0TSR",
+                "header_image_thumbnail_url": "https://images.genius.com/2d807b9a59c71917016d40b82a390225.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2d807b9a59c71917016d40b82a390225.1000x1000x1.jpg",
+                "id": 111702,
+                "language": "fr",
+                "lyrics_owner_id": 140478,
+                "lyrics_state": "complete",
+                "path": "/Hugo-tsr-selection-naturelle-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Hugo-tsr-selection-naturelle-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 3,
+                    "day": 25
+                },
+                "release_date_for_display": "March 25, 2008",
+                "release_date_with_abbreviated_month_for_display": "Mar. 25, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2d807b9a59c71917016d40b82a390225.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2d807b9a59c71917016d40b82a390225.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 14385
+                },
+                "title": "S\u00e9lection Naturelle",
+                "title_with_featured": "S\u00e9lection Naturelle",
+                "url": "https://genius.com/Hugo-tsr-selection-naturelle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15176",
+                    "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                    "id": 15176,
+                    "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugo TSR",
+                    "url": "https://genius.com/artists/Hugo-tsr"
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/6143083",
+                "artist_names": "Hugo TSR",
+                "full_title": "Sense\u00ef by\u00a0Hugo\u00a0TSR",
+                "header_image_thumbnail_url": "https://images.genius.com/533c75c34fba771186c9e032b7b1e2ef.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/533c75c34fba771186c9e032b7b1e2ef.1000x1000x1.jpg",
+                "id": 6143083,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hugo-tsr-sensei-lyrics",
+                "pyongs_count": 9,
+                "relationships_index_url": "https://genius.com/Hugo-tsr-sensei-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/533c75c34fba771186c9e032b7b1e2ef.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/533c75c34fba771186c9e032b7b1e2ef.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false,
+                    "pageviews": 22255
+                },
+                "title": "Sense\u00ef",
+                "title_with_featured": "Sense\u00ef",
+                "url": "https://genius.com/Hugo-tsr-sensei-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15176",
+                    "header_image_url": "https://images.genius.com/bc8da9089950801aa43d9a803ac81c29.1000x667x1.jpg",
+                    "id": 15176,
+                    "image_url": "https://images.genius.com/ad8788d82d03018cdf9ec40a5b30b6ea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugo TSR",
+                    "url": "https://genius.com/artists/Hugo-tsr"
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/740929",
+                "artist_names": "TSR Crew",
+                "full_title": "Seum drogue millionnaire by\u00a0TSR\u00a0Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "id": 740929,
+                "language": "fr",
+                "lyrics_owner_id": 808765,
+                "lyrics_state": "complete",
+                "path": "/Tsr-crew-seum-drogue-millionnaire-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Tsr-crew-seum-drogue-millionnaire-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1907d2ff2e204c8fd39bfb1f934113a7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 19,
+                    "hot": false,
+                    "pageviews": 27243
+                },
+                "title": "Seum drogue millionnaire",
+                "title_with_featured": "Seum drogue millionnaire",
+                "url": "https://genius.com/Tsr-crew-seum-drogue-millionnaire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15056",
+                    "header_image_url": "https://images.genius.com/1b91b9d5bfd2159eaa28ebc1652a069a.918x207x1.jpg",
+                    "id": 15056,
+                    "image_url": "https://images.genius.com/36a4df6fb4523e897bcba12e567d8dd3.948x948x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TSR Crew",
+                    "url": "https://genius.com/artists/Tsr-crew"
+                }
+            }
+        ],
+        "next_page": 9
+    }
+}

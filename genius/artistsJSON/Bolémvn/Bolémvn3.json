@@ -1,0 +1,1045 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7028829",
+                "artist_names": "Seven Binks (Ft. 2z\u00e9, Bol\u00e9mvn, Chicaille Argent\u00e9, Kaflo, Keusty, Koba LaD, Kodes & Shotas)",
+                "full_title": "Cach\u00e9 by\u00a0Seven\u00a0Binks (Ft.\u00a02z\u00e9, Bol\u00e9mvn, Chicaille\u00a0Argent\u00e9, Kaflo, Keusty, Koba\u00a0LaD, Kodes & Shotas)",
+                "header_image_thumbnail_url": "https://images.genius.com/bf01ad329ad539e4397c3ac9659c4f3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf01ad329ad539e4397c3ac9659c4f3a.1000x1000x1.jpg",
+                "id": 7028829,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Seven-binks-cache-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seven-binks-cache-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 23
+                },
+                "release_date_for_display": "July 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf01ad329ad539e4397c3ac9659c4f3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf01ad329ad539e4397c3ac9659c4f3a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Cach\u00e9",
+                "title_with_featured": "Cach\u00e9 (Ft.\u00a02z\u00e9, Bol\u00e9mvn, Chicaille\u00a0Argent\u00e9, Kaflo, Keusty, Koba\u00a0LaD, Kodes & Shotas)",
+                "url": "https://genius.com/Seven-binks-cache-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1927880",
+                        "header_image_url": "https://images.genius.com/6b0392f693d7b388bbd33a3eb35bcd16.320x320x1.jpg",
+                        "id": 1927880,
+                        "image_url": "https://images.genius.com/c4c07cdab866bb99ade0ea3bcac0cc40.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Chicaille Argent\u00e9",
+                        "url": "https://genius.com/artists/Chicaille-argente"
+                    },
+                    {
+                        "api_path": "/artists/1443462",
+                        "header_image_url": "https://images.genius.com/b90a3a66938f0a0a6488e5a08b70fb2d.1000x1000x1.jpg",
+                        "id": 1443462,
+                        "image_url": "https://images.genius.com/b90a3a66938f0a0a6488e5a08b70fb2d.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kaflo",
+                        "url": "https://genius.com/artists/Kaflo"
+                    },
+                    {
+                        "api_path": "/artists/1599302",
+                        "header_image_url": "https://images.genius.com/1a9ab334d02a8a9025104b1196cd7d9c.380x380x1.jpg",
+                        "id": 1599302,
+                        "image_url": "https://images.genius.com/6446d4633a892f6dd02d17d8b8e2ff28.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kodes",
+                        "url": "https://genius.com/artists/Kodes"
+                    },
+                    {
+                        "api_path": "/artists/1414976",
+                        "header_image_url": "https://images.genius.com/2f3db1e5da75c3185d7a8e505300859f.1000x1000x1.jpg",
+                        "id": 1414976,
+                        "image_url": "https://images.genius.com/2f3db1e5da75c3185d7a8e505300859f.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shotas",
+                        "url": "https://genius.com/artists/Shotas"
+                    },
+                    {
+                        "api_path": "/artists/1762208",
+                        "header_image_url": "https://images.genius.com/b531c20458670727ac44f7fc71a01d6e.1000x1000x1.jpg",
+                        "id": 1762208,
+                        "image_url": "https://images.genius.com/b531c20458670727ac44f7fc71a01d6e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Keusty",
+                        "url": "https://genius.com/artists/Keusty"
+                    },
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    },
+                    {
+                        "api_path": "/artists/1247832",
+                        "header_image_url": "https://images.genius.com/c11572841c66776b446a184970264935.1000x563x1.jpg",
+                        "id": 1247832,
+                        "image_url": "https://images.genius.com/ff73d468595582d3ba6317b55d7bb0d2.675x675x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koba LaD",
+                        "url": "https://genius.com/artists/Koba-lad"
+                    },
+                    {
+                        "api_path": "/artists/311883",
+                        "header_image_url": "https://images.genius.com/cd2ab4d32e55cf28763353b11ee7dc7c.1000x1000x1.jpg",
+                        "id": 311883,
+                        "image_url": "https://images.genius.com/cd2ab4d32e55cf28763353b11ee7dc7c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "2z\u00e9",
+                        "url": "https://genius.com/artists/2ze"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1558533",
+                    "header_image_url": "https://images.genius.com/38d059e13e962473eef75b45de7d31fe.1000x539x1.jpg",
+                    "id": 1558533,
+                    "image_url": "https://images.genius.com/92d840bc164d89dda02f17fb2fbb0e76.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Seven Binks",
+                    "url": "https://genius.com/artists/Seven-binks"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7175692",
+                "artist_names": "Junior Bvndo (Ft. Bol\u00e9mvn)",
+                "full_title": "Candy Shop by\u00a0Junior\u00a0Bvndo (Ft.\u00a0Bol\u00e9mvn)",
+                "header_image_thumbnail_url": "https://images.genius.com/fc0792d00080fc076bc88aeb4e44c0ca.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/fc0792d00080fc076bc88aeb4e44c0ca.1000x517x1.jpg",
+                "id": 7175692,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Junior-bvndo-candy-shop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Junior-bvndo-candy-shop-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 9
+                },
+                "release_date_for_display": "September 9, 2021",
+                "release_date_with_abbreviated_month_for_display": "Sep. 9, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f54c2c4c567a18a6523c26c27924c6e1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f54c2c4c567a18a6523c26c27924c6e1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Candy Shop",
+                "title_with_featured": "Candy Shop (Ft.\u00a0Bol\u00e9mvn)",
+                "url": "https://genius.com/Junior-bvndo-candy-shop-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1120806",
+                    "header_image_url": "https://images.genius.com/b92f74fe2132270efc6786125ec73347.600x600x1.png",
+                    "id": 1120806,
+                    "image_url": "https://images.genius.com/2a31159d0b7d397191c385f81586065f.870x870x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Junior Bvndo",
+                    "url": "https://genius.com/artists/Junior-bvndo"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3954020",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "Carr\u00e9ment Gang by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.500x500x1.jpg",
+                "id": 3954020,
+                "language": "fr",
+                "lyrics_owner_id": 6552699,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-carrement-gang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-carrement-gang-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 7
+                },
+                "release_date_for_display": "September 7, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 7, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 5318
+                },
+                "title": "Carr\u00e9ment Gang",
+                "title_with_featured": "Carr\u00e9ment Gang",
+                "url": "https://genius.com/Bolemvn-carrement-gang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4081567",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "C.C. by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.500x500x1.jpg",
+                "id": 4081567,
+                "language": "fr",
+                "lyrics_owner_id": 2156134,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-cc-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-cc-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 9
+                },
+                "release_date_for_display": "November 9, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/84800572b45cde751ab76bca0a107efc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "C.C.",
+                "title_with_featured": "C.C.",
+                "url": "https://genius.com/Bolemvn-cc-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4691542",
+                "artist_names": "Dosseh (Ft. Bol\u00e9mvn)",
+                "full_title": "C.E.R by\u00a0Dosseh (Ft.\u00a0Bol\u00e9mvn)",
+                "header_image_thumbnail_url": "https://images.genius.com/25a664623ba92ba7c4a6d059bb88319c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25a664623ba92ba7c4a6d059bb88319c.1000x1000x1.jpg",
+                "id": 4691542,
+                "language": "en",
+                "lyrics_owner_id": 126840,
+                "lyrics_state": "complete",
+                "path": "/Dosseh-cer-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dosseh-cer-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25a664623ba92ba7c4a6d059bb88319c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25a664623ba92ba7c4a6d059bb88319c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "C.E.R",
+                "title_with_featured": "C.E.R (Ft.\u00a0Bol\u00e9mvn)",
+                "url": "https://genius.com/Dosseh-cer-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2223",
+                    "header_image_url": "https://images.genius.com/559c521953ff008a1eca1d304b7abbbc.591x279x1.png",
+                    "id": 2223,
+                    "image_url": "https://images.genius.com/d20e130f4c7d3e8d760650f9ee576662.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dosseh",
+                    "url": "https://genius.com/artists/Dosseh",
+                    "iq": 1690
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8016489",
+                "artist_names": "Seven Binks (Ft. Bol\u00e9mvn & Koba LaD)",
+                "full_title": "C'est doux by\u00a0Seven\u00a0Binks (Ft.\u00a0Bol\u00e9mvn & Koba\u00a0LaD)",
+                "header_image_thumbnail_url": "https://images.genius.com/69be8e0b2a931794d2d494513bdd58be.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/69be8e0b2a931794d2d494513bdd58be.1000x1000x1.jpg",
+                "id": 8016489,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Seven-binks-cest-doux-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seven-binks-cest-doux-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 24
+                },
+                "release_date_for_display": "June 24, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 24, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/69be8e0b2a931794d2d494513bdd58be.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/69be8e0b2a931794d2d494513bdd58be.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est doux",
+                "title_with_featured": "C'est doux (Ft.\u00a0Bol\u00e9mvn & Koba\u00a0LaD)",
+                "url": "https://genius.com/Seven-binks-cest-doux-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1247832",
+                        "header_image_url": "https://images.genius.com/c11572841c66776b446a184970264935.1000x563x1.jpg",
+                        "id": 1247832,
+                        "image_url": "https://images.genius.com/ff73d468595582d3ba6317b55d7bb0d2.675x675x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koba LaD",
+                        "url": "https://genius.com/artists/Koba-lad"
+                    },
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1558533",
+                    "header_image_url": "https://images.genius.com/38d059e13e962473eef75b45de7d31fe.1000x539x1.jpg",
+                    "id": 1558533,
+                    "image_url": "https://images.genius.com/92d840bc164d89dda02f17fb2fbb0e76.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Seven Binks",
+                    "url": "https://genius.com/artists/Seven-binks"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4595321",
+                "artist_names": "Hiro (Ft. Bol\u00e9mvn)",
+                "full_title": "C\u2019est g\u00e2t\u00e9 by\u00a0Hiro (Ft.\u00a0Bol\u00e9mvn)",
+                "header_image_thumbnail_url": "https://images.genius.com/c51330629e75a0c1b16be64f941709ac.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c51330629e75a0c1b16be64f941709ac.600x600x1.jpg",
+                "id": 4595321,
+                "language": "fr",
+                "lyrics_owner_id": 8887242,
+                "lyrics_state": "complete",
+                "path": "/Hiro-cest-gate-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hiro-cest-gate-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c51330629e75a0c1b16be64f941709ac.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c51330629e75a0c1b16be64f941709ac.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est g\u00e2t\u00e9",
+                "title_with_featured": "C\u2019est g\u00e2t\u00e9 (Ft.\u00a0Bol\u00e9mvn)",
+                "url": "https://genius.com/Hiro-cest-gate-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/328600",
+                    "header_image_url": "https://images.genius.com/e33af63601345171f022cbb264edff13.768x768x1.jpg",
+                    "id": 328600,
+                    "image_url": "https://images.genius.com/e33af63601345171f022cbb264edff13.768x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hiro",
+                    "url": "https://genius.com/artists/Hiro",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5557214",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "C'\u00e9tait pas nous by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.1000x1000x1.jpg",
+                "id": 5557214,
+                "language": "fr",
+                "lyrics_owner_id": 10678948,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-cetait-pas-nous-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-cetait-pas-nous-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "C\u2019\u00e9tait pas nous",
+                "title_with_featured": "C'\u00e9tait pas nous",
+                "url": "https://genius.com/Bolemvn-cetait-pas-nous-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6932650",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "Chez moi by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/81955136bb5214dbbc05fcc5614245f9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/81955136bb5214dbbc05fcc5614245f9.1000x1000x1.jpg",
+                "id": 6932650,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-chez-moi-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Bolemvn-chez-moi-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 9
+                },
+                "release_date_for_display": "July 9, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 9, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/81955136bb5214dbbc05fcc5614245f9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/81955136bb5214dbbc05fcc5614245f9.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Chez moi",
+                "title_with_featured": "Chez moi",
+                "url": "https://genius.com/Bolemvn-chez-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7743444",
+                "artist_names": "Bol\u00e9mvn (Ft. Koba LaD)",
+                "full_title": "Chic choc by\u00a0Bol\u00e9mvn (Ft.\u00a0Koba\u00a0LaD)",
+                "header_image_thumbnail_url": "https://images.genius.com/7aed67103e6779d44e20b96e70979ece.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/7aed67103e6779d44e20b96e70979ece.1000x563x1.jpg",
+                "id": 7743444,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-chic-choc-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-chic-choc-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 1
+                },
+                "release_date_for_display": "April 1, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 1, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6fe467322d1aa75f7be98cb0e8934a19.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6fe467322d1aa75f7be98cb0e8934a19.358x358x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 19531
+                },
+                "title": "Chic choc",
+                "title_with_featured": "Chic choc (Ft.\u00a0Koba\u00a0LaD)",
+                "url": "https://genius.com/Bolemvn-chic-choc-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1247832",
+                        "header_image_url": "https://images.genius.com/c11572841c66776b446a184970264935.1000x563x1.jpg",
+                        "id": 1247832,
+                        "image_url": "https://images.genius.com/ff73d468595582d3ba6317b55d7bb0d2.675x675x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koba LaD",
+                        "url": "https://genius.com/artists/Koba-lad"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7661505",
+                "artist_names": "Bol\u00e9mvn (Ft. Alonzo)",
+                "full_title": "Cho Na Cho by\u00a0Bol\u00e9mvn (Ft.\u00a0Alonzo)",
+                "header_image_thumbnail_url": "https://images.genius.com/c559145e8999f05bb10a5b776d219c1d.300x126x1.jpg",
+                "header_image_url": "https://images.genius.com/c559145e8999f05bb10a5b776d219c1d.640x268x1.jpg",
+                "id": 7661505,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-cho-na-cho-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-cho-na-cho-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 4
+                },
+                "release_date_for_display": "February 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6e2f40611c8d198896a4bb9630a33f2a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6e2f40611c8d198896a4bb9630a33f2a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Cho Na Cho",
+                "title_with_featured": "Cho Na Cho (Ft.\u00a0Alonzo)",
+                "url": "https://genius.com/Bolemvn-cho-na-cho-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4629082",
+                "artist_names": "Shotas",
+                "full_title": "Clickos by\u00a0Shotas",
+                "header_image_thumbnail_url": "https://images.genius.com/965713d4e7d3a53e99051fba610c54af.300x118x1.jpg",
+                "header_image_url": "https://images.genius.com/965713d4e7d3a53e99051fba610c54af.680x268x1.jpg",
+                "id": 4629082,
+                "language": "fr",
+                "lyrics_owner_id": 5685516,
+                "lyrics_state": "complete",
+                "path": "/Shotas-clickos-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Shotas-clickos-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/262333c809c960a6e6b7c4d9992d8e50.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/262333c809c960a6e6b7c4d9992d8e50.828x828x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Clickos",
+                "title_with_featured": "Clickos",
+                "url": "https://genius.com/Shotas-clickos-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1414976",
+                    "header_image_url": "https://images.genius.com/2f3db1e5da75c3185d7a8e505300859f.1000x1000x1.jpg",
+                    "id": 1414976,
+                    "image_url": "https://images.genius.com/2f3db1e5da75c3185d7a8e505300859f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shotas",
+                    "url": "https://genius.com/artists/Shotas"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/5557212",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "Coach\u00e9 by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.1000x1000x1.jpg",
+                "id": 5557212,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-coache-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-coache-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5b351eeba09d824fcd1a4f582c9b8f88.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Coach\u00e9",
+                "title_with_featured": "Coach\u00e9",
+                "url": "https://genius.com/Bolemvn-coache-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6262415",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "Code: Bobo du 7 by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/45c4db7b970fc2c0845f4ba081293325.300x300x1.png",
+                "header_image_url": "https://images.genius.com/45c4db7b970fc2c0845f4ba081293325.1000x1000x1.png",
+                "id": 6262415,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-code-bobo-du-7-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-code-bobo-du-7-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 11
+                },
+                "release_date_for_display": "December 11, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/45c4db7b970fc2c0845f4ba081293325.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/45c4db7b970fc2c0845f4ba081293325.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Code: Bobo du 7",
+                "title_with_featured": "Code: Bobo du 7",
+                "url": "https://genius.com/Bolemvn-code-bobo-du-7-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6079953",
+                "artist_names": "Shotas",
+                "full_title": "Code: S7 by\u00a0Shotas",
+                "header_image_thumbnail_url": "https://images.genius.com/60ef78609a8caf960c9c3386aca0368a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/60ef78609a8caf960c9c3386aca0368a.1000x1000x1.jpg",
+                "id": 6079953,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Shotas-code-s7-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Shotas-code-s7-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/60ef78609a8caf960c9c3386aca0368a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/60ef78609a8caf960c9c3386aca0368a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Code: S7",
+                "title_with_featured": "Code: S7",
+                "url": "https://genius.com/Shotas-code-s7-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1414976",
+                    "header_image_url": "https://images.genius.com/2f3db1e5da75c3185d7a8e505300859f.1000x1000x1.jpg",
+                    "id": 1414976,
+                    "image_url": "https://images.genius.com/2f3db1e5da75c3185d7a8e505300859f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shotas",
+                    "url": "https://genius.com/artists/Shotas"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7266351",
+                "artist_names": "Trafiquint\u00e9 (Ft. Bol\u00e9mvn)",
+                "full_title": "Combien by\u00a0Trafiquint\u00e9 (Ft.\u00a0Bol\u00e9mvn)",
+                "header_image_thumbnail_url": "https://images.genius.com/39ba100e21dfccf4726aedadbaf00204.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/39ba100e21dfccf4726aedadbaf00204.500x500x1.jpg",
+                "id": 7266351,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Trafiquinte-combien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Trafiquinte-combien-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 21
+                },
+                "release_date_for_display": "July 21, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 21, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/39ba100e21dfccf4726aedadbaf00204.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/39ba100e21dfccf4726aedadbaf00204.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Combien",
+                "title_with_featured": "Combien (Ft.\u00a0Bol\u00e9mvn)",
+                "url": "https://genius.com/Trafiquinte-combien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/504998",
+                    "header_image_url": "https://images.genius.com/735ada188347b561bbedbef2b76bc519.1000x563x1.jpg",
+                    "id": 504998,
+                    "image_url": "https://images.genius.com/d865e79408fc0a5e9d0dba56253e08d4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trafiquint\u00e9",
+                    "url": "https://genius.com/artists/Trafiquinte"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8556225",
+                "artist_names": "DJ Flash (Ft. Bol\u00e9mvn)",
+                "full_title": "Comme jamais by\u00a0DJ\u00a0Flash (Ft.\u00a0Bol\u00e9mvn)",
+                "header_image_thumbnail_url": "https://images.genius.com/83112f2a70c95d1d321a9e2a0f20c219.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/83112f2a70c95d1d321a9e2a0f20c219.1000x1000x1.jpg",
+                "id": 8556225,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Dj-flash-comme-jamais-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dj-flash-comme-jamais-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 18
+                },
+                "release_date_for_display": "November 18, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 18, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/83112f2a70c95d1d321a9e2a0f20c219.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/83112f2a70c95d1d321a9e2a0f20c219.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Comme jamais",
+                "title_with_featured": "Comme jamais (Ft.\u00a0Bol\u00e9mvn)",
+                "url": "https://genius.com/Dj-flash-comme-jamais-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/30820",
+                    "header_image_url": "https://images.genius.com/21161444aee48a780d61de5be4426c01.300x300x1.jpg",
+                    "id": 30820,
+                    "image_url": "https://images.genius.com/21161444aee48a780d61de5be4426c01.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DJ Flash",
+                    "url": "https://genius.com/artists/Dj-flash"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5449179",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "Comment \u00e7a va ? by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/e8c47e49cd0791d577a3457284043b2f.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/e8c47e49cd0791d577a3457284043b2f.1000x563x1.jpg",
+                "id": 5449179,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-comment-ca-va-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-comment-ca-va-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 10
+                },
+                "release_date_for_display": "April 10, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 10, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c04edc6ca75ea07afb34c49aeda9e0b9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c04edc6ca75ea07afb34c49aeda9e0b9.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Comment \u00e7a va ?",
+                "title_with_featured": "Comment \u00e7a va ?",
+                "url": "https://genius.com/Bolemvn-comment-ca-va-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6158718",
+                "artist_names": "Ysos (Ft. Bol\u00e9mvn)",
+                "full_title": "Comme Un Wesh by\u00a0Ysos (Ft.\u00a0Bol\u00e9mvn)",
+                "header_image_thumbnail_url": "https://images.genius.com/09831615702512e15a3e53c58546d391.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/09831615702512e15a3e53c58546d391.1000x563x1.jpg",
+                "id": 6158718,
+                "language": "en",
+                "lyrics_owner_id": 59039,
+                "lyrics_state": "complete",
+                "path": "/Ysos-comme-un-wesh-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ysos-comme-un-wesh-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5437c23a429cd020201bd0aa72df0e85.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5437c23a429cd020201bd0aa72df0e85.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 5810
+                },
+                "title": "Comme Un Wesh",
+                "title_with_featured": "Comme Un Wesh (Ft.\u00a0Bol\u00e9mvn)",
+                "url": "https://genius.com/Ysos-comme-un-wesh-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1165775",
+                    "header_image_url": "https://images.genius.com/3db608cb1d2287a007e07f50bf214c76.1000x563x1.jpg",
+                    "id": 1165775,
+                    "image_url": "https://images.genius.com/9f2d5089ef9bd6e36821a5b17081e4de.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ysos",
+                    "url": "https://genius.com/artists/Ysos"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7989445",
+                "artist_names": "Bol\u00e9mvn",
+                "full_title": "Copacabana by\u00a0Bol\u00e9mvn",
+                "header_image_thumbnail_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                "id": 7989445,
+                "language": "en",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-copacabana-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-copacabana-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 11
+                },
+                "release_date_for_display": "May 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Copacabana",
+                "title_with_featured": "Copacabana",
+                "url": "https://genius.com/Bolemvn-copacabana-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/49af9de4a5b2339d6c3177bf774e2138.500x500x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}
