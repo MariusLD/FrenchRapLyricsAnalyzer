@@ -1,10 +1,12 @@
 # Run pip install -r requirements.txt in this directory
 import requests
 import json
-from decouple import config
+import pandas as pd
 import re
 import os
+from decouple import config
 from bs4 import BeautifulSoup
+from datetime import datetime 
 
 # Function to send a request to Genius API, where the type of request is required and its endpoint 
 def requestFormat(method, endpoint):
@@ -44,7 +46,9 @@ def getLyrics(url):
         lyrics = re.sub(r'(?i)^.*\bLyrics\b.*$', '', lyrics, flags=re.MULTILINE)
         
         # We delete a \n before every lines starting with "[Paroles ..."
-        lyrics = re.sub(r'(\n)[\[]Paroles', '[Paroles', lyrics)
+        lyrics = re.sub(r'\[.*?\]', '', lyrics, flags=re.MULTILINE)
+
+        lyrics = lyrics.replace("You might also like", '')
         
         # We delete every lines with a single digit in it 
         lines = lyrics.split('\n')
@@ -57,15 +61,10 @@ def getLyrics(url):
     else:
         return None
 
-def allLyricsToFile(name, urls):
+start_time = datetime.now()
 
-    # For all the songs urls from the 'name' artist, we call the above function to get the lyrics and concatenate it into a new file
-    f = open(working_directory + '/genius/artistsJSON/' + name + '/lyrics_' + name.lower() + '.txt', 'wb')
-    for url in urls:
-        lyrics = getLyrics(url)
-        if lyrics is not None:
-            f.write(lyrics.encode("utf8"))
-    f.close()
+# Dataframe for processing
+all_song_data = pd.DataFrame()
 
 # We iterate through the array of names
 for name in allNames:
@@ -98,17 +97,40 @@ for name in allNames:
 
         with open('genius/artistsJSON/'+ formatedName +'/' + formatedName + '.json', 'w') as f:
             count = 1
-            urls = []
             artistPage = requestFormat("get", 'artists/' + str(id) + '/songs')
 
             # Loop until there is no more page to request for this artist
             while artistPage.json()['response']['next_page'] != None:
                 artistPage = requestFormat("get", 'artists/' + str(id) + '/songs?page=' + str(count))
                 json.dump(artistPage.json(), f, indent=4, separators=(',', ': '))
-
+                
                 # We iterate through all songs from the artist
                 for song in artistPage.json()['response']['songs']:
-                    urls.append(song['url'])
+
+                    # Check if the artists isn't a featured artist
+                    if (id == song['primary_artist']['id']):
+                        collected = getLyrics(song['url'])
+                        if (collected != None):
+                            lyrics = collected
+                            songTitle = song['full_title'].replace('\u00a0', ' ')
+                            print(songTitle)
+                            date = song['release_date_components']
+                            if (date != None):
+                                year = song['release_date_components']['year']
+                            else :
+                                year = None
+                            countF = sum([len(song['featured_artists'])])
+                            row = {
+                                "Year": year,
+                                "Song Title": songTitle,
+                                "Artist": formatedName,
+                                "Lyrics": lyrics,
+                                "Number of featured artists" : countF
+                            }
+                            new_df = pd.DataFrame([row])
+                            all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
                 count += 1
-                
-            allLyricsToFile(formatedName, urls)          
+            
+all_song_data.to_csv('lyrics_df.csv', index=False, header=True)
+end_time = datetime.now()
+print("Total time to collect: {}".format(end_time - start_time))          
