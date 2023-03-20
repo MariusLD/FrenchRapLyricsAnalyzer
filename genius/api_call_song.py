@@ -76,63 +76,67 @@ for name in allNames:
     pageToJSON = geniusSearch.json()['response']['hits']
     
     if len(pageToJSON) > 0:
-        # We check if the first name dropping is the same as the one we typed, otherwise we consider that the artist is not referenced on the website
-        if name==re.sub(r'\([^)]*\)', '', pageToJSON[0]['result']['artist_names']).strip():
 
-            # Now we can get its id
-            id = pageToJSON[0]['result']['primary_artist']['id']
+        # We iterate through the response to find the exact name as the search
+        for searchOption in pageToJSON :
 
-            # For each artist found we create their own json with relevant infos such as all the songs they made 
-            formatedName = name.replace(" ", "_")
-            print("Collecting lyrics for: " + formatedName)
+            # We check if the first name dropping is the same as the one we typed, otherwise we consider that the artist is not referenced on the website
+            if name==re.sub(r'\([^)]*\)', '', searchOption['result']['artist_names']).strip():
 
-            # We create a directory for the artist
-            file_path = working_directory + '/genius/artistsJSON/' + formatedName
-            isExist = os.path.exists(file_path)
-            if not isExist:
-                os.makedirs(file_path)
+                # Now we can get its id
+                id = searchOption['result']['primary_artist']['id']
 
-            # Pattern to replace songs titles
-            rep = {"\xa0": "", " ": "_", "/": ""}
-            rep = dict((re.escape(k), v) for k, v in rep.items()) 
-            pattern = re.compile("|".join(rep.keys()))
+                # For each artist found we create their own json with relevant infos such as all the songs they made 
+                formatedName = name.replace(" ", "_")
+                print("Collecting lyrics for: " + formatedName)
 
-            
-            count = 1
-            artistPage = requestFormat("get", 'artists/' + str(id) + '/songs')
+                # We create a directory for the artist
+                file_path = working_directory + '/genius/artistsJSON/' + formatedName
+                isExist = os.path.exists(file_path)
+                if not isExist:
+                    os.makedirs(file_path)
 
-            # Loop until there is no more page to request for this artist
-            while artistPage.json()['response']['next_page'] != None:
-                with open('genius/artistsJSON/'+ formatedName +'/' + formatedName + str(count) + '.json', 'w') as f:
-                    artistPage = requestFormat("get", 'artists/' + str(id) + '/songs?page=' + str(count))
-                    json.dump(artistPage.json(), f, indent=4, separators=(',', ': '))
-                    
-                    # We iterate through all songs from the artist
-                    for song in artistPage.json()['response']['songs']:
+                # Pattern to replace songs titles
+                rep = {"\xa0": "", " ": "_", "/": ""}
+                rep = dict((re.escape(k), v) for k, v in rep.items()) 
+                pattern = re.compile("|".join(rep.keys()))
 
-                        # Check if the artists isn't a featured artist
-                        if (id == song['primary_artist']['id']):
-                            collected = getLyrics(song['url'])
-                            if (collected != None):
-                                lyrics = collected
-                                songTitle = song['full_title'].replace('\u00a0', ' ').replace(' by ' + name, '')
-                                print(songTitle)
-                                date = song['release_date_components']
-                                if (date != None):
-                                    year = song['release_date_components']['year']
-                                else :
-                                    year = None
-                                countF = sum([len(song['featured_artists'])])
-                                row = {
-                                    "Year": year,
-                                    "Song Title": songTitle,
-                                    "Artist": formatedName,
-                                    "Lyrics": lyrics,
-                                    "Number of featured artists" : countF
-                                }
-                                new_df = pd.DataFrame([row])
-                                all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
-                    count += 1
+                
+                count = 1
+                artistPage = requestFormat("get", 'artists/' + str(id) + '/songs')
+
+                # Loop until there is no more page to request for this artist
+                while artistPage.json()['response']['next_page'] != None:
+                    with open('genius/artistsJSON/'+ formatedName +'/' + formatedName + str(count) + '.json', 'w') as f:
+                        artistPage = requestFormat("get", 'artists/' + str(id) + '/songs?page=' + str(count))
+                        json.dump(artistPage.json(), f, indent=4, separators=(',', ': '))
+                        
+                        # We iterate through all songs from the artist
+                        for song in artistPage.json()['response']['songs']:
+
+                            # Check if the artists isn't a featured artist
+                            if (id == song['primary_artist']['id']):
+                                collected = getLyrics(song['url'])
+                                if (collected != None):
+                                    lyrics = collected
+                                    songTitle = song['full_title'].replace('\u00a0', ' ').replace(' by ' + name, '')
+                                    print(songTitle)
+                                    date = song['release_date_components']
+                                    if (date != None):
+                                        year = song['release_date_components']['year']
+                                    else :
+                                        year = None
+                                    countF = sum([len(song['featured_artists'])])
+                                    row = {
+                                        "Year": year,
+                                        "Song Title": songTitle,
+                                        "Artist": formatedName,
+                                        "Lyrics": lyrics,
+                                        "Number of featured artists" : countF
+                                    }
+                                    new_df = pd.DataFrame([row])
+                                    all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
+                        count += 1
 all_song_data.to_csv('lyrics_df.csv', index=False, header=True)
 end_time = datetime.now()
 print("Total time to collect: {}".format(end_time - start_time))          
