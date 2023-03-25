@@ -137,6 +137,7 @@ for name in allNames:
                                     new_df = pd.DataFrame([row])
                                     all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
                         count += 1
+                continue
 all_song_data.to_csv('lyrics_df.csv', index=False, header=True)
 end_time = datetime.now()
 print("Total time to collect: {}".format(end_time - start_time))          
