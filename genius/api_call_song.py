@@ -82,7 +82,7 @@ for name in allNames:
 
             # We check if the first name dropping is the same as the one we typed, otherwise we consider that the artist is not referenced on the website
             if name==re.sub(r'\([^)]*\)', '', searchOption['result']['artist_names']).strip():
-
+                print("Match !")
                 # Now we can get its id
                 id = searchOption['result']['primary_artist']['id']
 
@@ -137,7 +137,7 @@ for name in allNames:
                                     new_df = pd.DataFrame([row])
                                     all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
                         count += 1
-                continue
+                break
 all_song_data.to_csv('lyrics_df.csv', index=False, header=True)
 end_time = datetime.now()
 print("Total time to collect: {}".format(end_time - start_time))          
