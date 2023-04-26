@@ -7,6 +7,7 @@ import os
 from decouple import config
 from bs4 import BeautifulSoup
 from datetime import datetime 
+from tqdm import tqdm
 
 # Function to send a request to Genius API, where the type of request is required and its endpoint 
 def requestFormat(method, endpoint):
@@ -27,12 +28,12 @@ file = open(file_path, 'r')
 allNames = file.read().splitlines()
 
 def getLyrics(url):
-
+    print(url)
     # We collect the html object and then parse it with BeautifulSoup to get lyrics from the div class lyrics
     page_url = requests.get(url)
     html = BeautifulSoup(page_url.text, 'html.parser')
     lyrics_div = html.select_one(
-        'div[class^="lyrics"], div[class^="SongPage__Section"]'
+        'div[class^="lyrics"], div[class^="SongPage__Section"], div[class^="Lyrics__Container"]'
     )
 
     if lyrics_div is not None:
@@ -57,8 +58,8 @@ def getLyrics(url):
             if not line.strip().isdigit():
                 lyrics += line + '\n'
         return lyrics
-
     else:
+        print("No lyrics found for the previous url div name may be specific or the song is an instrumental")
         return None
 
 start_time = datetime.now()
@@ -67,7 +68,7 @@ start_time = datetime.now()
 all_song_data = pd.DataFrame()
 
 # We iterate through the array of names
-for name in allNames:
+for name in tqdm(allNames):
 
     # We are making a request as we are typing in the search bar the name of the artist
     geniusSearch = requestFormat('get', 'search?q=' + name.replace(" ", "%20"))
@@ -76,19 +77,17 @@ for name in allNames:
     pageToJSON = geniusSearch.json()['response']['hits']
     
     if len(pageToJSON) > 0:
-
         # We iterate through the response to find the exact name as the search
         for searchOption in pageToJSON :
-
             # We check if the first name dropping is the same as the one we typed, otherwise we consider that the artist is not referenced on the website
-            if name==re.sub(r'\([^)]*\)', '', searchOption['result']['artist_names']).strip():
-                print("Match !")
+            if name.lower()==re.sub(r'\([^)]*\)', '', searchOption['result']['artist_names']).strip().lower():
+                
                 # Now we can get its id
                 id = searchOption['result']['primary_artist']['id']
 
                 # For each artist found we create their own json with relevant infos such as all the songs they made 
                 formatedName = name.replace(" ", "_")
-                print("Collecting lyrics for: " + formatedName)
+                print("Collecting lyrics for: " + name + " with ID : " + str(id))
 
                 # We create a directory for the artist
                 file_path = working_directory + '/genius/artistsJSON/' + formatedName
@@ -101,7 +100,6 @@ for name in allNames:
                 rep = dict((re.escape(k), v) for k, v in rep.items()) 
                 pattern = re.compile("|".join(rep.keys()))
 
-                
                 count = 1
                 artistPage = requestFormat("get", 'artists/' + str(id) + '/songs')
 
@@ -113,26 +111,27 @@ for name in allNames:
                         
                         # We iterate through all songs from the artist
                         for song in artistPage.json()['response']['songs']:
-
+                        
                             # Check if the artists isn't a featured artist
                             if (id == song['primary_artist']['id']):
                                 collected = getLyrics(song['url'])
                                 if (collected != None):
                                     lyrics = collected
                                     songTitle = song['full_title'].replace('\u00a0', ' ').replace(' by ' + name, '')
-                                    print(songTitle)
-                                    date = song['release_date_components']
-                                    if (date != None):
-                                        year = song['release_date_components']['year']
-                                    else :
-                                        year = None
+                                    year = song['release_date_components']['year'] if song['release_date_components'] is not None else None
                                     countF = sum([len(song['featured_artists'])])
+                                    pattern = r"\s*\([^)]*\)"
+                                    # Remove the parentheses and everything inside them from a string
+                                    def remove_parentheses(s):
+                                        return re.sub(pattern, "", s)
+                                    featured = None if not song['featured_artists'] else [remove_parentheses(artist['name']) for artist in song['featured_artists']]
                                     row = {
                                         "Year": year,
                                         "Song Title": songTitle,
                                         "Artist": formatedName,
                                         "Lyrics": lyrics,
-                                        "Number of featured artists" : countF
+                                        "Number of featured artists" : countF,
+                                        "Featured artists" : featured
                                     }
                                     new_df = pd.DataFrame([row])
                                     all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
