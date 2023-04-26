@@ -108,41 +108,47 @@ for name in tqdm(allNames):
                     pattern = re.compile("|".join(rep.keys()))
 
                     count = 1
-                    artistPage = requestFormat("get", 'artists/' + str(id) + '/songs')
+                    has_next_page = True
 
                     # Loop until there is no more page to request for this artist
-                    while artistPage.json()['response']['next_page'] != None:
+                    while True:
+                        artistPage = requestFormat("get", 'artists/' + str(id) + '/songs?page=' + str(count))
+                        if len(artistPage.json()['response']['songs']) == 0:
+                            break
+                        
                         with open('genius/artistsJSON/'+ formatedName +'/' + formatedName + str(count) + '.json', 'w') as f:
-                            artistPage = requestFormat("get", 'artists/' + str(id) + '/songs?page=' + str(count))
                             json.dump(artistPage.json(), f, indent=4, separators=(',', ': '))
-                            
-                            # We iterate through all songs from the artist
-                            for song in artistPage.json()['response']['songs']:
-                            
-                                # Check if the artists isn't a featured artist
-                                if (id == song['primary_artist']['id']):
-                                    collected = getLyrics(song['url'])
-                                    if (collected != None):
-                                        lyrics = collected
-                                        songTitle = song['full_title'].replace('\u00a0', ' ').replace(' by ' + name, '')
-                                        year = song['release_date_components']['year'] if song['release_date_components'] is not None else None
-                                        countF = sum([len(song['featured_artists'])])
-                                        pattern = r"\s*\([^)]*\)"
-                                        # Remove the parentheses and everything inside them from a string
-                                        def remove_parentheses(s):
-                                            return re.sub(pattern, "", s)
-                                        featured = None if not song['featured_artists'] else [remove_parentheses(artist['name']) for artist in song['featured_artists']]
-                                        row = {
-                                            "Year": year,
-                                            "Song Title": songTitle,
-                                            "Artist": formatedName,
-                                            "Lyrics": lyrics,
-                                            "Number of featured artists" : countF,
-                                            "Featured artists" : featured
-                                        }
-                                        new_df = pd.DataFrame([row])
-                                        all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
-                            count += 1
+
+                        # We iterate through all songs from the artist
+                        for song in artistPage.json()['response']['songs']:
+                        
+                            # Check if the artist isn't a featured artist
+                            if (id == song['primary_artist']['id']):
+                                collected = getLyrics(song['url'])
+                                if (collected != None):
+                                    lyrics = collected
+                                    songTitle = song['full_title'].replace('\u00a0', ' ').replace(' by ' + name, '')
+                                    year = song['release_date_components']['year'] if song['release_date_components'] is not None else None
+                                    countF = sum([len(song['featured_artists'])])
+                                    pattern = r"\s*\([^)]*\)"
+                                    # Remove the parentheses and everything inside them from a string
+                                    def remove_parentheses(s):
+                                        return re.sub(pattern, "", s)
+                                    featured = None if not song['featured_artists'] else [remove_parentheses(artist['name']) for artist in song['featured_artists']]
+                                    row = {
+                                        "Year": year,
+                                        "Song Title": songTitle,
+                                        "Artist": formatedName,
+                                        "Lyrics": lyrics,
+                                        "Number of featured artists" : countF,
+                                        "Featured artists" : featured
+                                    }
+                                    new_df = pd.DataFrame([row])
+                                    all_song_data = pd.concat([all_song_data, new_df], axis=0, ignore_index=True)
+
+                        if artistPage.json()['response']['next_page'] is None:
+                            break
+                        count += 1
                     break
     except (requests.exceptions.RequestException, json.decoder.JSONDecodeError) as e:
         fetchLater.append(name)
@@ -151,5 +157,5 @@ for name in tqdm(allNames):
 
 all_song_data.to_csv('lyrics_df.csv', index=False, header=True)
 end_time = datetime.now()
-print("Number of API calls: {} Total time to collect: {}".format(total_calls, end_time - start_time))
+print("Calls to API: {} - Total time to collect: {}".format(total_calls, end_time - start_time))
 print("Artists not found due to wrong API responses: {}".format(fetchLater))        
