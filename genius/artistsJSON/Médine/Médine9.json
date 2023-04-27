@@ -1,0 +1,1160 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5012034",
+                "artist_names": "Rost (Ft. Baretta, Black R (Fr), D.Rail, Jack Many, M\u00e9dine, Noir Sur Blanc, Riski & Sismik)",
+                "full_title": "Les voix du sous-sol by\u00a0Rost (Ft.\u00a0Baretta, Black\u00a0R (Fr), D.Rail, Jack\u00a0Many, M\u00e9dine, Noir\u00a0Sur Blanc, Riski & Sismik)",
+                "header_image_thumbnail_url": "https://images.genius.com/5344fe34dba9fa3ef32dbf7b0a698920.250x250x1.jpg",
+                "header_image_url": "https://images.genius.com/5344fe34dba9fa3ef32dbf7b0a698920.250x250x1.jpg",
+                "id": 5012034,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Rost-les-voix-du-sous-sol-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rost-les-voix-du-sous-sol-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 10,
+                    "day": 16
+                },
+                "release_date_for_display": "October 16, 2006",
+                "release_date_with_abbreviated_month_for_display": "Oct. 16, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5344fe34dba9fa3ef32dbf7b0a698920.250x250x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5344fe34dba9fa3ef32dbf7b0a698920.250x250x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Les voix du sous-sol",
+                "title_with_featured": "Les voix du sous-sol (Ft.\u00a0Baretta, Black\u00a0R (Fr), D.Rail, Jack\u00a0Many, M\u00e9dine, Noir\u00a0Sur Blanc, Riski & Sismik)",
+                "url": "https://genius.com/Rost-les-voix-du-sous-sol-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2007804",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2007804,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Noir Sur Blanc",
+                        "url": "https://genius.com/artists/Noir-sur-blanc"
+                    },
+                    {
+                        "api_path": "/artists/2009358",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2009358,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Black R (Fr)",
+                        "url": "https://genius.com/artists/Black-r-fr"
+                    },
+                    {
+                        "api_path": "/artists/186865",
+                        "header_image_url": "https://images.genius.com/53623e68c145e2dceeab45e316139b85.266x400x1.jpg",
+                        "id": 186865,
+                        "image_url": "https://images.genius.com/53623e68c145e2dceeab45e316139b85.266x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jack Many",
+                        "url": "https://genius.com/artists/Jack-many"
+                    },
+                    {
+                        "api_path": "/artists/35463",
+                        "header_image_url": "https://images.genius.com/572c6d6adec33b3705b3028dbec57131.1000x347x1.jpg",
+                        "id": 35463,
+                        "image_url": "https://images.genius.com/edacb0982a70b17b4d04a39e77498738.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Riski",
+                        "url": "https://genius.com/artists/Riski"
+                    },
+                    {
+                        "api_path": "/artists/2009357",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2009357,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "D.Rail",
+                        "url": "https://genius.com/artists/Drail"
+                    },
+                    {
+                        "api_path": "/artists/1265",
+                        "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                        "id": 1265,
+                        "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "M\u00e9dine",
+                        "url": "https://genius.com/artists/Medine",
+                        "iq": 4001
+                    },
+                    {
+                        "api_path": "/artists/2009356",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2009356,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Baretta",
+                        "url": "https://genius.com/artists/Baretta"
+                    },
+                    {
+                        "api_path": "/artists/2009355",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2009355,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sismik",
+                        "url": "https://genius.com/artists/Sismik"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/333221",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 333221,
+                    "image_url": "https://images.genius.com/23a0c4e733c2e2517aa8c6bfd7d827fb.640x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rost",
+                    "url": "https://genius.com/artists/Rost"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/95501",
+                "artist_names": "Tunisiano (Ft. M\u00e9dine & OGB)",
+                "full_title": "Le trait\u00e9 de ma street by\u00a0Tunisiano (Ft.\u00a0M\u00e9dine & OGB)",
+                "header_image_thumbnail_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.398x400x1.jpg",
+                "id": 95501,
+                "language": "fr",
+                "lyrics_owner_id": 68630,
+                "lyrics_state": "complete",
+                "path": "/Tunisiano-le-traite-de-ma-street-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tunisiano-le-traite-de-ma-street-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2010",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.398x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Le trait\u00e9 de ma street",
+                "title_with_featured": "Le trait\u00e9 de ma street (Ft.\u00a0M\u00e9dine & OGB)",
+                "url": "https://genius.com/Tunisiano-le-traite-de-ma-street-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2406499",
+                        "header_image_url": "https://images.genius.com/32eb07410715b61f33e5f69691c27d56.1000x1000x1.jpg",
+                        "id": 2406499,
+                        "image_url": "https://images.genius.com/32eb07410715b61f33e5f69691c27d56.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OGB",
+                        "url": "https://genius.com/artists/Ogb"
+                    },
+                    {
+                        "api_path": "/artists/1265",
+                        "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                        "id": 1265,
+                        "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "M\u00e9dine",
+                        "url": "https://genius.com/artists/Medine",
+                        "iq": 4001
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2248",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/74537_164821406884115_1807342_n.jpg",
+                    "id": 2248,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/74537_164821406884115_1807342_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tunisiano",
+                    "url": "https://genius.com/artists/Tunisiano",
+                    "iq": 375
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/6174",
+                "artist_names": "M\u00e9dine",
+                "full_title": "LH by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/3c59f44775715d3aeba61560690bedc4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3c59f44775715d3aeba61560690bedc4.1000x1000x1.jpg",
+                "id": 6174,
+                "language": null,
+                "lyrics_owner_id": 6383,
+                "lyrics_state": "complete",
+                "path": "/Medine-lh-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Medine-lh-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/3c59f44775715d3aeba61560690bedc4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3c59f44775715d3aeba61560690bedc4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "LH",
+                "title_with_featured": "LH",
+                "url": "https://genius.com/Medine-lh-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/2917035",
+                "artist_names": "M\u00e9dine (Ft. KeBlack & Noraa)",
+                "full_title": "L'homme qui r\u00e9pare les femmes by\u00a0M\u00e9dine (Ft.\u00a0KeBlack & Noraa)",
+                "header_image_thumbnail_url": "https://images.genius.com/4215256be11917df5fd2e9d5d6208404.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4215256be11917df5fd2e9d5d6208404.1000x1000x1.jpg",
+                "id": 2917035,
+                "language": "fr",
+                "lyrics_owner_id": 3856766,
+                "lyrics_state": "complete",
+                "path": "/Medine-lhomme-qui-repare-les-femmes-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Medine-lhomme-qui-repare-les-femmes-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4215256be11917df5fd2e9d5d6208404.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4215256be11917df5fd2e9d5d6208404.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 14775
+                },
+                "title": "L\u2019homme qui r\u00e9pare les femmes",
+                "title_with_featured": "L'homme qui r\u00e9pare les femmes (Ft.\u00a0KeBlack & Noraa)",
+                "url": "https://genius.com/Medine-lhomme-qui-repare-les-femmes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/328799",
+                        "header_image_url": "https://images.genius.com/8ec75c4710fa537ab96a9d7bb8d71635.768x768x1.jpg",
+                        "id": 328799,
+                        "image_url": "https://images.genius.com/8ec75c4710fa537ab96a9d7bb8d71635.768x768x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KeBlack",
+                        "url": "https://genius.com/artists/Keblack"
+                    },
+                    {
+                        "api_path": "/artists/1036926",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1036926,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Noraa",
+                        "url": "https://genius.com/artists/Noraa"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/4157",
+                "artist_names": "M\u00e9dine",
+                "full_title": "Libre Arbitre by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/da760e022688a6a27d6cdfe2424593bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/da760e022688a6a27d6cdfe2424593bc.350x350x1.jpg",
+                "id": 4157,
+                "language": "fr",
+                "lyrics_owner_id": 5528,
+                "lyrics_state": "complete",
+                "path": "/Medine-libre-arbitre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Medine-libre-arbitre-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/da760e022688a6a27d6cdfe2424593bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/da760e022688a6a27d6cdfe2424593bc.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Libre Arbitre",
+                "title_with_featured": "Libre Arbitre",
+                "url": "https://genius.com/Medine-libre-arbitre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/702070",
+                "artist_names": "M\u00e9dine (Ft. La Boussole)",
+                "full_title": "Ligne 11 by\u00a0M\u00e9dine (Ft.\u00a0La\u00a0Boussole)",
+                "header_image_thumbnail_url": "https://images.genius.com/78cefa1b50062f0b69c51a6eead89d50.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/78cefa1b50062f0b69c51a6eead89d50.500x500x1.jpg",
+                "id": 702070,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Medine-ligne-11-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Medine-ligne-11-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/78cefa1b50062f0b69c51a6eead89d50.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/78cefa1b50062f0b69c51a6eead89d50.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ligne 11",
+                "title_with_featured": "Ligne 11 (Ft.\u00a0La\u00a0Boussole)",
+                "url": "https://genius.com/Medine-ligne-11-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/19398",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/La%20Boussole.jpg",
+                        "id": 19398,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/La%20Boussole.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Boussole",
+                        "url": "https://genius.com/artists/La-boussole"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/6035477",
+                "artist_names": "M\u00e9dine",
+                "full_title": "L'imposteur by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/9e87c068314ee115b7f8fb4e7203184a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9e87c068314ee115b7f8fb4e7203184a.640x640x1.jpg",
+                "id": 6035477,
+                "language": "fr",
+                "lyrics_owner_id": 1920812,
+                "lyrics_state": "complete",
+                "path": "/Medine-limposteur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Medine-limposteur-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9e87c068314ee115b7f8fb4e7203184a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9e87c068314ee115b7f8fb4e7203184a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "L\u2019imposteur",
+                "title_with_featured": "L'imposteur",
+                "url": "https://genius.com/Medine-limposteur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/310130",
+                "artist_names": "Bouch\u00e9es Doubles (Ft. M\u00e9dine)",
+                "full_title": "Lire entre les lignes by\u00a0Bouch\u00e9es\u00a0Doubles (Ft.\u00a0M\u00e9dine)",
+                "header_image_thumbnail_url": "https://images.genius.com/b84f760f85aab917362c287193136b6f.300x277x1.jpg",
+                "header_image_url": "https://images.genius.com/b84f760f85aab917362c287193136b6f.900x831x1.jpg",
+                "id": 310130,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Bouchees-doubles-lire-entre-les-lignes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bouchees-doubles-lire-entre-les-lignes-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b84f760f85aab917362c287193136b6f.300x277x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b84f760f85aab917362c287193136b6f.900x831x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lire entre les lignes",
+                "title_with_featured": "Lire entre les lignes (Ft.\u00a0M\u00e9dine)",
+                "url": "https://genius.com/Bouchees-doubles-lire-entre-les-lignes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1265",
+                        "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                        "id": 1265,
+                        "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "M\u00e9dine",
+                        "url": "https://genius.com/artists/Medine",
+                        "iq": 4001
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16511",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/bouchees.jpg",
+                    "id": 16511,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/bouchees.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bouch\u00e9es Doubles",
+                    "url": "https://genius.com/artists/Bouchees-doubles"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5530039",
+                "artist_names": "M\u00e9dine",
+                "full_title": "Lumi\u00e8re by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/d623cbfcf5c30ea1d80ef5b488340ee9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d623cbfcf5c30ea1d80ef5b488340ee9.915x915x1.jpg",
+                "id": 5530039,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Medine-lumiere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Medine-lumiere-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/d623cbfcf5c30ea1d80ef5b488340ee9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d623cbfcf5c30ea1d80ef5b488340ee9.915x915x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lumi\u00e8re",
+                "title_with_featured": "Lumi\u00e8re",
+                "url": "https://genius.com/Medine-lumiere-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/116357",
+                "artist_names": "M\u00e9dine (Ft. Aboubakr)",
+                "full_title": "Machine \u00e0 \u00e9crire by\u00a0M\u00e9dine (Ft.\u00a0Aboubakr)",
+                "header_image_thumbnail_url": "https://images.genius.com/2993f6b7107d535ea5deea85ccd52c33.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/2993f6b7107d535ea5deea85ccd52c33.400x397x1.jpg",
+                "id": 116357,
+                "language": "fr",
+                "lyrics_owner_id": 110163,
+                "lyrics_state": "complete",
+                "path": "/Medine-machine-a-ecrire-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Medine-machine-a-ecrire-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/2993f6b7107d535ea5deea85ccd52c33.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2993f6b7107d535ea5deea85ccd52c33.400x397x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Machine \u00e0 \u00e9crire",
+                "title_with_featured": "Machine \u00e0 \u00e9crire (Ft.\u00a0Aboubakr)",
+                "url": "https://genius.com/Medine-machine-a-ecrire-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11625",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/big.62597055.jpg",
+                        "id": 11625,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/big.62597055.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Aboubakr",
+                        "url": "https://genius.com/artists/Aboubakr"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3559474",
+                "artist_names": "M\u00e9dine (Ft. Soolking)",
+                "full_title": "Madara by\u00a0M\u00e9dine (Ft.\u00a0Soolking)",
+                "header_image_thumbnail_url": "https://images.genius.com/caf982135f2e9dbac10e5f9675c0f5c0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/caf982135f2e9dbac10e5f9675c0f5c0.1000x1000x1.jpg",
+                "id": 3559474,
+                "language": "en",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Medine-madara-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Medine-madara-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/caf982135f2e9dbac10e5f9675c0f5c0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/caf982135f2e9dbac10e5f9675c0f5c0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 22835
+                },
+                "title": "Madara",
+                "title_with_featured": "Madara (Ft.\u00a0Soolking)",
+                "url": "https://genius.com/Medine-madara-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/693078",
+                        "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                        "id": 693078,
+                        "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soolking",
+                        "url": "https://genius.com/artists/Soolking"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 32,
+                "api_path": "/songs/92520",
+                "artist_names": "M\u00e9dine (Ft. Brav & Jmi Sissoko)",
+                "full_title": "Made In by\u00a0M\u00e9dine (Ft.\u00a0Brav & Jmi\u00a0Sissoko)",
+                "header_image_thumbnail_url": "https://images.genius.com/d7d823666888a4a9fb40df9228889d32.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d7d823666888a4a9fb40df9228889d32.1000x1000x1.jpg",
+                "id": 92520,
+                "language": "fr",
+                "lyrics_owner_id": 110163,
+                "lyrics_state": "complete",
+                "path": "/Medine-made-in-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Medine-made-in-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 19
+                },
+                "release_date_for_display": "January 19, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jan. 19, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d7d823666888a4a9fb40df9228889d32.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d7d823666888a4a9fb40df9228889d32.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 21326
+                },
+                "title": "Made In",
+                "title_with_featured": "Made In (Ft.\u00a0Brav & Jmi\u00a0Sissoko)",
+                "url": "https://genius.com/Medine-made-in-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1882",
+                        "header_image_url": "https://images.genius.com/54716876397857bd3131a968a5444c09.1000x608x1.jpg",
+                        "id": 1882,
+                        "image_url": "https://images.genius.com/e0a515e3b6992919488e44568ce5a73d.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Brav",
+                        "url": "https://genius.com/artists/Brav",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/13950",
+                        "header_image_url": "https://images.genius.com/2ef195e88d08a5a8718da5bcc8ccd914.200x200x1.jpg",
+                        "id": 13950,
+                        "image_url": "https://images.genius.com/2ef195e88d08a5a8718da5bcc8ccd914.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jmi Sissoko",
+                        "url": "https://genius.com/artists/Jmi-sissoko"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5613159",
+                "artist_names": "Tiers",
+                "full_title": "Mamadou by\u00a0Tiers",
+                "header_image_thumbnail_url": "https://images.genius.com/52b7a53ae321d4fd7150cf5aa6dec8d5.300x209x1.jpg",
+                "header_image_url": "https://images.genius.com/52b7a53ae321d4fd7150cf5aa6dec8d5.1000x697x1.jpg",
+                "id": 5613159,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Tiers-mamadou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tiers-mamadou-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 27
+                },
+                "release_date_for_display": "May 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a959fc694c5eca56c8bbc2864a3735c4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a959fc694c5eca56c8bbc2864a3735c4.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mamadou",
+                "title_with_featured": "Mamadou",
+                "url": "https://genius.com/Tiers-mamadou-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1883",
+                    "header_image_url": "https://images.genius.com/52dd218bc1ee62ea960ad86f8dac9033.596x594x1.png",
+                    "id": 1883,
+                    "image_url": "https://images.genius.com/52dd218bc1ee62ea960ad86f8dac9033.596x594x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tiers",
+                    "url": "https://genius.com/artists/Tiers",
+                    "iq": 718
+                }
+            },
+            {
+                "annotation_count": 39,
+                "api_path": "/songs/75619",
+                "artist_names": "Mac Tyer (Ft. Dixon, Le Rat Luciano, Mac Kregor, M\u00e9dine, Ol' Kainry, Rim'K & Salif)",
+                "full_title": "Marche comme un soldat by\u00a0Mac\u00a0Tyer (Ft.\u00a0Dixon, Le\u00a0Rat Luciano, Mac\u00a0Kregor, M\u00e9dine, Ol'\u00a0Kainry, Rim'K & Salif)",
+                "header_image_thumbnail_url": "https://images.genius.com/7960ab93279791059929ebd316e0df23.300x293x1.jpg",
+                "header_image_url": "https://images.genius.com/7960ab93279791059929ebd316e0df23.590x576x1.jpg",
+                "id": 75619,
+                "language": "fr",
+                "lyrics_owner_id": 88700,
+                "lyrics_state": "complete",
+                "path": "/Mac-tyer-marche-comme-un-soldat-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mac-tyer-marche-comme-un-soldat-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2012",
+                "release_date_with_abbreviated_month_for_display": "2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7960ab93279791059929ebd316e0df23.300x293x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7960ab93279791059929ebd316e0df23.590x576x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 5124
+                },
+                "title": "Marche comme un soldat",
+                "title_with_featured": "Marche comme un soldat (Ft.\u00a0Dixon, Le\u00a0Rat Luciano, Mac\u00a0Kregor, M\u00e9dine, Ol'\u00a0Kainry, Rim'K & Salif)",
+                "url": "https://genius.com/Mac-tyer-marche-comme-un-soldat-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2455",
+                        "header_image_url": "https://images.genius.com/58fd31f99d79144a99d186dedf9d60b6.1000x563x1.png",
+                        "id": 2455,
+                        "image_url": "https://images.genius.com/b1b7d2ed16a7de57e9af693f956c3329.502x502x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Rim\u2019K",
+                        "url": "https://genius.com/artists/Rimk",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    },
+                    {
+                        "api_path": "/artists/2249",
+                        "header_image_url": "https://images.genius.com/00a50029d5d9a76676da140882cc86a0.994x1000x1.png",
+                        "id": 2249,
+                        "image_url": "https://images.genius.com/3858b26d915b6dae15fb0b00d010d464.321x321x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ol\u2019 Kainry",
+                        "url": "https://genius.com/artists/Ol-kainry",
+                        "iq": 2058
+                    },
+                    {
+                        "api_path": "/artists/1964",
+                        "header_image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "id": 1964,
+                        "image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Le Rat Luciano",
+                        "url": "https://genius.com/artists/Le-rat-luciano"
+                    },
+                    {
+                        "api_path": "/artists/20813",
+                        "header_image_url": "https://images.genius.com/08bc76232b20f48943f56997d97eda40.599x457x1.jpg",
+                        "id": 20813,
+                        "image_url": "https://images.genius.com/08bc76232b20f48943f56997d97eda40.599x457x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mac Kregor",
+                        "url": "https://genius.com/artists/Mac-kregor"
+                    },
+                    {
+                        "api_path": "/artists/1661998",
+                        "header_image_url": "https://images.genius.com/43f41c8438de0fdd386570b398ee10b4.790x790x1.jpg",
+                        "id": 1661998,
+                        "image_url": "https://images.genius.com/43f41c8438de0fdd386570b398ee10b4.790x790x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dixon",
+                        "url": "https://genius.com/artists/Dixon",
+                        "iq": 254
+                    },
+                    {
+                        "api_path": "/artists/1265",
+                        "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                        "id": 1265,
+                        "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "M\u00e9dine",
+                        "url": "https://genius.com/artists/Medine",
+                        "iq": 4001
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2412",
+                    "header_image_url": "https://images.genius.com/5b1993e9cdeb2066a8eb11cc91d1f089.1000x667x1.jpg",
+                    "id": 2412,
+                    "image_url": "https://images.genius.com/a6a79741ab0f8bc6063e7fe82dd90adf.303x395x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Mac Tyer",
+                    "url": "https://genius.com/artists/Mac-tyer",
+                    "iq": 2139
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3691638",
+                "artist_names": "Kheiron (Ft. Leila Boumedjane, M\u00e9dine & Sofiane)",
+                "full_title": "Mauvaises herbes by\u00a0Kheiron (Ft.\u00a0Leila\u00a0Boumedjane, M\u00e9dine & Sofiane)",
+                "header_image_thumbnail_url": "https://images.genius.com/3bb772e0df77504de6965983d272bedb.300x200x1.jpg",
+                "header_image_url": "https://images.genius.com/3bb772e0df77504de6965983d272bedb.1000x667x1.jpg",
+                "id": 3691638,
+                "language": "fr",
+                "lyrics_owner_id": 1844901,
+                "lyrics_state": "complete",
+                "path": "/Kheiron-mauvaises-herbes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kheiron-mauvaises-herbes-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 30
+                },
+                "release_date_for_display": "April 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7963dea5b721d113c8b674a2ec57ab75.300x122x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7963dea5b721d113c8b674a2ec57ab75.1000x407x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mauvaises herbes",
+                "title_with_featured": "Mauvaises herbes (Ft.\u00a0Leila\u00a0Boumedjane, M\u00e9dine & Sofiane)",
+                "url": "https://genius.com/Kheiron-mauvaises-herbes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1463596",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1463596,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leila Boumedjane",
+                        "url": "https://genius.com/artists/Leila-boumedjane"
+                    },
+                    {
+                        "api_path": "/artists/12085",
+                        "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                        "id": 12085,
+                        "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sofiane",
+                        "url": "https://genius.com/artists/Sofiane",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/1265",
+                        "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                        "id": 1265,
+                        "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "M\u00e9dine",
+                        "url": "https://genius.com/artists/Medine",
+                        "iq": 4001
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1463597",
+                    "header_image_url": "https://images.genius.com/d8f6f9b854d97ff78f2e28cf1a5a707f.1000x667x1.jpg",
+                    "id": 1463597,
+                    "image_url": "https://images.genius.com/bdca66b03531b7b7c902a87525eb3387.219x219x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kheiron",
+                    "url": "https://genius.com/artists/Kheiron"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/4603997",
+                "artist_names": "Akim Omiri (Ft. M\u00e9dine)",
+                "full_title": "MC N\u00e9ma by\u00a0Akim\u00a0Omiri (Ft.\u00a0M\u00e9dine)",
+                "header_image_thumbnail_url": "https://images.genius.com/48eb72236374633046a89986f3f34d27.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/48eb72236374633046a89986f3f34d27.719x720x1.jpg",
+                "id": 4603997,
+                "language": "fr",
+                "lyrics_owner_id": 6388038,
+                "lyrics_state": "complete",
+                "path": "/Akim-omiri-mc-nema-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Akim-omiri-mc-nema-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 31
+                },
+                "release_date_for_display": "May 31, 2019",
+                "release_date_with_abbreviated_month_for_display": "May. 31, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/48eb72236374633046a89986f3f34d27.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/48eb72236374633046a89986f3f34d27.719x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "MC N\u00e9ma",
+                "title_with_featured": "MC N\u00e9ma (Ft.\u00a0M\u00e9dine)",
+                "url": "https://genius.com/Akim-omiri-mc-nema-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1265",
+                        "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                        "id": 1265,
+                        "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "M\u00e9dine",
+                        "url": "https://genius.com/artists/Medine",
+                        "iq": 4001
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1844356",
+                    "header_image_url": "https://images.genius.com/982d386e7a0616e6afdb8039cb4679bd.900x900x1.jpg",
+                    "id": 1844356,
+                    "image_url": "https://images.genius.com/982d386e7a0616e6afdb8039cb4679bd.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Akim Omiri",
+                    "url": "https://genius.com/artists/Akim-omiri"
+                }
+            },
+            {
+                "annotation_count": 43,
+                "api_path": "/songs/438168",
+                "artist_names": "M\u00e9dine",
+                "full_title": "MC Soraal by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/01724e147c97e680050ff18090a93b47.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/01724e147c97e680050ff18090a93b47.1000x1000x1.jpg",
+                "id": 438168,
+                "language": "fr",
+                "lyrics_owner_id": 136223,
+                "lyrics_state": "complete",
+                "path": "/Medine-mc-soraal-lyrics",
+                "pyongs_count": 13,
+                "relationships_index_url": "https://genius.com/Medine-mc-soraal-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 5,
+                    "day": 28
+                },
+                "release_date_for_display": "May 28, 2014",
+                "release_date_with_abbreviated_month_for_display": "May. 28, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/01724e147c97e680050ff18090a93b47.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/01724e147c97e680050ff18090a93b47.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 24644
+                },
+                "title": "MC Soraal",
+                "title_with_featured": "MC Soraal",
+                "url": "https://genius.com/Medine-mc-soraal-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/7847853",
+                "artist_names": "M\u00e9dine",
+                "full_title": "M\u00e9dicis by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/d410b99da429ddbbba03a512648c2be9.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/d410b99da429ddbbba03a512648c2be9.1000x563x1.jpg",
+                "id": 7847853,
+                "language": "fr",
+                "lyrics_owner_id": 3913214,
+                "lyrics_state": "complete",
+                "path": "/Medine-medicis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Medine-medicis-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 13
+                },
+                "release_date_for_display": "May 13, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 13, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9566394cb06beb0504acc7b41589e247.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9566394cb06beb0504acc7b41589e247.865x865x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "M\u00e9dicis",
+                "title_with_featured": "M\u00e9dicis",
+                "url": "https://genius.com/Medine-medicis-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/5193",
+                "artist_names": "M\u00e9dine",
+                "full_title": "M\u00e9dine by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/7a3519b6d3f4209206c03e388eaafa68.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7a3519b6d3f4209206c03e388eaafa68.320x320x1.jpg",
+                "id": 5193,
+                "language": "fr",
+                "lyrics_owner_id": 6383,
+                "lyrics_state": "complete",
+                "path": "/Medine-medine-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Medine-medine-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a3519b6d3f4209206c03e388eaafa68.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7a3519b6d3f4209206c03e388eaafa68.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false
+                },
+                "title": "M\u00e9dine",
+                "title_with_featured": "M\u00e9dine",
+                "url": "https://genius.com/Medine-medine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            },
+            {
+                "annotation_count": 43,
+                "api_path": "/songs/7821253",
+                "artist_names": "M\u00e9dine",
+                "full_title": "M\u00e9dine France by\u00a0M\u00e9dine",
+                "header_image_thumbnail_url": "https://images.genius.com/af62f31cfde07fcfd1dacfe7ab3683cc.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/af62f31cfde07fcfd1dacfe7ab3683cc.1000x563x1.jpg",
+                "id": 7821253,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Medine-medine-france-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Medine-medine-france-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/51a25277b287deeb6759e01682e8a44d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/51a25277b287deeb6759e01682e8a44d.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 42,
+                    "hot": false,
+                    "pageviews": 17629
+                },
+                "title": "M\u00e9dine France",
+                "title_with_featured": "M\u00e9dine France",
+                "url": "https://genius.com/Medine-medine-france-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1265",
+                    "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                    "id": 1265,
+                    "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "M\u00e9dine",
+                    "url": "https://genius.com/artists/Medine",
+                    "iq": 4001
+                }
+            }
+        ],
+        "next_page": 10
+    }
+}

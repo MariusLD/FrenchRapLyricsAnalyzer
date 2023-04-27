@@ -1,0 +1,950 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6756641",
+                "artist_names": "Chicken Boubou (Ft. Oxmo Puccino)",
+                "full_title": "Ram\u00e8ne les pizzas by\u00a0Chicken\u00a0Boubou (Ft.\u00a0Oxmo\u00a0Puccino)",
+                "header_image_thumbnail_url": "https://images.genius.com/1f8009357dfb9180e3808f88784ae5e4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f8009357dfb9180e3808f88784ae5e4.400x400x1.jpg",
+                "id": 6756641,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Chicken-boubou-ramene-les-pizzas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Chicken-boubou-ramene-les-pizzas-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 10,
+                    "day": null
+                },
+                "release_date_for_display": "October 2004",
+                "release_date_with_abbreviated_month_for_display": "Oct. 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f8009357dfb9180e3808f88784ae5e4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f8009357dfb9180e3808f88784ae5e4.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ram\u00e8ne les pizzas",
+                "title_with_featured": "Ram\u00e8ne les pizzas (Ft.\u00a0Oxmo\u00a0Puccino)",
+                "url": "https://genius.com/Chicken-boubou-ramene-les-pizzas-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1947",
+                        "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                        "id": 1947,
+                        "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Oxmo Puccino",
+                        "url": "https://genius.com/artists/Oxmo-puccino",
+                        "iq": 525
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1721370",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1721370,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chicken Boubou",
+                    "url": "https://genius.com/artists/Chicken-boubou"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2275260",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Retrouvailles by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/491e36f4a9aa9808d0d426e5964a78e5.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/491e36f4a9aa9808d0d426e5964a78e5.500x496x1.jpg",
+                "id": 2275260,
+                "language": "en",
+                "lyrics_owner_id": 1343730,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-retrouvailles-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-retrouvailles-sample",
+                "release_date_components": {
+                    "year": 1997,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 1997",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 1997",
+                "song_art_image_thumbnail_url": "https://images.genius.com/491e36f4a9aa9808d0d426e5964a78e5.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/491e36f4a9aa9808d0d426e5964a78e5.500x496x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Retrouvailles",
+                "title_with_featured": "Retrouvailles",
+                "url": "https://genius.com/Oxmo-puccino-retrouvailles-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/492951",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Roi Sans Carosse (Pochette) by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.300x300x1.png",
+                "header_image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                "id": 492951,
+                "language": null,
+                "lyrics_owner_id": 133469,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-roi-sans-carosse-pochette-annotated",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-roi-sans-carosse-pochette-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Roi Sans Carosse (Pochette)",
+                "title_with_featured": "Roi Sans Carosse (Pochette)",
+                "url": "https://genius.com/Oxmo-puccino-roi-sans-carosse-pochette-annotated",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/89419",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Roi Sans Carrosse by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/6f3c6c6088485de397f458deaaf23dcd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6f3c6c6088485de397f458deaaf23dcd.600x600x1.jpg",
+                "id": 89419,
+                "language": "fr",
+                "lyrics_owner_id": 15586,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-roi-sans-carrosse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-roi-sans-carrosse-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 12,
+                    "day": 17
+                },
+                "release_date_for_display": "December 17, 2012",
+                "release_date_with_abbreviated_month_for_display": "Dec. 17, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6f3c6c6088485de397f458deaaf23dcd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6f3c6c6088485de397f458deaaf23dcd.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Roi Sans Carrosse",
+                "title_with_featured": "Roi Sans Carrosse",
+                "url": "https://genius.com/Oxmo-puccino-roi-sans-carrosse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/357448",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "S'13 6.35 by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.300x294x1.jpg",
+                "header_image_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.400x392x1.jpg",
+                "id": 357448,
+                "language": "fr",
+                "lyrics_owner_id": 226622,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-s13-635-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-s13-635-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 5,
+                    "day": 9
+                },
+                "release_date_for_display": "May 9, 2001",
+                "release_date_with_abbreviated_month_for_display": "May. 9, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.300x294x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.400x392x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "S\u201913 6.35",
+                "title_with_featured": "S'13 6.35",
+                "url": "https://genius.com/Oxmo-puccino-s13-635-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/116981",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Sacr\u00e9 samedi soir by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.400x400x1.jpg",
+                "id": 116981,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-sacre-samedi-soir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-sacre-samedi-soir-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 4,
+                    "day": 28
+                },
+                "release_date_for_display": "April 28, 1998",
+                "release_date_with_abbreviated_month_for_display": "Apr. 28, 1998",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false
+                },
+                "title": "Sacr\u00e9 samedi soir",
+                "title_with_featured": "Sacr\u00e9 samedi soir",
+                "url": "https://genius.com/Oxmo-puccino-sacre-samedi-soir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/184788",
+                "artist_names": "Oxmo Puccino (Ft. Kery James)",
+                "full_title": "Sans-abris by\u00a0Oxmo\u00a0Puccino (Ft.\u00a0Kery\u00a0James)",
+                "header_image_thumbnail_url": "https://images.genius.com/83db8803d7404e2fc6d4fbbbaea86448.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/83db8803d7404e2fc6d4fbbbaea86448.965x965x1.jpg",
+                "id": 184788,
+                "language": "fr",
+                "lyrics_owner_id": 248456,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-sans-abris-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-sans-abris-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 4,
+                    "day": 28
+                },
+                "release_date_for_display": "April 28, 1998",
+                "release_date_with_abbreviated_month_for_display": "Apr. 28, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/83db8803d7404e2fc6d4fbbbaea86448.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/83db8803d7404e2fc6d4fbbbaea86448.965x965x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sans-abris",
+                "title_with_featured": "Sans-abris (Ft.\u00a0Kery\u00a0James)",
+                "url": "https://genius.com/Oxmo-puccino-sans-abris-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1273",
+                        "header_image_url": "https://images.genius.com/b3e3e1d25f67b271355a4e68bc7b7abf.1000x667x1.jpg",
+                        "id": 1273,
+                        "image_url": "https://images.genius.com/74cf66f613495ab9c902d97245e180d9.588x588x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kery James",
+                        "url": "https://genius.com/artists/Kery-james",
+                        "iq": 2728
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4310628",
+                "artist_names": "Oxmo Puccino (Ft. Sadik Asken)",
+                "full_title": "Sans pourquoi, ni parce que by\u00a0Oxmo\u00a0Puccino (Ft.\u00a0Sadik\u00a0Asken)",
+                "header_image_thumbnail_url": "https://images.genius.com/461ecfa8a739e488f98f16d8ed6bebc3.250x250x1.jpg",
+                "header_image_url": "https://images.genius.com/461ecfa8a739e488f98f16d8ed6bebc3.250x250x1.jpg",
+                "id": 4310628,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-sans-pourquoi-ni-parce-que-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-sans-pourquoi-ni-parce-que-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2007",
+                "release_date_with_abbreviated_month_for_display": "2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/461ecfa8a739e488f98f16d8ed6bebc3.250x250x1.jpg",
+                "song_art_image_url": "https://images.genius.com/461ecfa8a739e488f98f16d8ed6bebc3.250x250x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sans pourquoi, ni parce que",
+                "title_with_featured": "Sans pourquoi, ni parce que (Ft.\u00a0Sadik\u00a0Asken)",
+                "url": "https://genius.com/Oxmo-puccino-sans-pourquoi-ni-parce-que-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/28193",
+                        "header_image_url": "https://images.genius.com/19181f928db429fc7dc21282b5d9834e.306x306x1.jpg",
+                        "id": 28193,
+                        "image_url": "https://images.genius.com/19181f928db429fc7dc21282b5d9834e.306x306x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sadik Asken",
+                        "url": "https://genius.com/artists/Sadik-asken"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/585173",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Simili Tortue by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/ea7e651d40d54835556b0e9b4320bc78.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ea7e651d40d54835556b0e9b4320bc78.500x500x1.jpg",
+                "id": 585173,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-simili-tortue-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-simili-tortue-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 11,
+                    "day": 17
+                },
+                "release_date_for_display": "November 17, 2014",
+                "release_date_with_abbreviated_month_for_display": "Nov. 17, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ea7e651d40d54835556b0e9b4320bc78.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ea7e651d40d54835556b0e9b4320bc78.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Simili Tortue",
+                "title_with_featured": "Simili Tortue",
+                "url": "https://genius.com/Oxmo-puccino-simili-tortue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2347353",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Slow Life by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.400x400x1.jpg",
+                "id": 2347353,
+                "language": "fr",
+                "lyrics_owner_id": 1302334,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-slow-life-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-slow-life-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 13
+                },
+                "release_date_for_display": "November 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Slow Life",
+                "title_with_featured": "Slow Life",
+                "url": "https://genius.com/Oxmo-puccino-slow-life-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/4638978",
+                "artist_names": "Oxmo Puccino (Ft. Caballero & JeanJass)",
+                "full_title": "Social Club by\u00a0Oxmo\u00a0Puccino (Ft.\u00a0Caballero & JeanJass)",
+                "header_image_thumbnail_url": "https://images.genius.com/c4edfcafd9e897f887fd7cedfec84ac9.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/c4edfcafd9e897f887fd7cedfec84ac9.1000x563x1.jpg",
+                "id": 4638978,
+                "language": "fr",
+                "lyrics_owner_id": 6391514,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-social-club-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-social-club-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 6
+                },
+                "release_date_for_display": "September 6, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 6, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bc3b7a86704d91ed434673d5a685bed9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bc3b7a86704d91ed434673d5a685bed9.648x648x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Social Club",
+                "title_with_featured": "Social Club (Ft.\u00a0Caballero & JeanJass)",
+                "url": "https://genius.com/Oxmo-puccino-social-club-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/25823",
+                        "header_image_url": "https://images.genius.com/31daa19c75a043afd89eb593edf05895.792x1000x1.jpg",
+                        "id": 25823,
+                        "image_url": "https://images.genius.com/fc5f13c5dc96116e8b0e790f72bd8c19.544x544x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JeanJass",
+                        "url": "https://genius.com/artists/Jeanjass"
+                    },
+                    {
+                        "api_path": "/artists/21842",
+                        "header_image_url": "https://images.genius.com/689de26306306219ead4497bd6befb5e.591x396x1.png",
+                        "id": 21842,
+                        "image_url": "https://images.genius.com/1f48feea278bf8ffc49476fb75ee690a.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Caballero",
+                        "url": "https://genius.com/artists/Caballero",
+                        "iq": 125
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/67551",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Soleil Du Nord by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/a96449482a6dba1ab494a29c04724cd9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a96449482a6dba1ab494a29c04724cd9.500x500x1.jpg",
+                "id": 67551,
+                "language": "fr",
+                "lyrics_owner_id": 78990,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-soleil-du-nord-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-soleil-du-nord-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2009",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a96449482a6dba1ab494a29c04724cd9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a96449482a6dba1ab494a29c04724cd9.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 11030
+                },
+                "title": "Soleil Du Nord",
+                "title_with_featured": "Soleil Du Nord",
+                "url": "https://genius.com/Oxmo-puccino-soleil-du-nord-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/318527",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Sortil\u00e8ge by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.400x400x1.jpg",
+                "id": 318527,
+                "language": "fr",
+                "lyrics_owner_id": 259935,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-sortilege-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-sortilege-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 4,
+                    "day": 28
+                },
+                "release_date_for_display": "April 28, 1998",
+                "release_date_with_abbreviated_month_for_display": "Apr. 28, 1998",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/77c088afe248a3e7901d104de4a0a6ad.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Sortil\u00e8ge",
+                "title_with_featured": "Sortil\u00e8ge",
+                "url": "https://genius.com/Oxmo-puccino-sortilege-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/207228",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Souvenirs by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.300x294x1.jpg",
+                "header_image_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.400x392x1.jpg",
+                "id": 207228,
+                "language": "fr",
+                "lyrics_owner_id": 170454,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-souvenirs-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-souvenirs-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 5,
+                    "day": 9
+                },
+                "release_date_for_display": "May 9, 2001",
+                "release_date_with_abbreviated_month_for_display": "May. 9, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.300x294x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2d533ebd0de1acead168ecb52b8d32f6.400x392x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 22116
+                },
+                "title": "Souvenirs",
+                "title_with_featured": "Souvenirs",
+                "url": "https://genius.com/Oxmo-puccino-souvenirs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2369654",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Star et c\u00e9l\u00e9brit\u00e9 by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.400x400x1.jpg",
+                "id": 2369654,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-star-et-celebrite-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-star-et-celebrite-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 13
+                },
+                "release_date_for_display": "November 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Star et c\u00e9l\u00e9brit\u00e9",
+                "title_with_featured": "Star et c\u00e9l\u00e9brit\u00e9",
+                "url": "https://genius.com/Oxmo-puccino-star-et-celebrite-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6978512",
+                "artist_names": "Oxmo Puccino (Ft. Nemir)",
+                "full_title": "Super-bien by\u00a0Oxmo\u00a0Puccino (Ft.\u00a0Nemir)",
+                "header_image_thumbnail_url": "https://images.genius.com/6af583a3d5b167266fe82b7e933fd007.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6af583a3d5b167266fe82b7e933fd007.400x400x1.jpg",
+                "id": 6978512,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-super-bien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-super-bien-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 1
+                },
+                "release_date_for_display": "July 1, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 1, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6af583a3d5b167266fe82b7e933fd007.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6af583a3d5b167266fe82b7e933fd007.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Super-bien",
+                "title_with_featured": "Super-bien (Ft.\u00a0Nemir)",
+                "url": "https://genius.com/Oxmo-puccino-super-bien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14877",
+                        "header_image_url": "https://images.genius.com/acfb10f0575d83fb09123b1cfc92212c.1000x667x1.jpg",
+                        "id": 14877,
+                        "image_url": "https://images.genius.com/17b4582830354f216471f0b27a0fba57.288x288x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nemir",
+                        "url": "https://genius.com/artists/Nemir"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/53286",
+                "artist_names": "Oxmo Puccino (Ft. Olivia Ruiz)",
+                "full_title": "Sur la route d'Amsterdam by\u00a0Oxmo\u00a0Puccino (Ft.\u00a0Olivia\u00a0Ruiz)",
+                "header_image_thumbnail_url": "https://images.genius.com/fd6451821d73320095621abf302fb04f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fd6451821d73320095621abf302fb04f.500x500x1.jpg",
+                "id": 53286,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-sur-la-route-damsterdam-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-sur-la-route-damsterdam-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2009",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fd6451821d73320095621abf302fb04f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fd6451821d73320095621abf302fb04f.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Sur la route d\u2019Amsterdam",
+                "title_with_featured": "Sur la route d'Amsterdam (Ft.\u00a0Olivia\u00a0Ruiz)",
+                "url": "https://genius.com/Oxmo-puccino-sur-la-route-damsterdam-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12813",
+                        "header_image_url": "https://images.genius.com/0f5547636067f253ef6b0fe09d8b6271.1000x1000x1.jpg",
+                        "id": 12813,
+                        "image_url": "https://images.genius.com/b32d6ba17dcc53686d55b4e279d92ba1.562x562x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Olivia Ruiz",
+                        "url": "https://genius.com/artists/Olivia-ruiz"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2369658",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Surprise Birthday by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.400x400x1.jpg",
+                "id": 2369658,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-surprise-birthday-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-surprise-birthday-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 13
+                },
+                "release_date_for_display": "November 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/706a09e7a1a4343a6ab73e50d307e3df.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Surprise Birthday",
+                "title_with_featured": "Surprise Birthday",
+                "url": "https://genius.com/Oxmo-puccino-surprise-birthday-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2835220",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Tarif C by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/7191ef1ed1521548ce347d357481b807.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7191ef1ed1521548ce347d357481b807.1000x1000x1.jpg",
+                "id": 2835220,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-tarif-c-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-tarif-c-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 2,
+                    "day": 1
+                },
+                "release_date_for_display": "February 1, 2003",
+                "release_date_with_abbreviated_month_for_display": "Feb. 1, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7191ef1ed1521548ce347d357481b807.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7191ef1ed1521548ce347d357481b807.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tarif C",
+                "title_with_featured": "Tarif C",
+                "url": "https://genius.com/Oxmo-puccino-tarif-c-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5325309",
+                "artist_names": "Oxmo Puccino",
+                "full_title": "Tendrement by\u00a0Oxmo\u00a0Puccino",
+                "header_image_thumbnail_url": "https://images.genius.com/01e49b25e86758cedc5961d1b20671c2.300x181x1.jpg",
+                "header_image_url": "https://images.genius.com/01e49b25e86758cedc5961d1b20671c2.680x410x1.jpg",
+                "id": 5325309,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Oxmo-puccino-tendrement-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oxmo-puccino-tendrement-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 6
+                },
+                "release_date_for_display": "March 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e39a79abb030a2ef160fda0466ade468.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e39a79abb030a2ef160fda0466ade468.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tendrement",
+                "title_with_featured": "Tendrement",
+                "url": "https://genius.com/Oxmo-puccino-tendrement-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1947",
+                    "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                    "id": 1947,
+                    "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Oxmo Puccino",
+                    "url": "https://genius.com/artists/Oxmo-puccino",
+                    "iq": 525
+                }
+            }
+        ],
+        "next_page": 15
+    }
+}

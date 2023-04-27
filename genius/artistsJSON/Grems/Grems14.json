@@ -1,0 +1,933 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5411739",
+                "artist_names": "Grems (Ft. Walter Mecca)",
+                "full_title": "Skeletor by\u00a0Grems (Ft.\u00a0Walter\u00a0Mecca)",
+                "header_image_thumbnail_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.595x595x1.jpg",
+                "id": 5411739,
+                "language": "en",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Grems-skeletor-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-skeletor-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.595x595x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Skeletor",
+                "title_with_featured": "Skeletor (Ft.\u00a0Walter\u00a0Mecca)",
+                "url": "https://genius.com/Grems-skeletor-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/396624",
+                        "header_image_url": "https://images.genius.com/94e0ffb239584da740e6a92e0a280a74.500x500x1.jpg",
+                        "id": 396624,
+                        "image_url": "https://images.genius.com/94e0ffb239584da740e6a92e0a280a74.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Walter Mecca",
+                        "url": "https://genius.com/artists/Walter-mecca"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3447798",
+                "artist_names": "Grems",
+                "full_title": "Skit - Suicidal by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.960x960x1.jpg",
+                "id": 3447798,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Grems-skit-suicidal-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-skit-suicidal-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 19
+                },
+                "release_date_for_display": "January 19, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Skit - Suicidal",
+                "title_with_featured": "Skit - Suicidal",
+                "url": "https://genius.com/Grems-skit-suicidal-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3422168",
+                "artist_names": "Grems",
+                "full_title": "Skit - Tu say by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.960x960x1.jpg",
+                "id": 3422168,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Grems-skit-tu-say-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-skit-tu-say-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Skit - Tu say",
+                "title_with_featured": "Skit - Tu say",
+                "url": "https://genius.com/Grems-skit-tu-say-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3449060",
+                "artist_names": "Grems (Ft. C.Sen)",
+                "full_title": "Skit - Uk by\u00a0Grems (Ft.\u00a0C.Sen)",
+                "header_image_thumbnail_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.960x960x1.jpg",
+                "id": 3449060,
+                "language": "en",
+                "lyrics_owner_id": 1805755,
+                "lyrics_state": "complete",
+                "path": "/Grems-skit-uk-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-skit-uk-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 19
+                },
+                "release_date_for_display": "January 19, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f522081552e75e4ad58a27e87da521f8.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Skit - Uk",
+                "title_with_featured": "Skit - Uk (Ft.\u00a0C.Sen)",
+                "url": "https://genius.com/Grems-skit-uk-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/45743",
+                        "header_image_url": "https://images.genius.com/0a5be8acd23f2478cd49ef12403da624.640x426x1.jpg",
+                        "id": 45743,
+                        "image_url": "https://images.genius.com/0a5be8acd23f2478cd49ef12403da624.640x426x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "C.Sen",
+                        "url": "https://genius.com/artists/Csen"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7077955",
+                "artist_names": "PMPDJ",
+                "full_title": "Skwizer by\u00a0PMPDJ",
+                "header_image_thumbnail_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.1000x1000x1.jpg",
+                "id": 7077955,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "incomplete",
+                "path": "/Pmpdj-skwizer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Pmpdj-skwizer-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 3,
+                    "day": 28
+                },
+                "release_date_for_display": "March 28, 2011",
+                "release_date_with_abbreviated_month_for_display": "Mar. 28, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Skwizer",
+                "title_with_featured": "Skwizer",
+                "url": "https://genius.com/Pmpdj-skwizer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23904",
+                    "header_image_url": "https://images.genius.com/8018eb75f0fdbfad2e766923dc914cb1.1000x370x1.jpg",
+                    "id": 23904,
+                    "image_url": "https://images.genius.com/20510eec1d21298671f048ddaf6d2ba9.290x290x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PMPDJ",
+                    "url": "https://genius.com/artists/Pmpdj"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6128800",
+                "artist_names": "Grems (Ft. Jordana De Lovely & RQM)",
+                "full_title": "Snake Bite by\u00a0Grems (Ft.\u00a0Jordana\u00a0De Lovely & RQM)",
+                "header_image_thumbnail_url": "https://images.genius.com/80f9c8ede99ac52b10cb7e9900aabd88.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/80f9c8ede99ac52b10cb7e9900aabd88.300x300x1.jpg",
+                "id": 6128800,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "incomplete",
+                "path": "/Grems-snake-bite-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-snake-bite-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 5,
+                    "day": 30
+                },
+                "release_date_for_display": "May 30, 2010",
+                "release_date_with_abbreviated_month_for_display": "May. 30, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/80f9c8ede99ac52b10cb7e9900aabd88.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/80f9c8ede99ac52b10cb7e9900aabd88.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Snake Bite",
+                "title_with_featured": "Snake Bite (Ft.\u00a0Jordana\u00a0De Lovely & RQM)",
+                "url": "https://genius.com/Grems-snake-bite-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1298299",
+                        "header_image_url": "https://images.genius.com/d1765ec3f2d0f613f1f90bac15bc8365.400x400x1.jpg",
+                        "id": 1298299,
+                        "image_url": "https://images.genius.com/d1765ec3f2d0f613f1f90bac15bc8365.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jordana De Lovely",
+                        "url": "https://genius.com/artists/Jordana-de-lovely"
+                    },
+                    {
+                        "api_path": "/artists/2461008",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2461008,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RQM",
+                        "url": "https://genius.com/artists/Rqm"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5411741",
+                "artist_names": "Grems",
+                "full_title": "Soul by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.595x595x1.jpg",
+                "id": 5411741,
+                "language": "fr",
+                "lyrics_owner_id": 10486496,
+                "lyrics_state": "complete",
+                "path": "/Grems-soul-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-soul-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2dd2d2eda20bef3e1c6a92c08906ef9f.595x595x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Soul",
+                "title_with_featured": "Soul",
+                "url": "https://genius.com/Grems-soul-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/8389876",
+                "artist_names": "Loop, Iris, Sept, Grems, Arm & Soklak",
+                "full_title": "Soul'Sodium Industrie by\u00a0Loop,\u00a0Iris, Sept, Grems, Arm & Soklak",
+                "header_image_thumbnail_url": "https://images.genius.com/0c2400fe2dbeea6045c30b3c9a183260.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0c2400fe2dbeea6045c30b3c9a183260.541x541x1.jpg",
+                "id": 8389876,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Loop-iris-sept-grems-arm-and-soklak-soulsodium-industrie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Loop-iris-sept-grems-arm-and-soklak-soulsodium-industrie-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2006",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0c2400fe2dbeea6045c30b3c9a183260.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0c2400fe2dbeea6045c30b3c9a183260.541x541x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Soul\u2019Sodium Industrie",
+                "title_with_featured": "Soul'Sodium Industrie",
+                "url": "https://genius.com/Loop-iris-sept-grems-arm-and-soklak-soulsodium-industrie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3295778",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 3295778,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Loop, Iris, Sept, Grems, Arm & Soklak",
+                    "url": "https://genius.com/artists/Loop-iris-sept-grems-arm-and-soklak"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8497499",
+                "artist_names": "Grems",
+                "full_title": "Spraycan by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/5dbdd2d3cf24642d0996e9cd4b76f9b1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5dbdd2d3cf24642d0996e9cd4b76f9b1.1000x1000x1.jpg",
+                "id": 8497499,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Grems-spraycan-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-spraycan-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 25
+                },
+                "release_date_for_display": "October 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5dbdd2d3cf24642d0996e9cd4b76f9b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5dbdd2d3cf24642d0996e9cd4b76f9b1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Spraycan",
+                "title_with_featured": "Spraycan",
+                "url": "https://genius.com/Grems-spraycan-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/85305",
+                "artist_names": "PMPDJ",
+                "full_title": "Stachmou by\u00a0PMPDJ",
+                "header_image_thumbnail_url": "https://images.genius.com/3c830a7bf08c3c600741c89e97e02311.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3c830a7bf08c3c600741c89e97e02311.1000x1000x1.jpg",
+                "id": 85305,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Pmpdj-stachmou-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Pmpdj-stachmou-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 28
+                },
+                "release_date_for_display": "July 28, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jul. 28, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3c830a7bf08c3c600741c89e97e02311.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3c830a7bf08c3c600741c89e97e02311.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Stachmou",
+                "title_with_featured": "Stachmou",
+                "url": "https://genius.com/Pmpdj-stachmou-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23904",
+                    "header_image_url": "https://images.genius.com/8018eb75f0fdbfad2e766923dc914cb1.1000x370x1.jpg",
+                    "id": 23904,
+                    "image_url": "https://images.genius.com/20510eec1d21298671f048ddaf6d2ba9.290x290x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PMPDJ",
+                    "url": "https://genius.com/artists/Pmpdj"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6128855",
+                "artist_names": "Grems",
+                "full_title": "St Exu Perry by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "id": 6128855,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "incomplete",
+                "path": "/Grems-st-exu-perry-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-st-exu-perry-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 12,
+                    "day": 10
+                },
+                "release_date_for_display": "December 10, 2008",
+                "release_date_with_abbreviated_month_for_display": "Dec. 10, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "St Exu Perry",
+                "title_with_featured": "St Exu Perry",
+                "url": "https://genius.com/Grems-st-exu-perry-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3122879",
+                "artist_names": "Grems",
+                "full_title": "Streaming by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/f4f047b3657ac8e5fad3bad09b7fae31.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f4f047b3657ac8e5fad3bad09b7fae31.960x960x1.jpg",
+                "id": 3122879,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Grems-streaming-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-streaming-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 15
+                },
+                "release_date_for_display": "June 15, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 15, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f4f047b3657ac8e5fad3bad09b7fae31.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f4f047b3657ac8e5fad3bad09b7fae31.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Streaming",
+                "title_with_featured": "Streaming",
+                "url": "https://genius.com/Grems-streaming-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3139070",
+                "artist_names": "Grems (Ft. Le Jouage & Sept)",
+                "full_title": "Subutex by\u00a0Grems (Ft.\u00a0Le\u00a0Jouage & Sept)",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "id": 3139070,
+                "language": "fr",
+                "lyrics_owner_id": 236449,
+                "lyrics_state": "complete",
+                "path": "/Grems-subutex-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-subutex-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 6,
+                    "day": 18
+                },
+                "release_date_for_display": "June 18, 2004",
+                "release_date_with_abbreviated_month_for_display": "Jun. 18, 2004",
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "song_art_image_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Subutex",
+                "title_with_featured": "Subutex (Ft.\u00a0Le\u00a0Jouage & Sept)",
+                "url": "https://genius.com/Grems-subutex-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20217",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/lesept_big.jpg",
+                        "id": 20217,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/lesept_big.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sept",
+                        "url": "https://genius.com/artists/Sept"
+                    },
+                    {
+                        "api_path": "/artists/30369",
+                        "header_image_url": "https://images.genius.com/c2536301a7a4a8b942ff5af84f9d6d2e.1000x1000x1.jpg",
+                        "id": 30369,
+                        "image_url": "https://images.genius.com/c2536301a7a4a8b942ff5af84f9d6d2e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Le Jouage",
+                        "url": "https://genius.com/artists/Le-jouage"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6128850",
+                "artist_names": "Grems",
+                "full_title": "Suce by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "id": 6128850,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "incomplete",
+                "path": "/Grems-suce-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-suce-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 12,
+                    "day": 10
+                },
+                "release_date_for_display": "December 10, 2008",
+                "release_date_with_abbreviated_month_for_display": "Dec. 10, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Suce",
+                "title_with_featured": "Suce",
+                "url": "https://genius.com/Grems-suce-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5703492",
+                "artist_names": "Grems",
+                "full_title": "Superfrais by\u00a0Grems",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "id": 5703492,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Grems-superfrais-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-superfrais-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "song_art_image_url": "https://s3.amazonaws.com/rapgenius/3661585034674_600.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Superfrais",
+                "title_with_featured": "Superfrais",
+                "url": "https://genius.com/Grems-superfrais-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7077949",
+                "artist_names": "PMPDJ",
+                "full_title": "Switch by\u00a0PMPDJ",
+                "header_image_thumbnail_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.1000x1000x1.jpg",
+                "id": 7077949,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "incomplete",
+                "path": "/Pmpdj-switch-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Pmpdj-switch-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 3,
+                    "day": 28
+                },
+                "release_date_for_display": "March 28, 2011",
+                "release_date_with_abbreviated_month_for_display": "Mar. 28, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dd3892d415a609f9db555686f29c7bcf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Switch",
+                "title_with_featured": "Switch",
+                "url": "https://genius.com/Pmpdj-switch-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23904",
+                    "header_image_url": "https://images.genius.com/8018eb75f0fdbfad2e766923dc914cb1.1000x370x1.jpg",
+                    "id": 23904,
+                    "image_url": "https://images.genius.com/20510eec1d21298671f048ddaf6d2ba9.290x290x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PMPDJ",
+                    "url": "https://genius.com/artists/Pmpdj"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5300271",
+                "artist_names": "Swift Guad (Ft. Grems)",
+                "full_title": "Taj Mahal by\u00a0Swift\u00a0Guad (Ft.\u00a0Grems)",
+                "header_image_thumbnail_url": "https://images.genius.com/a85c410de2567713a4273b3160465809.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a85c410de2567713a4273b3160465809.960x960x1.jpg",
+                "id": 5300271,
+                "language": null,
+                "lyrics_owner_id": 131540,
+                "lyrics_state": "incomplete",
+                "path": "/Swift-guad-taj-mahal-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Swift-guad-taj-mahal-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a85c410de2567713a4273b3160465809.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a85c410de2567713a4273b3160465809.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Taj Mahal",
+                "title_with_featured": "Taj Mahal (Ft.\u00a0Grems)",
+                "url": "https://genius.com/Swift-guad-taj-mahal-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14833",
+                        "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                        "id": 14833,
+                        "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Grems",
+                        "url": "https://genius.com/artists/Grems"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13158",
+                    "header_image_url": "https://images.genius.com/cabf964166fd564db265ca19a6439663.1000x667x1.jpg",
+                    "id": 13158,
+                    "image_url": "https://images.genius.com/6516aea584a221b57af35ff24822c9af.563x563x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Swift Guad",
+                    "url": "https://genius.com/artists/Swift-guad"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8940348",
+                "artist_names": "Lucio Bukowski (Ft. Grems)",
+                "full_title": "T'as vu ou pas ? by\u00a0Lucio\u00a0Bukowski (Ft.\u00a0Grems)",
+                "header_image_thumbnail_url": "https://images.genius.com/ab7bd092c36981ba0bd32351981617a4.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/ab7bd092c36981ba0bd32351981617a4.540x544x1.jpg",
+                "id": 8940348,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Lucio-bukowski-tas-vu-ou-pas-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lucio-bukowski-tas-vu-ou-pas-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 21
+                },
+                "release_date_for_display": "March 21, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 21, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ab7bd092c36981ba0bd32351981617a4.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ab7bd092c36981ba0bd32351981617a4.540x544x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "T\u2019as vu ou pas ?",
+                "title_with_featured": "T'as vu ou pas ? (Ft.\u00a0Grems)",
+                "url": "https://genius.com/Lucio-bukowski-tas-vu-ou-pas-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14833",
+                        "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                        "id": 14833,
+                        "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Grems",
+                        "url": "https://genius.com/artists/Grems"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16163",
+                    "header_image_url": "https://images.genius.com/1667c7c65e0c012987cac1eb61e44c1d.960x960x1.jpg",
+                    "id": 16163,
+                    "image_url": "https://images.genius.com/4b668f6cd03adf000cc793c1e016a49e.1000x529x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lucio Bukowski",
+                    "url": "https://genius.com/artists/Lucio-bukowski",
+                    "iq": 2162
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6128853",
+                "artist_names": "Grems",
+                "full_title": "Terminale S by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "id": 6128853,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "incomplete",
+                "path": "/Grems-terminale-s-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-terminale-s-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 12,
+                    "day": 10
+                },
+                "release_date_for_display": "December 10, 2008",
+                "release_date_with_abbreviated_month_for_display": "Dec. 10, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/259694d7533462903feebc3c35af3b9c.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Terminale S",
+                "title_with_featured": "Terminale S",
+                "url": "https://genius.com/Grems-terminale-s-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/3061300",
+                "artist_names": "Grems",
+                "full_title": "T\u00e9tanos by\u00a0Grems",
+                "header_image_thumbnail_url": "https://images.genius.com/6b07575a2a69e8512b8189b48160d43d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6b07575a2a69e8512b8189b48160d43d.500x500x1.jpg",
+                "id": 3061300,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Grems-tetanos-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grems-tetanos-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 20
+                },
+                "release_date_for_display": "April 20, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 20, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6b07575a2a69e8512b8189b48160d43d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6b07575a2a69e8512b8189b48160d43d.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "T\u00e9tanos",
+                "title_with_featured": "T\u00e9tanos",
+                "url": "https://genius.com/Grems-tetanos-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14833",
+                    "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "id": 14833,
+                    "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grems",
+                    "url": "https://genius.com/artists/Grems"
+                }
+            }
+        ],
+        "next_page": 15
+    }
+}
