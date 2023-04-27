@@ -1,0 +1,1101 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/7321081",
+                "artist_names": "Le Classico Organis\u00e9 (Ft. Gazo, Guy2Bezbar, JuL, Koba LaD, Kofs, Naps, PLK, SCH & Soso Maness)",
+                "full_title": "Le classico organis\u00e9 by\u00a0Le\u00a0Classico Organis\u00e9 (Ft.\u00a0Gazo, Guy2Bezbar, JuL, Koba\u00a0LaD, Kofs, Naps, PLK, SCH & Soso\u00a0Maness)",
+                "header_image_thumbnail_url": "https://images.genius.com/f45bd54c572253b2307c955e0c04293f.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/f45bd54c572253b2307c955e0c04293f.1000x517x1.jpg",
+                "id": 7321081,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Le-classico-organise-le-classico-organise-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-classico-organise-le-classico-organise-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 5
+                },
+                "release_date_for_display": "November 5, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 5, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f7c59108d54ec11f29f23459438fc53.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/4f7c59108d54ec11f29f23459438fc53.640x640x1.png",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 45378
+                },
+                "title": "Le classico organis\u00e9",
+                "title_with_featured": "Le classico organis\u00e9 (Ft.\u00a0Gazo, Guy2Bezbar, JuL, Koba\u00a0LaD, Kofs, Naps, PLK, SCH & Soso\u00a0Maness)",
+                "url": "https://genius.com/Le-classico-organise-le-classico-organise-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/566498",
+                        "header_image_url": "https://images.genius.com/9b005bd9785fd694387f6ae024b9a8b6.600x600x1.jpg",
+                        "id": 566498,
+                        "image_url": "https://images.genius.com/d4619f2a579e9c3cd6e60348312202a9.593x593x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kofs",
+                        "url": "https://genius.com/artists/Kofs"
+                    },
+                    {
+                        "api_path": "/artists/276476",
+                        "header_image_url": "https://images.genius.com/a7814e87e59e58dab4d2fee4e4af2228.595x204x1.png",
+                        "id": 276476,
+                        "image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "SCH",
+                        "url": "https://genius.com/artists/Sch",
+                        "iq": 12286
+                    },
+                    {
+                        "api_path": "/artists/1247832",
+                        "header_image_url": "https://images.genius.com/c11572841c66776b446a184970264935.1000x563x1.jpg",
+                        "id": 1247832,
+                        "image_url": "https://images.genius.com/9a77212f8d6053fab4fb89628a50073e.686x686x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koba LaD",
+                        "url": "https://genius.com/artists/Koba-lad"
+                    },
+                    {
+                        "api_path": "/artists/74283",
+                        "header_image_url": "https://images.genius.com/420e900bc528bd58064a16dae6e325c9.449x613x1.png",
+                        "id": 74283,
+                        "image_url": "https://images.genius.com/581fd4fd6fc511609f0988f003def364.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JuL",
+                        "url": "https://genius.com/artists/Jul"
+                    },
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/23012",
+                        "header_image_url": "https://images.genius.com/dc841cc69eeeb901697365b700fc4623.1000x666x1.jpg",
+                        "id": 23012,
+                        "image_url": "https://images.genius.com/b168321599dbc27cd13851a5ae090267.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gazo",
+                        "url": "https://genius.com/artists/Gazo"
+                    },
+                    {
+                        "api_path": "/artists/147487",
+                        "header_image_url": "https://images.genius.com/87ec22191e8eedbf245dea6a04652504.838x445x1.jpg",
+                        "id": 147487,
+                        "image_url": "https://images.genius.com/9e0c59e5e8a785617697ef5df25f4341.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soso Maness",
+                        "url": "https://genius.com/artists/Soso-maness"
+                    },
+                    {
+                        "api_path": "/artists/466514",
+                        "header_image_url": "https://images.genius.com/a5a5fc8d17d11778439580f3ee511261.1000x666x1.jpg",
+                        "id": 466514,
+                        "image_url": "https://images.genius.com/265b534a441d3a9f4330f7477334971f.451x451x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Guy2Bezbar",
+                        "url": "https://genius.com/artists/Guy2bezbar"
+                    },
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2922791",
+                    "header_image_url": "https://images.genius.com/6b10d4d4a4155132c8c897c3eb789c03.1000x1000x1.jpg",
+                    "id": 2922791,
+                    "image_url": "https://images.genius.com/23b81db3df31736542438a72f7ce4ef6.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Classico Organis\u00e9",
+                    "url": "https://genius.com/artists/Le-classico-organise"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3613765",
+                "artist_names": "Naps",
+                "full_title": "Le Couz by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/e10c25486b894df2700cc79edaead9ee.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e10c25486b894df2700cc79edaead9ee.1000x1000x1.jpg",
+                "id": 3613765,
+                "language": "en",
+                "lyrics_owner_id": 4437893,
+                "lyrics_state": "complete",
+                "path": "/Naps-le-couz-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-couz-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 6
+                },
+                "release_date_for_display": "April 6, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 6, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e10c25486b894df2700cc79edaead9ee.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e10c25486b894df2700cc79edaead9ee.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 14603
+                },
+                "title": "Le Couz",
+                "title_with_featured": "Le Couz",
+                "url": "https://genius.com/Naps-le-couz-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3526795",
+                "artist_names": "Naps",
+                "full_title": "Le Fixe by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.440x440x1.jpg",
+                "id": 3526795,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Naps-le-fixe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-fixe-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 9
+                },
+                "release_date_for_display": "March 9, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 9, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 7061
+                },
+                "title": "Le Fixe",
+                "title_with_featured": "Le Fixe",
+                "url": "https://genius.com/Naps-le-fixe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/9033595",
+                "artist_names": "Naps",
+                "full_title": "Le fruit de mon \u00e9poque by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "id": 9033595,
+                "language": null,
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "incomplete",
+                "path": "/Naps-le-fruit-de-mon-epoque-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-fruit-de-mon-epoque-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 28
+                },
+                "release_date_for_display": "April 28, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 28, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le fruit de mon \u00e9poque",
+                "title_with_featured": "Le fruit de mon \u00e9poque",
+                "url": "https://genius.com/Naps-le-fruit-de-mon-epoque-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7417017",
+                "artist_names": "Gips (Ft. JuL & Naps)",
+                "full_title": "Le monde est \u00e0 nous by\u00a0Gips (Ft.\u00a0JuL & Naps)",
+                "header_image_thumbnail_url": "https://images.genius.com/4f6251eaa8daf7409f8c52d9b53a4a7f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4f6251eaa8daf7409f8c52d9b53a4a7f.1000x1000x1.jpg",
+                "id": 7417017,
+                "language": "fr",
+                "lyrics_owner_id": 9193038,
+                "lyrics_state": "complete",
+                "path": "/Gips-le-monde-est-a-nous-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gips-le-monde-est-a-nous-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 12,
+                    "day": 17
+                },
+                "release_date_for_display": "December 17, 2021",
+                "release_date_with_abbreviated_month_for_display": "Dec. 17, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f6251eaa8daf7409f8c52d9b53a4a7f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4f6251eaa8daf7409f8c52d9b53a4a7f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le monde est \u00e0 nous",
+                "title_with_featured": "Le monde est \u00e0 nous (Ft.\u00a0JuL & Naps)",
+                "url": "https://genius.com/Gips-le-monde-est-a-nous-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    },
+                    {
+                        "api_path": "/artists/74283",
+                        "header_image_url": "https://images.genius.com/420e900bc528bd58064a16dae6e325c9.449x613x1.png",
+                        "id": 74283,
+                        "image_url": "https://images.genius.com/581fd4fd6fc511609f0988f003def364.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JuL",
+                        "url": "https://genius.com/artists/Jul"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2015135",
+                    "header_image_url": "https://images.genius.com/abe1a8f5bf32fa4501e19143c57d2731.1000x818x1.jpg",
+                    "id": 2015135,
+                    "image_url": "https://images.genius.com/bdea9e8b6fbc333feb5af5b30c94d02f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gips",
+                    "url": "https://genius.com/artists/Gips"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4622988",
+                "artist_names": "Naps",
+                "full_title": "Le pactole ou le maton by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "id": 4622988,
+                "language": "fr",
+                "lyrics_owner_id": 3392836,
+                "lyrics_state": "complete",
+                "path": "/Naps-le-pactole-ou-le-maton-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-pactole-ou-le-maton-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le pactole ou le maton",
+                "title_with_featured": "Le pactole ou le maton",
+                "url": "https://genius.com/Naps-le-pactole-ou-le-maton-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6581557",
+                "artist_names": "Naps",
+                "full_title": "Le p\u2019tit marseillais by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/cad0d75e5fb0c0351b315a7281a79d38.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cad0d75e5fb0c0351b315a7281a79d38.500x500x1.jpg",
+                "id": 6581557,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Naps-le-ptit-marseillais-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-ptit-marseillais-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 18
+                },
+                "release_date_for_display": "February 18, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cad0d75e5fb0c0351b315a7281a79d38.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cad0d75e5fb0c0351b315a7281a79d38.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 5313
+                },
+                "title": "Le p\u2019tit marseillais",
+                "title_with_featured": "Le p\u2019tit marseillais",
+                "url": "https://genius.com/Naps-le-ptit-marseillais-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/371437",
+                "artist_names": "Naps & Sahim",
+                "full_title": "Le quartier a ses raisons by\u00a0Naps\u00a0& Sahim",
+                "header_image_thumbnail_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.300x300x1.png",
+                "header_image_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.363x363x1.png",
+                "id": 371437,
+                "language": "fr",
+                "lyrics_owner_id": 168934,
+                "lyrics_state": "complete",
+                "path": "/Naps-and-sahim-le-quartier-a-ses-raisons-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Naps-and-sahim-le-quartier-a-ses-raisons-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.363x363x1.png",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 19697
+                },
+                "title": "Le quartier a ses raisons",
+                "title_with_featured": "Le quartier a ses raisons",
+                "url": "https://genius.com/Naps-and-sahim-le-quartier-a-ses-raisons-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/43195",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 43195,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps & Sahim",
+                    "url": "https://genius.com/artists/Naps-and-sahim"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3784072",
+                "artist_names": "L'Alg\u00e9rino (Ft. Alonzo, Naps & Soprano)",
+                "full_title": "Les 4 Fantastiques by\u00a0L'Alg\u00e9rino (Ft.\u00a0Alonzo, Naps & Soprano)",
+                "header_image_thumbnail_url": "https://images.genius.com/dfc593ba3acb1f6ff6ca4b3be3b3c9ac.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dfc593ba3acb1f6ff6ca4b3be3b3c9ac.600x600x1.jpg",
+                "id": 3784072,
+                "language": "fr",
+                "lyrics_owner_id": 4070877,
+                "lyrics_state": "complete",
+                "path": "/Lalgerino-les-4-fantastiques-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lalgerino-les-4-fantastiques-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dfc593ba3acb1f6ff6ca4b3be3b3c9ac.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dfc593ba3acb1f6ff6ca4b3be3b3c9ac.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 5137
+                },
+                "title": "Les 4 Fantastiques",
+                "title_with_featured": "Les 4 Fantastiques (Ft.\u00a0Alonzo, Naps & Soprano)",
+                "url": "https://genius.com/Lalgerino-les-4-fantastiques-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    },
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    },
+                    {
+                        "api_path": "/artists/1431",
+                        "header_image_url": "https://images.genius.com/e7978b0b7620b2e575e6765eb79c9d53.597x183x1.png",
+                        "id": 1431,
+                        "image_url": "https://images.genius.com/d0a0f7b8182f11dafa1d2a554f6e3eab.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soprano",
+                        "url": "https://genius.com/artists/Soprano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12302",
+                    "header_image_url": "https://images.genius.com/05ffb64a67ee283a6503dcd301d6247a.960x808x1.jpg",
+                    "id": 12302,
+                    "image_url": "https://images.genius.com/eba6d8eab2c768e84ecf1c46ff85f014.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "L\u2019Alg\u00e9rino",
+                    "url": "https://genius.com/artists/Lalgerino"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/9033599",
+                "artist_names": "Naps",
+                "full_title": "Le sang de la veine by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "id": 9033599,
+                "language": null,
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "incomplete",
+                "path": "/Naps-le-sang-de-la-veine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-sang-de-la-veine-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 28
+                },
+                "release_date_for_display": "April 28, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 28, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le sang de la veine",
+                "title_with_featured": "Le sang de la veine",
+                "url": "https://genius.com/Naps-le-sang-de-la-veine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5981703",
+                "artist_names": "Naps & Sahim",
+                "full_title": "Les choses changent by\u00a0Naps\u00a0& Sahim",
+                "header_image_thumbnail_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.300x300x1.png",
+                "header_image_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.363x363x1.png",
+                "id": 5981703,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/Naps-and-sahim-les-choses-changent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-and-sahim-les-choses-changent-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.363x363x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Les choses changent",
+                "title_with_featured": "Les choses changent",
+                "url": "https://genius.com/Naps-and-sahim-les-choses-changent-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/43195",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 43195,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps & Sahim",
+                    "url": "https://genius.com/artists/Naps-and-sahim"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3246942",
+                "artist_names": "Naps (Ft. Rim'K)",
+                "full_title": "Le sens des affaires by\u00a0Naps (Ft.\u00a0Rim'K)",
+                "header_image_thumbnail_url": "https://images.genius.com/8033e8a3a00cd64b367d85e02c8c655c.300x114x1.jpg",
+                "header_image_url": "https://images.genius.com/8033e8a3a00cd64b367d85e02c8c655c.828x315x1.jpg",
+                "id": 3246942,
+                "language": "fr",
+                "lyrics_owner_id": 4066355,
+                "lyrics_state": "complete",
+                "path": "/Naps-le-sens-des-affaires-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-sens-des-affaires-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 22
+                },
+                "release_date_for_display": "September 22, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 22, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5efa7096701a2d01a0c86bcbbe3d9347.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5efa7096701a2d01a0c86bcbbe3d9347.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 44319
+                },
+                "title": "Le sens des affaires",
+                "title_with_featured": "Le sens des affaires (Ft.\u00a0Rim'K)",
+                "url": "https://genius.com/Naps-le-sens-des-affaires-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2455",
+                        "header_image_url": "https://images.genius.com/58fd31f99d79144a99d186dedf9d60b6.1000x563x1.png",
+                        "id": 2455,
+                        "image_url": "https://images.genius.com/b1b7d2ed16a7de57e9af693f956c3329.502x502x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Rim\u2019K",
+                        "url": "https://genius.com/artists/Rimk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7321079",
+                "artist_names": "Le Classico Organis\u00e9 (Ft. Alonzo, Gims, JuL, Kaaris, Naps, Rohff & Soso Maness)",
+                "full_title": "Les galactiques by\u00a0Le\u00a0Classico Organis\u00e9 (Ft.\u00a0Alonzo, Gims, JuL, Kaaris, Naps, Rohff & Soso\u00a0Maness)",
+                "header_image_thumbnail_url": "https://images.genius.com/637d136e2b9d0d0bdbf21ddc6bfbf0bc.300x300x1.png",
+                "header_image_url": "https://images.genius.com/637d136e2b9d0d0bdbf21ddc6bfbf0bc.1000x1000x1.png",
+                "id": 7321079,
+                "language": "en",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Le-classico-organise-les-galactiques-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-classico-organise-les-galactiques-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 5
+                },
+                "release_date_for_display": "November 5, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 5, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/637d136e2b9d0d0bdbf21ddc6bfbf0bc.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/637d136e2b9d0d0bdbf21ddc6bfbf0bc.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 14578
+                },
+                "title": "Les galactiques",
+                "title_with_featured": "Les galactiques (Ft.\u00a0Alonzo, Gims, JuL, Kaaris, Naps, Rohff & Soso\u00a0Maness)",
+                "url": "https://genius.com/Le-classico-organise-les-galactiques-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/74283",
+                        "header_image_url": "https://images.genius.com/420e900bc528bd58064a16dae6e325c9.449x613x1.png",
+                        "id": 74283,
+                        "image_url": "https://images.genius.com/581fd4fd6fc511609f0988f003def364.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JuL",
+                        "url": "https://genius.com/artists/Jul"
+                    },
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    },
+                    {
+                        "api_path": "/artists/13325",
+                        "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                        "id": 13325,
+                        "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gims",
+                        "url": "https://genius.com/artists/Gims"
+                    },
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    },
+                    {
+                        "api_path": "/artists/1908",
+                        "header_image_url": "https://images.genius.com/958deb9e98a1777def29f11dd2b2b8cb.1000x523x1.png",
+                        "id": 1908,
+                        "image_url": "https://images.genius.com/b5ba714ed6fa419ebb72ee4a11b01cc5.563x563x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rohff",
+                        "url": "https://genius.com/artists/Rohff"
+                    },
+                    {
+                        "api_path": "/artists/14693",
+                        "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                        "id": 14693,
+                        "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaaris",
+                        "url": "https://genius.com/artists/Kaaris",
+                        "iq": 2373
+                    },
+                    {
+                        "api_path": "/artists/147487",
+                        "header_image_url": "https://images.genius.com/87ec22191e8eedbf245dea6a04652504.838x445x1.jpg",
+                        "id": 147487,
+                        "image_url": "https://images.genius.com/9e0c59e5e8a785617697ef5df25f4341.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soso Maness",
+                        "url": "https://genius.com/artists/Soso-maness"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2922791",
+                    "header_image_url": "https://images.genius.com/6b10d4d4a4155132c8c897c3eb789c03.1000x1000x1.jpg",
+                    "id": 2922791,
+                    "image_url": "https://images.genius.com/23b81db3df31736542438a72f7ce4ef6.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Classico Organis\u00e9",
+                    "url": "https://genius.com/artists/Le-classico-organise"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6058693",
+                "artist_names": "Naps",
+                "full_title": "Les mains faites pour l'or by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.1000x1000x1.jpg",
+                "id": 6058693,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Naps-les-mains-faites-pour-lor-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-les-mains-faites-pour-lor-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 2
+                },
+                "release_date_for_display": "April 2, 2021",
+                "release_date_with_abbreviated_month_for_display": "Apr. 2, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Les mains faites pour l\u2019or",
+                "title_with_featured": "Les mains faites pour l'or",
+                "url": "https://genius.com/Naps-les-mains-faites-pour-lor-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4622856",
+                "artist_names": "Naps",
+                "full_title": "L'\u00e9t\u00e9 by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "id": 4622856,
+                "language": "fr",
+                "lyrics_owner_id": 7069257,
+                "lyrics_state": "complete",
+                "path": "/Naps-lete-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Naps-lete-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019\u00e9t\u00e9",
+                "title_with_featured": "L'\u00e9t\u00e9",
+                "url": "https://genius.com/Naps-lete-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7219724",
+                "artist_names": "Naps",
+                "full_title": "Le tout pour tout by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.1000x1000x1.jpg",
+                "id": 7219724,
+                "language": "fr",
+                "lyrics_owner_id": 4331784,
+                "lyrics_state": "complete",
+                "path": "/Naps-le-tout-pour-tout-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-tout-pour-tout-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le tout pour tout",
+                "title_with_featured": "Le tout pour tout",
+                "url": "https://genius.com/Naps-le-tout-pour-tout-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3093024",
+                "artist_names": "Naps",
+                "full_title": "Le zin / La zine by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.600x600x1.jpg",
+                "id": 3093024,
+                "language": "en",
+                "lyrics_owner_id": 4586358,
+                "lyrics_state": "complete",
+                "path": "/Naps-le-zin-la-zine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-le-zin-la-zine-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 19
+                },
+                "release_date_for_display": "May 19, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 19, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 37927
+                },
+                "title": "Le zin / La zine",
+                "title_with_featured": "Le zin / La zine",
+                "url": "https://genius.com/Naps-le-zin-la-zine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3568373",
+                "artist_names": "Naps",
+                "full_title": "Lolita Lempicka by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/67d7314b8d8acfd3b4004a65203c7325.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/67d7314b8d8acfd3b4004a65203c7325.1000x563x1.jpg",
+                "id": 3568373,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Naps-lolita-lempicka-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-lolita-lempicka-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 7
+                },
+                "release_date_for_display": "March 7, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 7, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/67d7314b8d8acfd3b4004a65203c7325.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67d7314b8d8acfd3b4004a65203c7325.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lolita Lempicka",
+                "title_with_featured": "Lolita Lempicka",
+                "url": "https://genius.com/Naps-lolita-lempicka-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3101259",
+                "artist_names": "Naps (Ft. Dika)",
+                "full_title": "LV by\u00a0Naps (Ft.\u00a0Dika)",
+                "header_image_thumbnail_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.600x600x1.jpg",
+                "id": 3101259,
+                "language": "fr",
+                "lyrics_owner_id": 4619569,
+                "lyrics_state": "complete",
+                "path": "/Naps-lv-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-lv-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 19
+                },
+                "release_date_for_display": "May 19, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 19, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 12983
+                },
+                "title": "LV",
+                "title_with_featured": "LV (Ft.\u00a0Dika)",
+                "url": "https://genius.com/Naps-lv-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/997447",
+                        "header_image_url": "https://images.genius.com/3b10dc4d91eb2574c4ed30b0ea45b1fe.1000x517x1.jpg",
+                        "id": 997447,
+                        "image_url": "https://images.genius.com/f65b9583e7e3301c894920cd82f5990c.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dika",
+                        "url": "https://genius.com/artists/Dika"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/3526815",
+                "artist_names": "Naps",
+                "full_title": "Ma Bella by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.440x440x1.jpg",
+                "id": 3526815,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Naps-ma-bella-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Naps-ma-bella-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 9
+                },
+                "release_date_for_display": "March 9, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 9, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 32789
+                },
+                "title": "Ma Bella",
+                "title_with_featured": "Ma Bella",
+                "url": "https://genius.com/Naps-ma-bella-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            }
+        ],
+        "next_page": 12
+    }
+}

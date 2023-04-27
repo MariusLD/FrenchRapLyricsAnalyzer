@@ -1,0 +1,957 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2902290",
+                "artist_names": "Gradur",
+                "full_title": "Never Change by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/b845cae766de6a24ed968928a6c3a09a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b845cae766de6a24ed968928a6c3a09a.1000x1000x1.jpg",
+                "id": 2902290,
+                "language": "fr",
+                "lyrics_owner_id": 1308270,
+                "lyrics_state": "complete",
+                "path": "/Gradur-never-change-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gradur-never-change-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b845cae766de6a24ed968928a6c3a09a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b845cae766de6a24ed968928a6c3a09a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 22105
+                },
+                "title": "Never Change",
+                "title_with_featured": "Never Change",
+                "url": "https://genius.com/Gradur-never-change-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/3424754",
+                "artist_names": "Lartiste (Ft. Gradur)",
+                "full_title": "Neymar by\u00a0Lartiste (Ft.\u00a0Gradur)",
+                "header_image_thumbnail_url": "https://images.genius.com/37c8c81d6fb46b5c779e3efe2fdcb9bb.300x269x1.jpg",
+                "header_image_url": "https://images.genius.com/37c8c81d6fb46b5c779e3efe2fdcb9bb.1000x897x1.jpg",
+                "id": 3424754,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Lartiste-neymar-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Lartiste-neymar-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 14
+                },
+                "release_date_for_display": "February 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/37c8c81d6fb46b5c779e3efe2fdcb9bb.300x269x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37c8c81d6fb46b5c779e3efe2fdcb9bb.1000x897x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 6597
+                },
+                "title": "Neymar",
+                "title_with_featured": "Neymar (Ft.\u00a0Gradur)",
+                "url": "https://genius.com/Lartiste-neymar-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/72710",
+                        "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                        "id": 72710,
+                        "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gradur",
+                        "url": "https://genius.com/artists/Gradur"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/62687",
+                    "header_image_url": "https://images.genius.com/b1b7c8a6eda08120a297e2dd0f53775b.599x433x1.png",
+                    "id": 62687,
+                    "image_url": "https://images.genius.com/5eea14118626e933a39418c43fe0b241.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lartiste",
+                    "url": "https://genius.com/artists/Lartiste",
+                    "iq": 2591
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8481064",
+                "artist_names": "Franglish (Ft. Gradur)",
+                "full_title": "Non non by\u00a0Franglish (Ft.\u00a0Gradur)",
+                "header_image_thumbnail_url": "https://images.genius.com/5f02506cccdd818b323a5013fa64b1cd.300x220x1.jpg",
+                "header_image_url": "https://images.genius.com/5f02506cccdd818b323a5013fa64b1cd.1000x732x1.jpg",
+                "id": 8481064,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Franglish-non-non-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Franglish-non-non-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 27
+                },
+                "release_date_for_display": "October 27, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 27, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/96bbfbd4159fb4245b261f34cbb4271c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/96bbfbd4159fb4245b261f34cbb4271c.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Non non",
+                "title_with_featured": "Non non (Ft.\u00a0Gradur)",
+                "url": "https://genius.com/Franglish-non-non-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/72710",
+                        "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                        "id": 72710,
+                        "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gradur",
+                        "url": "https://genius.com/artists/Gradur"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/246691",
+                    "header_image_url": "https://images.genius.com/cf9de728f847e9d69585bd8097c320dd.1000x563x1.jpg",
+                    "id": 246691,
+                    "image_url": "https://images.genius.com/8f43aa0dd356bd602f895d0105d1a419.744x744x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Franglish",
+                    "url": "https://genius.com/artists/Franglish"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/2902292",
+                "artist_names": "Gradur (Ft. Alonzo, MHD & Nyda)",
+                "full_title": "Oblah by\u00a0Gradur (Ft.\u00a0Alonzo, MHD & Nyda)",
+                "header_image_thumbnail_url": "https://images.genius.com/cbb7c979f93c9e20fb39f4da179992ae.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/cbb7c979f93c9e20fb39f4da179992ae.649x350x1.jpg",
+                "id": 2902292,
+                "language": "en",
+                "lyrics_owner_id": 3087762,
+                "lyrics_state": "complete",
+                "path": "/Gradur-oblah-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Gradur-oblah-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b845cae766de6a24ed968928a6c3a09a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b845cae766de6a24ed968928a6c3a09a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 146335
+                },
+                "title": "Oblah",
+                "title_with_featured": "Oblah (Ft.\u00a0Alonzo, MHD & Nyda)",
+                "url": "https://genius.com/Gradur-oblah-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/327802",
+                        "header_image_url": "https://images.genius.com/b63c75dde05d81413a81b93658d6fbb8.1000x667x1.jpg",
+                        "id": 327802,
+                        "image_url": "https://images.genius.com/a11566d1de57225a3e5c33cb2190002f.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "MHD",
+                        "url": "https://genius.com/artists/Mhd",
+                        "iq": 2535
+                    },
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    },
+                    {
+                        "api_path": "/artists/217488",
+                        "header_image_url": "https://images.genius.com/52fe68b4250ff37651411d07bb074636.765x350x1.jpg",
+                        "id": 217488,
+                        "image_url": "https://images.genius.com/18e2e16f308a5ee921fe896958398725.300x300x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nyda",
+                        "url": "https://genius.com/artists/Nyda"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5002072",
+                "artist_names": "Gradur",
+                "full_title": "OG by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "id": 5002072,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Gradur-og-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gradur-og-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "OG",
+                "title_with_featured": "OG",
+                "url": "https://genius.com/Gradur-og-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5002085",
+                "artist_names": "Gradur",
+                "full_title": "On avait tout pour nous by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "id": 5002085,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Gradur-on-avait-tout-pour-nous-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gradur-on-avait-tout-pour-nous-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On avait tout pour nous",
+                "title_with_featured": "On avait tout pour nous",
+                "url": "https://genius.com/Gradur-on-avait-tout-pour-nous-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5247399",
+                "artist_names": "SCH (Ft. Gradur)",
+                "full_title": "On les baises* by\u00a0SCH (Ft.\u00a0Gradur)",
+                "header_image_thumbnail_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                "id": 5247399,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Sch-on-les-baises-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sch-on-les-baises-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "On les baises*",
+                "title_with_featured": "On les baises* (Ft.\u00a0Gradur)",
+                "url": "https://genius.com/Sch-on-les-baises-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/72710",
+                        "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                        "id": 72710,
+                        "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gradur",
+                        "url": "https://genius.com/artists/Gradur"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/276476",
+                    "header_image_url": "https://images.genius.com/a7814e87e59e58dab4d2fee4e4af2228.595x204x1.png",
+                    "id": 276476,
+                    "image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "SCH",
+                    "url": "https://genius.com/artists/Sch",
+                    "iq": 12286
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2446046",
+                "artist_names": "Nokpi",
+                "full_title": "Papa Mama by\u00a0Nokpi",
+                "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "id": 2446046,
+                "language": "fr",
+                "lyrics_owner_id": 3066637,
+                "lyrics_state": "complete",
+                "path": "/Nokpi-papa-mama-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nokpi-papa-mama-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 10
+                },
+                "release_date_for_display": "January 10, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 10, 2016",
+                "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Papa Mama",
+                "title_with_featured": "Papa Mama",
+                "url": "https://genius.com/Nokpi-papa-mama-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/653272",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 653272,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nokpi",
+                    "url": "https://genius.com/artists/Nokpi"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5837566",
+                "artist_names": "Gradur",
+                "full_title": "Pas assez by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "id": 5837566,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Gradur-pas-assez-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gradur-pas-assez-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 7
+                },
+                "release_date_for_display": "August 7, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 7, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pas assez",
+                "title_with_featured": "Pas assez",
+                "url": "https://genius.com/Gradur-pas-assez-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/2339488",
+                "artist_names": "Gradur (Ft. GLK)",
+                "full_title": "Passe \u00e0 la caisse by\u00a0Gradur (Ft.\u00a0GLK)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/dc4bba739c36f14acb9bd89bb2eea32f.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/dc4bba739c36f14acb9bd89bb2eea32f.640x360x1.jpg",
+                "id": 2339488,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Gradur-passe-a-la-caisse-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gradur-passe-a-la-caisse-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 10,
+                    "day": 25
+                },
+                "release_date_for_display": "October 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Oct. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/67e9a9c5e429689854c20423dbff5713.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67e9a9c5e429689854c20423dbff5713.642x642x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 11904
+                },
+                "title": "Passe \u00e0 la caisse",
+                "title_with_featured": "Passe \u00e0 la caisse (Ft.\u00a0GLK)",
+                "url": "https://genius.com/Gradur-passe-a-la-caisse-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/563979",
+                        "header_image_url": "https://images.genius.com/7d53b483be43c95724ec605ee1dbad56.1000x733x1.jpg",
+                        "id": 563979,
+                        "image_url": "https://images.genius.com/ac7125e3ce4e48497b79b9cd469b3bf9.659x659x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "GLK",
+                        "url": "https://genius.com/artists/Glk"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5219078",
+                "artist_names": "Krilino",
+                "full_title": "Patate #2 - Panamera by\u00a0Krilino",
+                "header_image_thumbnail_url": "https://images.genius.com/c0dee7a2cd83fd8dbfbc44ec88b20035.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/c0dee7a2cd83fd8dbfbc44ec88b20035.1000x991x1.jpg",
+                "id": 5219078,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Krilino-patate-2-panamera-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Krilino-patate-2-panamera-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 2
+                },
+                "release_date_for_display": "February 2, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c0dee7a2cd83fd8dbfbc44ec88b20035.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c0dee7a2cd83fd8dbfbc44ec88b20035.1000x991x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Patate #2 - Panamera",
+                "title_with_featured": "Patate #2 - Panamera",
+                "url": "https://genius.com/Krilino-patate-2-panamera-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/271561",
+                    "header_image_url": "https://images.genius.com/ae941853c5e09510ed685850ce27308a.640x479x1.jpg",
+                    "id": 271561,
+                    "image_url": "https://images.genius.com/ab099b922645b203091447d087605e4e.931x931x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Krilino",
+                    "url": "https://genius.com/artists/Krilino"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5002083",
+                "artist_names": "Gradur",
+                "full_title": "Petit fr\u00e8re by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "id": 5002083,
+                "language": "fr",
+                "lyrics_owner_id": 40757,
+                "lyrics_state": "complete",
+                "path": "/Gradur-petit-frere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gradur-petit-frere-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Petit fr\u00e8re",
+                "title_with_featured": "Petit fr\u00e8re",
+                "url": "https://genius.com/Gradur-petit-frere-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/2374022",
+                "artist_names": "Gradur (Ft. Niska)",
+                "full_title": "Philly by\u00a0Gradur (Ft.\u00a0Niska)",
+                "header_image_thumbnail_url": "https://images.genius.com/b36b7848f752b7e73e272d96d2ec163e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b36b7848f752b7e73e272d96d2ec163e.1000x1000x1.jpg",
+                "id": 2374022,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Gradur-philly-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gradur-philly-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 20
+                },
+                "release_date_for_display": "November 20, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b36b7848f752b7e73e272d96d2ec163e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b36b7848f752b7e73e272d96d2ec163e.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 15129
+                },
+                "title": "Philly",
+                "title_with_featured": "Philly (Ft.\u00a0Niska)",
+                "url": "https://genius.com/Gradur-philly-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/234413",
+                        "header_image_url": "https://images.genius.com/d0a3b9c30cc5539f50743cc806907492.1000x568x1.jpg",
+                        "id": 234413,
+                        "image_url": "https://images.genius.com/691fb1661dadafe90e6dd457cb02fdbb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niska",
+                        "url": "https://genius.com/artists/Niska",
+                        "iq": 2319
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5002057",
+                "artist_names": "Gradur",
+                "full_title": "Pour la vie by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "id": 5002057,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Gradur-pour-la-vie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gradur-pour-la-vie-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1698aaa4f53415b48afe11279b74fe2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pour la vie",
+                "title_with_featured": "Pour la vie",
+                "url": "https://genius.com/Gradur-pour-la-vie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 35,
+                "api_path": "/songs/707080",
+                "artist_names": "Gradur",
+                "full_title": "Priez pour moi by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/79cdbd08f9a0bb01dcb677fe6582e64c.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/79cdbd08f9a0bb01dcb677fe6582e64c.870x489x1.jpg",
+                "id": 707080,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Gradur-priez-pour-moi-lyrics",
+                "pyongs_count": 20,
+                "relationships_index_url": "https://genius.com/Gradur-priez-pour-moi-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 18
+                },
+                "release_date_for_display": "February 18, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 18, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/bac03d4237d976e83b82e8706ad4ab6f.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/bac03d4237d976e83b82e8706ad4ab6f.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 70813
+                },
+                "title": "Priez pour moi",
+                "title_with_featured": "Priez pour moi",
+                "url": "https://genius.com/Gradur-priez-pour-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 44,
+                "api_path": "/songs/2102456",
+                "artist_names": "Gradur",
+                "full_title": "#PTT (Partis Trop T\u00f4t) by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/9cc7d6a10f71538be3a386c304ddb142.300x184x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/9cc7d6a10f71538be3a386c304ddb142.620x381x1.jpg",
+                "id": 2102456,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Gradur-ptt-partis-trop-tot-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Gradur-ptt-partis-trop-tot-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 6,
+                    "day": 10
+                },
+                "release_date_for_display": "June 10, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jun. 10, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/9cc7d6a10f71538be3a386c304ddb142.300x184x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/9cc7d6a10f71538be3a386c304ddb142.620x381x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 41514
+                },
+                "title": "#PTT (Partis Trop T\u00f4t)",
+                "title_with_featured": "#PTT (Partis Trop T\u00f4t)",
+                "url": "https://genius.com/Gradur-ptt-partis-trop-tot-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/550011",
+                "artist_names": "Gradur",
+                "full_title": "Rafaler by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/aae841757fffde251b3af0ef8abc5b49.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/aae841757fffde251b3af0ef8abc5b49.330x330x1.jpg",
+                "id": 550011,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Gradur-rafaler-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gradur-rafaler-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 22
+                },
+                "release_date_for_display": "October 22, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 22, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aae841757fffde251b3af0ef8abc5b49.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/aae841757fffde251b3af0ef8abc5b49.330x330x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 5206
+                },
+                "title": "Rafaler",
+                "title_with_featured": "Rafaler",
+                "url": "https://genius.com/Gradur-rafaler-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4034940",
+                "artist_names": "Gradur",
+                "full_title": "Rari by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/96d7346a92a45eaa7869210911abed63.300x142x1.png",
+                "header_image_url": "https://images.genius.com/96d7346a92a45eaa7869210911abed63.748x353x1.png",
+                "id": 4034940,
+                "language": "fr",
+                "lyrics_owner_id": 6014365,
+                "lyrics_state": "complete",
+                "path": "/Gradur-rari-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Gradur-rari-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 4
+                },
+                "release_date_for_display": "October 4, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 4, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/88a8e58ed139c62557d9a4558d1493b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/88a8e58ed139c62557d9a4558d1493b1.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 28547
+                },
+                "title": "Rari",
+                "title_with_featured": "Rari",
+                "url": "https://genius.com/Gradur-rari-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 36,
+                "api_path": "/songs/708913",
+                "artist_names": "Gradur",
+                "full_title": "R.D.C by\u00a0Gradur",
+                "header_image_thumbnail_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.1000x1000x1.jpg",
+                "id": 708913,
+                "language": "fr",
+                "lyrics_owner_id": 138580,
+                "lyrics_state": "complete",
+                "path": "/Gradur-rdc-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Gradur-rdc-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 27065
+                },
+                "title": "R.D.C",
+                "title_with_featured": "R.D.C",
+                "url": "https://genius.com/Gradur-rdc-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8985477",
+                "artist_names": "JNR Slice (Ft. Gradur)",
+                "full_title": "RECETTE by\u00a0JNR\u00a0Slice (Ft.\u00a0Gradur)",
+                "header_image_thumbnail_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.1000x1000x1.jpg",
+                "id": 8985477,
+                "language": "fr",
+                "lyrics_owner_id": 12516492,
+                "lyrics_state": "complete",
+                "path": "/Jnr-slice-recette-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jnr-slice-recette-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "RECETTE",
+                "title_with_featured": "RECETTE (Ft.\u00a0Gradur)",
+                "url": "https://genius.com/Jnr-slice-recette-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/72710",
+                        "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                        "id": 72710,
+                        "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gradur",
+                        "url": "https://genius.com/artists/Gradur"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2338694",
+                    "header_image_url": "https://images.genius.com/3edcb9bd46e8ceaf2791bf898259a06a.1000x333x1.jpg",
+                    "id": 2338694,
+                    "image_url": "https://images.genius.com/0f77babc0ad67874a0aef0e34fe770d3.486x486x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JNR Slice",
+                    "url": "https://genius.com/artists/Jnr-slice"
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

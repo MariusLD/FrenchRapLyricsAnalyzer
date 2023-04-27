@@ -1,0 +1,998 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/4664562",
+                "artist_names": "Juice (FRA)",
+                "full_title": "18 ans by\u00a0Juice\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/f1e9072058de628bd2bab1f2b9ad2eda.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f1e9072058de628bd2bab1f2b9ad2eda.1000x1000x1.jpg",
+                "id": 4664562,
+                "language": "fr",
+                "lyrics_owner_id": 4948790,
+                "lyrics_state": "complete",
+                "path": "/Juice-fra-18-ans-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Juice-fra-18-ans-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f1e9072058de628bd2bab1f2b9ad2eda.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f1e9072058de628bd2bab1f2b9ad2eda.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "18 ans",
+                "title_with_featured": "18 ans",
+                "url": "https://genius.com/Juice-fra-18-ans-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1244319",
+                    "header_image_url": "https://images.genius.com/8077df129f76e44272d7ac193ad38bb2.800x1000x1.jpg",
+                    "id": 1244319,
+                    "image_url": "https://images.genius.com/a38991f0f1fef062c2dcd389c9e65f33.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Juice (FRA)",
+                    "url": "https://genius.com/artists/Juice-fra",
+                    "iq": 149
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5484174",
+                "artist_names": "Mister V",
+                "full_title": "9 millim\u00e8tres by\u00a0Mister\u00a0V",
+                "header_image_thumbnail_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                "id": 5484174,
+                "language": "fr",
+                "lyrics_owner_id": 10702708,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-9-millimetres-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mister-v-9-millimetres-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 19
+                },
+                "release_date_for_display": "April 19, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 19, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "9 millim\u00e8tres",
+                "title_with_featured": "9 millim\u00e8tres",
+                "url": "https://genius.com/Mister-v-9-millimetres-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/4210935",
+                "artist_names": "Mister V",
+                "full_title": "Agamagohenmapoke by\u00a0Mister\u00a0V",
+                "header_image_thumbnail_url": "https://images.genius.com/ece0a596c029c4c830cf6d0468e37bb7.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/ece0a596c029c4c830cf6d0468e37bb7.1000x563x1.jpg",
+                "id": 4210935,
+                "language": "fr",
+                "lyrics_owner_id": 5743274,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-agamagohenmapoke-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mister-v-agamagohenmapoke-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 6
+                },
+                "release_date_for_display": "January 6, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 6, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a302112a967da7ae2903a157da9dbcec.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a302112a967da7ae2903a157da9dbcec.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 14414
+                },
+                "title": "Agamagohenmapoke",
+                "title_with_featured": "Agamagohenmapoke",
+                "url": "https://genius.com/Mister-v-agamagohenmapoke-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7321774",
+                "artist_names": "Alystocrathe",
+                "full_title": "Aly la meilleure by\u00a0Alystocrathe",
+                "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "id": 7321774,
+                "language": "en",
+                "lyrics_owner_id": 11358591,
+                "lyrics_state": "complete",
+                "path": "/Alystocrathe-aly-la-meilleure-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alystocrathe-aly-la-meilleure-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 9
+                },
+                "release_date_for_display": "October 9, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 9, 2021",
+                "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Aly la meilleure",
+                "title_with_featured": "Aly la meilleure",
+                "url": "https://genius.com/Alystocrathe-aly-la-meilleure-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2926774",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2926774,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alystocrathe",
+                    "url": "https://genius.com/artists/Alystocrathe"
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/3069484",
+                "artist_names": "Mister V (Ft. Juice (FRA))",
+                "full_title": "Apollo13 by\u00a0Mister\u00a0V (Ft.\u00a0Juice\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/cf6ae2faf8f7ab36b8d17b1f38bd4e57.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/cf6ae2faf8f7ab36b8d17b1f38bd4e57.1000x563x1.jpg",
+                "id": 3069484,
+                "language": "fr",
+                "lyrics_owner_id": 2985913,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-apollo13-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Mister-v-apollo13-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 19
+                },
+                "release_date_for_display": "May 19, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 19, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4a28dbae0fd8c4c9dcdfd9c9031656d4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4a28dbae0fd8c4c9dcdfd9c9031656d4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 27,
+                    "hot": false,
+                    "pageviews": 53704
+                },
+                "title": "Apollo13",
+                "title_with_featured": "Apollo13 (Ft.\u00a0Juice\u00a0(FRA))",
+                "url": "https://genius.com/Mister-v-apollo13-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1244319",
+                        "header_image_url": "https://images.genius.com/8077df129f76e44272d7ac193ad38bb2.800x1000x1.jpg",
+                        "id": 1244319,
+                        "image_url": "https://images.genius.com/a38991f0f1fef062c2dcd389c9e65f33.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Juice (FRA)",
+                        "url": "https://genius.com/artists/Juice-fra",
+                        "iq": 149
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7952208",
+                "artist_names": "Steve Bug (Ft. Mister V)",
+                "full_title": "Back To '95 by\u00a0Steve\u00a0Bug (Ft.\u00a0Mister\u00a0V)",
+                "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "id": 7952208,
+                "language": null,
+                "lyrics_owner_id": 54639,
+                "lyrics_state": "unreleased",
+                "path": "/Steve-bug-back-to-95-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Steve-bug-back-to-95-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2022",
+                "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Back To \u201995",
+                "title_with_featured": "Back To '95 (Ft.\u00a0Mister\u00a0V)",
+                "url": "https://genius.com/Steve-bug-back-to-95-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21869",
+                        "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                        "id": 21869,
+                        "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mister V",
+                        "url": "https://genius.com/artists/Mister-v"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/456636",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 456636,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Bug",
+                    "url": "https://genius.com/artists/Steve-bug"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5197701",
+                "artist_names": "Migos (Ft. Mister V)",
+                "full_title": "Bad and Boujee (Mister V Remix) by\u00a0Migos (Ft.\u00a0Mister\u00a0V)",
+                "header_image_thumbnail_url": "https://images.genius.com/7fbac3bee19b97a9b5b2805512da490a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7fbac3bee19b97a9b5b2805512da490a.640x640x1.jpg",
+                "id": 5197701,
+                "language": "en",
+                "lyrics_owner_id": 4839781,
+                "lyrics_state": "complete",
+                "path": "/Migos-bad-and-boujee-mister-v-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Migos-bad-and-boujee-mister-v-remix-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fbac3bee19b97a9b5b2805512da490a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fbac3bee19b97a9b5b2805512da490a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Bad and Boujee (Mister V Remix)",
+                "title_with_featured": "Bad and Boujee (Mister V Remix) (Ft.\u00a0Mister\u00a0V)",
+                "url": "https://genius.com/Migos-bad-and-boujee-mister-v-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21869",
+                        "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                        "id": 21869,
+                        "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mister V",
+                        "url": "https://genius.com/artists/Mister-v"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/44080",
+                    "header_image_url": "https://images.genius.com/7fbac3bee19b97a9b5b2805512da490a.640x640x1.jpg",
+                    "id": 44080,
+                    "image_url": "https://images.genius.com/7fbac3bee19b97a9b5b2805512da490a.640x640x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Migos",
+                    "url": "https://genius.com/artists/Migos",
+                    "iq": 1495
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4501838",
+                "artist_names": "Mister V",
+                "full_title": "Bat IV by\u00a0Mister\u00a0V",
+                "header_image_thumbnail_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                "id": 4501838,
+                "language": "fr",
+                "lyrics_owner_id": 7294747,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-bat-iv-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mister-v-bat-iv-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 19
+                },
+                "release_date_for_display": "April 19, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 19, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bat IV",
+                "title_with_featured": "Bat IV",
+                "url": "https://genius.com/Mister-v-bat-iv-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8053630",
+                "artist_names": "Mister V",
+                "full_title": "Because You Are The Part Of Me by\u00a0Mister\u00a0V",
+                "header_image_thumbnail_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                "id": 8053630,
+                "language": "en",
+                "lyrics_owner_id": 16157462,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-because-you-are-the-part-of-me-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mister-v-because-you-are-the-part-of-me-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 11,
+                    "day": 11
+                },
+                "release_date_for_display": "November 11, 2023",
+                "release_date_with_abbreviated_month_for_display": "Nov. 11, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Because You Are The Part Of Me",
+                "title_with_featured": "Because You Are The Part Of Me",
+                "url": "https://genius.com/Mister-v-because-you-are-the-part-of-me-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4263304",
+                "artist_names": "Juice (FRA)",
+                "full_title": "Blabla by\u00a0Juice\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.1000x1000x1.jpg",
+                "id": 4263304,
+                "language": "fr",
+                "lyrics_owner_id": 6388038,
+                "lyrics_state": "complete",
+                "path": "/Juice-fra-blabla-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Juice-fra-blabla-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 2,
+                    "day": 8
+                },
+                "release_date_for_display": "February 8, 2019",
+                "release_date_with_abbreviated_month_for_display": "Feb. 8, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Blabla",
+                "title_with_featured": "Blabla",
+                "url": "https://genius.com/Juice-fra-blabla-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1244319",
+                    "header_image_url": "https://images.genius.com/8077df129f76e44272d7ac193ad38bb2.800x1000x1.jpg",
+                    "id": 1244319,
+                    "image_url": "https://images.genius.com/a38991f0f1fef062c2dcd389c9e65f33.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Juice (FRA)",
+                    "url": "https://genius.com/artists/Juice-fra",
+                    "iq": 149
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4263291",
+                "artist_names": "Juice (FRA) (Ft. Samy Ceezy)",
+                "full_title": "Blizzard by\u00a0Juice\u00a0(FRA) (Ft.\u00a0Samy\u00a0Ceezy)",
+                "header_image_thumbnail_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.1000x1000x1.jpg",
+                "id": 4263291,
+                "language": "fr",
+                "lyrics_owner_id": 6388038,
+                "lyrics_state": "complete",
+                "path": "/Juice-fra-blizzard-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Juice-fra-blizzard-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 2,
+                    "day": 8
+                },
+                "release_date_for_display": "February 8, 2019",
+                "release_date_with_abbreviated_month_for_display": "Feb. 8, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a2fa8f87b0629c2a6b0926122c43e6ad.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Blizzard",
+                "title_with_featured": "Blizzard (Ft.\u00a0Samy\u00a0Ceezy)",
+                "url": "https://genius.com/Juice-fra-blizzard-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/99843",
+                        "header_image_url": "https://images.genius.com/b8eb658f0265381cfcf8c47467b534c0.553x283x1.png",
+                        "id": 99843,
+                        "image_url": "https://images.genius.com/93f7f0dca645669b78a147007c2b1783.563x563x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Samy Ceezy",
+                        "url": "https://genius.com/artists/Samy-ceezy"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1244319",
+                    "header_image_url": "https://images.genius.com/8077df129f76e44272d7ac193ad38bb2.800x1000x1.jpg",
+                    "id": 1244319,
+                    "image_url": "https://images.genius.com/a38991f0f1fef062c2dcd389c9e65f33.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Juice (FRA)",
+                    "url": "https://genius.com/artists/Juice-fra",
+                    "iq": 149
+                }
+            },
+            {
+                "annotation_count": 28,
+                "api_path": "/songs/3069494",
+                "artist_names": "Mister V",
+                "full_title": "Bonobo (Bonus Track) by\u00a0Mister\u00a0V",
+                "header_image_thumbnail_url": "https://images.genius.com/a13bf0a63b2e882e8e12c66cd6b9757b.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/a13bf0a63b2e882e8e12c66cd6b9757b.1000x563x1.jpg",
+                "id": 3069494,
+                "language": "fr",
+                "lyrics_owner_id": 3665808,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-bonobo-bonus-track-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Mister-v-bonobo-bonus-track-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 19
+                },
+                "release_date_for_display": "May 19, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 19, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4a28dbae0fd8c4c9dcdfd9c9031656d4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4a28dbae0fd8c4c9dcdfd9c9031656d4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 25,
+                    "hot": false,
+                    "pageviews": 16134
+                },
+                "title": "Bonobo (Bonus Track)",
+                "title_with_featured": "Bonobo (Bonus Track)",
+                "url": "https://genius.com/Mister-v-bonobo-bonus-track-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/5109436",
+                "artist_names": "Mister V",
+                "full_title": "Boogie by\u00a0Mister\u00a0V",
+                "header_image_thumbnail_url": "https://images.genius.com/d936493c6b8ff9c10b00a24275767e49.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d936493c6b8ff9c10b00a24275767e49.1000x1000x1.jpg",
+                "id": 5109436,
+                "language": "fr",
+                "lyrics_owner_id": 1667921,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-boogie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mister-v-boogie-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d936493c6b8ff9c10b00a24275767e49.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d936493c6b8ff9c10b00a24275767e49.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 7304
+                },
+                "title": "Boogie",
+                "title_with_featured": "Boogie",
+                "url": "https://genius.com/Mister-v-boogie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/9015815",
+                "artist_names": "Mister V",
+                "full_title": "Bootleg by\u00a0Mister\u00a0V",
+                "header_image_thumbnail_url": "https://images.genius.com/662e4ae56c2682d7e1905dc32c1aef10.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/662e4ae56c2682d7e1905dc32c1aef10.600x600x1.jpg",
+                "id": 9015815,
+                "language": "fr",
+                "lyrics_owner_id": 19416821,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-bootleg-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mister-v-bootleg-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/662e4ae56c2682d7e1905dc32c1aef10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/662e4ae56c2682d7e1905dc32c1aef10.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bootleg",
+                "title_with_featured": "Bootleg",
+                "url": "https://genius.com/Mister-v-bootleg-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/158982",
+                "artist_names": "Mister V (Ft. Laylow & Sir'Klo)",
+                "full_title": "Bouche d'\u00e9gout by\u00a0Mister\u00a0V (Ft.\u00a0Laylow & Sir'Klo)",
+                "header_image_thumbnail_url": "https://images.genius.com/e771ab4f05eb07f1c9f864159f8cbefb.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/e771ab4f05eb07f1c9f864159f8cbefb.1000x563x1.jpg",
+                "id": 158982,
+                "language": "fr",
+                "lyrics_owner_id": 158106,
+                "lyrics_state": "complete",
+                "path": "/Mister-v-bouche-degout-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mister-v-bouche-degout-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e771ab4f05eb07f1c9f864159f8cbefb.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e771ab4f05eb07f1c9f864159f8cbefb.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bouche d\u2019\u00e9gout",
+                "title_with_featured": "Bouche d'\u00e9gout (Ft.\u00a0Laylow & Sir'Klo)",
+                "url": "https://genius.com/Mister-v-bouche-degout-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/644475",
+                        "header_image_url": "https://images.genius.com/835ddf5c645386eead2a105b01ab7da0.438x438x1.png",
+                        "id": 644475,
+                        "image_url": "https://images.genius.com/835ddf5c645386eead2a105b01ab7da0.438x438x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir\u2019Klo",
+                        "url": "https://genius.com/artists/Sirklo"
+                    },
+                    {
+                        "api_path": "/artists/308564",
+                        "header_image_url": "https://images.genius.com/b6b494cca78e2fd6097e498b5924b707.250x249x46.gif",
+                        "id": 308564,
+                        "image_url": "https://images.genius.com/7541b47ff09d814042b13ac1b235384d.473x473x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Laylow",
+                        "url": "https://genius.com/artists/Laylow",
+                        "iq": 641
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21869",
+                    "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                    "id": 21869,
+                    "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mister V",
+                    "url": "https://genius.com/artists/Mister-v"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8346977",
+                "artist_names": "Binks Beatz (Ft. Kodes & Mister V)",
+                "full_title": "Boulimique by\u00a0Binks\u00a0Beatz (Ft.\u00a0Kodes & Mister\u00a0V)",
+                "header_image_thumbnail_url": "https://images.genius.com/0b8877c410f8696bd58e3c09dd2bfab2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0b8877c410f8696bd58e3c09dd2bfab2.1000x1000x1.jpg",
+                "id": 8346977,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Binks-beatz-boulimique-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Binks-beatz-boulimique-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 9
+                },
+                "release_date_for_display": "September 9, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 9, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0b8877c410f8696bd58e3c09dd2bfab2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0b8877c410f8696bd58e3c09dd2bfab2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Boulimique",
+                "title_with_featured": "Boulimique (Ft.\u00a0Kodes & Mister\u00a0V)",
+                "url": "https://genius.com/Binks-beatz-boulimique-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1599302",
+                        "header_image_url": "https://images.genius.com/ce90720e8071c1bc045d6f75ce39360c.1000x733x1.jpg",
+                        "id": 1599302,
+                        "image_url": "https://images.genius.com/a2d3c54b43f6dc707641d6f0595abc82.999x999x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kodes",
+                        "url": "https://genius.com/artists/Kodes"
+                    },
+                    {
+                        "api_path": "/artists/21869",
+                        "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                        "id": 21869,
+                        "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mister V",
+                        "url": "https://genius.com/artists/Mister-v"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/659505",
+                    "header_image_url": "https://images.genius.com/9a0cf5e96f81b297f10fd8d08e4e6620.1000x665x1.jpg",
+                    "id": 659505,
+                    "image_url": "https://images.genius.com/7065edde47ea30b6b16a643d3628dc18.410x410x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Binks Beatz",
+                    "url": "https://genius.com/artists/Binks-beatz"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8524457",
+                "artist_names": "Binks Beatz (Ft. Kodes & Mister V)",
+                "full_title": "Boulimique (Instrumental) by\u00a0Binks\u00a0Beatz (Ft.\u00a0Kodes & Mister\u00a0V)",
+                "header_image_thumbnail_url": "https://images.genius.com/e37a75b80e67f064ee46cede9be35260.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e37a75b80e67f064ee46cede9be35260.1000x1000x1.jpg",
+                "id": 8524457,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Binks-beatz-boulimique-instrumental-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Binks-beatz-boulimique-instrumental-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 4
+                },
+                "release_date_for_display": "November 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e37a75b80e67f064ee46cede9be35260.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e37a75b80e67f064ee46cede9be35260.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Boulimique (Instrumental)",
+                "title_with_featured": "Boulimique (Instrumental) (Ft.\u00a0Kodes & Mister\u00a0V)",
+                "url": "https://genius.com/Binks-beatz-boulimique-instrumental-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1599302",
+                        "header_image_url": "https://images.genius.com/ce90720e8071c1bc045d6f75ce39360c.1000x733x1.jpg",
+                        "id": 1599302,
+                        "image_url": "https://images.genius.com/a2d3c54b43f6dc707641d6f0595abc82.999x999x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kodes",
+                        "url": "https://genius.com/artists/Kodes"
+                    },
+                    {
+                        "api_path": "/artists/21869",
+                        "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                        "id": 21869,
+                        "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mister V",
+                        "url": "https://genius.com/artists/Mister-v"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/659505",
+                    "header_image_url": "https://images.genius.com/9a0cf5e96f81b297f10fd8d08e4e6620.1000x665x1.jpg",
+                    "id": 659505,
+                    "image_url": "https://images.genius.com/7065edde47ea30b6b16a643d3628dc18.410x410x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Binks Beatz",
+                    "url": "https://genius.com/artists/Binks-beatz"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/2894488",
+                "artist_names": "Karmen (FRA) (Ft. MQEEBD)",
+                "full_title": "Bowl by\u00a0Karmen\u00a0(FRA) (Ft.\u00a0MQEEBD)",
+                "header_image_thumbnail_url": "https://images.genius.com/7e3146946dd51a32a6a890c9e960c451.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/7e3146946dd51a32a6a890c9e960c451.870x489x1.jpg",
+                "id": 2894488,
+                "language": "en",
+                "lyrics_owner_id": 3517054,
+                "lyrics_state": "complete",
+                "path": "/Karmen-fra-bowl-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Karmen-fra-bowl-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0d219714c3777bc48a6b30b84816732e.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0d219714c3777bc48a6b30b84816732e.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 19,
+                    "hot": false,
+                    "pageviews": 10622
+                },
+                "title": "Bowl",
+                "title_with_featured": "Bowl (Ft.\u00a0MQEEBD)",
+                "url": "https://genius.com/Karmen-fra-bowl-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/637521",
+                        "header_image_url": "https://images.genius.com/7357f4ba2d65afa323de2907712abc8d.600x600x1.jpg",
+                        "id": 637521,
+                        "image_url": "https://images.genius.com/7357f4ba2d65afa323de2907712abc8d.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MQEEBD",
+                        "url": "https://genius.com/artists/Mqeebd"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/99842",
+                    "header_image_url": "https://images.genius.com/4d6a1cfe67ddb79fa7c58753ba2a1c81.960x640x1.jpg",
+                    "id": 99842,
+                    "image_url": "https://images.genius.com/9da29fa11171a723410044814be9814d.952x952x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Karmen (FRA)",
+                    "url": "https://genius.com/artists/Karmen-fra",
+                    "iq": 150
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5434113",
+                "artist_names": "FREAKEY! (Ft. Mister V & Rowjay)",
+                "full_title": "BOX OFFICE by\u00a0FREAKEY! (Ft.\u00a0Mister\u00a0V & Rowjay)",
+                "header_image_thumbnail_url": "https://images.genius.com/340e652568814426576a25210fc390bd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/340e652568814426576a25210fc390bd.1000x1000x1.jpg",
+                "id": 5434113,
+                "language": "fr",
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "complete",
+                "path": "/Freakey-box-office-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freakey-box-office-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 10
+                },
+                "release_date_for_display": "April 10, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 10, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/340e652568814426576a25210fc390bd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/340e652568814426576a25210fc390bd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "BOX OFFICE",
+                "title_with_featured": "BOX OFFICE (Ft.\u00a0Mister\u00a0V & Rowjay)",
+                "url": "https://genius.com/Freakey-box-office-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21869",
+                        "header_image_url": "https://images.genius.com/d5f3381f099a134eb9e7d489ae80f73d.584x264x1.png",
+                        "id": 21869,
+                        "image_url": "https://images.genius.com/d199affb8a06541f80ee7572911b8ee1.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mister V",
+                        "url": "https://genius.com/artists/Mister-v"
+                    },
+                    {
+                        "api_path": "/artists/39828",
+                        "header_image_url": "https://images.genius.com/e13aa96ef6f4dc2f76b833443ce7d03e.1000x574x1.jpg",
+                        "id": 39828,
+                        "image_url": "https://images.genius.com/dc28c1fce22f3f709802ea08231f763c.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rowjay",
+                        "url": "https://genius.com/artists/Rowjay"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/992647",
+                    "header_image_url": "https://images.genius.com/214fbae0f0c973f76feadcb7f6e21110.1000x1000x1.jpg",
+                    "id": 992647,
+                    "image_url": "https://images.genius.com/e976cba61f8484b588541d0e283fc21a.741x741x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "FREAKEY!",
+                    "url": "https://genius.com/artists/Freakey"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/4166081",
+                "artist_names": "Karmen (FRA)",
+                "full_title": "Brillant by\u00a0Karmen\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/ab84c5055613301911b459655fb2c0d6.300x240x1.jpg",
+                "header_image_url": "https://images.genius.com/ab84c5055613301911b459655fb2c0d6.1000x800x1.jpg",
+                "id": 4166081,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Karmen-fra-brillant-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Karmen-fra-brillant-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 17
+                },
+                "release_date_for_display": "December 17, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 17, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0a9b3b968e36ed94e431b8329fa60425.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0a9b3b968e36ed94e431b8329fa60425.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Brillant",
+                "title_with_featured": "Brillant",
+                "url": "https://genius.com/Karmen-fra-brillant-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/99842",
+                    "header_image_url": "https://images.genius.com/4d6a1cfe67ddb79fa7c58753ba2a1c81.960x640x1.jpg",
+                    "id": 99842,
+                    "image_url": "https://images.genius.com/9da29fa11171a723410044814be9814d.952x952x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Karmen (FRA)",
+                    "url": "https://genius.com/artists/Karmen-fra",
+                    "iq": 150
+                }
+            }
+        ],
+        "next_page": 2
+    }
+}

@@ -1,0 +1,917 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/176051",
+                "artist_names": "Syrano",
+                "full_title": "Bazinga! by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "header_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "id": 176051,
+                "language": "fr",
+                "lyrics_owner_id": 162258,
+                "lyrics_state": "complete",
+                "path": "/Syrano-bazinga-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-bazinga-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bazinga!",
+                "title_with_featured": "Bazinga!",
+                "url": "https://genius.com/Syrano-bazinga-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/639725",
+                "artist_names": "Keny Arkana (Ft. Juice Land, Kao Domb's, Karim, Le Gonz, Louiza, Manimal, MC Ray, Mena (FR), Mickey Lansky, Mino (FRA), Mr. Kee, Morfal, Morphin, Nacio, Nemrood, Prince King, Processus Verbal, Rap'as, Sista Micky, Sliman, Syrano & Teddy31)",
+                "full_title": "De l'op\u00e9ra \u00e0 la plaine by\u00a0Keny\u00a0Arkana (Ft.\u00a0Juice\u00a0Land, Kao\u00a0Domb's, Karim, Le\u00a0Gonz, Louiza, Manimal, MC\u00a0Ray, Mena\u00a0(FR), Mickey\u00a0Lansky, Mino\u00a0(FRA), Mr.\u00a0Kee, Morfal, Morphin, Nacio, Nemrood, Prince\u00a0King, Processus\u00a0Verbal, Rap'as, Sista\u00a0Micky, Sliman, Syrano & Teddy31)",
+                "header_image_thumbnail_url": "https://images.genius.com/19938808a1f9a7cb06c4bf7aac182875.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/19938808a1f9a7cb06c4bf7aac182875.600x600x1.jpg",
+                "id": 639725,
+                "language": "fr",
+                "lyrics_owner_id": 335062,
+                "lyrics_state": "complete",
+                "path": "/Keny-arkana-de-lopera-a-la-plaine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Keny-arkana-de-lopera-a-la-plaine-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2005",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/19938808a1f9a7cb06c4bf7aac182875.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/19938808a1f9a7cb06c4bf7aac182875.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "De l\u2019op\u00e9ra \u00e0 la plaine",
+                "title_with_featured": "De l'op\u00e9ra \u00e0 la plaine (Ft.\u00a0Juice\u00a0Land, Kao\u00a0Domb's, Karim, Le\u00a0Gonz, Louiza, Manimal, MC\u00a0Ray, Mena\u00a0(FR), Mickey\u00a0Lansky, Mino\u00a0(FRA), Mr.\u00a0Kee, Morfal, Morphin, Nacio, Nemrood, Prince\u00a0King, Processus\u00a0Verbal, Rap'as, Sista\u00a0Micky, Sliman, Syrano & Teddy31)",
+                "url": "https://genius.com/Keny-arkana-de-lopera-a-la-plaine-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1146195",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1146195,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Le Gonz",
+                        "url": "https://genius.com/artists/Le-gonz"
+                    },
+                    {
+                        "api_path": "/artists/1058524",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1058524,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mena (FR)",
+                        "url": "https://genius.com/artists/Mena-fr"
+                    },
+                    {
+                        "api_path": "/artists/289739",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289739,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sliman",
+                        "url": "https://genius.com/artists/Sliman"
+                    },
+                    {
+                        "api_path": "/artists/7699",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Zepnx34T3a5NZVtzPjJ7.gif",
+                        "id": 7699,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Zepnx34T3a5NZVtzPjJ7.gif",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Teddy31",
+                        "url": "https://genius.com/artists/Teddy31",
+                        "iq": 3684
+                    },
+                    {
+                        "api_path": "/artists/56429",
+                        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                        "id": 56429,
+                        "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Syrano",
+                        "url": "https://genius.com/artists/Syrano"
+                    },
+                    {
+                        "api_path": "/artists/289744",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289744,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Processus Verbal",
+                        "url": "https://genius.com/artists/Processus-verbal"
+                    },
+                    {
+                        "api_path": "/artists/289738",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289738,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mickey Lansky",
+                        "url": "https://genius.com/artists/Mickey-lansky"
+                    },
+                    {
+                        "api_path": "/artists/158926",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 158926,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Karim",
+                        "url": "https://genius.com/artists/Karim"
+                    },
+                    {
+                        "api_path": "/artists/289743",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289743,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Morphin",
+                        "url": "https://genius.com/artists/Morphin"
+                    },
+                    {
+                        "api_path": "/artists/3279",
+                        "header_image_url": "https://images.genius.com/0578c1d07d360e280c8f9ce834b5d908.500x375x1.jpg",
+                        "id": 3279,
+                        "image_url": "https://images.genius.com/0578c1d07d360e280c8f9ce834b5d908.500x375x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mr. Kee",
+                        "url": "https://genius.com/artists/Mr-kee"
+                    },
+                    {
+                        "api_path": "/artists/25968",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/Mino.jpg",
+                        "id": 25968,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/Mino.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mino (FRA)",
+                        "url": "https://genius.com/artists/Mino-fra"
+                    },
+                    {
+                        "api_path": "/artists/289742",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289742,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nemrood",
+                        "url": "https://genius.com/artists/Nemrood"
+                    },
+                    {
+                        "api_path": "/artists/289736",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289736,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Louiza",
+                        "url": "https://genius.com/artists/Louiza"
+                    },
+                    {
+                        "api_path": "/artists/152445",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 152445,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rap\u2019as",
+                        "url": "https://genius.com/artists/Rapas"
+                    },
+                    {
+                        "api_path": "/artists/289747",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289747,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Morfal",
+                        "url": "https://genius.com/artists/Morfal"
+                    },
+                    {
+                        "api_path": "/artists/289741",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289741,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Prince King",
+                        "url": "https://genius.com/artists/Prince-king"
+                    },
+                    {
+                        "api_path": "/artists/289735",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289735,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kao Domb\u2019s",
+                        "url": "https://genius.com/artists/Kao-dombs"
+                    },
+                    {
+                        "api_path": "/artists/289746",
+                        "header_image_url": "https://images.genius.com/135a44dcd8cbd18045c0564148fdd7bb.1000x1000x1.jpg",
+                        "id": 289746,
+                        "image_url": "https://images.genius.com/135a44dcd8cbd18045c0564148fdd7bb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Manimal",
+                        "url": "https://genius.com/artists/Manimal"
+                    },
+                    {
+                        "api_path": "/artists/289740",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289740,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nacio",
+                        "url": "https://genius.com/artists/Nacio"
+                    },
+                    {
+                        "api_path": "/artists/289734",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289734,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Juice Land",
+                        "url": "https://genius.com/artists/Juice-land"
+                    },
+                    {
+                        "api_path": "/artists/289723",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 289723,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Ray",
+                        "url": "https://genius.com/artists/Mc-ray"
+                    },
+                    {
+                        "api_path": "/artists/32158",
+                        "header_image_url": "https://images.genius.com/9dca86539f5996eef1768bd32d11efb0.399x399x1.jpg",
+                        "id": 32158,
+                        "image_url": "https://images.genius.com/9dca86539f5996eef1768bd32d11efb0.399x399x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sista Micky",
+                        "url": "https://genius.com/artists/Sista-micky"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1753",
+                    "header_image_url": "https://images.genius.com/9494e91436740585405e309e3417abd0.326x217x1.jpg",
+                    "id": 1753,
+                    "image_url": "https://images.genius.com/d168e1fb5c6faf0fc7006c8785438f07.799x799x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Keny Arkana",
+                    "url": "https://genius.com/artists/Keny-arkana",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/1779493",
+                "artist_names": "Syrano (Ft. Cherzo)",
+                "full_title": "Disques durs et disques d'Or by\u00a0Syrano (Ft.\u00a0Cherzo)",
+                "header_image_thumbnail_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.917x917x1.jpg",
+                "id": 1779493,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Syrano-disques-durs-et-disques-dor-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-disques-durs-et-disques-dor-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.917x917x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Disques durs et disques d\u2019Or",
+                "title_with_featured": "Disques durs et disques d'Or (Ft.\u00a0Cherzo)",
+                "url": "https://genius.com/Syrano-disques-durs-et-disques-dor-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/394976",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 394976,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cherzo",
+                        "url": "https://genius.com/artists/Cherzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2309622",
+                "artist_names": "Syrano",
+                "full_title": "Ficelle by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "header_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "id": 2309622,
+                "language": "fr",
+                "lyrics_owner_id": 298730,
+                "lyrics_state": "complete",
+                "path": "/Syrano-ficelle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-ficelle-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2006",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ficelle",
+                "title_with_featured": "Ficelle",
+                "url": "https://genius.com/Syrano-ficelle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2424147",
+                "artist_names": "KinChino (Ft. Syrano)",
+                "full_title": "La na\u00efade by\u00a0KinChino (Ft.\u00a0Syrano)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "id": 2424147,
+                "language": "fr",
+                "lyrics_owner_id": 1125137,
+                "lyrics_state": "complete",
+                "path": "/Kinchino-la-naiade-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kinchino-la-naiade-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La na\u00efade",
+                "title_with_featured": "La na\u00efade (Ft.\u00a0Syrano)",
+                "url": "https://genius.com/Kinchino-la-naiade-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/56429",
+                        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                        "id": 56429,
+                        "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Syrano",
+                        "url": "https://genius.com/artists/Syrano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/639962",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 639962,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KinChino",
+                    "url": "https://genius.com/artists/Kinchino"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2424160",
+                "artist_names": "KinChino (Ft. Syrano)",
+                "full_title": "L'Artiste by\u00a0KinChino (Ft.\u00a0Syrano)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "id": 2424160,
+                "language": "fr",
+                "lyrics_owner_id": 1125137,
+                "lyrics_state": "complete",
+                "path": "/Kinchino-lartiste-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kinchino-lartiste-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019Artiste",
+                "title_with_featured": "L'Artiste (Ft.\u00a0Syrano)",
+                "url": "https://genius.com/Kinchino-lartiste-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/56429",
+                        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                        "id": 56429,
+                        "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Syrano",
+                        "url": "https://genius.com/artists/Syrano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/639962",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 639962,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KinChino",
+                    "url": "https://genius.com/artists/Kinchino"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/481705",
+                "artist_names": "Syrano",
+                "full_title": "La timidit\u00e9 du pin by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.917x917x1.jpg",
+                "id": 481705,
+                "language": "fr",
+                "lyrics_owner_id": 214147,
+                "lyrics_state": "complete",
+                "path": "/Syrano-la-timidite-du-pin-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-la-timidite-du-pin-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2010",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.917x917x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La timidit\u00e9 du pin",
+                "title_with_featured": "La timidit\u00e9 du pin",
+                "url": "https://genius.com/Syrano-la-timidite-du-pin-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2424161",
+                "artist_names": "KinChino (Ft. Syrano)",
+                "full_title": "La v\u00e9rit\u00e9 n'est qu'\u00e0 un clic by\u00a0KinChino (Ft.\u00a0Syrano)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "id": 2424161,
+                "language": "fr",
+                "lyrics_owner_id": 1125137,
+                "lyrics_state": "complete",
+                "path": "/Kinchino-la-verite-nest-qua-un-clic-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kinchino-la-verite-nest-qua-un-clic-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La v\u00e9rit\u00e9 n\u2019est qu\u2019\u00e0 un clic",
+                "title_with_featured": "La v\u00e9rit\u00e9 n'est qu'\u00e0 un clic (Ft.\u00a0Syrano)",
+                "url": "https://genius.com/Kinchino-la-verite-nest-qua-un-clic-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/56429",
+                        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                        "id": 56429,
+                        "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Syrano",
+                        "url": "https://genius.com/artists/Syrano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/639962",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 639962,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KinChino",
+                    "url": "https://genius.com/artists/Kinchino"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3341922",
+                "artist_names": "Syrano (Ft. Cyril C\u00e9lestin & Gari Greu)",
+                "full_title": "Le man\u00e8ge by\u00a0Syrano (Ft.\u00a0Cyril\u00a0C\u00e9lestin & Gari\u00a0Greu)",
+                "header_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "header_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "id": 3341922,
+                "language": "fr",
+                "lyrics_owner_id": 5548446,
+                "lyrics_state": "complete",
+                "path": "/Syrano-le-manege-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-le-manege-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le man\u00e8ge",
+                "title_with_featured": "Le man\u00e8ge (Ft.\u00a0Cyril\u00a0C\u00e9lestin & Gari\u00a0Greu)",
+                "url": "https://genius.com/Syrano-le-manege-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1039147",
+                        "header_image_url": "https://images.genius.com/86133928690bd56d33e23268f5b17c15.499x499x1.jpg",
+                        "id": 1039147,
+                        "image_url": "https://images.genius.com/86133928690bd56d33e23268f5b17c15.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cyril C\u00e9lestin",
+                        "url": "https://genius.com/artists/Cyril-celestin"
+                    },
+                    {
+                        "api_path": "/artists/1270756",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1270756,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gari Greu",
+                        "url": "https://genius.com/artists/Gari-greu"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8877627",
+                "artist_names": "Syrano",
+                "full_title": "Le prix des choses by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "header_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "id": 8877627,
+                "language": "fr",
+                "lyrics_owner_id": 11992976,
+                "lyrics_state": "complete",
+                "path": "/Syrano-le-prix-des-choses-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-le-prix-des-choses-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 26
+                },
+                "release_date_for_display": "March 26, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 26, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le prix des choses",
+                "title_with_featured": "Le prix des choses",
+                "url": "https://genius.com/Syrano-le-prix-des-choses-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1779790",
+                "artist_names": "Syrano",
+                "full_title": "Le Sang Bleu by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.917x917x1.jpg",
+                "id": 1779790,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Syrano-le-sang-bleu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-le-sang-bleu-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1722b68f36c66b2b243bf75035dd32f.917x917x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le Sang Bleu",
+                "title_with_featured": "Le Sang Bleu",
+                "url": "https://genius.com/Syrano-le-sang-bleu-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/177438",
+                "artist_names": "Syrano",
+                "full_title": "Marquis de Sade by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "header_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "id": 177438,
+                "language": "fr",
+                "lyrics_owner_id": 162258,
+                "lyrics_state": "complete",
+                "path": "/Syrano-marquis-de-sade-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-marquis-de-sade-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Marquis de Sade",
+                "title_with_featured": "Marquis de Sade",
+                "url": "https://genius.com/Syrano-marquis-de-sade-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2424133",
+                "artist_names": "KinChino (Ft. Pompier & Syrano)",
+                "full_title": "Marseille c'est pas pareil by\u00a0KinChino (Ft.\u00a0Pompier & Syrano)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "id": 2424133,
+                "language": "fr",
+                "lyrics_owner_id": 1125137,
+                "lyrics_state": "complete",
+                "path": "/Kinchino-marseille-cest-pas-pareil-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kinchino-marseille-cest-pas-pareil-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/739b62dff218d4062262adae777de9d5.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Marseille c\u2019est pas pareil",
+                "title_with_featured": "Marseille c'est pas pareil (Ft.\u00a0Pompier & Syrano)",
+                "url": "https://genius.com/Kinchino-marseille-cest-pas-pareil-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/56429",
+                        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                        "id": 56429,
+                        "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Syrano",
+                        "url": "https://genius.com/artists/Syrano"
+                    },
+                    {
+                        "api_path": "/artists/639965",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 639965,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pompier",
+                        "url": "https://genius.com/artists/Pompier"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/639962",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 639962,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KinChino",
+                    "url": "https://genius.com/artists/Kinchino"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2060886",
+                "artist_names": "Syrano",
+                "full_title": "Planter des cailloux by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "header_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "id": 2060886,
+                "language": "fr",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Syrano-planter-des-cailloux-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-planter-des-cailloux-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Planter des cailloux",
+                "title_with_featured": "Planter des cailloux",
+                "url": "https://genius.com/Syrano-planter-des-cailloux-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5231183",
+                "artist_names": "Syrano",
+                "full_title": "Pourquoi j'aime pas ta gueule ? by\u00a0Syrano",
+                "header_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "header_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "id": 5231183,
+                "language": "fr",
+                "lyrics_owner_id": 8277963,
+                "lyrics_state": "complete",
+                "path": "/Syrano-pourquoi-jaime-pas-ta-gueule-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Syrano-pourquoi-jaime-pas-ta-gueule-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 23
+                },
+                "release_date_for_display": "January 23, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jan. 23, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.300x202x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pourquoi j\u2019aime pas ta gueule ?",
+                "title_with_featured": "Pourquoi j'aime pas ta gueule ?",
+                "url": "https://genius.com/Syrano-pourquoi-jaime-pas-ta-gueule-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/56429",
+                    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                    "id": 56429,
+                    "image_url": "https://images.genius.com/5fcd5b922058a11dbb6a046c04c8fe5a.732x492x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syrano",
+                    "url": "https://genius.com/artists/Syrano"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

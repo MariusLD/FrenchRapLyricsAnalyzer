@@ -1,0 +1,961 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/49866",
+                "artist_names": "Sinik (Ft. Zoxea)",
+                "full_title": "Pardonnez-Moi by\u00a0Sinik (Ft.\u00a0Zoxea)",
+                "header_image_thumbnail_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.320x320x1.jpg",
+                "id": 49866,
+                "language": "fr",
+                "lyrics_owner_id": 13497,
+                "lyrics_state": "complete",
+                "path": "/Sinik-pardonnez-moi-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sinik-pardonnez-moi-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 1,
+                    "day": 25
+                },
+                "release_date_for_display": "January 25, 2005",
+                "release_date_with_abbreviated_month_for_display": "Jan. 25, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 9110
+                },
+                "title": "Pardonnez-Moi",
+                "title_with_featured": "Pardonnez-Moi (Ft.\u00a0Zoxea)",
+                "url": "https://genius.com/Sinik-pardonnez-moi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11623",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                        "id": 11623,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zoxea",
+                        "url": "https://genius.com/artists/Zoxea",
+                        "iq": 0
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/4174367",
+                "artist_names": "Seth Gueko (Ft. Flynt, Jazzy Bazz & Sinik)",
+                "full_title": "Paris Street by\u00a0Seth\u00a0Gueko (Ft.\u00a0Flynt, Jazzy\u00a0Bazz & Sinik)",
+                "header_image_thumbnail_url": "https://images.genius.com/9e1e0d36205cdcc9fa7f6c3be50da341.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9e1e0d36205cdcc9fa7f6c3be50da341.1000x1000x1.jpg",
+                "id": 4174367,
+                "language": "fr",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-paris-street-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-paris-street-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 25
+                },
+                "release_date_for_display": "January 25, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 25, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9e1e0d36205cdcc9fa7f6c3be50da341.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9e1e0d36205cdcc9fa7f6c3be50da341.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 19,
+                    "hot": false,
+                    "pageviews": 6870
+                },
+                "title": "Paris Street",
+                "title_with_featured": "Paris Street (Ft.\u00a0Flynt, Jazzy\u00a0Bazz & Sinik)",
+                "url": "https://genius.com/Seth-gueko-paris-street-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1877",
+                        "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                        "id": 1877,
+                        "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sinik",
+                        "url": "https://genius.com/artists/Sinik"
+                    },
+                    {
+                        "api_path": "/artists/13956",
+                        "header_image_url": "https://images.genius.com/192cd6e07520682624dcea6f4b5b58db.1000x548x1.jpg",
+                        "id": 13956,
+                        "image_url": "https://images.genius.com/90ec7bb4d226e89b1b143582e77cc4a2.634x634x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jazzy Bazz",
+                        "url": "https://genius.com/artists/Jazzy-bazz",
+                        "iq": 4662
+                    },
+                    {
+                        "api_path": "/artists/2155",
+                        "header_image_url": "https://images.genius.com/594510382ff9ff56ee227ac9e19c6e93.1000x687x1.jpg",
+                        "id": 2155,
+                        "image_url": "https://images.genius.com/0f7fb90a0756317c0497425fc02058a0.353x353x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Flynt",
+                        "url": "https://genius.com/artists/Flynt"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/84078",
+                "artist_names": "Sinik",
+                "full_title": "Paroles d'Hommes by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/e3ac048f3fb285f08c091446b50a0f9b.300x299x1.jpg",
+                "header_image_url": "https://images.genius.com/e3ac048f3fb285f08c091446b50a0f9b.865x862x1.jpg",
+                "id": 84078,
+                "language": "fr",
+                "lyrics_owner_id": 68630,
+                "lyrics_state": "complete",
+                "path": "/Sinik-paroles-dhommes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-paroles-dhommes-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2009",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e3ac048f3fb285f08c091446b50a0f9b.300x299x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e3ac048f3fb285f08c091446b50a0f9b.865x862x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Paroles d\u2019Hommes",
+                "title_with_featured": "Paroles d'Hommes",
+                "url": "https://genius.com/Sinik-paroles-dhommes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/155298",
+                "artist_names": "Soprano",
+                "full_title": "Passe moi le mic by\u00a0Soprano",
+                "header_image_thumbnail_url": "https://images.genius.com/6f78b0ec779414b2c403be674d224023.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6f78b0ec779414b2c403be674d224023.400x400x1.jpg",
+                "id": 155298,
+                "language": "fr",
+                "lyrics_owner_id": 194457,
+                "lyrics_state": "complete",
+                "path": "/Soprano-passe-moi-le-mic-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Soprano-passe-moi-le-mic-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 2,
+                    "day": 19
+                },
+                "release_date_for_display": "February 19, 2007",
+                "release_date_with_abbreviated_month_for_display": "Feb. 19, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6f78b0ec779414b2c403be674d224023.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6f78b0ec779414b2c403be674d224023.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Passe moi le mic",
+                "title_with_featured": "Passe moi le mic",
+                "url": "https://genius.com/Soprano-passe-moi-le-mic-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1431",
+                    "header_image_url": "https://images.genius.com/e7978b0b7620b2e575e6765eb79c9d53.597x183x1.png",
+                    "id": 1431,
+                    "image_url": "https://images.genius.com/d0a0f7b8182f11dafa1d2a554f6e3eab.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Soprano",
+                    "url": "https://genius.com/artists/Soprano"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6105305",
+                "artist_names": "Sinik",
+                "full_title": "Petit con by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.500x500x1.jpg",
+                "id": 6105305,
+                "language": "fr",
+                "lyrics_owner_id": 4764259,
+                "lyrics_state": "complete",
+                "path": "/Sinik-petit-con-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sinik-petit-con-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Petit con",
+                "title_with_featured": "Petit con",
+                "url": "https://genius.com/Sinik-petit-con-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/124271",
+                "artist_names": "Sinik",
+                "full_title": "Phoenix by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.600x600x1.jpg",
+                "id": 124271,
+                "language": "fr",
+                "lyrics_owner_id": 177709,
+                "lyrics_state": "complete",
+                "path": "/Sinik-phoenix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-phoenix-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 9,
+                    "day": 24
+                },
+                "release_date_for_display": "September 24, 2012",
+                "release_date_with_abbreviated_month_for_display": "Sep. 24, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Phoenix",
+                "title_with_featured": "Phoenix",
+                "url": "https://genius.com/Sinik-phoenix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/89053",
+                "artist_names": "Sinik (Ft. Kayna Samet)",
+                "full_title": "Pinocchio by\u00a0Sinik (Ft.\u00a0Kayna\u00a0Samet)",
+                "header_image_thumbnail_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.600x600x1.jpg",
+                "id": 89053,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Sinik-pinocchio-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Sinik-pinocchio-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5b7c10323feaeaee1eb1c3a27393a5a0.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 35764
+                },
+                "title": "Pinocchio",
+                "title_with_featured": "Pinocchio (Ft.\u00a0Kayna\u00a0Samet)",
+                "url": "https://genius.com/Sinik-pinocchio-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11699",
+                        "header_image_url": "https://images.genius.com/c6e31a2a520b2ae7e84c94bedd6b0287.349x349x1.jpg",
+                        "id": 11699,
+                        "image_url": "https://images.genius.com/c6e31a2a520b2ae7e84c94bedd6b0287.349x349x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kayna Samet",
+                        "url": "https://genius.com/artists/Kayna-samet",
+                        "iq": 811
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6105302",
+                "artist_names": "Sinik",
+                "full_title": "Plan\u00e8te soucis by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.500x500x1.jpg",
+                "id": 6105302,
+                "language": "fr",
+                "lyrics_owner_id": 4764259,
+                "lyrics_state": "complete",
+                "path": "/Sinik-planete-soucis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-planete-soucis-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/10a40673734d2fff3f07439bbf05908b.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plan\u00e8te soucis",
+                "title_with_featured": "Plan\u00e8te soucis",
+                "url": "https://genius.com/Sinik-planete-soucis-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1840092",
+                "artist_names": "L'Alg\u00e9rino (Ft. Sinik)",
+                "full_title": "P-M by\u00a0L'Alg\u00e9rino (Ft.\u00a0Sinik)",
+                "header_image_thumbnail_url": "https://images.genius.com/8f63adf36a1f6dea4f14797692974284.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8f63adf36a1f6dea4f14797692974284.1000x1000x1.jpg",
+                "id": 1840092,
+                "language": "fr",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Lalgerino-p-m-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lalgerino-p-m-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/8f63adf36a1f6dea4f14797692974284.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8f63adf36a1f6dea4f14797692974284.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "P-M",
+                "title_with_featured": "P-M (Ft.\u00a0Sinik)",
+                "url": "https://genius.com/Lalgerino-p-m-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1877",
+                        "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                        "id": 1877,
+                        "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sinik",
+                        "url": "https://genius.com/artists/Sinik"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12302",
+                    "header_image_url": "https://images.genius.com/05ffb64a67ee283a6503dcd301d6247a.960x808x1.jpg",
+                    "id": 12302,
+                    "image_url": "https://images.genius.com/eba6d8eab2c768e84ecf1c46ff85f014.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "L\u2019Alg\u00e9rino",
+                    "url": "https://genius.com/artists/Lalgerino"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4237560",
+                "artist_names": "Sinik",
+                "full_title": "Power Rangers by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/9333eb3144069190c31120467dc10734.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9333eb3144069190c31120467dc10734.960x960x1.jpg",
+                "id": 4237560,
+                "language": "fr",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Sinik-power-rangers-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-power-rangers-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9333eb3144069190c31120467dc10734.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9333eb3144069190c31120467dc10734.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Power Rangers",
+                "title_with_featured": "Power Rangers",
+                "url": "https://genius.com/Sinik-power-rangers-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/349202",
+                "artist_names": "Sinik",
+                "full_title": "Pr\u00e9cieuse by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/37b701ea9fec4f2d93544ddd8be61da4.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/37b701ea9fec4f2d93544ddd8be61da4.397x400x1.jpg",
+                "id": 349202,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Sinik-precieuse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-precieuse-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 4,
+                    "day": 3
+                },
+                "release_date_for_display": "April 3, 2006",
+                "release_date_with_abbreviated_month_for_display": "Apr. 3, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/37b701ea9fec4f2d93544ddd8be61da4.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37b701ea9fec4f2d93544ddd8be61da4.397x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pr\u00e9cieuse",
+                "title_with_featured": "Pr\u00e9cieuse",
+                "url": "https://genius.com/Sinik-precieuse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7788631",
+                "artist_names": "Sinik",
+                "full_title": "Pri\u00e8res by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/edc31bd0534d69968d1bd7595fec8630.300x300x1.png",
+                "header_image_url": "https://images.genius.com/edc31bd0534d69968d1bd7595fec8630.881x881x1.png",
+                "id": 7788631,
+                "language": "fr",
+                "lyrics_owner_id": 580547,
+                "lyrics_state": "complete",
+                "path": "/Sinik-prieres-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-prieres-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/edc31bd0534d69968d1bd7595fec8630.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/edc31bd0534d69968d1bd7595fec8630.881x881x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pri\u00e8res",
+                "title_with_featured": "Pri\u00e8res",
+                "url": "https://genius.com/Sinik-prieres-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7994943",
+                "artist_names": "Relo (Ft. Jacky, R.E.D.K., Seth Gueko & Sinik)",
+                "full_title": "PRP by\u00a0Relo (Ft.\u00a0Jacky, R.E.D.K., Seth\u00a0Gueko & Sinik)",
+                "header_image_thumbnail_url": "https://images.genius.com/c62054b0a2ca567fe23c6f89c92999eb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c62054b0a2ca567fe23c6f89c92999eb.1000x1000x1.jpg",
+                "id": 7994943,
+                "language": "fr",
+                "lyrics_owner_id": 6838650,
+                "lyrics_state": "complete",
+                "path": "/Relo-prp-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Relo-prp-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 13
+                },
+                "release_date_for_display": "May 13, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 13, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c62054b0a2ca567fe23c6f89c92999eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c62054b0a2ca567fe23c6f89c92999eb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "PRP",
+                "title_with_featured": "PRP (Ft.\u00a0Jacky, R.E.D.K., Seth\u00a0Gueko & Sinik)",
+                "url": "https://genius.com/Relo-prp-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1877",
+                        "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                        "id": 1877,
+                        "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sinik",
+                        "url": "https://genius.com/artists/Sinik"
+                    },
+                    {
+                        "api_path": "/artists/14653",
+                        "header_image_url": "https://images.genius.com/b9a96991993244079ed1139dc06cee62.654x250x1.jpg",
+                        "id": 14653,
+                        "image_url": "https://images.genius.com/2f031d6dfce0c2dd65a7de8fb80dcf03.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "R.E.D.K.",
+                        "url": "https://genius.com/artists/Redk"
+                    },
+                    {
+                        "api_path": "/artists/33308",
+                        "header_image_url": "https://images.genius.com/9d4861d49eb79a4a85e76ab6f87d742f.489x489x1.png",
+                        "id": 33308,
+                        "image_url": "https://images.genius.com/9d4861d49eb79a4a85e76ab6f87d742f.489x489x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jacky",
+                        "url": "https://genius.com/artists/Jacky"
+                    },
+                    {
+                        "api_path": "/artists/11499",
+                        "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                        "id": 11499,
+                        "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Seth Gueko",
+                        "url": "https://genius.com/artists/Seth-gueko",
+                        "iq": 1271
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/76242",
+                    "header_image_url": "https://images.genius.com/324fb7d105e0894666bdeec69d13ea79.649x350x1.jpg",
+                    "id": 76242,
+                    "image_url": "https://images.genius.com/51a1585a43280a52f8b5454d9dff6022.349x349x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Relo",
+                    "url": "https://genius.com/artists/Relo"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/745787",
+                "artist_names": "Sinik",
+                "full_title": "Quand Je Serai Grand by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/d75bc9bd94ad687f0165e5291b8e7a8d.300x299x1.png",
+                "header_image_url": "https://images.genius.com/d75bc9bd94ad687f0165e5291b8e7a8d.599x597x1.png",
+                "id": 745787,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Sinik-quand-je-serai-grand-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Sinik-quand-je-serai-grand-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d75bc9bd94ad687f0165e5291b8e7a8d.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/d75bc9bd94ad687f0165e5291b8e7a8d.599x597x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 18223
+                },
+                "title": "Quand Je Serai Grand",
+                "title_with_featured": "Quand Je Serai Grand",
+                "url": "https://genius.com/Sinik-quand-je-serai-grand-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3284416",
+                "artist_names": "Sinik",
+                "full_title": "Qu'est ce que tu deviens by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/c7b1a9df4f9ad439a37bae00bed50752.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c7b1a9df4f9ad439a37bae00bed50752.960x960x1.jpg",
+                "id": 3284416,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Sinik-quest-ce-que-tu-deviens-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-quest-ce-que-tu-deviens-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 17
+                },
+                "release_date_for_display": "November 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c7b1a9df4f9ad439a37bae00bed50752.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c7b1a9df4f9ad439a37bae00bed50752.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Qu\u2019est ce que tu deviens",
+                "title_with_featured": "Qu'est ce que tu deviens",
+                "url": "https://genius.com/Sinik-quest-ce-que-tu-deviens-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/156696",
+                "artist_names": "Seth Gueko (Ft. Sinik)",
+                "full_title": "Rap 2 gwere by\u00a0Seth\u00a0Gueko (Ft.\u00a0Sinik)",
+                "header_image_thumbnail_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.400x400x1.jpg",
+                "id": 156696,
+                "language": "fr",
+                "lyrics_owner_id": 173883,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-rap-2-gwere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-rap-2-gwere-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 5,
+                    "day": 14
+                },
+                "release_date_for_display": "May 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "May. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 28,
+                    "hot": false
+                },
+                "title": "Rap 2 gwere",
+                "title_with_featured": "Rap 2 gwere (Ft.\u00a0Sinik)",
+                "url": "https://genius.com/Seth-gueko-rap-2-gwere-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1877",
+                        "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                        "id": 1877,
+                        "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sinik",
+                        "url": "https://genius.com/artists/Sinik"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2438470",
+                "artist_names": "Sinik",
+                "full_title": "Rap de Pitbull by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/675fc8f32c94ca2079c1908be76de0bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/675fc8f32c94ca2079c1908be76de0bc.393x393x1.jpg",
+                "id": 2438470,
+                "language": "fr",
+                "lyrics_owner_id": 738483,
+                "lyrics_state": "complete",
+                "path": "/Sinik-rap-de-pitbull-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-rap-de-pitbull-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/675fc8f32c94ca2079c1908be76de0bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/675fc8f32c94ca2079c1908be76de0bc.393x393x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Rap de Pitbull",
+                "title_with_featured": "Rap de Pitbull",
+                "url": "https://genius.com/Sinik-rap-de-pitbull-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/471447",
+                "artist_names": "Sinik",
+                "full_title": "R\u00e9aliste by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/c6bf56dbc89fe321e60e96ce94538df8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c6bf56dbc89fe321e60e96ce94538df8.600x600x1.jpg",
+                "id": 471447,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Sinik-realiste-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-realiste-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c6bf56dbc89fe321e60e96ce94538df8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c6bf56dbc89fe321e60e96ce94538df8.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "R\u00e9aliste",
+                "title_with_featured": "R\u00e9aliste",
+                "url": "https://genius.com/Sinik-realiste-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5629453",
+                "artist_names": "Sinik",
+                "full_title": "R\u00e8glement de compte by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/7766ad4aa335cecb7226e76ac67c0ab4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7766ad4aa335cecb7226e76ac67c0ab4.500x500x1.jpg",
+                "id": 5629453,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Sinik-reglement-de-compte-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-reglement-de-compte-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 5,
+                    "day": 2
+                },
+                "release_date_for_display": "May 2, 2006",
+                "release_date_with_abbreviated_month_for_display": "May. 2, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7766ad4aa335cecb7226e76ac67c0ab4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7766ad4aa335cecb7226e76ac67c0ab4.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "R\u00e8glement de compte",
+                "title_with_featured": "R\u00e8glement de compte",
+                "url": "https://genius.com/Sinik-reglement-de-compte-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/91183",
+                "artist_names": "Sinik",
+                "full_title": "R\u00e8glement Ext\u00e9rieur by\u00a0Sinik",
+                "header_image_thumbnail_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.320x320x1.jpg",
+                "id": 91183,
+                "language": "fr",
+                "lyrics_owner_id": 125009,
+                "lyrics_state": "complete",
+                "path": "/Sinik-reglement-exterieur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sinik-reglement-exterieur-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 1,
+                    "day": null
+                },
+                "release_date_for_display": "January 2005",
+                "release_date_with_abbreviated_month_for_display": "Jan. 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8934d9bf72daffa4b29f28061a855e5b.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 5005
+                },
+                "title": "R\u00e8glement Ext\u00e9rieur",
+                "title_with_featured": "R\u00e8glement Ext\u00e9rieur",
+                "url": "https://genius.com/Sinik-reglement-exterieur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1877",
+                    "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                    "id": 1877,
+                    "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sinik",
+                    "url": "https://genius.com/artists/Sinik"
+                }
+            }
+        ],
+        "next_page": 12
+    }
+}

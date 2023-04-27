@@ -1,0 +1,956 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6899156",
+                "artist_names": "Hyacinthe (Ft. Johnny Jane)",
+                "full_title": "Lalala by\u00a0Hyacinthe (Ft.\u00a0Johnny\u00a0Jane)",
+                "header_image_thumbnail_url": "https://images.genius.com/c9de9edc7541805289c3674935770240.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c9de9edc7541805289c3674935770240.1000x1000x1.png",
+                "id": 6899156,
+                "language": "en",
+                "lyrics_owner_id": 4433558,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-lalala-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-lalala-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 10
+                },
+                "release_date_for_display": "June 10, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 10, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c9de9edc7541805289c3674935770240.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c9de9edc7541805289c3674935770240.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Lalala",
+                "title_with_featured": "Lalala (Ft.\u00a0Johnny\u00a0Jane)",
+                "url": "https://genius.com/Hyacinthe-lalala-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2166227",
+                        "header_image_url": "https://images.genius.com/ff4d0589277ef2f915556a94f725419f.900x900x1.jpg",
+                        "id": 2166227,
+                        "image_url": "https://images.genius.com/ff4d0589277ef2f915556a94f725419f.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Johnny Jane",
+                        "url": "https://genius.com/artists/Johnny-jane"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7658135",
+                "artist_names": "Roseboy666 (Ft. Hyacinthe)",
+                "full_title": "La m\u00eame danse by\u00a0Roseboy666 (Ft.\u00a0Hyacinthe)",
+                "header_image_thumbnail_url": "https://images.genius.com/53a7c6fb70c534e84b744b9daddb704d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/53a7c6fb70c534e84b744b9daddb704d.878x878x1.png",
+                "id": 7658135,
+                "language": "fr",
+                "lyrics_owner_id": 81742,
+                "lyrics_state": "complete",
+                "path": "/Roseboy666-la-meme-danse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roseboy666-la-meme-danse-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 11
+                },
+                "release_date_for_display": "February 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53a7c6fb70c534e84b744b9daddb704d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/53a7c6fb70c534e84b744b9daddb704d.878x878x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La m\u00eame danse",
+                "title_with_featured": "La m\u00eame danse (Ft.\u00a0Hyacinthe)",
+                "url": "https://genius.com/Roseboy666-la-meme-danse-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/40120",
+                        "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                        "id": 40120,
+                        "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hyacinthe",
+                        "url": "https://genius.com/artists/Hyacinthe",
+                        "iq": 109
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1863442",
+                    "header_image_url": "https://images.genius.com/07e12eac3e343fb2881ebc815e00f224.280x280x1.png",
+                    "id": 1863442,
+                    "image_url": "https://images.genius.com/07e12eac3e343fb2881ebc815e00f224.280x280x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roseboy666",
+                    "url": "https://genius.com/artists/Roseboy666"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8036155",
+                "artist_names": "Hyacinthe",
+                "full_title": "\u200blamourestmort by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/80ab0d8b64eecc8f11580406ee35c533.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/80ab0d8b64eecc8f11580406ee35c533.1000x1000x1.jpg",
+                "id": 8036155,
+                "language": "fr",
+                "lyrics_owner_id": 7304793,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-lamourestmort-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-lamourestmort-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/80ab0d8b64eecc8f11580406ee35c533.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/80ab0d8b64eecc8f11580406ee35c533.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u200blamourestmort",
+                "title_with_featured": "\u200blamourestmort",
+                "url": "https://genius.com/Hyacinthe-lamourestmort-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/3115350",
+                "artist_names": "Hyacinthe (Ft. Jok'Air)",
+                "full_title": "La nuit les \u00e9toiles by\u00a0Hyacinthe (Ft.\u00a0Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/3c51600d70c6c0c743187d082522ecc3.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/3c51600d70c6c0c743187d082522ecc3.960x540x1.jpg",
+                "id": 3115350,
+                "language": "fr",
+                "lyrics_owner_id": 2175034,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-la-nuit-les-etoiles-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-la-nuit-les-etoiles-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 7
+                },
+                "release_date_for_display": "June 7, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 7, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7d3660f01fbf90d31b9c38cef032981c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7d3660f01fbf90d31b9c38cef032981c.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 5657
+                },
+                "title": "La nuit les \u00e9toiles",
+                "title_with_featured": "La nuit les \u00e9toiles (Ft.\u00a0Jok'Air)",
+                "url": "https://genius.com/Hyacinthe-la-nuit-les-etoiles-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/ebf4fc2ad9371a2c57d1761c7dd80a2b.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3018718",
+                "artist_names": "Hyacinthe",
+                "full_title": "Le courage des oiseaux by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/22ced6825c1656ff96c532a821bdb5ff.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/22ced6825c1656ff96c532a821bdb5ff.1000x1000x1.jpg",
+                "id": 3018718,
+                "language": "fr",
+                "lyrics_owner_id": 2175034,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-le-courage-des-oiseaux-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hyacinthe-le-courage-des-oiseaux-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 1,
+                    "day": 30
+                },
+                "release_date_for_display": "January 30, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jan. 30, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/22ced6825c1656ff96c532a821bdb5ff.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/22ced6825c1656ff96c532a821bdb5ff.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Le courage des oiseaux",
+                "title_with_featured": "Le courage des oiseaux",
+                "url": "https://genius.com/Hyacinthe-le-courage-des-oiseaux-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4896162",
+                "artist_names": "CALY.EXE (Ft. Hyacinthe)",
+                "full_title": "Le Jeu by\u00a0CALY.EXE (Ft.\u00a0Hyacinthe)",
+                "header_image_thumbnail_url": "https://images.genius.com/3befbbe57d12d8c00235f22c943490e2.300x300x1.png",
+                "header_image_url": "https://images.genius.com/3befbbe57d12d8c00235f22c943490e2.479x479x1.png",
+                "id": 4896162,
+                "language": "fr",
+                "lyrics_owner_id": 205762,
+                "lyrics_state": "complete",
+                "path": "/Calyexe-le-jeu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Calyexe-le-jeu-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 20
+                },
+                "release_date_for_display": "September 20, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 20, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3befbbe57d12d8c00235f22c943490e2.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/3befbbe57d12d8c00235f22c943490e2.479x479x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le Jeu",
+                "title_with_featured": "Le Jeu (Ft.\u00a0Hyacinthe)",
+                "url": "https://genius.com/Calyexe-le-jeu-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/40120",
+                        "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                        "id": 40120,
+                        "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hyacinthe",
+                        "url": "https://genius.com/artists/Hyacinthe",
+                        "iq": 109
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1895314",
+                    "header_image_url": "https://images.genius.com/9d92a345544576205959ece83817e1d4.1000x1000x1.jpg",
+                    "id": 1895314,
+                    "image_url": "https://images.genius.com/9a3978551d15dc4e82de4393ff45d700.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CALY.EXE",
+                    "url": "https://genius.com/artists/Calyexe"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/384228",
+                "artist_names": "Hyacinthe & L.O.A.S (Ft. Ammour)",
+                "full_title": "Le milliard et une vie by\u00a0Hyacinthe\u00a0& L.O.A.S (Ft.\u00a0Ammour)",
+                "header_image_thumbnail_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.1000x1000x1.jpg",
+                "id": 384228,
+                "language": "fr",
+                "lyrics_owner_id": 1225057,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-and-loas-le-milliard-et-une-vie-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Hyacinthe-and-loas-le-milliard-et-une-vie-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 20
+                },
+                "release_date_for_display": "November 20, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Le milliard et une vie",
+                "title_with_featured": "Le milliard et une vie (Ft.\u00a0Ammour)",
+                "url": "https://genius.com/Hyacinthe-and-loas-le-milliard-et-une-vie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/155568",
+                        "header_image_url": "https://images.genius.com/ff0c0558e3244ab51df10779770336ce.1000x531x1.png",
+                        "id": 155568,
+                        "image_url": "https://images.genius.com/a2093715a60a8b498c1e2cc60a4023c6.370x370x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ammour",
+                        "url": "https://genius.com/artists/Ammour"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/84380",
+                    "header_image_url": "https://images.genius.com/5111f8434571651e5ceabc6c37252a30.1000x563x1.jpg",
+                    "id": 84380,
+                    "image_url": "https://images.genius.com/d7d92732b473e647a1b2831bd0855ed8.999x999x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hyacinthe & L.O.A.S",
+                    "url": "https://genius.com/artists/Hyacinthe-and-loas"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/2347479",
+                "artist_names": "Hyacinthe",
+                "full_title": "L'ennui by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.1000x1000x1.jpg",
+                "id": 2347479,
+                "language": "fr",
+                "lyrics_owner_id": 1984663,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-lennui-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hyacinthe-lennui-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019ennui",
+                "title_with_featured": "L'ennui",
+                "url": "https://genius.com/Hyacinthe-lennui-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3223293",
+                "artist_names": "Hyacinthe (Ft. Ammour)",
+                "full_title": "Le regard qui brille by\u00a0Hyacinthe (Ft.\u00a0Ammour)",
+                "header_image_thumbnail_url": "https://images.genius.com/4c9d7c6bb43204856d462a9fd065074f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4c9d7c6bb43204856d462a9fd065074f.640x640x1.jpg",
+                "id": 3223293,
+                "language": "fr",
+                "lyrics_owner_id": 4561879,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-le-regard-qui-brille-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-le-regard-qui-brille-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 21
+                },
+                "release_date_for_display": "September 21, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 21, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4c9d7c6bb43204856d462a9fd065074f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4c9d7c6bb43204856d462a9fd065074f.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le regard qui brille",
+                "title_with_featured": "Le regard qui brille (Ft.\u00a0Ammour)",
+                "url": "https://genius.com/Hyacinthe-le-regard-qui-brille-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/155568",
+                        "header_image_url": "https://images.genius.com/ff0c0558e3244ab51df10779770336ce.1000x531x1.png",
+                        "id": 155568,
+                        "image_url": "https://images.genius.com/a2093715a60a8b498c1e2cc60a4023c6.370x370x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ammour",
+                        "url": "https://genius.com/artists/Ammour"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4397250",
+                "artist_names": "Hyacinthe",
+                "full_title": "Les gar\u00e7ons et les filles by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/8a16cf99d65ff412c6152e4f467693c5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8a16cf99d65ff412c6152e4f467693c5.600x600x1.jpg",
+                "id": 4397250,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-les-garcons-et-les-filles-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-les-garcons-et-les-filles-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8a16cf99d65ff412c6152e4f467693c5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8a16cf99d65ff412c6152e4f467693c5.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Les gar\u00e7ons et les filles",
+                "title_with_featured": "Les gar\u00e7ons et les filles",
+                "url": "https://genius.com/Hyacinthe-les-garcons-et-les-filles-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/729820",
+                "artist_names": "L.O.A.S (Ft. Hyacinthe)",
+                "full_title": "Les lingots by\u00a0L.O.A.S (Ft.\u00a0Hyacinthe)",
+                "header_image_thumbnail_url": "https://images.genius.com/76422910c573ea7965609e3174ba08d1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/76422910c573ea7965609e3174ba08d1.960x960x1.jpg",
+                "id": 729820,
+                "language": "fr",
+                "lyrics_owner_id": 1225057,
+                "lyrics_state": "complete",
+                "path": "/Loas-les-lingots-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Loas-les-lingots-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2015",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/76422910c573ea7965609e3174ba08d1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/76422910c573ea7965609e3174ba08d1.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Les lingots",
+                "title_with_featured": "Les lingots (Ft.\u00a0Hyacinthe)",
+                "url": "https://genius.com/Loas-les-lingots-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/40120",
+                        "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                        "id": 40120,
+                        "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hyacinthe",
+                        "url": "https://genius.com/artists/Hyacinthe",
+                        "iq": 109
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/56352",
+                    "header_image_url": "https://images.genius.com/337bfd20e816ae6c0f618ffea39389ff.1000x563x1.png",
+                    "id": 56352,
+                    "image_url": "https://images.genius.com/909f9f161d2592c7659e73248cfd1454.640x640x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "L.O.A.S",
+                    "url": "https://genius.com/artists/Loas",
+                    "iq": 134
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/1499997",
+                "artist_names": "Janet Jackson",
+                "full_title": "Livin' in a World (They Didn't Make) by\u00a0Janet\u00a0Jackson",
+                "header_image_thumbnail_url": "https://images.genius.com/3b84a57a772b4f6cb5640f8a89bd99f7.300x204x1.png",
+                "header_image_url": "https://images.genius.com/3b84a57a772b4f6cb5640f8a89bd99f7.810x550x1.png",
+                "id": 1499997,
+                "language": "en",
+                "lyrics_owner_id": 4213672,
+                "lyrics_state": "complete",
+                "path": "/Janet-jackson-livin-in-a-world-they-didnt-make-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Janet-jackson-livin-in-a-world-they-didnt-make-sample",
+                "release_date_components": {
+                    "year": 1989,
+                    "month": 9,
+                    "day": 19
+                },
+                "release_date_for_display": "September 19, 1989",
+                "release_date_with_abbreviated_month_for_display": "Sep. 19, 1989",
+                "song_art_image_thumbnail_url": "https://images.genius.com/44cbfef0fe4c7d2a6948d21e2544c585.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/44cbfef0fe4c7d2a6948d21e2544c585.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 6061
+                },
+                "title": "Livin\u2019 in a World (They Didn\u2019t Make)",
+                "title_with_featured": "Livin' in a World (They Didn't Make)",
+                "url": "https://genius.com/Janet-jackson-livin-in-a-world-they-didnt-make-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2122",
+                    "header_image_url": "https://images.genius.com/334177710f542353f7e1b23960e9e6a4.1000x563x1.jpg",
+                    "id": 2122,
+                    "image_url": "https://images.genius.com/50d13df8f0efbcc733fcd899e6dae91a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Janet Jackson",
+                    "url": "https://genius.com/artists/Janet-jackson"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3697547",
+                "artist_names": "Hyacinthe",
+                "full_title": "Love Sosa Remix by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.800x800x1.jpg",
+                "id": 3697547,
+                "language": "fr",
+                "lyrics_owner_id": 5153952,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-love-sosa-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-love-sosa-remix-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 2,
+                    "day": 25
+                },
+                "release_date_for_display": "February 25, 2013",
+                "release_date_with_abbreviated_month_for_display": "Feb. 25, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Love Sosa Remix",
+                "title_with_featured": "Love Sosa Remix",
+                "url": "https://genius.com/Hyacinthe-love-sosa-remix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3223299",
+                "artist_names": "Hyacinthe (Ft. Laylow)",
+                "full_title": "Ma belle by\u00a0Hyacinthe (Ft.\u00a0Laylow)",
+                "header_image_thumbnail_url": "https://images.genius.com/4556e8763a4c23763363f373bdc59cc2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4556e8763a4c23763363f373bdc59cc2.959x959x1.jpg",
+                "id": 3223299,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-ma-belle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-ma-belle-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4556e8763a4c23763363f373bdc59cc2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4556e8763a4c23763363f373bdc59cc2.959x959x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Ma belle",
+                "title_with_featured": "Ma belle (Ft.\u00a0Laylow)",
+                "url": "https://genius.com/Hyacinthe-ma-belle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/308564",
+                        "header_image_url": "https://images.genius.com/b6b494cca78e2fd6097e498b5924b707.250x249x46.gif",
+                        "id": 308564,
+                        "image_url": "https://images.genius.com/7541b47ff09d814042b13ac1b235384d.473x473x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Laylow",
+                        "url": "https://genius.com/artists/Laylow",
+                        "iq": 641
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6175188",
+                "artist_names": "Hyacinthe",
+                "full_title": "Machine by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/eda63bc963f9253b182c794ed2663091.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/eda63bc963f9253b182c794ed2663091.600x600x1.jpg",
+                "id": 6175188,
+                "language": "fr",
+                "lyrics_owner_id": 8045486,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-machine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-machine-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 23
+                },
+                "release_date_for_display": "October 23, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 23, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/eda63bc963f9253b182c794ed2663091.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/eda63bc963f9253b182c794ed2663091.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Machine",
+                "title_with_featured": "Machine",
+                "url": "https://genius.com/Hyacinthe-machine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4397257",
+                "artist_names": "Hyacinthe",
+                "full_title": "Maintenant by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/2bdb074b45c36d75d47687dc15d581ba.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2bdb074b45c36d75d47687dc15d581ba.640x640x1.jpg",
+                "id": 4397257,
+                "language": "fr",
+                "lyrics_owner_id": 4561879,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-maintenant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-maintenant-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 12
+                },
+                "release_date_for_display": "April 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2bdb074b45c36d75d47687dc15d581ba.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2bdb074b45c36d75d47687dc15d581ba.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Maintenant",
+                "title_with_featured": "Maintenant",
+                "url": "https://genius.com/Hyacinthe-maintenant-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/2386479",
+                "artist_names": "Hyacinthe",
+                "full_title": "Maldoror by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.1000x1000x1.jpg",
+                "id": 2386479,
+                "language": "fr",
+                "lyrics_owner_id": 2394376,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-maldoror-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-maldoror-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 16
+                },
+                "release_date_for_display": "November 16, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 16, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/05042a4532dcf646093a032059a0cd8f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Maldoror",
+                "title_with_featured": "Maldoror",
+                "url": "https://genius.com/Hyacinthe-maldoror-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3697550",
+                "artist_names": "Hyacinthe",
+                "full_title": "Mar\u00e9cage noir by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.800x800x1.jpg",
+                "id": 3697550,
+                "language": null,
+                "lyrics_owner_id": 5153952,
+                "lyrics_state": "incomplete",
+                "path": "/Hyacinthe-marecage-noir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-marecage-noir-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5e0f8f3b40d6d8cf5531ee992043855f.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mar\u00e9cage noir",
+                "title_with_featured": "Mar\u00e9cage noir",
+                "url": "https://genius.com/Hyacinthe-marecage-noir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5254012",
+                "artist_names": "Hyacinthe",
+                "full_title": "Mauvais r\u00f4le by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/a814df76e924c1c8f1384a33a6592d63.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/a814df76e924c1c8f1384a33a6592d63.1000x563x1.jpg",
+                "id": 5254012,
+                "language": "fr",
+                "lyrics_owner_id": 4210668,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-mauvais-role-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-mauvais-role-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 13
+                },
+                "release_date_for_display": "February 13, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 13, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/52807a3500b19ffd5c5f1938f06c9f8b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/52807a3500b19ffd5c5f1938f06c9f8b.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mauvais r\u00f4le",
+                "title_with_featured": "Mauvais r\u00f4le",
+                "url": "https://genius.com/Hyacinthe-mauvais-role-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5085483",
+                "artist_names": "Hyacinthe",
+                "full_title": "MAZDA by\u00a0Hyacinthe",
+                "header_image_thumbnail_url": "https://images.genius.com/6d565ecb61d09d8fe5552dfdbdce1ba3.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/6d565ecb61d09d8fe5552dfdbdce1ba3.1000x563x1.jpg",
+                "id": 5085483,
+                "language": "fr",
+                "lyrics_owner_id": 4210668,
+                "lyrics_state": "complete",
+                "path": "/Hyacinthe-mazda-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hyacinthe-mazda-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 4
+                },
+                "release_date_for_display": "December 4, 2019",
+                "release_date_with_abbreviated_month_for_display": "Dec. 4, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b538770f41effca6e324ea0fb1750252.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b538770f41effca6e324ea0fb1750252.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "MAZDA",
+                "title_with_featured": "MAZDA",
+                "url": "https://genius.com/Hyacinthe-mazda-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40120",
+                    "header_image_url": "https://images.genius.com/c3a393596f6de191bbad2f0d8fa1f330.1000x633x1.jpg",
+                    "id": 40120,
+                    "image_url": "https://images.genius.com/b7c52951c292684e5f37dcbe8a11ec3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hyacinthe",
+                    "url": "https://genius.com/artists/Hyacinthe",
+                    "iq": 109
+                }
+            }
+        ],
+        "next_page": 5
+    }
+}

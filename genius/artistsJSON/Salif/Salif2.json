@@ -1,0 +1,946 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2498306",
+                "artist_names": "Salif (Ft. Fofo44)",
+                "full_title": "Bleu blanc rouge by\u00a0Salif (Ft.\u00a0Fofo44)",
+                "header_image_thumbnail_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.350x350x1.jpg",
+                "id": 2498306,
+                "language": "fr",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Salif-bleu-blanc-rouge-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-bleu-blanc-rouge-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2008",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bleu blanc rouge",
+                "title_with_featured": "Bleu blanc rouge (Ft.\u00a0Fofo44)",
+                "url": "https://genius.com/Salif-bleu-blanc-rouge-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/686608",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 686608,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fofo44",
+                        "url": "https://genius.com/artists/Fofo44"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/112061",
+                "artist_names": "Salif",
+                "full_title": "Blow by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "id": 112061,
+                "language": "fr",
+                "lyrics_owner_id": 123797,
+                "lyrics_state": "complete",
+                "path": "/Salif-blow-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-blow-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 9,
+                    "day": 28
+                },
+                "release_date_for_display": "September 28, 2009",
+                "release_date_with_abbreviated_month_for_display": "Sep. 28, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Blow",
+                "title_with_featured": "Blow",
+                "url": "https://genius.com/Salif-blow-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/187338",
+                "artist_names": "Salif (Ft. Zoxea)",
+                "full_title": "Bois de l'eau by\u00a0Salif (Ft.\u00a0Zoxea)",
+                "header_image_thumbnail_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.500x500x1.jpg",
+                "id": 187338,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Salif-bois-de-leau-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-bois-de-leau-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2001",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Bois de l\u2019eau",
+                "title_with_featured": "Bois de l'eau (Ft.\u00a0Zoxea)",
+                "url": "https://genius.com/Salif-bois-de-leau-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11623",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                        "id": 11623,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zoxea",
+                        "url": "https://genius.com/artists/Zoxea",
+                        "iq": 0
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/112072",
+                "artist_names": "Salif",
+                "full_title": "Boomerang by\u00a0Salif",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                "id": 112072,
+                "language": "fr",
+                "lyrics_owner_id": 123797,
+                "lyrics_state": "complete",
+                "path": "/Salif-boomerang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-boomerang-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                "song_art_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                "stats": {
+                    "unreviewed_annotations": 25,
+                    "hot": false
+                },
+                "title": "Boomerang",
+                "title_with_featured": "Boomerang",
+                "url": "https://genius.com/Salif-boomerang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2512818",
+                "artist_names": "Salif (Ft. TLF)",
+                "full_title": "Boulevard de la Prison by\u00a0Salif (Ft.\u00a0TLF)",
+                "header_image_thumbnail_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.400x400x1.jpg",
+                "id": 2512818,
+                "language": "fr",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Salif-boulevard-de-la-prison-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-boulevard-de-la-prison-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 4,
+                    "day": 30
+                },
+                "release_date_for_display": "April 30, 2007",
+                "release_date_with_abbreviated_month_for_display": "Apr. 30, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Boulevard de la Prison",
+                "title_with_featured": "Boulevard de la Prison (Ft.\u00a0TLF)",
+                "url": "https://genius.com/Salif-boulevard-de-la-prison-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12437",
+                        "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                        "id": 12437,
+                        "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "TLF",
+                        "url": "https://genius.com/artists/Tlf",
+                        "iq": 2168
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/111692",
+                "artist_names": "Salif",
+                "full_title": "Boulogne boy by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.400x400x1.jpg",
+                "id": 111692,
+                "language": "fr",
+                "lyrics_owner_id": 123797,
+                "lyrics_state": "complete",
+                "path": "/Salif-boulogne-boy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-boulogne-boy-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 4,
+                    "day": 30
+                },
+                "release_date_for_display": "April 30, 2007",
+                "release_date_with_abbreviated_month_for_display": "Apr. 30, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Boulogne boy",
+                "title_with_featured": "Boulogne boy",
+                "url": "https://genius.com/Salif-boulogne-boy-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5227087",
+                "artist_names": "Nysay (Ft. Mo'vez Lang)",
+                "full_title": "Bysaymov by\u00a0Nysay (Ft.\u00a0Mo'vez\u00a0Lang)",
+                "header_image_thumbnail_url": "https://images.genius.com/e44e1398db8453fabe7327d012a99e5c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e44e1398db8453fabe7327d012a99e5c.1000x1000x1.jpg",
+                "id": 5227087,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Nysay-bysaymov-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nysay-bysaymov-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2004",
+                "release_date_with_abbreviated_month_for_display": "2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e44e1398db8453fabe7327d012a99e5c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e44e1398db8453fabe7327d012a99e5c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bysaymov",
+                "title_with_featured": "Bysaymov (Ft.\u00a0Mo'vez\u00a0Lang)",
+                "url": "https://genius.com/Nysay-bysaymov-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/33690",
+                        "header_image_url": "https://images.genius.com/a0e2e4102cf16dccb7f6c48d51a3d04b.444x444x1.jpg",
+                        "id": 33690,
+                        "image_url": "https://images.genius.com/a0e2e4102cf16dccb7f6c48d51a3d04b.444x444x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mo\u2019vez Lang",
+                        "url": "https://genius.com/artists/Movez-lang"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/29701",
+                    "header_image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "id": 29701,
+                    "image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nysay",
+                    "url": "https://genius.com/artists/Nysay"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2150743",
+                "artist_names": "Salif",
+                "full_title": "Caillera \u00e0 la muerte by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.500x500x1.jpg",
+                "id": 2150743,
+                "language": "fr",
+                "lyrics_owner_id": 6849,
+                "lyrics_state": "complete",
+                "path": "/Salif-caillera-a-la-muerte-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-caillera-a-la-muerte-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 11,
+                    "day": 14
+                },
+                "release_date_for_display": "November 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Nov. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 11871
+                },
+                "title": "Caillera \u00e0 la muerte",
+                "title_with_featured": "Caillera \u00e0 la muerte",
+                "url": "https://genius.com/Salif-caillera-a-la-muerte-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2571811",
+                "artist_names": "Salif (Ft. Rim'K)",
+                "full_title": "Capitale du crime by\u00a0Salif (Ft.\u00a0Rim'K)",
+                "header_image_thumbnail_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.350x350x1.jpg",
+                "id": 2571811,
+                "language": "en",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Salif-capitale-du-crime-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-capitale-du-crime-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2008",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Capitale du crime",
+                "title_with_featured": "Capitale du crime (Ft.\u00a0Rim'K)",
+                "url": "https://genius.com/Salif-capitale-du-crime-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2455",
+                        "header_image_url": "https://images.genius.com/58fd31f99d79144a99d186dedf9d60b6.1000x563x1.png",
+                        "id": 2455,
+                        "image_url": "https://images.genius.com/b1b7d2ed16a7de57e9af693f956c3329.502x502x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Rim\u2019K",
+                        "url": "https://genius.com/artists/Rimk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/9036479",
+                "artist_names": "Salif (Ft. Scalo & Smoker)",
+                "full_title": "\u00c7a s'arrose by\u00a0Salif (Ft.\u00a0Scalo & Smoker)",
+                "header_image_thumbnail_url": "https://images.genius.com/1a894ea1490f8b9f6bdbdad3544d9521.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1a894ea1490f8b9f6bdbdad3544d9521.1000x1000x1.jpg",
+                "id": 9036479,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Salif-ca-sarrose-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-ca-sarrose-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1a894ea1490f8b9f6bdbdad3544d9521.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1a894ea1490f8b9f6bdbdad3544d9521.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u00c7a s\u2019arrose",
+                "title_with_featured": "\u00c7a s'arrose (Ft.\u00a0Scalo & Smoker)",
+                "url": "https://genius.com/Salif-ca-sarrose-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15230",
+                        "header_image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "id": 15230,
+                        "image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Smoker",
+                        "url": "https://genius.com/artists/Smoker"
+                    },
+                    {
+                        "api_path": "/artists/1043973",
+                        "header_image_url": "https://images.genius.com/2028da9a3cac3c0fc57f71c23344f2e8.297x297x1.jpg",
+                        "id": 1043973,
+                        "image_url": "https://images.genius.com/2028da9a3cac3c0fc57f71c23344f2e8.297x297x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Scalo",
+                        "url": "https://genius.com/artists/Scalo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/111490",
+                "artist_names": "Salif",
+                "full_title": "Cash converter by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "id": 111490,
+                "language": "fr",
+                "lyrics_owner_id": 123797,
+                "lyrics_state": "complete",
+                "path": "/Salif-cash-converter-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-cash-converter-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 9,
+                    "day": 28
+                },
+                "release_date_for_display": "September 28, 2009",
+                "release_date_with_abbreviated_month_for_display": "Sep. 28, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false
+                },
+                "title": "Cash converter",
+                "title_with_featured": "Cash converter",
+                "url": "https://genius.com/Salif-cash-converter-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2498333",
+                "artist_names": "Salif",
+                "full_title": "Casque int\u00e9gral by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.350x350x1.jpg",
+                "id": 2498333,
+                "language": "fr",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Salif-casque-integral-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-casque-integral-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2008",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3c53139a02d8625dc39a44d4fde44713.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Casque int\u00e9gral",
+                "title_with_featured": "Casque int\u00e9gral",
+                "url": "https://genius.com/Salif-casque-integral-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/342046",
+                "artist_names": "Kool Shen (Ft. Salif)",
+                "full_title": "C'est bouillant by\u00a0Kool\u00a0Shen (Ft.\u00a0Salif)",
+                "header_image_thumbnail_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.300x306x1.jpg",
+                "header_image_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.981x1000x1.jpg",
+                "id": 342046,
+                "language": "fr",
+                "lyrics_owner_id": 72215,
+                "lyrics_state": "complete",
+                "path": "/Kool-shen-cest-bouillant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kool-shen-cest-bouillant-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.300x306x1.jpg",
+                "song_art_image_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.981x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est bouillant",
+                "title_with_featured": "C'est bouillant (Ft.\u00a0Salif)",
+                "url": "https://genius.com/Kool-shen-cest-bouillant-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2336991",
+                "artist_names": "IV My People (Ft. Salif)",
+                "full_title": "C'est \u00e7a ma vie by\u00a0IV\u00a0My People (Ft.\u00a0Salif)",
+                "header_image_thumbnail_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "id": 2336991,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Iv-my-people-cest-ca-ma-vie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Iv-my-people-cest-ca-ma-vie-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est \u00e7a ma vie",
+                "title_with_featured": "C'est \u00e7a ma vie (Ft.\u00a0Salif)",
+                "url": "https://genius.com/Iv-my-people-cest-ca-ma-vie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19243",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 19243,
+                    "image_url": "https://images.genius.com/cb6cef84eebc4ff7b340a995c2e455a0.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "IV My People",
+                    "url": "https://genius.com/artists/Iv-my-people"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2336739",
+                "artist_names": "IV My People (Ft. Salif)",
+                "full_title": "C'est chaud by\u00a0IV\u00a0My People (Ft.\u00a0Salif)",
+                "header_image_thumbnail_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "id": 2336739,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Iv-my-people-cest-chaud-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Iv-my-people-cest-chaud-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0ef3e3f1cac0587953db1ebf561fe349.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est chaud",
+                "title_with_featured": "C'est chaud (Ft.\u00a0Salif)",
+                "url": "https://genius.com/Iv-my-people-cest-chaud-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19243",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 19243,
+                    "image_url": "https://images.genius.com/cb6cef84eebc4ff7b340a995c2e455a0.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "IV My People",
+                    "url": "https://genius.com/artists/Iv-my-people"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5984384",
+                "artist_names": "Nysay",
+                "full_title": "C'est die by\u00a0Nysay",
+                "header_image_thumbnail_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.300x293x1.jpg",
+                "header_image_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.818x800x1.jpg",
+                "id": 5984384,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Nysay-cest-die-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nysay-cest-die-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2002",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.300x293x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.818x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est die",
+                "title_with_featured": "C'est die",
+                "url": "https://genius.com/Nysay-cest-die-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/29701",
+                    "header_image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "id": 29701,
+                    "image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nysay",
+                    "url": "https://genius.com/artists/Nysay"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5180522",
+                "artist_names": "Nysay",
+                "full_title": "C\u2019est la vie by\u00a0Nysay",
+                "header_image_thumbnail_url": "https://images.genius.com/49efad0d166b8268678471f477878123.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/49efad0d166b8268678471f477878123.640x640x1.jpg",
+                "id": 5180522,
+                "language": null,
+                "lyrics_owner_id": 8855291,
+                "lyrics_state": "incomplete",
+                "path": "/Nysay-cest-la-vie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nysay-cest-la-vie-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/49efad0d166b8268678471f477878123.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/49efad0d166b8268678471f477878123.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est la vie",
+                "title_with_featured": "C\u2019est la vie",
+                "url": "https://genius.com/Nysay-cest-la-vie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/29701",
+                    "header_image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "id": 29701,
+                    "image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nysay",
+                    "url": "https://genius.com/artists/Nysay"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3832857",
+                "artist_names": "Salif (Ft. Alibi Montana)",
+                "full_title": "C'est pour by\u00a0Salif (Ft.\u00a0Alibi\u00a0Montana)",
+                "header_image_thumbnail_url": "https://images.genius.com/7e2208b9f8a0d66abfcbed38d52c2043.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7e2208b9f8a0d66abfcbed38d52c2043.400x400x1.jpg",
+                "id": 3832857,
+                "language": "fr",
+                "lyrics_owner_id": 580547,
+                "lyrics_state": "complete",
+                "path": "/Salif-cest-pour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-cest-pour-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e2208b9f8a0d66abfcbed38d52c2043.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7e2208b9f8a0d66abfcbed38d52c2043.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est pour",
+                "title_with_featured": "C'est pour (Ft.\u00a0Alibi\u00a0Montana)",
+                "url": "https://genius.com/Salif-cest-pour-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2396",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "id": 2396,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alibi Montana",
+                        "url": "https://genius.com/artists/Alibi-montana"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3176107",
+                "artist_names": "Nysay",
+                "full_title": "C\u2019est pour mes cailles by\u00a0Nysay",
+                "header_image_thumbnail_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.300x309x1.jpg",
+                "header_image_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.350x361x1.jpg",
+                "id": 3176107,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Nysay-cest-pour-mes-cailles-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nysay-cest-pour-mes-cailles-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 10,
+                    "day": 2
+                },
+                "release_date_for_display": "October 2, 2006",
+                "release_date_with_abbreviated_month_for_display": "Oct. 2, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.300x309x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.350x361x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est pour mes cailles",
+                "title_with_featured": "C\u2019est pour mes cailles",
+                "url": "https://genius.com/Nysay-cest-pour-mes-cailles-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/29701",
+                    "header_image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "id": 29701,
+                    "image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nysay",
+                    "url": "https://genius.com/artists/Nysay"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/213222",
+                "artist_names": "IV My People",
+                "full_title": "C'est pour toi qu'tu joues by\u00a0IV\u00a0My People",
+                "header_image_thumbnail_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.300x293x1.jpg",
+                "header_image_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.818x800x1.jpg",
+                "id": 213222,
+                "language": "fr",
+                "lyrics_owner_id": 278145,
+                "lyrics_state": "complete",
+                "path": "/Iv-my-people-cest-pour-toi-qutu-joues-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Iv-my-people-cest-pour-toi-qutu-joues-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.300x293x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c9cfe1fd656aac92493e3095bc700902.818x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est pour toi qu\u2019tu joues",
+                "title_with_featured": "C'est pour toi qu'tu joues",
+                "url": "https://genius.com/Iv-my-people-cest-pour-toi-qutu-joues-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19243",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 19243,
+                    "image_url": "https://images.genius.com/cb6cef84eebc4ff7b340a995c2e455a0.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "IV My People",
+                    "url": "https://genius.com/artists/Iv-my-people"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

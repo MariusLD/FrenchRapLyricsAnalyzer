@@ -1,0 +1,998 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5164022",
+                "artist_names": "PONGO",
+                "full_title": "Baia by\u00a0PONGO",
+                "header_image_thumbnail_url": "https://images.genius.com/4f44213ddda432f2889ddc34c59fa96d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4f44213ddda432f2889ddc34c59fa96d.1000x1000x1.jpg",
+                "id": 5164022,
+                "language": null,
+                "lyrics_owner_id": 8459032,
+                "lyrics_state": "complete",
+                "path": "/Pongo-baia-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Pongo-baia-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f44213ddda432f2889ddc34c59fa96d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4f44213ddda432f2889ddc34c59fa96d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Baia",
+                "title_with_featured": "Baia",
+                "url": "https://genius.com/Pongo-baia-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1609477",
+                    "header_image_url": "https://images.genius.com/f15cdc47e74204f379cde21d2b88a175.1000x429x1.jpg",
+                    "id": 1609477,
+                    "image_url": "https://images.genius.com/9b462e8479a15a1e062dba812a5a83b7.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PONGO",
+                    "url": "https://genius.com/artists/Pongo"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/210631",
+                "artist_names": "Hocus Pocus (Ft. Alice Russell)",
+                "full_title": "Beautiful Losers by\u00a0Hocus\u00a0Pocus (Ft.\u00a0Alice\u00a0Russell)",
+                "header_image_thumbnail_url": "https://images.genius.com/cb7cd9e626ef3a75d1d43301a575055e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb7cd9e626ef3a75d1d43301a575055e.720x720x1.jpg",
+                "id": 210631,
+                "language": null,
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-beautiful-losers-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-beautiful-losers-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb7cd9e626ef3a75d1d43301a575055e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb7cd9e626ef3a75d1d43301a575055e.720x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 5977
+                },
+                "title": "Beautiful Losers",
+                "title_with_featured": "Beautiful Losers (Ft.\u00a0Alice\u00a0Russell)",
+                "url": "https://genius.com/Hocus-pocus-beautiful-losers-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/68101",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 68101,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alice Russell",
+                        "url": "https://genius.com/artists/Alice-russell"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7061681",
+                "artist_names": "Berywam",
+                "full_title": "Beginning by\u00a0Berywam",
+                "header_image_thumbnail_url": "https://images.genius.com/7487dde16ce5a4532df691779868c5ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7487dde16ce5a4532df691779868c5ca.343x343x1.jpg",
+                "id": 7061681,
+                "language": null,
+                "lyrics_owner_id": 6426232,
+                "lyrics_state": "unreleased",
+                "path": "/Berywam-beginning-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Berywam-beginning-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 16
+                },
+                "release_date_for_display": "July 16, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 16, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7487dde16ce5a4532df691779868c5ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7487dde16ce5a4532df691779868c5ca.343x343x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Beginning",
+                "title_with_featured": "Beginning",
+                "url": "https://genius.com/Berywam-beginning-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1161868",
+                    "header_image_url": "https://images.genius.com/35181b05908398db1d686d9e27bf5d06.958x650x1.jpg",
+                    "id": 1161868,
+                    "image_url": "https://images.genius.com/ca9dbdb85bff68303c32219a613d5e56.959x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Berywam",
+                    "url": "https://genius.com/artists/Berywam"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7895381",
+                "artist_names": "Berywam",
+                "full_title": "Best by\u00a0Berywam",
+                "header_image_thumbnail_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.340x340x1.jpg",
+                "id": 7895381,
+                "language": null,
+                "lyrics_owner_id": 6109156,
+                "lyrics_state": "incomplete",
+                "path": "/Berywam-best-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Berywam-best-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Best",
+                "title_with_featured": "Best",
+                "url": "https://genius.com/Berywam-best-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1161868",
+                    "header_image_url": "https://images.genius.com/35181b05908398db1d686d9e27bf5d06.958x650x1.jpg",
+                    "id": 1161868,
+                    "image_url": "https://images.genius.com/ca9dbdb85bff68303c32219a613d5e56.959x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Berywam",
+                    "url": "https://genius.com/artists/Berywam"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/524685",
+                "artist_names": "Pigeon John (Ft. 20Syl)",
+                "full_title": "Boomerang by\u00a0Pigeon\u00a0John (Ft.\u00a020Syl)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/bdc9b70984159b47901b05730eb6ff8b.300x200x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/bdc9b70984159b47901b05730eb6ff8b.960x640x1.jpg",
+                "id": 524685,
+                "language": null,
+                "lyrics_owner_id": 246017,
+                "lyrics_state": "complete",
+                "path": "/Pigeon-john-boomerang-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Pigeon-john-boomerang-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 23
+                },
+                "release_date_for_display": "June 23, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 23, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/bdc9b70984159b47901b05730eb6ff8b.300x200x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/bdc9b70984159b47901b05730eb6ff8b.960x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Boomerang",
+                "title_with_featured": "Boomerang (Ft.\u00a020Syl)",
+                "url": "https://genius.com/Pigeon-john-boomerang-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/3829",
+                    "header_image_url": "https://images.genius.com/64d468055b1f57be05ec3f0f59669814.745x497x1.jpg",
+                    "id": 3829,
+                    "image_url": "https://images.genius.com/2f7111759d7126d1d5d164e224894b94.497x497x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pigeon John",
+                    "url": "https://genius.com/artists/Pigeon-john"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8680143",
+                "artist_names": "Dupetronik (Ft. Bobie)",
+                "full_title": "Boostam Te U Broncu by\u00a0Dupetronik (Ft.\u00a0Bobie)",
+                "header_image_thumbnail_url": "https://images.genius.com/93aa2e0712f1deeaef3736d81d6644bc.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/93aa2e0712f1deeaef3736d81d6644bc.1000x563x1.jpg",
+                "id": 8680143,
+                "language": "hr",
+                "lyrics_owner_id": 14792873,
+                "lyrics_state": "complete",
+                "path": "/Dupetronik-boostam-te-u-broncu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dupetronik-boostam-te-u-broncu-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 2
+                },
+                "release_date_for_display": "May 2, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 2, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/49f5be5f1496bffac68ca39ef1f7663b.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/49f5be5f1496bffac68ca39ef1f7663b.720x720x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Boostam Te U Broncu",
+                "title_with_featured": "Boostam Te U Broncu (Ft.\u00a0Bobie)",
+                "url": "https://genius.com/Dupetronik-boostam-te-u-broncu-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2258670",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2258670,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bobie",
+                        "url": "https://genius.com/artists/Bobie"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2469672",
+                    "header_image_url": "https://images.genius.com/fc4e1e9cadaaec7f2c8644e551ade870.1000x562x1.jpg",
+                    "id": 2469672,
+                    "image_url": "https://images.genius.com/589701efd09d97630b5cb077327125e1.176x176x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dupetronik",
+                    "url": "https://genius.com/artists/Dupetronik"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3307133",
+                "artist_names": "AllttA (Ft. 20Syl & Mr. J. Medeiros)",
+                "full_title": "Bravado {fg. VII} by\u00a0AllttA (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/46ce58f53120be6e3c0e6e4ebde25a6c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/46ce58f53120be6e3c0e6e4ebde25a6c.1000x1000x1.jpg",
+                "id": 3307133,
+                "language": "en",
+                "lyrics_owner_id": 2383145,
+                "lyrics_state": "complete",
+                "path": "/Alltta-bravado-fg-vii-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alltta-bravado-fg-vii-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/46ce58f53120be6e3c0e6e4ebde25a6c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/46ce58f53120be6e3c0e6e4ebde25a6c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bravado {fg. VII}",
+                "title_with_featured": "Bravado {fg. VII} (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-bravado-fg-vii-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    },
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/258830",
+                "artist_names": "Hocus Pocus",
+                "full_title": "Brouillon by\u00a0Hocus\u00a0Pocus",
+                "header_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "id": 258830,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-brouillon-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-brouillon-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Brouillon",
+                "title_with_featured": "Brouillon",
+                "url": "https://genius.com/Hocus-pocus-brouillon-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2993540",
+                "artist_names": "AllttA (Ft. 20Syl & Mr. J. Medeiros)",
+                "full_title": "Bucket by\u00a0AllttA (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.1000x1000x1.jpg",
+                "id": 2993540,
+                "language": "en",
+                "lyrics_owner_id": 3286078,
+                "lyrics_state": "complete",
+                "path": "/Alltta-bucket-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alltta-bucket-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 17
+                },
+                "release_date_for_display": "February 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bucket",
+                "title_with_featured": "Bucket (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-bucket-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    },
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3517301",
+                "artist_names": "AllttA (Ft. Mr. J. Medeiros)",
+                "full_title": "Bucket (20syl Remix) by\u00a0AllttA (Ft.\u00a0Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/defbb9e0e3ac6f094a9540932450f568.300x300x1.png",
+                "header_image_url": "https://images.genius.com/defbb9e0e3ac6f094a9540932450f568.1000x1000x1.png",
+                "id": 3517301,
+                "language": "en",
+                "lyrics_owner_id": 2383145,
+                "lyrics_state": "complete",
+                "path": "/Alltta-bucket-20syl-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alltta-bucket-20syl-remix-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/defbb9e0e3ac6f094a9540932450f568.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/defbb9e0e3ac6f094a9540932450f568.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bucket (20syl Remix)",
+                "title_with_featured": "Bucket (20syl Remix) (Ft.\u00a0Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-bucket-20syl-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2993552",
+                "artist_names": "AllttA (Ft. 20Syl & Mr. J. Medeiros)",
+                "full_title": "Calling Crows by\u00a0AllttA (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.1000x1000x1.jpg",
+                "id": 2993552,
+                "language": "en",
+                "lyrics_owner_id": 3286078,
+                "lyrics_state": "complete",
+                "path": "/Alltta-calling-crows-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alltta-calling-crows-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 17
+                },
+                "release_date_for_display": "February 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6b4996362018bb10e78813359075f0f7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 6907
+                },
+                "title": "Calling Crows",
+                "title_with_featured": "Calling Crows (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-calling-crows-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    },
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7324731",
+                "artist_names": "Degree",
+                "full_title": "Call the inside by\u00a0Degree",
+                "header_image_thumbnail_url": "https://images.genius.com/f754107765806ab555ba71ad9a41e40d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/f754107765806ab555ba71ad9a41e40d.1000x1000x1.png",
+                "id": 7324731,
+                "language": "en",
+                "lyrics_owner_id": 9717271,
+                "lyrics_state": "complete",
+                "path": "/Degree-call-the-inside-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Degree-call-the-inside-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f754107765806ab555ba71ad9a41e40d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/f754107765806ab555ba71ad9a41e40d.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Call the inside",
+                "title_with_featured": "Call the inside",
+                "url": "https://genius.com/Degree-call-the-inside-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/373891",
+                    "header_image_url": "https://images.genius.com/f754107765806ab555ba71ad9a41e40d.1000x1000x1.png",
+                    "id": 373891,
+                    "image_url": "https://images.genius.com/f754107765806ab555ba71ad9a41e40d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Degree",
+                    "url": "https://genius.com/artists/Degree"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3277344",
+                "artist_names": "AllttA (Ft. 20Syl & Mr. J. Medeiros)",
+                "full_title": "Choo Choo {fg. III} by\u00a0AllttA (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/113b570e7356cd32222f3d40ddea28ef.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/113b570e7356cd32222f3d40ddea28ef.1000x1000x1.jpg",
+                "id": 3277344,
+                "language": "en",
+                "lyrics_owner_id": 3286078,
+                "lyrics_state": "complete",
+                "path": "/Alltta-choo-choo-fg-iii-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alltta-choo-choo-fg-iii-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/113b570e7356cd32222f3d40ddea28ef.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/113b570e7356cd32222f3d40ddea28ef.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 9077
+                },
+                "title": "Choo Choo {fg. III}",
+                "title_with_featured": "Choo Choo {fg. III} (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-choo-choo-fg-iii-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    },
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/156650",
+                "artist_names": "Hocus Pocus",
+                "full_title": "Colgate by\u00a0Hocus\u00a0Pocus",
+                "header_image_thumbnail_url": "https://images.genius.com/e0c05564074046aef3ad5e68a3e0c49a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e0c05564074046aef3ad5e68a3e0c49a.600x600x1.jpg",
+                "id": 156650,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-colgate-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-colgate-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1998",
+                "release_date_with_abbreviated_month_for_display": "1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e0c05564074046aef3ad5e68a3e0c49a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e0c05564074046aef3ad5e68a3e0c49a.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Colgate",
+                "title_with_featured": "Colgate",
+                "url": "https://genius.com/Hocus-pocus-colgate-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2412458",
+                "artist_names": "Fixpen Sill",
+                "full_title": "Comme j'le sens by\u00a0Fixpen\u00a0Sill",
+                "header_image_thumbnail_url": "https://images.genius.com/81ae96faf0cf0b8b3015d00cc630c2ec.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/81ae96faf0cf0b8b3015d00cc630c2ec.959x960x1.jpg",
+                "id": 2412458,
+                "language": "fr",
+                "lyrics_owner_id": 2818277,
+                "lyrics_state": "complete",
+                "path": "/Fixpen-sill-comme-jle-sens-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Fixpen-sill-comme-jle-sens-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2016",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/81ae96faf0cf0b8b3015d00cc630c2ec.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/81ae96faf0cf0b8b3015d00cc630c2ec.959x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Comme j\u2019le sens",
+                "title_with_featured": "Comme j'le sens",
+                "url": "https://genius.com/Fixpen-sill-comme-jle-sens-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15706",
+                    "header_image_url": "https://images.genius.com/31b7b4862d6dc2c90a276c457e0b4fe3.991x506x1.png",
+                    "id": 15706,
+                    "image_url": "https://images.genius.com/bcf61c502053205106eee445e576a8de.393x393x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Fixpen Sill",
+                    "url": "https://genius.com/artists/Fixpen-sill",
+                    "iq": 1338
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/254749",
+                "artist_names": "Hocus Pocus",
+                "full_title": "Comment on faisait ? by\u00a0Hocus\u00a0Pocus",
+                "header_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "id": 254749,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-comment-on-faisait-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-comment-on-faisait-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2006",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Comment on faisait ?",
+                "title_with_featured": "Comment on faisait ?",
+                "url": "https://genius.com/Hocus-pocus-comment-on-faisait-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2369887",
+                "artist_names": "HideandSeekZoo",
+                "full_title": "Como Quisera by\u00a0HideandSeekZoo",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/0935b04792a5e8a71ccdd99b07416056.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/0935b04792a5e8a71ccdd99b07416056.700x700x1.jpg",
+                "id": 2369887,
+                "language": "es",
+                "lyrics_owner_id": 1249668,
+                "lyrics_state": "complete",
+                "path": "/Hideandseekzoo-como-quisera-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hideandseekzoo-como-quisera-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 3
+                },
+                "release_date_for_display": "July 3, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jul. 3, 2012",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/0935b04792a5e8a71ccdd99b07416056.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/0935b04792a5e8a71ccdd99b07416056.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Como Quisera",
+                "title_with_featured": "Como Quisera",
+                "url": "https://genius.com/Hideandseekzoo-como-quisera-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/63286",
+                    "header_image_url": "https://images.genius.com/15ce27e7f7c25ac2001cfaa7ab7824fd.500x500x1.jpg",
+                    "id": 63286,
+                    "image_url": "https://images.genius.com/59a1b6209d604a6873353775f5d64e71.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "HideandSeekZoo",
+                    "url": "https://genius.com/artists/Hideandseekzoo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2477184",
+                "artist_names": "AllttA (Ft. 20Syl & Mr. J. Medeiros)",
+                "full_title": "Connery by\u00a0AllttA (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/7278665d8155e8e0b4eef07e5d0d441c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7278665d8155e8e0b4eef07e5d0d441c.1000x1000x1.jpg",
+                "id": 2477184,
+                "language": "en",
+                "lyrics_owner_id": 3291922,
+                "lyrics_state": "complete",
+                "path": "/Alltta-connery-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alltta-connery-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 10
+                },
+                "release_date_for_display": "May 10, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 10, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7278665d8155e8e0b4eef07e5d0d441c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7278665d8155e8e0b4eef07e5d0d441c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 8017
+                },
+                "title": "Connery",
+                "title_with_featured": "Connery (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-connery-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    },
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/359718",
+                "artist_names": "Hocus Pocus",
+                "full_title": "Conscient by\u00a0Hocus\u00a0Pocus",
+                "header_image_thumbnail_url": "https://images.genius.com/3ef8630492c3ae004d1da246c7a94bdc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3ef8630492c3ae004d1da246c7a94bdc.600x600x1.jpg",
+                "id": 359718,
+                "language": "fr",
+                "lyrics_owner_id": 338770,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-conscient-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-conscient-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2002",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3ef8630492c3ae004d1da246c7a94bdc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3ef8630492c3ae004d1da246c7a94bdc.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Conscient",
+                "title_with_featured": "Conscient",
+                "url": "https://genius.com/Hocus-pocus-conscient-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5479568",
+                "artist_names": "20Syl",
+                "full_title": "Contour by\u00a020Syl",
+                "header_image_thumbnail_url": "https://images.genius.com/f4819f02ae35f9edadfdd95ace33ea55.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f4819f02ae35f9edadfdd95ace33ea55.640x640x1.jpg",
+                "id": 5479568,
+                "language": "en",
+                "lyrics_owner_id": 5364342,
+                "lyrics_state": "complete",
+                "path": "/20syl-contour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/20syl-contour-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f4819f02ae35f9edadfdd95ace33ea55.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f4819f02ae35f9edadfdd95ace33ea55.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Contour",
+                "title_with_featured": "Contour",
+                "url": "https://genius.com/20syl-contour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11774",
+                    "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                    "id": 11774,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "20Syl",
+                    "url": "https://genius.com/artists/20syl"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

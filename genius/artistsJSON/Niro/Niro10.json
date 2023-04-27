@@ -1,0 +1,960 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5748506",
+                "artist_names": "Niro (Ft. Nino B)",
+                "full_title": "Mailler by\u00a0Niro (Ft.\u00a0Nino\u00a0B)",
+                "header_image_thumbnail_url": "https://images.genius.com/03a509265c8c2139568cdc1c8e408b85.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/03a509265c8c2139568cdc1c8e408b85.1000x1000x1.jpg",
+                "id": 5748506,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Niro-mailler-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-mailler-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 9
+                },
+                "release_date_for_display": "July 9, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 9, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/03a509265c8c2139568cdc1c8e408b85.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/03a509265c8c2139568cdc1c8e408b85.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mailler",
+                "title_with_featured": "Mailler (Ft.\u00a0Nino\u00a0B)",
+                "url": "https://genius.com/Niro-mailler-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1042053",
+                        "header_image_url": "https://images.genius.com/6c5a4df2a2567532a0fdee03ce94ef44.1000x563x1.jpg",
+                        "id": 1042053,
+                        "image_url": "https://images.genius.com/6912a8a317e19393430477cc20c1afb0.593x593x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nino B",
+                        "url": "https://genius.com/artists/Nino-b"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/445002",
+                "artist_names": "Niro",
+                "full_title": "Mama by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.640x640x1.jpg",
+                "id": 445002,
+                "language": "fr",
+                "lyrics_owner_id": 695279,
+                "lyrics_state": "complete",
+                "path": "/Niro-mama-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Niro-mama-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 9
+                },
+                "release_date_for_display": "June 9, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 9, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 31705
+                },
+                "title": "Mama",
+                "title_with_featured": "Mama",
+                "url": "https://genius.com/Niro-mama-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/2899721",
+                "artist_names": "Niro",
+                "full_title": "Mama t'avais raison by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/b7471a3e7b7e23e3b9183ec8c1d3f428.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b7471a3e7b7e23e3b9183ec8c1d3f428.1000x1000x1.jpg",
+                "id": 2899721,
+                "language": "fr",
+                "lyrics_owner_id": 3087762,
+                "lyrics_state": "complete",
+                "path": "/Niro-mama-tavais-raison-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Niro-mama-tavais-raison-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 4
+                },
+                "release_date_for_display": "November 4, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 4, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b7471a3e7b7e23e3b9183ec8c1d3f428.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b7471a3e7b7e23e3b9183ec8c1d3f428.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 151275
+                },
+                "title": "Mama t\u2019avais raison",
+                "title_with_featured": "Mama t'avais raison",
+                "url": "https://genius.com/Niro-mama-tavais-raison-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8733314",
+                "artist_names": "Niro (Ft. TIG (FRA))",
+                "full_title": "Mauvaise conduite by\u00a0Niro (Ft.\u00a0TIG\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.1000x1000x1.jpg",
+                "id": 8733314,
+                "language": "fr",
+                "lyrics_owner_id": 891592,
+                "lyrics_state": "complete",
+                "path": "/Niro-mauvaise-conduite-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-mauvaise-conduite-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 10
+                },
+                "release_date_for_display": "February 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mauvaise conduite",
+                "title_with_featured": "Mauvaise conduite (Ft.\u00a0TIG\u00a0(FRA))",
+                "url": "https://genius.com/Niro-mauvaise-conduite-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2374425",
+                        "header_image_url": "https://images.genius.com/0a409fd784de9a3b0e02061edd189652.507x507x1.png",
+                        "id": 2374425,
+                        "image_url": "https://images.genius.com/0a409fd784de9a3b0e02061edd189652.507x507x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "TIG (FRA)",
+                        "url": "https://genius.com/artists/Tig-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/2339773",
+                "artist_names": "Niro",
+                "full_title": "Mauvaises nouvelles by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.640x640x1.jpg",
+                "id": 2339773,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Niro-mauvaises-nouvelles-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Niro-mauvaises-nouvelles-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 30973
+                },
+                "title": "Mauvaises nouvelles",
+                "title_with_featured": "Mauvaises nouvelles",
+                "url": "https://genius.com/Niro-mauvaises-nouvelles-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3630052",
+                "artist_names": "Niro",
+                "full_title": "Mens Rea by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.1000x1000x1.jpg",
+                "id": 3630052,
+                "language": "fr",
+                "lyrics_owner_id": 3020704,
+                "lyrics_state": "complete",
+                "path": "/Niro-mens-rea-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Niro-mens-rea-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 30542
+                },
+                "title": "Mens Rea",
+                "title_with_featured": "Mens Rea",
+                "url": "https://genius.com/Niro-mens-rea-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2480684",
+                "artist_names": "Niro",
+                "full_title": "Merco Benz by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/7ad5c65ce3dbbdcdcc756e62acfd9ed6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7ad5c65ce3dbbdcdcc756e62acfd9ed6.959x960x1.jpg",
+                "id": 2480684,
+                "language": "fr",
+                "lyrics_owner_id": 138580,
+                "lyrics_state": "complete",
+                "path": "/Niro-merco-benz-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Niro-merco-benz-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 26
+                },
+                "release_date_for_display": "May 26, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 26, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7ad5c65ce3dbbdcdcc756e62acfd9ed6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7ad5c65ce3dbbdcdcc756e62acfd9ed6.959x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 53667
+                },
+                "title": "Merco Benz",
+                "title_with_featured": "Merco Benz",
+                "url": "https://genius.com/Niro-merco-benz-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/445007",
+                "artist_names": "Niro",
+                "full_title": "Me Revoil\u00e0 by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.640x640x1.jpg",
+                "id": 445007,
+                "language": "fr",
+                "lyrics_owner_id": 411682,
+                "lyrics_state": "complete",
+                "path": "/Niro-me-revoila-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Niro-me-revoila-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 9
+                },
+                "release_date_for_display": "June 9, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 9, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b2e91d4a9b4ba7d545d73f8cd5e67e38.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 16852
+                },
+                "title": "Me Revoil\u00e0",
+                "title_with_featured": "Me Revoil\u00e0",
+                "url": "https://genius.com/Niro-me-revoila-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6939908",
+                "artist_names": "Niro",
+                "full_title": "Meskina by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.967x967x1.jpg",
+                "id": 6939908,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Niro-meskina-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-meskina-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 16
+                },
+                "release_date_for_display": "July 16, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 16, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.967x967x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Meskina",
+                "title_with_featured": "Meskina",
+                "url": "https://genius.com/Niro-meskina-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6939912",
+                "artist_names": "Niro",
+                "full_title": "Mets-toi l\u00e0 by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.967x967x1.jpg",
+                "id": 6939912,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Niro-mets-toi-la-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-mets-toi-la-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 16
+                },
+                "release_date_for_display": "July 16, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 16, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.967x967x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mets-toi l\u00e0",
+                "title_with_featured": "Mets-toi l\u00e0",
+                "url": "https://genius.com/Niro-mets-toi-la-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/708897",
+                "artist_names": "Gradur (Ft. Niro)",
+                "full_title": "Militariz\u00e9 by\u00a0Gradur (Ft.\u00a0Niro)",
+                "header_image_thumbnail_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.1000x1000x1.jpg",
+                "id": 708897,
+                "language": "en",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Gradur-militarize-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Gradur-militarize-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2895b00e1cde781685c61618522abb04.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 44805
+                },
+                "title": "Militariz\u00e9",
+                "title_with_featured": "Militariz\u00e9 (Ft.\u00a0Niro)",
+                "url": "https://genius.com/Gradur-militarize-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14724",
+                        "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "id": 14724,
+                        "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niro",
+                        "url": "https://genius.com/artists/Niro",
+                        "iq": 3778
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/72710",
+                    "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                    "id": 72710,
+                    "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gradur",
+                    "url": "https://genius.com/artists/Gradur"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6939905",
+                "artist_names": "Niro",
+                "full_title": "Millenials (G\u00e9n\u00e9ration Y) by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/934e8bde213478053e849a2e0eb3a2a7.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/934e8bde213478053e849a2e0eb3a2a7.1000x563x1.jpg",
+                "id": 6939905,
+                "language": "fr",
+                "lyrics_owner_id": 7069257,
+                "lyrics_state": "complete",
+                "path": "/Niro-millenials-generation-y-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-millenials-generation-y-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 16
+                },
+                "release_date_for_display": "July 16, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 16, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.967x967x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 18597
+                },
+                "title": "Millenials (G\u00e9n\u00e9ration Y)",
+                "title_with_featured": "Millenials (G\u00e9n\u00e9ration Y)",
+                "url": "https://genius.com/Niro-millenials-generation-y-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8733307",
+                "artist_names": "Niro",
+                "full_title": "Millionnaire by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.1000x1000x1.jpg",
+                "id": 8733307,
+                "language": "fr",
+                "lyrics_owner_id": 891592,
+                "lyrics_state": "complete",
+                "path": "/Niro-millionnaire-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-millionnaire-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 10
+                },
+                "release_date_for_display": "February 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bbc59b28e117ea4da5efd612a9356c97.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Millionnaire",
+                "title_with_featured": "Millionnaire",
+                "url": "https://genius.com/Niro-millionnaire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/580858",
+                "artist_names": "Willaxxx (Ft. Mac Tyer & Niro)",
+                "full_title": "Miro x Mac Douglas (\u00c9pisode 1) by\u00a0Willaxxx (Ft.\u00a0Mac\u00a0Tyer & Niro)",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                "id": 580858,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Willaxxx-miro-x-mac-douglas-episode-1-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Willaxxx-miro-x-mac-douglas-episode-1-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 11,
+                    "day": 13
+                },
+                "release_date_for_display": "November 13, 2014",
+                "release_date_with_abbreviated_month_for_display": "Nov. 13, 2014",
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                "song_art_image_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Miro x Mac Douglas (\u00c9pisode 1)",
+                "title_with_featured": "Miro x Mac Douglas (\u00c9pisode 1) (Ft.\u00a0Mac\u00a0Tyer & Niro)",
+                "url": "https://genius.com/Willaxxx-miro-x-mac-douglas-episode-1-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2412",
+                        "header_image_url": "https://images.genius.com/5b1993e9cdeb2066a8eb11cc91d1f089.1000x667x1.jpg",
+                        "id": 2412,
+                        "image_url": "https://images.genius.com/a6a79741ab0f8bc6063e7fe82dd90adf.303x395x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mac Tyer",
+                        "url": "https://genius.com/artists/Mac-tyer",
+                        "iq": 2139
+                    },
+                    {
+                        "api_path": "/artists/14724",
+                        "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "id": 14724,
+                        "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niro",
+                        "url": "https://genius.com/artists/Niro",
+                        "iq": 3778
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19591",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                    "id": 19591,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Willaxxx",
+                    "url": "https://genius.com/artists/Willaxxx"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6939914",
+                "artist_names": "Niro",
+                "full_title": "Mon fr\u00e9rot by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.967x967x1.jpg",
+                "id": 6939914,
+                "language": "fr",
+                "lyrics_owner_id": 9722677,
+                "lyrics_state": "complete",
+                "path": "/Niro-mon-frerot-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-mon-frerot-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 16
+                },
+                "release_date_for_display": "July 16, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 16, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cfd3ca641c8ff0be3d0658bb02feffb7.967x967x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mon fr\u00e9rot",
+                "title_with_featured": "Mon fr\u00e9rot",
+                "url": "https://genius.com/Niro-mon-frerot-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/3630055",
+                "artist_names": "Niro",
+                "full_title": "Mon reflet by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.1000x1000x1.jpg",
+                "id": 3630055,
+                "language": "fr",
+                "lyrics_owner_id": 3359401,
+                "lyrics_state": "complete",
+                "path": "/Niro-mon-reflet-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Niro-mon-reflet-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4aa074b8bd972c7e611bce9b6335b694.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 21541
+                },
+                "title": "Mon reflet",
+                "title_with_featured": "Mon reflet",
+                "url": "https://genius.com/Niro-mon-reflet-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4901651",
+                "artist_names": "Niro",
+                "full_title": "Mon temps by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/cf9593c8ac4a8fcd7d0b3cca44c81be0.300x300x1.png",
+                "header_image_url": "https://images.genius.com/cf9593c8ac4a8fcd7d0b3cca44c81be0.587x587x1.png",
+                "id": 4901651,
+                "language": "fr",
+                "lyrics_owner_id": 146207,
+                "lyrics_state": "complete",
+                "path": "/Niro-mon-temps-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Niro-mon-temps-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cf9593c8ac4a8fcd7d0b3cca44c81be0.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/cf9593c8ac4a8fcd7d0b3cca44c81be0.587x587x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 19819
+                },
+                "title": "Mon temps",
+                "title_with_featured": "Mon temps",
+                "url": "https://genius.com/Niro-mon-temps-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4901708",
+                "artist_names": "Niro",
+                "full_title": "Mon temps Niro by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.300x305x1.png",
+                "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                "id": 4901708,
+                "language": "fr",
+                "lyrics_owner_id": 9431521,
+                "lyrics_state": "complete",
+                "path": "/Niro-mon-temps-niro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-mon-temps-niro-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 1,
+                    "day": 17
+                },
+                "release_date_for_display": "January 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jan. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.300x305x1.png",
+                "song_art_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mon temps Niro",
+                "title_with_featured": "Mon temps Niro",
+                "url": "https://genius.com/Niro-mon-temps-niro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/3305870",
+                "artist_names": "Black M (Ft. Sofiane)",
+                "full_title": "Mort dans le stream by\u00a0Black\u00a0M (Ft.\u00a0Sofiane)",
+                "header_image_thumbnail_url": "https://images.genius.com/3d045a1fc08da21b406c27b999ac3dfe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3d045a1fc08da21b406c27b999ac3dfe.823x823x1.jpg",
+                "id": 3305870,
+                "language": "fr",
+                "lyrics_owner_id": 1983669,
+                "lyrics_state": "complete",
+                "path": "/Black-m-mort-dans-le-stream-lyrics",
+                "pyongs_count": 9,
+                "relationships_index_url": "https://genius.com/Black-m-mort-dans-le-stream-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fda2da0a863915b638f17a92c99d047.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fda2da0a863915b638f17a92c99d047.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 28837
+                },
+                "title": "Mort dans le stream",
+                "title_with_featured": "Mort dans le stream (Ft.\u00a0Sofiane)",
+                "url": "https://genius.com/Black-m-mort-dans-le-stream-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12085",
+                        "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                        "id": 12085,
+                        "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sofiane",
+                        "url": "https://genius.com/artists/Sofiane",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15788",
+                    "header_image_url": "https://images.genius.com/218186bc591a53b89942f9e8924fe58e.1000x582x1.jpg",
+                    "id": 15788,
+                    "image_url": "https://images.genius.com/500eb6bdfbc4f33bd72af4f3d3e7e6a1.930x930x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Black M",
+                    "url": "https://genius.com/artists/Black-m",
+                    "iq": 1649
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2925676",
+                "artist_names": "Niro (Ft. Koro)",
+                "full_title": "Mosseba by\u00a0Niro (Ft.\u00a0Koro)",
+                "header_image_thumbnail_url": "https://images.genius.com/48fe98b93ea6d197673bd8e669ab728a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/48fe98b93ea6d197673bd8e669ab728a.630x630x1.jpg",
+                "id": 2925676,
+                "language": "fr",
+                "lyrics_owner_id": 3026682,
+                "lyrics_state": "complete",
+                "path": "/Niro-mosseba-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Niro-mosseba-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2016",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/48fe98b93ea6d197673bd8e669ab728a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/48fe98b93ea6d197673bd8e669ab728a.630x630x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 48787
+                },
+                "title": "Mosseba",
+                "title_with_featured": "Mosseba (Ft.\u00a0Koro)",
+                "url": "https://genius.com/Niro-mosseba-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/22280",
+                        "header_image_url": "https://images.genius.com/7fda3ee1a6981100ae2507a5306542fa.546x546x1.jpg",
+                        "id": 22280,
+                        "image_url": "https://images.genius.com/7fda3ee1a6981100ae2507a5306542fa.546x546x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koro",
+                        "url": "https://genius.com/artists/Koro"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            }
+        ],
+        "next_page": 11
+    }
+}

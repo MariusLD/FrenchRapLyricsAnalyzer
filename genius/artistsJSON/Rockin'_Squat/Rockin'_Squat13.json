@@ -1,0 +1,983 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5296499",
+                "artist_names": "Rockin' Squat (Ft. Pyroman (rappeur))",
+                "full_title": "Peu Importe by\u00a0Rockin'\u00a0Squat (Ft.\u00a0Pyroman\u00a0(rappeur))",
+                "header_image_thumbnail_url": "https://images.genius.com/2a3342628ad82c6cb8c0934f27b2e3c6.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/2a3342628ad82c6cb8c0934f27b2e3c6.942x944x1.jpg",
+                "id": 5296499,
+                "language": null,
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "incomplete",
+                "path": "/Rockin-squat-peu-importe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-peu-importe-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 6,
+                    "day": 6
+                },
+                "release_date_for_display": "June 6, 2003",
+                "release_date_with_abbreviated_month_for_display": "Jun. 6, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2a3342628ad82c6cb8c0934f27b2e3c6.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2a3342628ad82c6cb8c0934f27b2e3c6.942x944x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Peu Importe",
+                "title_with_featured": "Peu Importe (Ft.\u00a0Pyroman\u00a0(rappeur))",
+                "url": "https://genius.com/Rockin-squat-peu-importe-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/558407",
+                        "header_image_url": "https://images.genius.com/ac27bdb199f18bf1a7c08393577310d1.634x634x1.png",
+                        "id": 558407,
+                        "image_url": "https://images.genius.com/ac27bdb199f18bf1a7c08393577310d1.634x634x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pyroman (rappeur)",
+                        "url": "https://genius.com/artists/Pyroman-rappeur"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/375796",
+                "artist_names": "Assassin (FRA)",
+                "full_title": "Peur D'Une Race by\u00a0Assassin\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/889fc91f5e3db646196db58e6be44672.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/889fc91f5e3db646196db58e6be44672.1000x1000x1.jpg",
+                "id": 375796,
+                "language": "nl",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Assassin-fra-peur-dune-race-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Assassin-fra-peur-dune-race-sample",
+                "release_date_components": {
+                    "year": 1992,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1992",
+                "release_date_with_abbreviated_month_for_display": "1992",
+                "song_art_image_thumbnail_url": "https://images.genius.com/889fc91f5e3db646196db58e6be44672.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/889fc91f5e3db646196db58e6be44672.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Peur D\u2019Une Race",
+                "title_with_featured": "Peur D'Une Race",
+                "url": "https://genius.com/Assassin-fra-peur-dune-race-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/986194",
+                    "header_image_url": "https://images.genius.com/6b59b64998168c4606e0bcd89b4be1ce.1000x750x1.gif",
+                    "id": 986194,
+                    "image_url": "https://images.genius.com/7b844b383fb7d936ef63c4b8cd86e708.321x321x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Assassin (FRA)",
+                    "url": "https://genius.com/artists/Assassin-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/7674344",
+                "artist_names": "Rockin' Squat",
+                "full_title": "Pixel by\u00a0Rockin'\u00a0Squat",
+                "header_image_thumbnail_url": "https://images.genius.com/92afaaa46f04f5d45cdb545c1e0952d6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92afaaa46f04f5d45cdb545c1e0952d6.1000x1000x1.jpg",
+                "id": 7674344,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-pixel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-pixel-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 22
+                },
+                "release_date_for_display": "February 22, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 22, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92afaaa46f04f5d45cdb545c1e0952d6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92afaaa46f04f5d45cdb545c1e0952d6.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Pixel",
+                "title_with_featured": "Pixel",
+                "url": "https://genius.com/Rockin-squat-pixel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7748057",
+                "artist_names": "Rockin' Squat",
+                "full_title": "Pixel (Boom Bap Remix) by\u00a0Rockin'\u00a0Squat",
+                "header_image_thumbnail_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.300x300x1.png",
+                "header_image_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.1000x1000x1.png",
+                "id": 7748057,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-pixel-boom-bap-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-pixel-boom-bap-remix-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 25
+                },
+                "release_date_for_display": "February 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pixel (Boom Bap Remix)",
+                "title_with_featured": "Pixel (Boom Bap Remix)",
+                "url": "https://genius.com/Rockin-squat-pixel-boom-bap-remix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7748058",
+                "artist_names": "Rockin' Squat",
+                "full_title": "Pixel (Gattaca Remix) by\u00a0Rockin'\u00a0Squat",
+                "header_image_thumbnail_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.300x300x1.png",
+                "header_image_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.1000x1000x1.png",
+                "id": 7748058,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-pixel-gattaca-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-pixel-gattaca-remix-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 25
+                },
+                "release_date_for_display": "February 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/f317b5b674f9ada9c034e7fff43d7d16.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pixel (Gattaca Remix)",
+                "title_with_featured": "Pixel (Gattaca Remix)",
+                "url": "https://genius.com/Rockin-squat-pixel-gattaca-remix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/817083",
+                "artist_names": "Assassin (FRA)",
+                "full_title": "Plus D\u2019amour by\u00a0Assassin\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/631e9d72616c81fc76955024d4ddb707.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/631e9d72616c81fc76955024d4ddb707.400x396x1.jpg",
+                "id": 817083,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Assassin-fra-plus-damour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Assassin-fra-plus-damour-sample",
+                "release_date_components": {
+                    "year": 2000,
+                    "month": 4,
+                    "day": 10
+                },
+                "release_date_for_display": "April 10, 2000",
+                "release_date_with_abbreviated_month_for_display": "Apr. 10, 2000",
+                "song_art_image_thumbnail_url": "https://images.genius.com/631e9d72616c81fc76955024d4ddb707.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/631e9d72616c81fc76955024d4ddb707.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus D\u2019amour",
+                "title_with_featured": "Plus D\u2019amour",
+                "url": "https://genius.com/Assassin-fra-plus-damour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/986194",
+                    "header_image_url": "https://images.genius.com/6b59b64998168c4606e0bcd89b4be1ce.1000x750x1.gif",
+                    "id": 986194,
+                    "image_url": "https://images.genius.com/7b844b383fb7d936ef63c4b8cd86e708.321x321x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Assassin (FRA)",
+                    "url": "https://genius.com/artists/Assassin-fra"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2831737",
+                "artist_names": "L'Hexaler (Ft. Rockin' Squat & Scylla)",
+                "full_title": "Point de suture by\u00a0L'Hexaler (Ft.\u00a0Rockin'\u00a0Squat & Scylla)",
+                "header_image_thumbnail_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.960x951x1.jpg",
+                "id": 2831737,
+                "language": "fr",
+                "lyrics_owner_id": 280073,
+                "lyrics_state": "complete",
+                "path": "/Lhexaler-point-de-suture-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lhexaler-point-de-suture-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.960x951x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Point de suture",
+                "title_with_featured": "Point de suture (Ft.\u00a0Rockin'\u00a0Squat & Scylla)",
+                "url": "https://genius.com/Lhexaler-point-de-suture-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2004",
+                        "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                        "id": 2004,
+                        "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rockin\u2019 Squat",
+                        "url": "https://genius.com/artists/Rockin-squat"
+                    },
+                    {
+                        "api_path": "/artists/17103",
+                        "header_image_url": "https://images.genius.com/e078ec8f383447774ffe9a623bc85380.633x633x1.jpg",
+                        "id": 17103,
+                        "image_url": "https://images.genius.com/e078ec8f383447774ffe9a623bc85380.633x633x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Scylla",
+                        "url": "https://genius.com/artists/Scylla"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/35370",
+                    "header_image_url": "https://images.genius.com/cd418a26396feea5cce04c7c1555cb46.1000x449x1.png",
+                    "id": 35370,
+                    "image_url": "https://images.genius.com/cd418a26396feea5cce04c7c1555cb46.1000x449x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "L\u2019Hexaler",
+                    "url": "https://genius.com/artists/Lhexaler"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5336816",
+                "artist_names": "Rockin' Squat",
+                "full_title": "Polemik 338 by\u00a0Rockin'\u00a0Squat",
+                "header_image_thumbnail_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.400x400x1.jpg",
+                "id": 5336816,
+                "language": null,
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "incomplete",
+                "path": "/Rockin-squat-polemik-338-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-polemik-338-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 16
+                },
+                "release_date_for_display": "January 16, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 16, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Polemik 338",
+                "title_with_featured": "Polemik 338",
+                "url": "https://genius.com/Rockin-squat-polemik-338-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/206112",
+                "artist_names": "Rockin' Squat (Ft. Wyme)",
+                "full_title": "Politiquement incorrect by\u00a0Rockin'\u00a0Squat (Ft.\u00a0Wyme)",
+                "header_image_thumbnail_url": "https://images.genius.com/7abd88819c5de8b0d287744370273814.300x299x1.jpg",
+                "header_image_url": "https://images.genius.com/7abd88819c5de8b0d287744370273814.900x898x1.jpg",
+                "id": 206112,
+                "language": "en",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-politiquement-incorrect-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-politiquement-incorrect-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7abd88819c5de8b0d287744370273814.300x299x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7abd88819c5de8b0d287744370273814.900x898x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Politiquement incorrect",
+                "title_with_featured": "Politiquement incorrect (Ft.\u00a0Wyme)",
+                "url": "https://genius.com/Rockin-squat-politiquement-incorrect-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/66450",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 66450,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wyme",
+                        "url": "https://genius.com/artists/Wyme"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7843586",
+                "artist_names": "James Digger (Ft. Rockin' Squat & Serka)",
+                "full_title": "Poussi\u00e8re by\u00a0James\u00a0Digger (Ft.\u00a0Rockin'\u00a0Squat & Serka)",
+                "header_image_thumbnail_url": "https://images.genius.com/b8d5a6574a6dec10c0aeaca1bed1ff82.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b8d5a6574a6dec10c0aeaca1bed1ff82.950x950x1.jpg",
+                "id": 7843586,
+                "language": null,
+                "lyrics_owner_id": 4331784,
+                "lyrics_state": "incomplete",
+                "path": "/James-digger-poussiere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/James-digger-poussiere-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 25
+                },
+                "release_date_for_display": "March 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b8d5a6574a6dec10c0aeaca1bed1ff82.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b8d5a6574a6dec10c0aeaca1bed1ff82.950x950x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Poussi\u00e8re",
+                "title_with_featured": "Poussi\u00e8re (Ft.\u00a0Rockin'\u00a0Squat & Serka)",
+                "url": "https://genius.com/James-digger-poussiere-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1218635",
+                        "header_image_url": "https://images.genius.com/64b2fd419e53b6c6ded058678b56b0a6.1000x389x1.jpg",
+                        "id": 1218635,
+                        "image_url": "https://images.genius.com/d60287335e5dfcdab105b3a92e0beb62.225x225x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Serka",
+                        "url": "https://genius.com/artists/Serka"
+                    },
+                    {
+                        "api_path": "/artists/2004",
+                        "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                        "id": 2004,
+                        "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rockin\u2019 Squat",
+                        "url": "https://genius.com/artists/Rockin-squat"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/189020",
+                    "header_image_url": "https://images.genius.com/3c7586525514a7fc16d00cf1a1570c83.526x526x1.jpg",
+                    "id": 189020,
+                    "image_url": "https://images.genius.com/3c7586525514a7fc16d00cf1a1570c83.526x526x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Digger",
+                    "url": "https://genius.com/artists/James-digger"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/6817223",
+                "artist_names": "Rockin' Squat",
+                "full_title": "PP by\u00a0Rockin'\u00a0Squat",
+                "header_image_thumbnail_url": "https://images.genius.com/1d52d3fdc183fb2032cba4e35c9ccb77.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d52d3fdc183fb2032cba4e35c9ccb77.526x526x1.jpg",
+                "id": 6817223,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-pp-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rockin-squat-pp-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 28
+                },
+                "release_date_for_display": "May 28, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 28, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d52d3fdc183fb2032cba4e35c9ccb77.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d52d3fdc183fb2032cba4e35c9ccb77.526x526x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "PP",
+                "title_with_featured": "PP",
+                "url": "https://genius.com/Rockin-squat-pp-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5336786",
+                "artist_names": "Rockin' Squat (Ft. Ma-Ma Moon)",
+                "full_title": "Precious by\u00a0Rockin'\u00a0Squat (Ft.\u00a0Ma-Ma\u00a0Moon)",
+                "header_image_thumbnail_url": "https://images.genius.com/02c4afc6ff63880c50ceb64eb1135697.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/02c4afc6ff63880c50ceb64eb1135697.398x398x1.jpg",
+                "id": 5336786,
+                "language": null,
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "incomplete",
+                "path": "/Rockin-squat-precious-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-precious-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/02c4afc6ff63880c50ceb64eb1135697.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/02c4afc6ff63880c50ceb64eb1135697.398x398x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Precious",
+                "title_with_featured": "Precious (Ft.\u00a0Ma-Ma\u00a0Moon)",
+                "url": "https://genius.com/Rockin-squat-precious-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/670270",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 670270,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ma-Ma Moon",
+                        "url": "https://genius.com/artists/Ma-ma-moon"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4189082",
+                "artist_names": "Assassin (FRA)",
+                "full_title": "Premi\u00e8res Touches by\u00a0Assassin\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/e3767fa3abd72a18b9e638ccdab34325.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e3767fa3abd72a18b9e638ccdab34325.1000x1000x1.jpg",
+                "id": 4189082,
+                "language": null,
+                "lyrics_owner_id": 7245690,
+                "lyrics_state": "incomplete",
+                "path": "/Assassin-fra-premieres-touches-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Assassin-fra-premieres-touches-sample",
+                "release_date_components": {
+                    "year": 2000,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2000",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2000",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e3767fa3abd72a18b9e638ccdab34325.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e3767fa3abd72a18b9e638ccdab34325.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Premi\u00e8res Touches",
+                "title_with_featured": "Premi\u00e8res Touches",
+                "url": "https://genius.com/Assassin-fra-premieres-touches-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/986194",
+                    "header_image_url": "https://images.genius.com/6b59b64998168c4606e0bcd89b4be1ce.1000x750x1.gif",
+                    "id": 986194,
+                    "image_url": "https://images.genius.com/7b844b383fb7d936ef63c4b8cd86e708.321x321x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Assassin (FRA)",
+                    "url": "https://genius.com/artists/Assassin-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/419986",
+                "artist_names": "Rockin' Squat (Ft. Oxmo Puccino)",
+                "full_title": "Pr\u00e8s Des Notes by\u00a0Rockin'\u00a0Squat (Ft.\u00a0Oxmo\u00a0Puccino)",
+                "header_image_thumbnail_url": "https://images.genius.com/0944162ff633884db42b82586452dd8b.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/0944162ff633884db42b82586452dd8b.998x1000x1.jpg",
+                "id": 419986,
+                "language": "fr",
+                "lyrics_owner_id": 274130,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-pres-des-notes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-pres-des-notes-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0944162ff633884db42b82586452dd8b.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0944162ff633884db42b82586452dd8b.998x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pr\u00e8s Des Notes",
+                "title_with_featured": "Pr\u00e8s Des Notes (Ft.\u00a0Oxmo\u00a0Puccino)",
+                "url": "https://genius.com/Rockin-squat-pres-des-notes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1947",
+                        "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                        "id": 1947,
+                        "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Oxmo Puccino",
+                        "url": "https://genius.com/artists/Oxmo-puccino",
+                        "iq": 525
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5325289",
+                "artist_names": "Rockin' Squat (Ft. Pyroman (rappeur))",
+                "full_title": "Prisonnier De l\u2019Etau by\u00a0Rockin'\u00a0Squat (Ft.\u00a0Pyroman\u00a0(rappeur))",
+                "header_image_thumbnail_url": "https://images.genius.com/4398d244f42cc16816ba4c149b890598.300x299x1.jpg",
+                "header_image_url": "https://images.genius.com/4398d244f42cc16816ba4c149b890598.859x855x1.jpg",
+                "id": 5325289,
+                "language": null,
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "incomplete",
+                "path": "/Rockin-squat-prisonnier-de-letau-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-prisonnier-de-letau-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/4398d244f42cc16816ba4c149b890598.300x299x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4398d244f42cc16816ba4c149b890598.859x855x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Prisonnier De l\u2019Etau",
+                "title_with_featured": "Prisonnier De l\u2019Etau (Ft.\u00a0Pyroman\u00a0(rappeur))",
+                "url": "https://genius.com/Rockin-squat-prisonnier-de-letau-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/558407",
+                        "header_image_url": "https://images.genius.com/ac27bdb199f18bf1a7c08393577310d1.634x634x1.png",
+                        "id": 558407,
+                        "image_url": "https://images.genius.com/ac27bdb199f18bf1a7c08393577310d1.634x634x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pyroman (rappeur)",
+                        "url": "https://genius.com/artists/Pyroman-rappeur"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6948322",
+                "artist_names": "Rockin' Squat",
+                "full_title": "Privata Lex by\u00a0Rockin'\u00a0Squat",
+                "header_image_thumbnail_url": "https://images.genius.com/499ad74d489540ca67faf590c476de12.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/499ad74d489540ca67faf590c476de12.1000x1000x1.jpg",
+                "id": 6948322,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-privata-lex-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-privata-lex-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2021",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/499ad74d489540ca67faf590c476de12.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/499ad74d489540ca67faf590c476de12.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Privata Lex",
+                "title_with_featured": "Privata Lex",
+                "url": "https://genius.com/Rockin-squat-privata-lex-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/375830",
+                "artist_names": "Assassin (FRA)",
+                "full_title": "Probl\u00e8me [Skit] by\u00a0Assassin\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/c8566723fc11820ea7baf23ec20971a3.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c8566723fc11820ea7baf23ec20971a3.500x500x1.png",
+                "id": 375830,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Assassin-fra-probleme-skit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Assassin-fra-probleme-skit-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 1995",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c8566723fc11820ea7baf23ec20971a3.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c8566723fc11820ea7baf23ec20971a3.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Probl\u00e8me [Skit]",
+                "title_with_featured": "Probl\u00e8me [Skit]",
+                "url": "https://genius.com/Assassin-fra-probleme-skit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/986194",
+                    "header_image_url": "https://images.genius.com/6b59b64998168c4606e0bcd89b4be1ce.1000x750x1.gif",
+                    "id": 986194,
+                    "image_url": "https://images.genius.com/7b844b383fb7d936ef63c4b8cd86e708.321x321x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Assassin (FRA)",
+                    "url": "https://genius.com/artists/Assassin-fra"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2473009",
+                "artist_names": "Rockin' Squat (Ft. Agallah)",
+                "full_title": "Progress by\u00a0Rockin'\u00a0Squat (Ft.\u00a0Agallah)",
+                "header_image_thumbnail_url": "https://images.genius.com/3b183ead469e7201cd0b44187bc9546a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3b183ead469e7201cd0b44187bc9546a.591x591x1.jpg",
+                "id": 2473009,
+                "language": "fr",
+                "lyrics_owner_id": 2175034,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-progress-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rockin-squat-progress-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 10,
+                    "day": 15
+                },
+                "release_date_for_display": "October 15, 2007",
+                "release_date_with_abbreviated_month_for_display": "Oct. 15, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3b183ead469e7201cd0b44187bc9546a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3b183ead469e7201cd0b44187bc9546a.591x591x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Progress",
+                "title_with_featured": "Progress (Ft.\u00a0Agallah)",
+                "url": "https://genius.com/Rockin-squat-progress-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/4464",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/220px-Agallah_2011.jpg",
+                        "id": 4464,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/220px-Agallah_2011.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Agallah",
+                        "url": "https://genius.com/artists/Agallah"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/76882",
+                "artist_names": "Rockin' Squat (Ft. Gr\u00f6dash)",
+                "full_title": "Progress (Version fran\u00e7aise) by\u00a0Rockin'\u00a0Squat (Ft.\u00a0Gr\u00f6dash)",
+                "header_image_thumbnail_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.400x400x1.jpg",
+                "id": 76882,
+                "language": "en",
+                "lyrics_owner_id": 13497,
+                "lyrics_state": "complete",
+                "path": "/Rockin-squat-progress-version-francaise-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rockin-squat-progress-version-francaise-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 16
+                },
+                "release_date_for_display": "January 16, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 16, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/21abdcbfb2912ceef6229813ab93b077.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Progress (Version fran\u00e7aise)",
+                "title_with_featured": "Progress (Version fran\u00e7aise) (Ft.\u00a0Gr\u00f6dash)",
+                "url": "https://genius.com/Rockin-squat-progress-version-francaise-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15227",
+                        "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "id": 15227,
+                        "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gr\u00f6dash",
+                        "url": "https://genius.com/artists/Grodash"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2004",
+                    "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                    "id": 2004,
+                    "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rockin\u2019 Squat",
+                    "url": "https://genius.com/artists/Rockin-squat"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2940930",
+                "artist_names": "N.A.P. (Ft. Radical Kicker & Rockin' Squat)",
+                "full_title": "Propos sur le pouvoir by\u00a0N.A.P. (Ft.\u00a0Radical\u00a0Kicker & Rockin'\u00a0Squat)",
+                "header_image_thumbnail_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.500x500x1.jpg",
+                "id": 2940930,
+                "language": "fr",
+                "lyrics_owner_id": 332802,
+                "lyrics_state": "complete",
+                "path": "/Nap-propos-sur-le-pouvoir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nap-propos-sur-le-pouvoir-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1998",
+                "release_date_with_abbreviated_month_for_display": "1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Propos sur le pouvoir",
+                "title_with_featured": "Propos sur le pouvoir (Ft.\u00a0Radical\u00a0Kicker & Rockin'\u00a0Squat)",
+                "url": "https://genius.com/Nap-propos-sur-le-pouvoir-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/36915",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 36915,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Radical Kicker",
+                        "url": "https://genius.com/artists/Radical-kicker"
+                    },
+                    {
+                        "api_path": "/artists/2004",
+                        "header_image_url": "https://images.genius.com/42e74db7d7adebb3ade92c7191106cfd.1000x625x1.jpg",
+                        "id": 2004,
+                        "image_url": "https://images.genius.com/afd36da2530227b29ecae5a4c5a95b8f.604x604x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rockin\u2019 Squat",
+                        "url": "https://genius.com/artists/Rockin-squat"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13693",
+                    "header_image_url": "https://images.genius.com/24d02e345afbf6843c518ec086738d0f.400x286x1.jpg",
+                    "id": 13693,
+                    "image_url": "https://images.genius.com/24d02e345afbf6843c518ec086738d0f.400x286x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "N.A.P.",
+                    "url": "https://genius.com/artists/Nap"
+                }
+            }
+        ],
+        "next_page": 14
+    }
+}

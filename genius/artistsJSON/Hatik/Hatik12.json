@@ -1,0 +1,554 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5297998",
+                "artist_names": "Sam's (Ft. Lacrim)",
+                "full_title": "Valid\u00e9 by\u00a0Sam's (Ft.\u00a0Lacrim)",
+                "header_image_thumbnail_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.300x300x1.png",
+                "header_image_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.768x768x1.png",
+                "id": 5297998,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Sams-valide-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Sams-valide-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.768x768x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 7700
+                },
+                "title": "Valid\u00e9",
+                "title_with_featured": "Valid\u00e9 (Ft.\u00a0Lacrim)",
+                "url": "https://genius.com/Sams-valide-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11650",
+                        "header_image_url": "https://images.genius.com/a56bea02c03bf2cdf1312931415097c1.1000x667x1.jpg",
+                        "id": 11650,
+                        "image_url": "https://images.genius.com/c3d2691daa3d67cd58031bc4096496e6.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lacrim",
+                        "url": "https://genius.com/artists/Lacrim"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11854",
+                    "header_image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                    "id": 11854,
+                    "image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sam\u2019s",
+                    "url": "https://genius.com/artists/Sams",
+                    "iq": 862
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7184708",
+                "artist_names": "Sam's (Ft. Bosh & Gazo)",
+                "full_title": "Valid\u00e9 II by\u00a0Sam's (Ft.\u00a0Bosh & Gazo)",
+                "header_image_thumbnail_url": "https://images.genius.com/969d34d7aa82bdabcbde04045e9326a4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/969d34d7aa82bdabcbde04045e9326a4.500x500x1.jpg",
+                "id": 7184708,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Sams-valide-ii-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sams-valide-ii-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 10
+                },
+                "release_date_for_display": "September 10, 2021",
+                "release_date_with_abbreviated_month_for_display": "Sep. 10, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/969d34d7aa82bdabcbde04045e9326a4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/969d34d7aa82bdabcbde04045e9326a4.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Valid\u00e9 II",
+                "title_with_featured": "Valid\u00e9 II (Ft.\u00a0Bosh & Gazo)",
+                "url": "https://genius.com/Sams-valide-ii-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/23012",
+                        "header_image_url": "https://images.genius.com/dc841cc69eeeb901697365b700fc4623.1000x666x1.jpg",
+                        "id": 23012,
+                        "image_url": "https://images.genius.com/b168321599dbc27cd13851a5ae090267.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gazo",
+                        "url": "https://genius.com/artists/Gazo"
+                    },
+                    {
+                        "api_path": "/artists/314635",
+                        "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                        "id": 314635,
+                        "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bosh",
+                        "url": "https://genius.com/artists/Bosh"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11854",
+                    "header_image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                    "id": 11854,
+                    "image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sam\u2019s",
+                    "url": "https://genius.com/artists/Sams",
+                    "iq": 862
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4954252",
+                "artist_names": "Hatik",
+                "full_title": "Va voir \u00e0 gauche (Chaise Pliante, pt. 9) by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/21ba27ae6e2a68c7bdae0ff948324f94.300x203x1.jpg",
+                "header_image_url": "https://images.genius.com/21ba27ae6e2a68c7bdae0ff948324f94.1000x675x1.jpg",
+                "id": 4954252,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-va-voir-a-gauche-chaise-pliante-pt-9-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-va-voir-a-gauche-chaise-pliante-pt-9-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 22
+                },
+                "release_date_for_display": "November 22, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 22, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fd75f4d122efdfcc78b3e16f07eb7268.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/fd75f4d122efdfcc78b3e16f07eb7268.473x473x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Va voir \u00e0 gauche (Chaise Pliante, pt. 9)",
+                "title_with_featured": "Va voir \u00e0 gauche (Chaise Pliante, pt. 9)",
+                "url": "https://genius.com/Hatik-va-voir-a-gauche-chaise-pliante-pt-9-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7917935",
+                "artist_names": "Laeti (Ft. Hatik)",
+                "full_title": "Vertige by\u00a0Laeti (Ft.\u00a0Hatik)",
+                "header_image_thumbnail_url": "https://images.genius.com/ec9602247488bbc3db289431ec7a5b20.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ec9602247488bbc3db289431ec7a5b20.570x570x1.jpg",
+                "id": 7917935,
+                "language": "fr",
+                "lyrics_owner_id": 9583741,
+                "lyrics_state": "complete",
+                "path": "/Laeti-vertige-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Laeti-vertige-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 6
+                },
+                "release_date_for_display": "May 6, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 6, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ec9602247488bbc3db289431ec7a5b20.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ec9602247488bbc3db289431ec7a5b20.570x570x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vertige",
+                "title_with_featured": "Vertige (Ft.\u00a0Hatik)",
+                "url": "https://genius.com/Laeti-vertige-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/147321",
+                        "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                        "id": 147321,
+                        "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hatik",
+                        "url": "https://genius.com/artists/Hatik",
+                        "iq": 129
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2877082",
+                    "header_image_url": "https://images.genius.com/05861a2edaf8239c5477a97abe592a12.562x562x1.jpg",
+                    "id": 2877082,
+                    "image_url": "https://images.genius.com/05861a2edaf8239c5477a97abe592a12.562x562x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Laeti",
+                    "url": "https://genius.com/artists/Laeti"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6479923",
+                "artist_names": "Hatik (Ft. Laylow)",
+                "full_title": "Vide by\u00a0Hatik (Ft.\u00a0Laylow)",
+                "header_image_thumbnail_url": "https://images.genius.com/989ac7ce40c00f32a8401c58ee33aed1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/989ac7ce40c00f32a8401c58ee33aed1.640x640x1.jpg",
+                "id": 6479923,
+                "language": "fr",
+                "lyrics_owner_id": 2469184,
+                "lyrics_state": "complete",
+                "path": "/Hatik-vide-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Hatik-vide-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 3,
+                    "day": 12
+                },
+                "release_date_for_display": "March 12, 2021",
+                "release_date_with_abbreviated_month_for_display": "Mar. 12, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/989ac7ce40c00f32a8401c58ee33aed1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/989ac7ce40c00f32a8401c58ee33aed1.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 6818
+                },
+                "title": "Vide",
+                "title_with_featured": "Vide (Ft.\u00a0Laylow)",
+                "url": "https://genius.com/Hatik-vide-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/308564",
+                        "header_image_url": "https://images.genius.com/b6b494cca78e2fd6097e498b5924b707.250x249x46.gif",
+                        "id": 308564,
+                        "image_url": "https://images.genius.com/7541b47ff09d814042b13ac1b235384d.473x473x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Laylow",
+                        "url": "https://genius.com/artists/Laylow",
+                        "iq": 641
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/369900",
+                "artist_names": "Hatik",
+                "full_title": "Vixen by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.1000x1000x1.jpg",
+                "id": 369900,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Hatik-vixen-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hatik-vixen-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vixen",
+                "title_with_featured": "Vixen",
+                "url": "https://genius.com/Hatik-vixen-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5237666",
+                "artist_names": "Hatik",
+                "full_title": "Vroum vroum by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.300x300x1.png",
+                "header_image_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.1000x1000x1.png",
+                "id": 5237666,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-vroum-vroum-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-vroum-vroum-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 6
+                },
+                "release_date_for_display": "March 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 5085
+                },
+                "title": "Vroum vroum",
+                "title_with_featured": "Vroum vroum",
+                "url": "https://genius.com/Hatik-vroum-vroum-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6475399",
+                "artist_names": "Hatik",
+                "full_title": "Wa\u00ef by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/0693003afec72320ed8cb812186ec235.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0693003afec72320ed8cb812186ec235.600x600x1.jpg",
+                "id": 6475399,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-wai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-wai-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 3,
+                    "day": 12
+                },
+                "release_date_for_display": "March 12, 2021",
+                "release_date_with_abbreviated_month_for_display": "Mar. 12, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0693003afec72320ed8cb812186ec235.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0693003afec72320ed8cb812186ec235.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Wa\u00ef",
+                "title_with_featured": "Wa\u00ef",
+                "url": "https://genius.com/Hatik-wai-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/4786125",
+                "artist_names": "Hatik",
+                "full_title": "Welcome by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/4604bfbc415cc96774fc397597be029b.300x169x1.png",
+                "header_image_url": "https://images.genius.com/4604bfbc415cc96774fc397597be029b.1000x563x1.png",
+                "id": 4786125,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-welcome-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-welcome-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 30
+                },
+                "release_date_for_display": "August 30, 2019",
+                "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f6366abba06af89696897bed12a8a921.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f6366abba06af89696897bed12a8a921.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 19084
+                },
+                "title": "Welcome",
+                "title_with_featured": "Welcome",
+                "url": "https://genius.com/Hatik-welcome-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5453155",
+                "artist_names": "Hatik",
+                "full_title": "West Indies by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/24d1f22adcf903a342148c989a47d4c9.300x295x1.jpg",
+                "header_image_url": "https://images.genius.com/24d1f22adcf903a342148c989a47d4c9.722x711x1.jpg",
+                "id": 5453155,
+                "language": "fr",
+                "lyrics_owner_id": 4609833,
+                "lyrics_state": "complete",
+                "path": "/Hatik-west-indies-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-west-indies-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 3
+                },
+                "release_date_for_display": "August 3, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 3, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f065db8a8fa6861cfe76cf4aff1b1b79.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f065db8a8fa6861cfe76cf4aff1b1b79.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 8908
+                },
+                "title": "West Indies",
+                "title_with_featured": "West Indies",
+                "url": "https://genius.com/Hatik-west-indies-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7330080",
+                "artist_names": "Hatik (Ft. Slimane)",
+                "full_title": "\u200by\u2019a rien by\u00a0Hatik (Ft.\u00a0Slimane)",
+                "header_image_thumbnail_url": "https://images.genius.com/d7f9e2b173c7bae54016d3aea39c0b67.300x300x1.png",
+                "header_image_url": "https://images.genius.com/d7f9e2b173c7bae54016d3aea39c0b67.1000x1000x1.png",
+                "id": 7330080,
+                "language": "fr",
+                "lyrics_owner_id": 498964,
+                "lyrics_state": "complete",
+                "path": "/Hatik-ya-rien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-ya-rien-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 29
+                },
+                "release_date_for_display": "October 29, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 29, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d7f9e2b173c7bae54016d3aea39c0b67.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/d7f9e2b173c7bae54016d3aea39c0b67.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "\u200by\u2019a rien",
+                "title_with_featured": "\u200by\u2019a rien (Ft.\u00a0Slimane)",
+                "url": "https://genius.com/Hatik-ya-rien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/217821",
+                        "header_image_url": "https://images.genius.com/ed2a278364d5bba92f3459d46da4d09e.500x500x1.jpg",
+                        "id": 217821,
+                        "image_url": "https://images.genius.com/ed2a278364d5bba92f3459d46da4d09e.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Slimane",
+                        "url": "https://genius.com/artists/Slimane"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

@@ -1,0 +1,993 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/8651312",
+                "artist_names": "Leto",
+                "full_title": "PSO BOP by\u00a0Leto",
+                "header_image_thumbnail_url": "https://images.genius.com/321c905536a693a02a3a71084864fdb0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/321c905536a693a02a3a71084864fdb0.720x720x1.jpg",
+                "id": 8651312,
+                "language": "fr",
+                "lyrics_owner_id": 9722677,
+                "lyrics_state": "complete",
+                "path": "/Leto-pso-bop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-pso-bop-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 10
+                },
+                "release_date_for_display": "February 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fd7bb576c39fbf5ed3df2c3e8c840f90.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fd7bb576c39fbf5ed3df2c3e8c840f90.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "PSO BOP",
+                "title_with_featured": "PSO BOP",
+                "url": "https://genius.com/Leto-pso-bop-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/183940",
+                    "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                    "id": 183940,
+                    "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto",
+                    "url": "https://genius.com/artists/Leto"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8133078",
+                "artist_names": "Kepler (Ft. La Fel)",
+                "full_title": "PSO C.L.L by\u00a0Kepler (Ft.\u00a0La\u00a0Fel)",
+                "header_image_thumbnail_url": "https://images.genius.com/bc4ae1349b6c6460095d0c213894c7f5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bc4ae1349b6c6460095d0c213894c7f5.1000x1000x1.jpg",
+                "id": 8133078,
+                "language": null,
+                "lyrics_owner_id": 9722677,
+                "lyrics_state": "unreleased",
+                "path": "/Kepler-pso-cll-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kepler-pso-cll-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 24
+                },
+                "release_date_for_display": "June 24, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 24, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bc4ae1349b6c6460095d0c213894c7f5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bc4ae1349b6c6460095d0c213894c7f5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "PSO C.L.L",
+                "title_with_featured": "PSO C.L.L (Ft.\u00a0La\u00a0Fel)",
+                "url": "https://genius.com/Kepler-pso-cll-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2646484",
+                        "header_image_url": "https://images.genius.com/63fd92cdc094bf00989ec1523b1ae055.673x673x1.jpg",
+                        "id": 2646484,
+                        "image_url": "https://images.genius.com/63fd92cdc094bf00989ec1523b1ae055.673x673x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Fel",
+                        "url": "https://genius.com/artists/La-fel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1275621",
+                    "header_image_url": "https://images.genius.com/f38cc6577c0d9b11c3e507f2f8c6a010.900x900x1.jpg",
+                    "id": 1275621,
+                    "image_url": "https://images.genius.com/62c6f4ceb84a3a2eb71750654a073fce.350x350x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kepler",
+                    "url": "https://genius.com/artists/Kepler"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2378852",
+                "artist_names": "PSO Thug",
+                "full_title": "PSO Gang by\u00a0PSO\u00a0Thug",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/049b3dbcd7e66df9d110ba32f0b3ddc5.300x166x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/049b3dbcd7e66df9d110ba32f0b3ddc5.526x291x1.jpg",
+                "id": 2378852,
+                "language": null,
+                "lyrics_owner_id": 1059054,
+                "lyrics_state": "complete",
+                "path": "/Pso-thug-pso-gang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Pso-thug-pso-gang-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/049b3dbcd7e66df9d110ba32f0b3ddc5.300x166x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/049b3dbcd7e66df9d110ba32f0b3ddc5.526x291x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 9067
+                },
+                "title": "PSO Gang",
+                "title_with_featured": "PSO Gang",
+                "url": "https://genius.com/Pso-thug-pso-gang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/212473",
+                    "header_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "id": 212473,
+                    "image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PSO Thug",
+                    "url": "https://genius.com/artists/Pso-thug",
+                    "iq": 846
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/435936",
+                "artist_names": "PSO Thug",
+                "full_title": "PSO THUG by\u00a0PSO\u00a0Thug",
+                "header_image_thumbnail_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                "id": 435936,
+                "language": null,
+                "lyrics_owner_id": 719334,
+                "lyrics_state": "complete",
+                "path": "/Pso-thug-pso-thug-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Pso-thug-pso-thug-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2013",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "PSO THUG",
+                "title_with_featured": "PSO THUG",
+                "url": "https://genius.com/Pso-thug-pso-thug-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/212473",
+                    "header_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "id": 212473,
+                    "image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PSO Thug",
+                    "url": "https://genius.com/artists/Pso-thug",
+                    "iq": 846
+                }
+            },
+            {
+                "annotation_count": 50,
+                "api_path": "/songs/416376",
+                "artist_names": "PSO Thug",
+                "full_title": "Pso Thug Freestyle by\u00a0PSO\u00a0Thug",
+                "header_image_thumbnail_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                "id": 416376,
+                "language": "fr",
+                "lyrics_owner_id": 430356,
+                "lyrics_state": "complete",
+                "path": "/Pso-thug-pso-thug-freestyle-lyrics",
+                "pyongs_count": 16,
+                "relationships_index_url": "https://genius.com/Pso-thug-pso-thug-freestyle-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2013",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 48,
+                    "hot": false,
+                    "pageviews": 15076
+                },
+                "title": "Pso Thug Freestyle",
+                "title_with_featured": "Pso Thug Freestyle",
+                "url": "https://genius.com/Pso-thug-pso-thug-freestyle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/212473",
+                    "header_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "id": 212473,
+                    "image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PSO Thug",
+                    "url": "https://genius.com/artists/Pso-thug",
+                    "iq": 846
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8435298",
+                "artist_names": "Tiago le dur (Ft. Leto & Niska)",
+                "full_title": "Puff daddy by\u00a0Tiago\u00a0le dur (Ft.\u00a0Leto & Niska)",
+                "header_image_thumbnail_url": "https://images.genius.com/1e10a9a15e584e48d983ef2e6f46a3ac.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1e10a9a15e584e48d983ef2e6f46a3ac.500x500x1.jpg",
+                "id": 8435298,
+                "language": null,
+                "lyrics_owner_id": 16010947,
+                "lyrics_state": "unreleased",
+                "path": "/Tiago-le-dur-puff-daddy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tiago-le-dur-puff-daddy-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 1
+                },
+                "release_date_for_display": "July 1, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jul. 1, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1e10a9a15e584e48d983ef2e6f46a3ac.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1e10a9a15e584e48d983ef2e6f46a3ac.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Puff daddy",
+                "title_with_featured": "Puff daddy (Ft.\u00a0Leto & Niska)",
+                "url": "https://genius.com/Tiago-le-dur-puff-daddy-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    },
+                    {
+                        "api_path": "/artists/234413",
+                        "header_image_url": "https://images.genius.com/d0a3b9c30cc5539f50743cc806907492.1000x568x1.jpg",
+                        "id": 234413,
+                        "image_url": "https://images.genius.com/691fb1661dadafe90e6dd457cb02fdbb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niska",
+                        "url": "https://genius.com/artists/Niska",
+                        "iq": 2319
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/3071514",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 3071514,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tiago le dur",
+                    "url": "https://genius.com/artists/Tiago-le-dur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7129242",
+                "artist_names": "Leto (Ft. Niska)",
+                "full_title": "Puff Daddy* by\u00a0Leto (Ft.\u00a0Niska)",
+                "header_image_thumbnail_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                "id": 7129242,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Leto-puff-daddy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-puff-daddy-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Puff Daddy*",
+                "title_with_featured": "Puff Daddy* (Ft.\u00a0Niska)",
+                "url": "https://genius.com/Leto-puff-daddy-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/234413",
+                        "header_image_url": "https://images.genius.com/d0a3b9c30cc5539f50743cc806907492.1000x568x1.jpg",
+                        "id": 234413,
+                        "image_url": "https://images.genius.com/691fb1661dadafe90e6dd457cb02fdbb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niska",
+                        "url": "https://genius.com/artists/Niska",
+                        "iq": 2319
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/183940",
+                    "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                    "id": 183940,
+                    "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto",
+                    "url": "https://genius.com/artists/Leto"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7213432",
+                "artist_names": "Cheu-B (Ft. Kepler & Leto)",
+                "full_title": "Puissant by\u00a0Cheu-B (Ft.\u00a0Kepler & Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/33296acc0b11ef5c36f1710781a73721.300x300x1.png",
+                "header_image_url": "https://images.genius.com/33296acc0b11ef5c36f1710781a73721.1000x1000x1.png",
+                "id": 7213432,
+                "language": "en",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Cheu-b-puissant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Cheu-b-puissant-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 1
+                },
+                "release_date_for_display": "October 1, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 1, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/33296acc0b11ef5c36f1710781a73721.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/33296acc0b11ef5c36f1710781a73721.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Puissant",
+                "title_with_featured": "Puissant (Ft.\u00a0Kepler & Leto)",
+                "url": "https://genius.com/Cheu-b-puissant-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1275621",
+                        "header_image_url": "https://images.genius.com/f38cc6577c0d9b11c3e507f2f8c6a010.900x900x1.jpg",
+                        "id": 1275621,
+                        "image_url": "https://images.genius.com/62c6f4ceb84a3a2eb71750654a073fce.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kepler",
+                        "url": "https://genius.com/artists/Kepler"
+                    },
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/651153",
+                    "header_image_url": "https://images.genius.com/8eff559768ed2397f5bdceb55d11afe9.1000x729x1.jpg",
+                    "id": 651153,
+                    "image_url": "https://images.genius.com/d004615512871005246ed0f54defd7ec.746x746x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cheu-B",
+                    "url": "https://genius.com/artists/Cheu-b"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6978215",
+                "artist_names": "VH Gang & Ismo Z17 (Ft. Leto)",
+                "full_title": "Pull op by\u00a0VH\u00a0Gang & Ismo Z17 (Ft.\u00a0Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/17b388c2eaa7d087e9640fa1ce019626.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17b388c2eaa7d087e9640fa1ce019626.500x500x1.jpg",
+                "id": 6978215,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/Vh-gang-and-ismo-z17-pull-op-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vh-gang-and-ismo-z17-pull-op-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 31
+                },
+                "release_date_for_display": "May 31, 2019",
+                "release_date_with_abbreviated_month_for_display": "May. 31, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17b388c2eaa7d087e9640fa1ce019626.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17b388c2eaa7d087e9640fa1ce019626.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pull op",
+                "title_with_featured": "Pull op (Ft.\u00a0Leto)",
+                "url": "https://genius.com/Vh-gang-and-ismo-z17-pull-op-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2790739",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2790739,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "VH Gang & Ismo Z17",
+                    "url": "https://genius.com/artists/Vh-gang-and-ismo-z17"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4337920",
+                "artist_names": "Binks Beatz (Ft. Leto)",
+                "full_title": "Pull Up by\u00a0Binks\u00a0Beatz (Ft.\u00a0Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/3142569cd7ff18dc85a03f7a4006e036.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/3142569cd7ff18dc85a03f7a4006e036.1000x563x1.jpg",
+                "id": 4337920,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Binks-beatz-pull-up-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Binks-beatz-pull-up-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 2,
+                    "day": 22
+                },
+                "release_date_for_display": "February 22, 2019",
+                "release_date_with_abbreviated_month_for_display": "Feb. 22, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/09c0d9481d55570c46b661da803d99cf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/09c0d9481d55570c46b661da803d99cf.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pull Up",
+                "title_with_featured": "Pull Up (Ft.\u00a0Leto)",
+                "url": "https://genius.com/Binks-beatz-pull-up-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/659505",
+                    "header_image_url": "https://images.genius.com/9a0cf5e96f81b297f10fd8d08e4e6620.1000x665x1.jpg",
+                    "id": 659505,
+                    "image_url": "https://images.genius.com/7065edde47ea30b6b16a643d3628dc18.410x410x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Binks Beatz",
+                    "url": "https://genius.com/artists/Binks-beatz"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5829074",
+                "artist_names": "\u200bThe S",
+                "full_title": "Pupetta by\u00a0\u200bThe\u00a0S",
+                "header_image_thumbnail_url": "https://images.genius.com/38cf384d3a354a64201ba9497b47d39e.300x300x1.png",
+                "header_image_url": "https://images.genius.com/38cf384d3a354a64201ba9497b47d39e.1000x1000x1.png",
+                "id": 5829074,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/The-s-pupetta-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/The-s-pupetta-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 5
+                },
+                "release_date_for_display": "August 5, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 5, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/38cf384d3a354a64201ba9497b47d39e.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/38cf384d3a354a64201ba9497b47d39e.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pupetta",
+                "title_with_featured": "Pupetta",
+                "url": "https://genius.com/The-s-pupetta-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/479473",
+                    "header_image_url": "https://images.genius.com/4de928bef96e2e3dc9d7f24a96d05fd6.1000x517x1.jpg",
+                    "id": 479473,
+                    "image_url": "https://images.genius.com/5a10a465465caede6c13d93d2c88cb89.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200bThe S",
+                    "url": "https://genius.com/artists/The-s"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4639781",
+                "artist_names": "Leto (Ft. Sadek)",
+                "full_title": "Pure by\u00a0Leto (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/e6844463a7748c87912c8c9ac8ebc57b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6844463a7748c87912c8c9ac8ebc57b.600x600x1.jpg",
+                "id": 4639781,
+                "language": "en",
+                "lyrics_owner_id": 205837,
+                "lyrics_state": "complete",
+                "path": "/Leto-pure-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-pure-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6844463a7748c87912c8c9ac8ebc57b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6844463a7748c87912c8c9ac8ebc57b.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 7119
+                },
+                "title": "Pure",
+                "title_with_featured": "Pure (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Leto-pure-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/183940",
+                    "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                    "id": 183940,
+                    "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto",
+                    "url": "https://genius.com/artists/Leto"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8520566",
+                "artist_names": "Leto & Guy2Bezbar",
+                "full_title": "Quaterback by\u00a0Leto\u00a0& Guy2Bezbar",
+                "header_image_thumbnail_url": "https://images.genius.com/082852945fb661a4a27a52dec30a24a3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/082852945fb661a4a27a52dec30a24a3.1000x1000x1.jpg",
+                "id": 8520566,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Leto-and-guy2bezbar-quaterback-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-and-guy2bezbar-quaterback-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 11
+                },
+                "release_date_for_display": "November 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/082852945fb661a4a27a52dec30a24a3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/082852945fb661a4a27a52dec30a24a3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Quaterback",
+                "title_with_featured": "Quaterback",
+                "url": "https://genius.com/Leto-and-guy2bezbar-quaterback-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3305895",
+                    "header_image_url": "https://images.genius.com/01f61b6e1e4b4e77c130ed6dea282f4a.672x200x1.png",
+                    "id": 3305895,
+                    "image_url": "https://images.genius.com/8c720a0876b651ad05dccd6ab6dd2564.637x637x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto & Guy2Bezbar",
+                    "url": "https://genius.com/artists/Leto-and-guy2bezbar"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8438833",
+                "artist_names": "Kayna Samet (Ft. Leto)",
+                "full_title": "Quelle vie by\u00a0Kayna\u00a0Samet (Ft.\u00a0Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/205d714102ca1ffae522d359115ec07f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/205d714102ca1ffae522d359115ec07f.1000x1000x1.jpg",
+                "id": 8438833,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Kayna-samet-quelle-vie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kayna-samet-quelle-vie-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 14
+                },
+                "release_date_for_display": "October 14, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 14, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/205d714102ca1ffae522d359115ec07f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/205d714102ca1ffae522d359115ec07f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Quelle vie",
+                "title_with_featured": "Quelle vie (Ft.\u00a0Leto)",
+                "url": "https://genius.com/Kayna-samet-quelle-vie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11699",
+                    "header_image_url": "https://images.genius.com/c6e31a2a520b2ae7e84c94bedd6b0287.349x349x1.jpg",
+                    "id": 11699,
+                    "image_url": "https://images.genius.com/c6e31a2a520b2ae7e84c94bedd6b0287.349x349x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kayna Samet",
+                    "url": "https://genius.com/artists/Kayna-samet",
+                    "iq": 811
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4703228",
+                "artist_names": "Leto",
+                "full_title": "Rapleader 1 by\u00a0Leto",
+                "header_image_thumbnail_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                "id": 4703228,
+                "language": null,
+                "lyrics_owner_id": 7674795,
+                "lyrics_state": "unreleased",
+                "path": "/Leto-rapleader-1-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-rapleader-1-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 16
+                },
+                "release_date_for_display": "April 16, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 16, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Rapleader 1",
+                "title_with_featured": "Rapleader 1",
+                "url": "https://genius.com/Leto-rapleader-1-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/183940",
+                    "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                    "id": 183940,
+                    "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto",
+                    "url": "https://genius.com/artists/Leto"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7196832",
+                "artist_names": "Leto",
+                "full_title": "Ready to die by\u00a0Leto",
+                "header_image_thumbnail_url": "https://images.genius.com/d208d8bd7c7061e04cc9ccc475f62768.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/d208d8bd7c7061e04cc9ccc475f62768.1000x563x1.jpg",
+                "id": 7196832,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Leto-ready-to-die-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-ready-to-die-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 13
+                },
+                "release_date_for_display": "September 13, 2021",
+                "release_date_with_abbreviated_month_for_display": "Sep. 13, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d208d8bd7c7061e04cc9ccc475f62768.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d208d8bd7c7061e04cc9ccc475f62768.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ready to die",
+                "title_with_featured": "Ready to die",
+                "url": "https://genius.com/Leto-ready-to-die-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/183940",
+                    "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                    "id": 183940,
+                    "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto",
+                    "url": "https://genius.com/artists/Leto"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4562107",
+                "artist_names": "Ismo Z17 (Ft. Leto)",
+                "full_title": "R\u00e9cidive by\u00a0Ismo\u00a0Z17 (Ft.\u00a0Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/562c32669086002bddd1cdddf114a4d8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/562c32669086002bddd1cdddf114a4d8.500x500x1.jpg",
+                "id": 4562107,
+                "language": "fr",
+                "lyrics_owner_id": 7794604,
+                "lyrics_state": "complete",
+                "path": "/Ismo-z17-recidive-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ismo-z17-recidive-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 17
+                },
+                "release_date_for_display": "May 17, 2019",
+                "release_date_with_abbreviated_month_for_display": "May. 17, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/562c32669086002bddd1cdddf114a4d8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/562c32669086002bddd1cdddf114a4d8.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "R\u00e9cidive",
+                "title_with_featured": "R\u00e9cidive (Ft.\u00a0Leto)",
+                "url": "https://genius.com/Ismo-z17-recidive-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1028512",
+                    "header_image_url": "https://images.genius.com/da6a6993f347926500d5fc1835c44dfc.1000x1000x1.jpg",
+                    "id": 1028512,
+                    "image_url": "https://images.genius.com/da6a6993f347926500d5fc1835c44dfc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ismo Z17",
+                    "url": "https://genius.com/artists/Ismo-z17"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4694747",
+                "artist_names": "Leto",
+                "full_title": "R\u00e9el by\u00a0Leto",
+                "header_image_thumbnail_url": "https://images.genius.com/27cc312ce183a883b8607ac161cab8c3.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/27cc312ce183a883b8607ac161cab8c3.1000x563x1.jpg",
+                "id": 4694747,
+                "language": "fr",
+                "lyrics_owner_id": 3786669,
+                "lyrics_state": "complete",
+                "path": "/Leto-reel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-reel-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/27cc312ce183a883b8607ac161cab8c3.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/27cc312ce183a883b8607ac161cab8c3.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "R\u00e9el",
+                "title_with_featured": "R\u00e9el",
+                "url": "https://genius.com/Leto-reel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/183940",
+                    "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                    "id": 183940,
+                    "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto",
+                    "url": "https://genius.com/artists/Leto"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2476549",
+                "artist_names": "PSO Thug",
+                "full_title": "R\u00e8gles du jeu by\u00a0PSO\u00a0Thug",
+                "header_image_thumbnail_url": "https://images.genius.com/07f94aa70eeaf06439065b7a8239b4db.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/07f94aa70eeaf06439065b7a8239b4db.512x512x1.jpg",
+                "id": 2476549,
+                "language": "fr",
+                "lyrics_owner_id": 2049065,
+                "lyrics_state": "complete",
+                "path": "/Pso-thug-regles-du-jeu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Pso-thug-regles-du-jeu-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 20
+                },
+                "release_date_for_display": "May 20, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/07f94aa70eeaf06439065b7a8239b4db.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/07f94aa70eeaf06439065b7a8239b4db.512x512x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "R\u00e8gles du jeu",
+                "title_with_featured": "R\u00e8gles du jeu",
+                "url": "https://genius.com/Pso-thug-regles-du-jeu-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/212473",
+                    "header_image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "id": 212473,
+                    "image_url": "https://images.genius.com/9fc4a8febed40f832dbbcd7a85742984.605x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PSO Thug",
+                    "url": "https://genius.com/artists/Pso-thug",
+                    "iq": 846
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7201489",
+                "artist_names": "DSK (Ft. Leto & Tayc)",
+                "full_title": "Regrette* by\u00a0DSK (Ft.\u00a0Leto & Tayc)",
+                "header_image_thumbnail_url": "https://images.genius.com/35e83c26b2b5a64470653cc6e685c3b3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/35e83c26b2b5a64470653cc6e685c3b3.582x582x1.jpg",
+                "id": 7201489,
+                "language": null,
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "unreleased",
+                "path": "/Dsk-regrette-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dsk-regrette-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/35e83c26b2b5a64470653cc6e685c3b3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/35e83c26b2b5a64470653cc6e685c3b3.582x582x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Regrette*",
+                "title_with_featured": "Regrette* (Ft.\u00a0Leto & Tayc)",
+                "url": "https://genius.com/Dsk-regrette-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1181301",
+                        "header_image_url": "https://images.genius.com/c869fcfe8fd5c1a0adc47e035c8bef3f.1000x602x1.jpg",
+                        "id": 1181301,
+                        "image_url": "https://images.genius.com/874a6b4f57b16cb8bff9c4ad8c85feff.538x538x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tayc",
+                        "url": "https://genius.com/artists/Tayc"
+                    },
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/627161",
+                    "header_image_url": "https://images.genius.com/27862e23deeeba7a56747241af7ac3ce.960x720x1.jpg",
+                    "id": 627161,
+                    "image_url": "https://images.genius.com/35e83c26b2b5a64470653cc6e685c3b3.582x582x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DSK",
+                    "url": "https://genius.com/artists/Dsk"
+                }
+            }
+        ],
+        "next_page": 20
+    }
+}

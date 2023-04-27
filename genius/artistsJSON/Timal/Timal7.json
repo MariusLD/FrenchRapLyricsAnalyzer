@@ -1,0 +1,986 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5395442",
+                "artist_names": "Timal",
+                "full_title": "Nouveau billet by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                "id": 5395442,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-nouveau-billet-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-nouveau-billet-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nouveau billet",
+                "title_with_featured": "Nouveau billet",
+                "url": "https://genius.com/Timal-nouveau-billet-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5095185",
+                "artist_names": "Boumso (Ft. Timal)",
+                "full_title": "Nuit by\u00a0Boumso (Ft.\u00a0Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/ce5daf4f1c3560a0994c3789dda58727.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ce5daf4f1c3560a0994c3789dda58727.1000x1000x1.jpg",
+                "id": 5095185,
+                "language": "en",
+                "lyrics_owner_id": 6349194,
+                "lyrics_state": "complete",
+                "path": "/Boumso-nuit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boumso-nuit-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 13
+                },
+                "release_date_for_display": "December 13, 2019",
+                "release_date_with_abbreviated_month_for_display": "Dec. 13, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce5daf4f1c3560a0994c3789dda58727.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ce5daf4f1c3560a0994c3789dda58727.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Nuit",
+                "title_with_featured": "Nuit (Ft.\u00a0Timal)",
+                "url": "https://genius.com/Boumso-nuit-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1201814",
+                    "header_image_url": "https://images.genius.com/49737cb8f6c71bffae7991c5d36cf5a8.1000x1000x1.jpg",
+                    "id": 1201814,
+                    "image_url": "https://images.genius.com/ed9b98c78f5b0ac1210a1ab9fa8c3aa8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boumso",
+                    "url": "https://genius.com/artists/Boumso"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/2859195",
+                "artist_names": "Timal",
+                "full_title": "Omar by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/b644fe2d594ed7e9134d196340f69e79.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b644fe2d594ed7e9134d196340f69e79.480x480x1.jpg",
+                "id": 2859195,
+                "language": "fr",
+                "lyrics_owner_id": 3729981,
+                "lyrics_state": "complete",
+                "path": "/Timal-omar-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-omar-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 15
+                },
+                "release_date_for_display": "September 15, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 15, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b644fe2d594ed7e9134d196340f69e79.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b644fe2d594ed7e9134d196340f69e79.480x480x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 18413
+                },
+                "title": "Omar",
+                "title_with_featured": "Omar",
+                "url": "https://genius.com/Timal-omar-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7246334",
+                "artist_names": "Timal",
+                "full_title": "One Shot by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.1000x1000x1.png",
+                "id": 7246334,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-one-shot-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Timal-one-shot-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 14
+                },
+                "release_date_for_display": "October 14, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 14, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 6687
+                },
+                "title": "One Shot",
+                "title_with_featured": "One Shot",
+                "url": "https://genius.com/Timal-one-shot-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7331211",
+                "artist_names": "Tiitof (Ft. Timal)",
+                "full_title": "Ouuw by\u00a0Tiitof (Ft.\u00a0Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/a538cc1009699a512cd6252c5f3eef01.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/a538cc1009699a512cd6252c5f3eef01.1000x563x1.jpg",
+                "id": 7331211,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Tiitof-ouuw-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tiitof-ouuw-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 28
+                },
+                "release_date_for_display": "October 28, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 28, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a117d06a8f7fac25f71b2aa5d809279.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7a117d06a8f7fac25f71b2aa5d809279.859x859x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ouuw",
+                "title_with_featured": "Ouuw (Ft.\u00a0Timal)",
+                "url": "https://genius.com/Tiitof-ouuw-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/673584",
+                    "header_image_url": "https://images.genius.com/273945a68cd73edfe7afe89ec8d1f136.1000x563x1.jpg",
+                    "id": 673584,
+                    "image_url": "https://images.genius.com/a752f4b88f31843747a924a0e8593f56.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tiitof",
+                    "url": "https://genius.com/artists/Tiitof"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/4232274",
+                "artist_names": "Badjer (Ft. Boumso & Timal)",
+                "full_title": "Overdose by\u00a0Badjer (Ft.\u00a0Boumso & Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/6935bc4efa13a729d94440524235b507.300x135x1.jpg",
+                "header_image_url": "https://images.genius.com/6935bc4efa13a729d94440524235b507.1000x450x1.jpg",
+                "id": 4232274,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Badjer-overdose-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Badjer-overdose-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 16
+                },
+                "release_date_for_display": "January 16, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 16, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1119fc0e69ad554d4935420765e75b49.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/1119fc0e69ad554d4935420765e75b49.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 7107
+                },
+                "title": "Overdose",
+                "title_with_featured": "Overdose (Ft.\u00a0Boumso & Timal)",
+                "url": "https://genius.com/Badjer-overdose-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1201814",
+                        "header_image_url": "https://images.genius.com/49737cb8f6c71bffae7991c5d36cf5a8.1000x1000x1.jpg",
+                        "id": 1201814,
+                        "image_url": "https://images.genius.com/ed9b98c78f5b0ac1210a1ab9fa8c3aa8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Boumso",
+                        "url": "https://genius.com/artists/Boumso"
+                    },
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1080563",
+                    "header_image_url": "https://images.genius.com/d7a0046aa5daabe7edc0b57f8acb3b22.427x240x1.jpg",
+                    "id": 1080563,
+                    "image_url": "https://images.genius.com/795a2ff5a127c016e1c61ef3294b01a4.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Badjer",
+                    "url": "https://genius.com/artists/Badjer"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3994973",
+                "artist_names": "YL (Ft. Timal)",
+                "full_title": "Pas pareil by\u00a0YL (Ft.\u00a0Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/211dff77053fb73c30bc82ec7032e26f.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/211dff77053fb73c30bc82ec7032e26f.1000x563x1.jpg",
+                "id": 3994973,
+                "language": "fr",
+                "lyrics_owner_id": 3020704,
+                "lyrics_state": "complete",
+                "path": "/Yl-pas-pareil-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Yl-pas-pareil-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b853f13f22b0c8d7d329a2e5dc80cd10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b853f13f22b0c8d7d329a2e5dc80cd10.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 12483
+                },
+                "title": "Pas pareil",
+                "title_with_featured": "Pas pareil (Ft.\u00a0Timal)",
+                "url": "https://genius.com/Yl-pas-pareil-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/996826",
+                    "header_image_url": "https://images.genius.com/fdae23e67e0036fa7187ebe8a5b7223c.529x1000x1.jpg",
+                    "id": 996826,
+                    "image_url": "https://images.genius.com/07752b943c7cf04262983ffc6e9ca080.241x241x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "YL",
+                    "url": "https://genius.com/artists/Yl"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7246337",
+                "artist_names": "Timal",
+                "full_title": "Petit bateau by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.1000x1000x1.png",
+                "id": 7246337,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-petit-bateau-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-petit-bateau-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 15
+                },
+                "release_date_for_display": "October 15, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 15, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Petit bateau",
+                "title_with_featured": "Petit bateau",
+                "url": "https://genius.com/Timal-petit-bateau-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3567752",
+                "artist_names": "Timal",
+                "full_title": "Pirate by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.939x939x1.jpg",
+                "id": 3567752,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-pirate-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-pirate-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.939x939x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 28501
+                },
+                "title": "Pirate",
+                "title_with_featured": "Pirate",
+                "url": "https://genius.com/Timal-pirate-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2823039",
+                "artist_names": "Timal",
+                "full_title": "Premier Rapport by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/918e0bf16b03d74abf7128347c554860.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/918e0bf16b03d74abf7128347c554860.480x360x1.jpg",
+                "id": 2823039,
+                "language": "fr",
+                "lyrics_owner_id": 142424,
+                "lyrics_state": "complete",
+                "path": "/Timal-premier-rapport-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-premier-rapport-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 25
+                },
+                "release_date_for_display": "March 25, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 25, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/918e0bf16b03d74abf7128347c554860.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/918e0bf16b03d74abf7128347c554860.480x360x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 10795
+                },
+                "title": "Premier Rapport",
+                "title_with_featured": "Premier Rapport",
+                "url": "https://genius.com/Timal-premier-rapport-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5233848",
+                "artist_names": "Timal (Ft. PLK)",
+                "full_title": "Promis by\u00a0Timal (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "header_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "id": 5233848,
+                "language": "da",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-promis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-promis-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 9555
+                },
+                "title": "Promis",
+                "title_with_featured": "Promis (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Timal-promis-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3639685",
+                "artist_names": "Timal",
+                "full_title": "Quel choix by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/6618a3452905d2c23da5312b815edfed.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6618a3452905d2c23da5312b815edfed.500x500x1.jpg",
+                "id": 3639685,
+                "language": "fr",
+                "lyrics_owner_id": 4991421,
+                "lyrics_state": "complete",
+                "path": "/Timal-quel-choix-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Timal-quel-choix-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6618a3452905d2c23da5312b815edfed.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6618a3452905d2c23da5312b815edfed.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Quel choix",
+                "title_with_featured": "Quel choix",
+                "url": "https://genius.com/Timal-quel-choix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6042633",
+                "artist_names": "Timal",
+                "full_title": "R.A.S by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.800x800x1.jpg",
+                "id": 6042633,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-ras-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-ras-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 16
+                },
+                "release_date_for_display": "October 16, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 16, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "R.A.S",
+                "title_with_featured": "R.A.S",
+                "url": "https://genius.com/Timal-ras-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6042620",
+                "artist_names": "Timal",
+                "full_title": "Refait by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.800x800x1.jpg",
+                "id": 6042620,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-refait-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-refait-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 16
+                },
+                "release_date_for_display": "October 16, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 16, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Refait",
+                "title_with_featured": "Refait",
+                "url": "https://genius.com/Timal-refait-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/3622632",
+                "artist_names": "Timal",
+                "full_title": "Rien de nouveau by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.939x939x1.jpg",
+                "id": 3622632,
+                "language": "en",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-rien-de-nouveau-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Timal-rien-de-nouveau-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.939x939x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 46627
+                },
+                "title": "Rien de nouveau",
+                "title_with_featured": "Rien de nouveau",
+                "url": "https://genius.com/Timal-rien-de-nouveau-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7246343",
+                "artist_names": "Timal",
+                "full_title": "Roulette russe by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.1000x1000x1.png",
+                "id": 7246343,
+                "language": "fr",
+                "lyrics_owner_id": 3606285,
+                "lyrics_state": "complete",
+                "path": "/Timal-roulette-russe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-roulette-russe-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 15
+                },
+                "release_date_for_display": "October 15, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 15, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/a7273a78835593f0e32c767cf75b082d.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Roulette russe",
+                "title_with_featured": "Roulette russe",
+                "url": "https://genius.com/Timal-roulette-russe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5192524",
+                "artist_names": "Timal",
+                "full_title": "Routine by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/d1ba69dc57e8a753d5c04bede477ab39.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d1ba69dc57e8a753d5c04bede477ab39.1000x1000x1.jpg",
+                "id": 5192524,
+                "language": "fr",
+                "lyrics_owner_id": 4991421,
+                "lyrics_state": "complete",
+                "path": "/Timal-routine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-routine-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 24
+                },
+                "release_date_for_display": "January 24, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 24, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d1ba69dc57e8a753d5c04bede477ab39.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d1ba69dc57e8a753d5c04bede477ab39.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 11694
+                },
+                "title": "Routine",
+                "title_with_featured": "Routine",
+                "url": "https://genius.com/Timal-routine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5763123",
+                "artist_names": "Benab (Ft. Timal)",
+                "full_title": "RS3 by\u00a0Benab (Ft.\u00a0Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/a7e948a6b5804de392df76e18a8d1a44.300x131x1.png",
+                "header_image_url": "https://images.genius.com/a7e948a6b5804de392df76e18a8d1a44.575x252x1.png",
+                "id": 5763123,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Benab-rs3-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Benab-rs3-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 17
+                },
+                "release_date_for_display": "July 17, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 17, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f32c902a464efb531cb251a1621b6159.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/f32c902a464efb531cb251a1621b6159.804x800x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 11177
+                },
+                "title": "RS3",
+                "title_with_featured": "RS3 (Ft.\u00a0Timal)",
+                "url": "https://genius.com/Benab-rs3-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1472608",
+                    "header_image_url": "https://images.genius.com/ceaff1891861b19ff79de253e45f288f.1000x533x1.jpg",
+                    "id": 1472608,
+                    "image_url": "https://images.genius.com/2af79248d744a939a0240dbd8eac54fd.578x578x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benab",
+                    "url": "https://genius.com/artists/Benab"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7045004",
+                "artist_names": "Benab (Ft. Kofs & Timal)",
+                "full_title": "RS4 by\u00a0Benab (Ft.\u00a0Kofs & Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/c0810cdcb3b9f42076cea4292b031151.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c0810cdcb3b9f42076cea4292b031151.1000x1000x1.jpg",
+                "id": 7045004,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Benab-rs4-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benab-rs4-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 30
+                },
+                "release_date_for_display": "July 30, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 30, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c0810cdcb3b9f42076cea4292b031151.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c0810cdcb3b9f42076cea4292b031151.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "RS4",
+                "title_with_featured": "RS4 (Ft.\u00a0Kofs & Timal)",
+                "url": "https://genius.com/Benab-rs4-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/566498",
+                        "header_image_url": "https://images.genius.com/9b005bd9785fd694387f6ae024b9a8b6.600x600x1.jpg",
+                        "id": 566498,
+                        "image_url": "https://images.genius.com/d4619f2a579e9c3cd6e60348312202a9.593x593x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kofs",
+                        "url": "https://genius.com/artists/Kofs"
+                    },
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1472608",
+                    "header_image_url": "https://images.genius.com/ceaff1891861b19ff79de253e45f288f.1000x533x1.jpg",
+                    "id": 1472608,
+                    "image_url": "https://images.genius.com/2af79248d744a939a0240dbd8eac54fd.578x578x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benab",
+                    "url": "https://genius.com/artists/Benab"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/8743989",
+                "artist_names": "Zkr (Ft. Timal)",
+                "full_title": "Safari by\u00a0Zkr (Ft.\u00a0Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.1000x1000x1.jpg",
+                "id": 8743989,
+                "language": "fr",
+                "lyrics_owner_id": 13668714,
+                "lyrics_state": "complete",
+                "path": "/Zkr-safari-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-safari-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 1,
+                    "day": 20
+                },
+                "release_date_for_display": "January 20, 2023",
+                "release_date_with_abbreviated_month_for_display": "Jan. 20, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Safari",
+                "title_with_featured": "Safari (Ft.\u00a0Timal)",
+                "url": "https://genius.com/Zkr-safari-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

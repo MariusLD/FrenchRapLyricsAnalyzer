@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/4137362",
+                "artist_names": "Laylow (Ft. Wit. (FRA))",
+                "full_title": "Z-Machine by\u00a0Laylow (Ft.\u00a0Wit.\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/fd3e52f744df51b5343ff30a0d81e5e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fd3e52f744df51b5343ff30a0d81e5e3.1000x1000x1.jpg",
+                "id": 4137362,
+                "language": "en",
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "complete",
+                "path": "/Laylow-z-machine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Laylow-z-machine-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 7
+                },
+                "release_date_for_display": "December 7, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 7, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fd3e52f744df51b5343ff30a0d81e5e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fd3e52f744df51b5343ff30a0d81e5e3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 10828
+                },
+                "title": "Z-Machine",
+                "title_with_featured": "Z-Machine (Ft.\u00a0Wit.\u00a0(FRA))",
+                "url": "https://genius.com/Laylow-z-machine-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/515323",
+                        "header_image_url": "https://images.genius.com/3224e37fca2e5856f1ea3ecd5a87e20f.1000x773x1.jpg",
+                        "id": 515323,
+                        "image_url": "https://images.genius.com/55d455cb0798fde468df6b09e521238c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wit. (FRA)",
+                        "url": "https://genius.com/artists/Wit-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/308564",
+                    "header_image_url": "https://images.genius.com/b6b494cca78e2fd6097e498b5924b707.250x249x46.gif",
+                    "id": 308564,
+                    "image_url": "https://images.genius.com/7541b47ff09d814042b13ac1b235384d.473x473x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Laylow",
+                    "url": "https://genius.com/artists/Laylow",
+                    "iq": 641
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

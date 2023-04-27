@@ -1,0 +1,928 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/3561626",
+                "artist_names": "Timal",
+                "full_title": "Dans la ville by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/0b9bf76dca79a0c9a4add3b9b7c3565a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0b9bf76dca79a0c9a4add3b9b7c3565a.960x960x1.jpg",
+                "id": 3561626,
+                "language": "fr",
+                "lyrics_owner_id": 1661447,
+                "lyrics_state": "complete",
+                "path": "/Timal-dans-la-ville-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Timal-dans-la-ville-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0b9bf76dca79a0c9a4add3b9b7c3565a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0b9bf76dca79a0c9a4add3b9b7c3565a.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 62097
+                },
+                "title": "Dans la ville",
+                "title_with_featured": "Dans la ville",
+                "url": "https://genius.com/Timal-dans-la-ville-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5344797",
+                "artist_names": "La Malfrappe (Ft. Timal)",
+                "full_title": "Dans ma folie by\u00a0La\u00a0Malfrappe (Ft.\u00a0Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/cee8dbb432ef5d8cb6d46c035547481c.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/cee8dbb432ef5d8cb6d46c035547481c.1000x563x1.jpg",
+                "id": 5344797,
+                "language": "fr",
+                "lyrics_owner_id": 10448485,
+                "lyrics_state": "complete",
+                "path": "/La-malfrappe-dans-ma-folie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-malfrappe-dans-ma-folie-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/510f82b38097cf62e58f4a866ef0ad37.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/510f82b38097cf62e58f4a866ef0ad37.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dans ma folie",
+                "title_with_featured": "Dans ma folie (Ft.\u00a0Timal)",
+                "url": "https://genius.com/La-malfrappe-dans-ma-folie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1634762",
+                    "header_image_url": "https://images.genius.com/fa41faa8aaf66cc938828f57ab5bad54.960x960x1.jpg",
+                    "id": 1634762,
+                    "image_url": "https://images.genius.com/fa41faa8aaf66cc938828f57ab5bad54.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Malfrappe",
+                    "url": "https://genius.com/artists/La-malfrappe"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/2941924",
+                "artist_names": "Sofiane (Ft. Timal & YL)",
+                "full_title": "Dis-moi o\u00f9 tu p\u00e9cho by\u00a0Sofiane (Ft.\u00a0Timal & YL)",
+                "header_image_thumbnail_url": "https://images.genius.com/146c6253afb61006cb5a376476e355bb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/146c6253afb61006cb5a376476e355bb.400x400x1.jpg",
+                "id": 2941924,
+                "language": "en",
+                "lyrics_owner_id": 133353,
+                "lyrics_state": "complete",
+                "path": "/Sofiane-dis-moi-ou-tu-pecho-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sofiane-dis-moi-ou-tu-pecho-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 28
+                },
+                "release_date_for_display": "December 28, 2016",
+                "release_date_with_abbreviated_month_for_display": "Dec. 28, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/146c6253afb61006cb5a376476e355bb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/146c6253afb61006cb5a376476e355bb.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 34732
+                },
+                "title": "Dis-moi o\u00f9 tu p\u00e9cho",
+                "title_with_featured": "Dis-moi o\u00f9 tu p\u00e9cho (Ft.\u00a0Timal & YL)",
+                "url": "https://genius.com/Sofiane-dis-moi-ou-tu-pecho-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/996826",
+                        "header_image_url": "https://images.genius.com/fdae23e67e0036fa7187ebe8a5b7223c.529x1000x1.jpg",
+                        "id": 996826,
+                        "image_url": "https://images.genius.com/07752b943c7cf04262983ffc6e9ca080.241x241x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "YL",
+                        "url": "https://genius.com/artists/Yl"
+                    },
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12085",
+                    "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                    "id": 12085,
+                    "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sofiane",
+                    "url": "https://genius.com/artists/Sofiane",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/5196141",
+                "artist_names": "Timal",
+                "full_title": "Disponible by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "header_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "id": 5196141,
+                "language": "fr",
+                "lyrics_owner_id": 4991421,
+                "lyrics_state": "complete",
+                "path": "/Timal-disponible-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-disponible-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 22
+                },
+                "release_date_for_display": "January 22, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 22, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 13745
+                },
+                "title": "Disponible",
+                "title_with_featured": "Disponible",
+                "url": "https://genius.com/Timal-disponible-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/3561537",
+                "artist_names": "Timal",
+                "full_title": "Du rire aux larmes by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.939x939x1.jpg",
+                "id": 3561537,
+                "language": "fr",
+                "lyrics_owner_id": 1661447,
+                "lyrics_state": "complete",
+                "path": "/Timal-du-rire-aux-larmes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-du-rire-aux-larmes-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f81536dda55885a283e69581cc2ee087.939x939x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 33336
+                },
+                "title": "Du rire aux larmes",
+                "title_with_featured": "Du rire aux larmes",
+                "url": "https://genius.com/Timal-du-rire-aux-larmes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/7811455",
+                "artist_names": "Captaine Roshi (Ft. Timal)",
+                "full_title": "Fast Life by\u00a0Captaine\u00a0Roshi (Ft.\u00a0Timal)",
+                "header_image_thumbnail_url": "https://images.genius.com/83d7f93228b7cc3a832d185b5a41cae6.300x300x1.png",
+                "header_image_url": "https://images.genius.com/83d7f93228b7cc3a832d185b5a41cae6.1000x1000x1.png",
+                "id": 7811455,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Captaine-roshi-fast-life-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Captaine-roshi-fast-life-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 22
+                },
+                "release_date_for_display": "April 22, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 22, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/83d7f93228b7cc3a832d185b5a41cae6.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/83d7f93228b7cc3a832d185b5a41cae6.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Fast Life",
+                "title_with_featured": "Fast Life (Ft.\u00a0Timal)",
+                "url": "https://genius.com/Captaine-roshi-fast-life-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/963309",
+                        "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                        "id": 963309,
+                        "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Timal",
+                        "url": "https://genius.com/artists/Timal",
+                        "iq": 110
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1320878",
+                    "header_image_url": "https://images.genius.com/4800c736877164877c2ece1053efdcb0.592x346x1.png",
+                    "id": 1320878,
+                    "image_url": "https://images.genius.com/2d81bc86513cfd6965d79c75889ecfd7.704x704x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Captaine Roshi",
+                    "url": "https://genius.com/artists/Captaine-roshi",
+                    "iq": 2252
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7678698",
+                "artist_names": "Timal (Ft. Gazo)",
+                "full_title": "Filtr\u00e9 by\u00a0Timal (Ft.\u00a0Gazo)",
+                "header_image_thumbnail_url": "https://images.genius.com/0355465c0386808e8a9de0088fcc0025.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/0355465c0386808e8a9de0088fcc0025.1000x517x1.jpg",
+                "id": 7678698,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-filtre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-filtre-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 11
+                },
+                "release_date_for_display": "February 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9275496abbf83aefbfcce0394e959d05.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/9275496abbf83aefbfcce0394e959d05.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 20550
+                },
+                "title": "Filtr\u00e9",
+                "title_with_featured": "Filtr\u00e9 (Ft.\u00a0Gazo)",
+                "url": "https://genius.com/Timal-filtre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/23012",
+                        "header_image_url": "https://images.genius.com/dc841cc69eeeb901697365b700fc4623.1000x666x1.jpg",
+                        "id": 23012,
+                        "image_url": "https://images.genius.com/b168321599dbc27cd13851a5ae090267.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gazo",
+                        "url": "https://genius.com/artists/Gazo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3889661",
+                "artist_names": "Timal",
+                "full_title": "Flics & Stups by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/79241adfb9e4f39b82ff051a008b59df.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/79241adfb9e4f39b82ff051a008b59df.1000x1000x1.jpg",
+                "id": 3889661,
+                "language": "fr",
+                "lyrics_owner_id": 4991421,
+                "lyrics_state": "complete",
+                "path": "/Timal-flics-and-stups-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-flics-and-stups-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 10
+                },
+                "release_date_for_display": "August 10, 2018",
+                "release_date_with_abbreviated_month_for_display": "Aug. 10, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/79241adfb9e4f39b82ff051a008b59df.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/79241adfb9e4f39b82ff051a008b59df.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 10942
+                },
+                "title": "Flics & Stups",
+                "title_with_featured": "Flics & Stups",
+                "url": "https://genius.com/Timal-flics-and-stups-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2917057",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #1 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 2917057,
+                "language": "fr",
+                "lyrics_owner_id": 3148266,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-1-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-1-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 8,
+                    "day": 22
+                },
+                "release_date_for_display": "August 22, 2016",
+                "release_date_with_abbreviated_month_for_display": "Aug. 22, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #1",
+                "title_with_featured": "Freestyle #1",
+                "url": "https://genius.com/Timal-freestyle-1-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3731652",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #10 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 3731652,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-10-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-10-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 10
+                },
+                "release_date_for_display": "February 10, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 10, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #10",
+                "title_with_featured": "Freestyle #10",
+                "url": "https://genius.com/Timal-freestyle-10-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5904715",
+                "artist_names": "Timal",
+                "full_title": "Freestyle 100 visages by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/07a3372e2d81d83d95e6de138dc34f06.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/07a3372e2d81d83d95e6de138dc34f06.1000x563x1.jpg",
+                "id": 5904715,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-100-visages-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-100-visages-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 26
+                },
+                "release_date_for_display": "August 26, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 26, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/07a3372e2d81d83d95e6de138dc34f06.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/07a3372e2d81d83d95e6de138dc34f06.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle 100 visages",
+                "title_with_featured": "Freestyle 100 visages",
+                "url": "https://genius.com/Timal-freestyle-100-visages-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4147846",
+                "artist_names": "Timal",
+                "full_title": "Freestyle 17 ans by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                "id": 4147846,
+                "language": "fr",
+                "lyrics_owner_id": 4081611,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-17-ans-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-17-ans-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle 17 ans",
+                "title_with_featured": "Freestyle 17 ans",
+                "url": "https://genius.com/Timal-freestyle-17-ans-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3731506",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #2 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 3731506,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-2-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 10
+                },
+                "release_date_for_display": "September 10, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 10, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #2",
+                "title_with_featured": "Freestyle #2",
+                "url": "https://genius.com/Timal-freestyle-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2917060",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #3 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 2917060,
+                "language": "fr",
+                "lyrics_owner_id": 3148266,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-3-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-3-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #3",
+                "title_with_featured": "Freestyle #3",
+                "url": "https://genius.com/Timal-freestyle-3-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2917062",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #4 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 2917062,
+                "language": "fr",
+                "lyrics_owner_id": 3148266,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-4-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-4-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Freestyle #4",
+                "title_with_featured": "Freestyle #4",
+                "url": "https://genius.com/Timal-freestyle-4-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3731497",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #5 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 3731497,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-5-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-5-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #5",
+                "title_with_featured": "Freestyle #5",
+                "url": "https://genius.com/Timal-freestyle-5-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3731517",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #6 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 3731517,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-6-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-6-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #6",
+                "title_with_featured": "Freestyle #6",
+                "url": "https://genius.com/Timal-freestyle-6-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3731551",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #7 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 3731551,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-7-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-7-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 1
+                },
+                "release_date_for_display": "April 1, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 1, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #7",
+                "title_with_featured": "Freestyle #7",
+                "url": "https://genius.com/Timal-freestyle-7-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3731552",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #8 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 3731552,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-8-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-8-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 22
+                },
+                "release_date_for_display": "May 22, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 22, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #8",
+                "title_with_featured": "Freestyle #8",
+                "url": "https://genius.com/Timal-freestyle-8-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3731571",
+                "artist_names": "Timal",
+                "full_title": "Freestyle #9 by\u00a0Timal",
+                "header_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "id": 3731571,
+                "language": "fr",
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "complete",
+                "path": "/Timal-freestyle-9-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-freestyle-9-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59f8601cbe8a90a09eaedaf492fa7564.799x799x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #9",
+                "title_with_featured": "Freestyle #9",
+                "url": "https://genius.com/Timal-freestyle-9-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

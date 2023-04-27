@@ -1,0 +1,562 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7028177",
+                "artist_names": "Lazzio (Ft. SDM)",
+                "full_title": "Vie d\u2019avant by\u00a0Lazzio (Ft.\u00a0SDM)",
+                "header_image_thumbnail_url": "https://images.genius.com/2ca184cd4dc192e08b9ed0f8f759e835.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2ca184cd4dc192e08b9ed0f8f759e835.828x828x1.jpg",
+                "id": 7028177,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Lazzio-vie-davant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lazzio-vie-davant-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 23
+                },
+                "release_date_for_display": "July 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2ca184cd4dc192e08b9ed0f8f759e835.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2ca184cd4dc192e08b9ed0f8f759e835.828x828x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vie d\u2019avant",
+                "title_with_featured": "Vie d\u2019avant (Ft.\u00a0SDM)",
+                "url": "https://genius.com/Lazzio-vie-davant-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1904845",
+                        "header_image_url": "https://images.genius.com/4cc4b497bfaa673d8be68e68ce2bcee5.800x1000x1.jpg",
+                        "id": 1904845,
+                        "image_url": "https://images.genius.com/e9e5ba37101795899f12e2f087428a9a.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SDM",
+                        "url": "https://genius.com/artists/Sdm"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2271037",
+                    "header_image_url": "https://images.genius.com/8ce34659bdfb4d2c2940adbb61548a9f.1000x333x1.jpg",
+                    "id": 2271037,
+                    "image_url": "https://images.genius.com/b83d05d555581a6b920a6a9115965fe9.364x364x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lazzio",
+                    "url": "https://genius.com/artists/Lazzio"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4074891",
+                "artist_names": "Georgio (Ft. ISHA & PLK)",
+                "full_title": "Violent by\u00a0Georgio (Ft.\u00a0ISHA & PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/78108e514b47ae055587346293cb2cc5.300x167x1.jpg",
+                "header_image_url": "https://images.genius.com/78108e514b47ae055587346293cb2cc5.1000x558x1.jpg",
+                "id": 4074891,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Georgio-violent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-violent-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/baf7c6d6657f0b9cdd6b37af476afcf1.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/baf7c6d6657f0b9cdd6b37af476afcf1.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Violent",
+                "title_with_featured": "Violent (Ft.\u00a0ISHA & PLK)",
+                "url": "https://genius.com/Georgio-violent-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/25569",
+                        "header_image_url": "https://images.genius.com/dbff8c5943a91b07317f97006eee8337.964x590x1.png",
+                        "id": 25569,
+                        "image_url": "https://images.genius.com/5629230621fb0b5dbbbd96c3cc7eebc2.697x697x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "ISHA",
+                        "url": "https://genius.com/artists/Isha",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8984457",
+                "artist_names": "PLK",
+                "full_title": "Vital by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.1000x1000x1.jpg",
+                "id": 8984457,
+                "language": "fr",
+                "lyrics_owner_id": 3885032,
+                "lyrics_state": "complete",
+                "path": "/Plk-vital-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-vital-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vital",
+                "title_with_featured": "Vital",
+                "url": "https://genius.com/Plk-vital-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/3939676",
+                "artist_names": "PLK (Ft. Nekfeu)",
+                "full_title": "Waow by\u00a0PLK (Ft.\u00a0Nekfeu)",
+                "header_image_thumbnail_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.1000x1000x1.jpg",
+                "id": 3939676,
+                "language": "en",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Plk-waow-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Plk-waow-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false,
+                    "pageviews": 41498
+                },
+                "title": "Waow",
+                "title_with_featured": "Waow (Ft.\u00a0Nekfeu)",
+                "url": "https://genius.com/Plk-waow-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13063",
+                        "header_image_url": "https://images.genius.com/e91732adc95c44b16fc3a9d46b89b2da.574x322x1.jpg",
+                        "id": 13063,
+                        "image_url": "https://images.genius.com/02eddce84127a46b459b11c3cea0e17f.749x749x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nekfeu",
+                        "url": "https://genius.com/artists/Nekfeu"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3939718",
+                "artist_names": "PLK",
+                "full_title": "Weed by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.1000x1000x1.jpg",
+                "id": 3939718,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Plk-weed-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-weed-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/39b777473956e3a61431b9abb79c47be.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 17329
+                },
+                "title": "Weed",
+                "title_with_featured": "Weed",
+                "url": "https://genius.com/Plk-weed-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2429501",
+                "artist_names": "Aladin 135 (Ft. PLK)",
+                "full_title": "Wish (Remix) by\u00a0Aladin\u00a0135 (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/d90e5adec1b502a95864892924800796.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d90e5adec1b502a95864892924800796.471x471x1.jpg",
+                "id": 2429501,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Aladin-135-wish-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Aladin-135-wish-remix-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 3,
+                    "day": 20
+                },
+                "release_date_for_display": "March 20, 2015",
+                "release_date_with_abbreviated_month_for_display": "Mar. 20, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d90e5adec1b502a95864892924800796.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d90e5adec1b502a95864892924800796.471x471x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Wish (Remix)",
+                "title_with_featured": "Wish (Remix) (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Aladin-135-wish-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/146430",
+                    "header_image_url": "https://images.genius.com/1ad24ad23ea0789a5fb5fd36d744c46e.584x362x1.png",
+                    "id": 146430,
+                    "image_url": "https://images.genius.com/d90e5adec1b502a95864892924800796.471x471x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Aladin 135",
+                    "url": "https://genius.com/artists/Aladin-135",
+                    "iq": 467
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4676605",
+                "artist_names": "Dinor Rdt (Ft. PLK)",
+                "full_title": "XbarV by\u00a0Dinor\u00a0Rdt (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.1000x1000x1.jpg",
+                "id": 4676605,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Dinor-rdt-xbarv-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinor-rdt-xbarv-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "XbarV",
+                "title_with_featured": "XbarV (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Dinor-rdt-xbarv-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1675921",
+                    "header_image_url": "https://images.genius.com/66b88dd0af0d2ded2901163624e567e1.595x311x1.png",
+                    "id": 1675921,
+                    "image_url": "https://images.genius.com/f31dcaa2e8f98e0e02809fc5655b2b76.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dinor Rdt",
+                    "url": "https://genius.com/artists/Dinor-rdt"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5889749",
+                "artist_names": "PLK",
+                "full_title": "Yencli* by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                "id": 5889749,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Plk-yencli-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-yencli-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Yencli*",
+                "title_with_featured": "Yencli*",
+                "url": "https://genius.com/Plk-yencli-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/3181093",
+                "artist_names": "PLK",
+                "full_title": "Yeux by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/06d4b1021db9b326ec5e6f8cdf20b955.300x127x1.png",
+                "header_image_url": "https://images.genius.com/06d4b1021db9b326ec5e6f8cdf20b955.1000x422x1.png",
+                "id": 3181093,
+                "language": "fr",
+                "lyrics_owner_id": 2095261,
+                "lyrics_state": "complete",
+                "path": "/Plk-yeux-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-yeux-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 8
+                },
+                "release_date_for_display": "September 8, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 8, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5da0dcbf852d245903e985b676dc77cd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5da0dcbf852d245903e985b676dc77cd.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 15359
+                },
+                "title": "Yeux",
+                "title_with_featured": "Yeux",
+                "url": "https://genius.com/Plk-yeux-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/3072073",
+                "artist_names": "Panama Bende",
+                "full_title": "Yuhi by\u00a0Panama\u00a0Bende",
+                "header_image_thumbnail_url": "https://images.genius.com/556348f2ed5465b2d2aa4711c0e18937.300x189x1.jpg",
+                "header_image_url": "https://images.genius.com/556348f2ed5465b2d2aa4711c0e18937.965x607x1.jpg",
+                "id": 3072073,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Panama-bende-yuhi-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Panama-bende-yuhi-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 8
+                },
+                "release_date_for_display": "May 8, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 8, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f10aae7dfc888b63f8659c78e5817173.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f10aae7dfc888b63f8659c78e5817173.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 13136
+                },
+                "title": "Yuhi",
+                "title_with_featured": "Yuhi",
+                "url": "https://genius.com/Panama-bende-yuhi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/182801",
+                    "header_image_url": "https://images.genius.com/4eb89b30cae00e4e41e83a1e2fb2024d.1000x309x1.png",
+                    "id": 182801,
+                    "image_url": "https://images.genius.com/0d458492c28f5f1ab8c8d218454883d1.413x413x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Panama Bende",
+                    "url": "https://genius.com/artists/Panama-bende",
+                    "iq": 140
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3635690",
+                "artist_names": "Nemir (Ft. PLK)",
+                "full_title": "Zion by\u00a0Nemir (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/d4f2019139af79546fd02496326aa505.300x124x1.jpg",
+                "header_image_url": "https://images.genius.com/d4f2019139af79546fd02496326aa505.1000x414x1.jpg",
+                "id": 3635690,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Nemir-zion-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nemir-zion-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/79ef42c23734c9a3ea7e07c78a7b5fc6.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/79ef42c23734c9a3ea7e07c78a7b5fc6.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 5773
+                },
+                "title": "Zion",
+                "title_with_featured": "Zion (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Nemir-zion-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14877",
+                    "header_image_url": "https://images.genius.com/acfb10f0575d83fb09123b1cfc92212c.1000x667x1.jpg",
+                    "id": 14877,
+                    "image_url": "https://images.genius.com/17b4582830354f216471f0b27a0fba57.288x288x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nemir",
+                    "url": "https://genius.com/artists/Nemir"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

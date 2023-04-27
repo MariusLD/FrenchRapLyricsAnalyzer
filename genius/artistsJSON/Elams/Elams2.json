@@ -1,0 +1,1121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/5847469",
+                "artist_names": "13 Organis\u00e9 (Ft. Elams, Houari, JuL, Kofs, Naps, SCH, Solda (FRA) & Soso Maness)",
+                "full_title": "Bande organis\u00e9e by\u00a013\u00a0Organis\u00e9 (Ft.\u00a0Elams, Houari, JuL, Kofs, Naps, SCH, Solda\u00a0(FRA) & Soso\u00a0Maness)",
+                "header_image_thumbnail_url": "https://images.genius.com/38ee046f324ba36bef89506c162c8742.300x126x1.png",
+                "header_image_url": "https://images.genius.com/38ee046f324ba36bef89506c162c8742.1000x420x1.png",
+                "id": 5847469,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/13-organise-bande-organisee-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/13-organise-bande-organisee-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 15
+                },
+                "release_date_for_display": "August 15, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 15, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aa2d5edfabf4c24f8fa41c4f84cd37c0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/aa2d5edfabf4c24f8fa41c4f84cd37c0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 24,
+                    "hot": false,
+                    "pageviews": 913397
+                },
+                "title": "Bande organis\u00e9e",
+                "title_with_featured": "Bande organis\u00e9e (Ft.\u00a0Elams, Houari, JuL, Kofs, Naps, SCH, Solda\u00a0(FRA) & Soso\u00a0Maness)",
+                "url": "https://genius.com/13-organise-bande-organisee-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/74283",
+                        "header_image_url": "https://images.genius.com/420e900bc528bd58064a16dae6e325c9.449x613x1.png",
+                        "id": 74283,
+                        "image_url": "https://images.genius.com/581fd4fd6fc511609f0988f003def364.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JuL",
+                        "url": "https://genius.com/artists/Jul"
+                    },
+                    {
+                        "api_path": "/artists/327667",
+                        "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                        "id": 327667,
+                        "image_url": "https://images.genius.com/144c2c4a83df7fe62759c1e69a0455c1.417x417x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Houari",
+                        "url": "https://genius.com/artists/Houari"
+                    },
+                    {
+                        "api_path": "/artists/297017",
+                        "header_image_url": "https://images.genius.com/8f887d93e475cb69096fa8d7f98fc4e1.1000x563x1.jpg",
+                        "id": 297017,
+                        "image_url": "https://images.genius.com/b9cadc305086f577c484fa8d4b0087f5.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Solda (FRA)",
+                        "url": "https://genius.com/artists/Solda-fra"
+                    },
+                    {
+                        "api_path": "/artists/168832",
+                        "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                        "id": 168832,
+                        "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elams",
+                        "url": "https://genius.com/artists/Elams"
+                    },
+                    {
+                        "api_path": "/artists/566498",
+                        "header_image_url": "https://images.genius.com/9b005bd9785fd694387f6ae024b9a8b6.600x600x1.jpg",
+                        "id": 566498,
+                        "image_url": "https://images.genius.com/d4619f2a579e9c3cd6e60348312202a9.593x593x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kofs",
+                        "url": "https://genius.com/artists/Kofs"
+                    },
+                    {
+                        "api_path": "/artists/147487",
+                        "header_image_url": "https://images.genius.com/87ec22191e8eedbf245dea6a04652504.838x445x1.jpg",
+                        "id": 147487,
+                        "image_url": "https://images.genius.com/9e0c59e5e8a785617697ef5df25f4341.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soso Maness",
+                        "url": "https://genius.com/artists/Soso-maness"
+                    },
+                    {
+                        "api_path": "/artists/276476",
+                        "header_image_url": "https://images.genius.com/a7814e87e59e58dab4d2fee4e4af2228.595x204x1.png",
+                        "id": 276476,
+                        "image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "SCH",
+                        "url": "https://genius.com/artists/Sch",
+                        "iq": 12286
+                    },
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2426551",
+                    "header_image_url": "https://images.genius.com/6474579c2b99dc07d1cd7a9c77c58205.648x648x1.png",
+                    "id": 2426551,
+                    "image_url": "https://images.genius.com/6474579c2b99dc07d1cd7a9c77c58205.648x648x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "13 Organis\u00e9",
+                    "url": "https://genius.com/artists/13-organise"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5916665",
+                "artist_names": "Genius English Translations",
+                "full_title": "Bande organis\u00e9e ft. Jul, Elams, Naps, SCH, Soso Maness, Kofs, Houari, Solda (English Translations) by\u00a0Genius\u00a0English Translations",
+                "header_image_thumbnail_url": "https://images.genius.com/2b946f5677ceb89cfef3233bcb86220a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2b946f5677ceb89cfef3233bcb86220a.400x400x1.jpg",
+                "id": 5916665,
+                "language": "en",
+                "lyrics_owner_id": 11642018,
+                "lyrics_state": "complete",
+                "path": "/Genius-english-translations-bande-organisee-ft-jul-elams-naps-sch-soso-maness-kofs-houari-solda-english-translations-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Genius-english-translations-bande-organisee-ft-jul-elams-naps-sch-soso-maness-kofs-houari-solda-english-translations-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 1
+                },
+                "release_date_for_display": "August 1, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 1, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2b946f5677ceb89cfef3233bcb86220a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2b946f5677ceb89cfef3233bcb86220a.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Bande organis\u00e9e ft. Jul, Elams, Naps, SCH, Soso Maness, Kofs, Houari, Solda (English Translations)",
+                "title_with_featured": "Bande organis\u00e9e ft. Jul, Elams, Naps, SCH, Soso Maness, Kofs, Houari, Solda (English Translations)",
+                "url": "https://genius.com/Genius-english-translations-bande-organisee-ft-jul-elams-naps-sch-soso-maness-kofs-houari-solda-english-translations-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/196943",
+                    "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+                    "id": 196943,
+                    "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Genius English Translations",
+                    "url": "https://genius.com/artists/Genius-english-translations"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5467144",
+                "artist_names": "Elams",
+                "full_title": "Bandida by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/ae26b6001227020b339df39972cbbffb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ae26b6001227020b339df39972cbbffb.680x680x1.jpg",
+                "id": 5467144,
+                "language": "fr",
+                "lyrics_owner_id": 3392836,
+                "lyrics_state": "complete",
+                "path": "/Elams-bandida-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bandida-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 17
+                },
+                "release_date_for_display": "April 17, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 17, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ae26b6001227020b339df39972cbbffb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ae26b6001227020b339df39972cbbffb.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bandida",
+                "title_with_featured": "Bandida",
+                "url": "https://genius.com/Elams-bandida-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7229462",
+                "artist_names": "Elams",
+                "full_title": "Bang bang by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.1000x1000x1.jpg",
+                "id": 7229462,
+                "language": "fr",
+                "lyrics_owner_id": 4331784,
+                "lyrics_state": "complete",
+                "path": "/Elams-bang-bang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bang-bang-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 22
+                },
+                "release_date_for_display": "October 22, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 22, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bang bang",
+                "title_with_featured": "Bang bang",
+                "url": "https://genius.com/Elams-bang-bang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3791580",
+                "artist_names": "Elams (Ft. Alrima)",
+                "full_title": "Barrio by\u00a0Elams (Ft.\u00a0Alrima)",
+                "header_image_thumbnail_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.1000x1000x1.jpg",
+                "id": 3791580,
+                "language": "fr",
+                "lyrics_owner_id": 4991421,
+                "lyrics_state": "complete",
+                "path": "/Elams-barrio-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-barrio-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 6
+                },
+                "release_date_for_display": "July 6, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jul. 6, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Barrio",
+                "title_with_featured": "Barrio (Ft.\u00a0Alrima)",
+                "url": "https://genius.com/Elams-barrio-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/329863",
+                        "header_image_url": "https://images.genius.com/ead1f12c98bfbd77eac181478fcf7ee5.1000x999x1.jpg",
+                        "id": 329863,
+                        "image_url": "https://images.genius.com/731acac56e2800b436d2b3900bfac797.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alrima",
+                        "url": "https://genius.com/artists/Alrima"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7860174",
+                "artist_names": "Dabs (Ft. Elams)",
+                "full_title": "Bella by\u00a0Dabs (Ft.\u00a0Elams)",
+                "header_image_thumbnail_url": "https://images.genius.com/194a421c97b5747dfea365753c527197.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/194a421c97b5747dfea365753c527197.1000x517x1.jpg",
+                "id": 7860174,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Dabs-bella-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dabs-bella-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 6
+                },
+                "release_date_for_display": "May 6, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 6, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fd3aed2895415563b8f4fcc0acb9e9e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fd3aed2895415563b8f4fcc0acb9e9e.865x865x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bella",
+                "title_with_featured": "Bella (Ft.\u00a0Elams)",
+                "url": "https://genius.com/Dabs-bella-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/168832",
+                        "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                        "id": 168832,
+                        "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elams",
+                        "url": "https://genius.com/artists/Elams"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/674763",
+                    "header_image_url": "https://images.genius.com/6b731aa9c25f8d5be6e6998504cf5c0e.1000x565x1.jpg",
+                    "id": 674763,
+                    "image_url": "https://images.genius.com/6dfa404b74a37417edc246f76de3478a.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dabs",
+                    "url": "https://genius.com/artists/Dabs"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3713840",
+                "artist_names": "Elams",
+                "full_title": "Billet by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.1000x1000x1.jpg",
+                "id": 3713840,
+                "language": "fr",
+                "lyrics_owner_id": 4991421,
+                "lyrics_state": "complete",
+                "path": "/Elams-billet-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-billet-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 18
+                },
+                "release_date_for_display": "June 18, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 18, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Billet",
+                "title_with_featured": "Billet",
+                "url": "https://genius.com/Elams-billet-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/2856655",
+                "artist_names": "Elams",
+                "full_title": "B.O by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/c8d5b67eb85f21363e9f348d0061c3f5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c8d5b67eb85f21363e9f348d0061c3f5.400x400x1.jpg",
+                "id": 2856655,
+                "language": "fr",
+                "lyrics_owner_id": 406422,
+                "lyrics_state": "complete",
+                "path": "/Elams-bo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bo-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 12
+                },
+                "release_date_for_display": "September 12, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 12, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c8d5b67eb85f21363e9f348d0061c3f5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c8d5b67eb85f21363e9f348d0061c3f5.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 5219
+                },
+                "title": "B.O",
+                "title_with_featured": "B.O",
+                "url": "https://genius.com/Elams-bo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7229464",
+                "artist_names": "Elams",
+                "full_title": "Bobo by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.1000x1000x1.jpg",
+                "id": 7229464,
+                "language": null,
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "incomplete",
+                "path": "/Elams-bobo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bobo-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 22
+                },
+                "release_date_for_display": "October 22, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 22, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bobo",
+                "title_with_featured": "Bobo",
+                "url": "https://genius.com/Elams-bobo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8947095",
+                "artist_names": "Elams",
+                "full_title": "Bonita by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.1000x1000x1.jpg",
+                "id": 8947095,
+                "language": "fr",
+                "lyrics_owner_id": 15818668,
+                "lyrics_state": "unreleased",
+                "path": "/Elams-bonita-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bonita-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 24
+                },
+                "release_date_for_display": "March 24, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bonita",
+                "title_with_featured": "Bonita",
+                "url": "https://genius.com/Elams-bonita-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8947093",
+                "artist_names": "Elams",
+                "full_title": "Bonne by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.1000x1000x1.jpg",
+                "id": 8947093,
+                "language": "fr",
+                "lyrics_owner_id": 15818668,
+                "lyrics_state": "unreleased",
+                "path": "/Elams-bonne-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bonne-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 24
+                },
+                "release_date_for_display": "March 24, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bonne",
+                "title_with_featured": "Bonne",
+                "url": "https://genius.com/Elams-bonne-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2455186",
+                "artist_names": "Elams",
+                "full_title": "Booska Boxe tha\u00ef by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/b5f498d64434b2755e269f23ff63df18.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5f498d64434b2755e269f23ff63df18.600x600x1.jpg",
+                "id": 2455186,
+                "language": "fr",
+                "lyrics_owner_id": 224593,
+                "lyrics_state": "complete",
+                "path": "/Elams-booska-boxe-thai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-booska-boxe-thai-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2016",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5f498d64434b2755e269f23ff63df18.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5f498d64434b2755e269f23ff63df18.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Booska Boxe tha\u00ef",
+                "title_with_featured": "Booska Boxe tha\u00ef",
+                "url": "https://genius.com/Elams-booska-boxe-thai-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5536358",
+                "artist_names": "Elams",
+                "full_title": "Boxtha\u00ef by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/58434acc33d0656630d1431664131097.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/58434acc33d0656630d1431664131097.1000x1000x1.jpg",
+                "id": 5536358,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Elams-boxthai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-boxthai-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 11
+                },
+                "release_date_for_display": "April 11, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 11, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/58434acc33d0656630d1431664131097.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/58434acc33d0656630d1431664131097.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Boxtha\u00ef",
+                "title_with_featured": "Boxtha\u00ef",
+                "url": "https://genius.com/Elams-boxthai-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7229472",
+                "artist_names": "Elams (Ft. Lynda)",
+                "full_title": "Bracelet by\u00a0Elams (Ft.\u00a0Lynda)",
+                "header_image_thumbnail_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.1000x1000x1.jpg",
+                "id": 7229472,
+                "language": "fr",
+                "lyrics_owner_id": 4331784,
+                "lyrics_state": "complete",
+                "path": "/Elams-bracelet-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bracelet-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 22
+                },
+                "release_date_for_display": "October 22, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 22, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8553b20cd634e489f80c2ebe3caef6c0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bracelet",
+                "title_with_featured": "Bracelet (Ft.\u00a0Lynda)",
+                "url": "https://genius.com/Elams-bracelet-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/59544",
+                        "header_image_url": "https://images.genius.com/3c053db38084d46e0524a9ca07b35b42.1000x956x1.jpg",
+                        "id": 59544,
+                        "image_url": "https://images.genius.com/99a701bf295331f9eaf6b73acf67ae41.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lynda",
+                        "url": "https://genius.com/artists/Lynda"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8947097",
+                "artist_names": "Elams (Ft. Sirine LV)",
+                "full_title": "Bye Bye by\u00a0Elams (Ft.\u00a0Sirine\u00a0LV)",
+                "header_image_thumbnail_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.1000x1000x1.jpg",
+                "id": 8947097,
+                "language": "fr",
+                "lyrics_owner_id": 15818668,
+                "lyrics_state": "unreleased",
+                "path": "/Elams-bye-bye-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-bye-bye-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 24
+                },
+                "release_date_for_display": "March 24, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a77c48830a9ca619ffd04480f2416d60.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bye Bye",
+                "title_with_featured": "Bye Bye (Ft.\u00a0Sirine\u00a0LV)",
+                "url": "https://genius.com/Elams-bye-bye-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1710726",
+                        "header_image_url": "https://images.genius.com/cf89b2cfa327ee037c1b93806060d374.972x1000x1.jpg",
+                        "id": 1710726,
+                        "image_url": "https://images.genius.com/d2f272dd5c930e79cbff0fe978f0361c.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sirine LV",
+                        "url": "https://genius.com/artists/Sirine-lv"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/409070",
+                "artist_names": "Guirri Mafia (Ft. Elams, Elc, JuL, Kiffa, KR (FRA), Malka (FRA), Moidam, N.I.C., Panther (FRA), Ram-Z (FRA), Smoky & Zoxiid)",
+                "full_title": "Cafouillage by\u00a0Guirri\u00a0Mafia (Ft.\u00a0Elams, Elc, JuL, Kiffa, KR\u00a0(FRA), Malka\u00a0(FRA), Moidam, N.I.C., Panther\u00a0(FRA), Ram-Z\u00a0(FRA), Smoky & Zoxiid)",
+                "header_image_thumbnail_url": "https://images.genius.com/056cd3ba499ec3ab2ea852043c352ec6.300x308x1.jpg",
+                "header_image_url": "https://images.genius.com/056cd3ba499ec3ab2ea852043c352ec6.300x308x1.jpg",
+                "id": 409070,
+                "language": "fr",
+                "lyrics_owner_id": 645667,
+                "lyrics_state": "complete",
+                "path": "/Guirri-mafia-cafouillage-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Guirri-mafia-cafouillage-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2013",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/056cd3ba499ec3ab2ea852043c352ec6.300x308x1.jpg",
+                "song_art_image_url": "https://images.genius.com/056cd3ba499ec3ab2ea852043c352ec6.300x308x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Cafouillage",
+                "title_with_featured": "Cafouillage (Ft.\u00a0Elams, Elc, JuL, Kiffa, KR\u00a0(FRA), Malka\u00a0(FRA), Moidam, N.I.C., Panther\u00a0(FRA), Ram-Z\u00a0(FRA), Smoky & Zoxiid)",
+                "url": "https://genius.com/Guirri-mafia-cafouillage-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1713714",
+                        "header_image_url": "https://images.genius.com/92a6d8c5aa3c911fe6b2e8200fbf04d8.545x683x1.jpg",
+                        "id": 1713714,
+                        "image_url": "https://images.genius.com/add4465013c0cfacaaf92dac47802cbe.543x543x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Panther (FRA)",
+                        "url": "https://genius.com/artists/Panther-fra"
+                    },
+                    {
+                        "api_path": "/artists/1043849",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1043849,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KR (FRA)",
+                        "url": "https://genius.com/artists/Kr-fra"
+                    },
+                    {
+                        "api_path": "/artists/11989",
+                        "header_image_url": "https://images.genius.com/7107f39aee768c955c390dd4afc3815d.1000x1000x1.jpg",
+                        "id": 11989,
+                        "image_url": "https://images.genius.com/7107f39aee768c955c390dd4afc3815d.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "N.I.C.",
+                        "url": "https://genius.com/artists/Nic"
+                    },
+                    {
+                        "api_path": "/artists/13056",
+                        "header_image_url": "https://images.genius.com/5df671a77c10a49a54fba86b3fa2cc65.960x717x1.jpg",
+                        "id": 13056,
+                        "image_url": "https://images.genius.com/5df671a77c10a49a54fba86b3fa2cc65.960x717x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Smoky",
+                        "url": "https://genius.com/artists/Smoky"
+                    },
+                    {
+                        "api_path": "/artists/168832",
+                        "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                        "id": 168832,
+                        "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elams",
+                        "url": "https://genius.com/artists/Elams"
+                    },
+                    {
+                        "api_path": "/artists/168837",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 168837,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Zoxiid",
+                        "url": "https://genius.com/artists/Zoxiid"
+                    },
+                    {
+                        "api_path": "/artists/168836",
+                        "header_image_url": "https://images.genius.com/3ebc5ebfd1a33b4267f1facbf46a0401.937x937x1.jpg",
+                        "id": 168836,
+                        "image_url": "https://images.genius.com/3ebc5ebfd1a33b4267f1facbf46a0401.937x937x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elc",
+                        "url": "https://genius.com/artists/Elc"
+                    },
+                    {
+                        "api_path": "/artists/168835",
+                        "header_image_url": "https://images.genius.com/124518d7f3f678829b6e9cfc81dd9ac0.650x650x1.jpg",
+                        "id": 168835,
+                        "image_url": "https://images.genius.com/124518d7f3f678829b6e9cfc81dd9ac0.650x650x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kiffa",
+                        "url": "https://genius.com/artists/Kiffa"
+                    },
+                    {
+                        "api_path": "/artists/74283",
+                        "header_image_url": "https://images.genius.com/420e900bc528bd58064a16dae6e325c9.449x613x1.png",
+                        "id": 74283,
+                        "image_url": "https://images.genius.com/581fd4fd6fc511609f0988f003def364.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JuL",
+                        "url": "https://genius.com/artists/Jul"
+                    },
+                    {
+                        "api_path": "/artists/168833",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 168833,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Moidam",
+                        "url": "https://genius.com/artists/Moidam"
+                    },
+                    {
+                        "api_path": "/artists/8552",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 8552,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ram-Z (FRA)",
+                        "url": "https://genius.com/artists/Ram-z-fra"
+                    },
+                    {
+                        "api_path": "/artists/1643449",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1643449,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Malka (FRA)",
+                        "url": "https://genius.com/artists/Malka-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/70302",
+                    "header_image_url": "https://images.genius.com/ce8d840630b47191daee7d03e7b7a026.760x427x1.jpg",
+                    "id": 70302,
+                    "image_url": "https://images.genius.com/ad8b0a1b68ce6aa2c6299e3c7b88973d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Guirri Mafia",
+                    "url": "https://genius.com/artists/Guirri-mafia"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/2817715",
+                "artist_names": "Elams",
+                "full_title": "Capo by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.300x300x1.png",
+                "header_image_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.500x500x1.png",
+                "id": 2817715,
+                "language": "fr",
+                "lyrics_owner_id": 3462100,
+                "lyrics_state": "complete",
+                "path": "/Elams-capo-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Elams-capo-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 25
+                },
+                "release_date_for_display": "December 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Capo",
+                "title_with_featured": "Capo",
+                "url": "https://genius.com/Elams-capo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8512781",
+                "artist_names": "Marou Chenko (Ft. Elams)",
+                "full_title": "CAROLINA by\u00a0Marou\u00a0Chenko (Ft.\u00a0Elams)",
+                "header_image_thumbnail_url": "https://images.genius.com/7727ec2fd7846a394450a39cf9130759.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7727ec2fd7846a394450a39cf9130759.1000x1000x1.jpg",
+                "id": 8512781,
+                "language": null,
+                "lyrics_owner_id": 10788901,
+                "lyrics_state": "incomplete",
+                "path": "/Marou-chenko-carolina-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Marou-chenko-carolina-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7727ec2fd7846a394450a39cf9130759.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7727ec2fd7846a394450a39cf9130759.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "CAROLINA",
+                "title_with_featured": "CAROLINA (Ft.\u00a0Elams)",
+                "url": "https://genius.com/Marou-chenko-carolina-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/168832",
+                        "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                        "id": 168832,
+                        "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elams",
+                        "url": "https://genius.com/artists/Elams"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2885005",
+                    "header_image_url": "https://images.genius.com/96692d05056279105fa38808f222282a.1000x1000x1.jpg",
+                    "id": 2885005,
+                    "image_url": "https://images.genius.com/96692d05056279105fa38808f222282a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marou Chenko",
+                    "url": "https://genius.com/artists/Marou-chenko"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3771917",
+                "artist_names": "ALP (Ft. Elams)",
+                "full_title": "CDV by\u00a0ALP (Ft.\u00a0Elams)",
+                "header_image_thumbnail_url": "https://images.genius.com/7b519d5424e257c6974e50d0eceecf03.300x325x1.png",
+                "header_image_url": "https://images.genius.com/7b519d5424e257c6974e50d0eceecf03.321x348x1.png",
+                "id": 3771917,
+                "language": "fr",
+                "lyrics_owner_id": 4991421,
+                "lyrics_state": "complete",
+                "path": "/Alp-cdv-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alp-cdv-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 4
+                },
+                "release_date_for_display": "June 4, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 4, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7b519d5424e257c6974e50d0eceecf03.300x325x1.png",
+                "song_art_image_url": "https://images.genius.com/7b519d5424e257c6974e50d0eceecf03.321x348x1.png",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "CDV",
+                "title_with_featured": "CDV (Ft.\u00a0Elams)",
+                "url": "https://genius.com/Alp-cdv-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/168832",
+                        "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                        "id": 168832,
+                        "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elams",
+                        "url": "https://genius.com/artists/Elams"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2081877",
+                    "header_image_url": "https://images.genius.com/39caecfb8df5eb013683c74a10455840.759x759x1.png",
+                    "id": 2081877,
+                    "image_url": "https://images.genius.com/39caecfb8df5eb013683c74a10455840.759x759x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ALP",
+                    "url": "https://genius.com/artists/Alp"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3652173",
+                "artist_names": "Elams",
+                "full_title": "Ce que je suis by\u00a0Elams",
+                "header_image_thumbnail_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.300x300x1.png",
+                "header_image_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.500x500x1.png",
+                "id": 3652173,
+                "language": null,
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "incomplete",
+                "path": "/Elams-ce-que-je-suis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-ce-que-je-suis-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 25
+                },
+                "release_date_for_display": "December 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/d8b0b53b53a9b738d850dae4ec380744.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ce que je suis",
+                "title_with_featured": "Ce que je suis",
+                "url": "https://genius.com/Elams-ce-que-je-suis-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

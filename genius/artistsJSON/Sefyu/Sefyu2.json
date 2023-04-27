@@ -1,0 +1,1009 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/141722",
+                "artist_names": "Sefyu",
+                "full_title": "C Pas Parce Que by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.600x600x1.jpg",
+                "id": 141722,
+                "language": "fr",
+                "lyrics_owner_id": 144868,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-c-pas-parce-que-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sefyu-c-pas-parce-que-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2008",
+                "release_date_with_abbreviated_month_for_display": "2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C Pas Parce Que",
+                "title_with_featured": "C Pas Parce Que",
+                "url": "https://genius.com/Sefyu-c-pas-parce-que-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/5814",
+                "artist_names": "Ol' Kainry & Dany Dan (Ft. Alibi Montana, Nubi (FRA) & Sefyu)",
+                "full_title": "Crie mon nom (Remix) by\u00a0Ol'\u00a0Kainry & Dany Dan (Ft.\u00a0Alibi\u00a0Montana, Nubi\u00a0(FRA) & Sefyu)",
+                "header_image_thumbnail_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.600x600x1.jpg",
+                "id": 5814,
+                "language": "fr",
+                "lyrics_owner_id": 6849,
+                "lyrics_state": "complete",
+                "path": "/Ol-kainry-and-dany-dan-crie-mon-nom-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ol-kainry-and-dany-dan-crie-mon-nom-remix-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2005",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false,
+                    "pageviews": 18348
+                },
+                "title": "Crie mon nom (Remix)",
+                "title_with_featured": "Crie mon nom (Remix) (Ft.\u00a0Alibi\u00a0Montana, Nubi\u00a0(FRA) & Sefyu)",
+                "url": "https://genius.com/Ol-kainry-and-dany-dan-crie-mon-nom-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2398",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "id": 2398,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sefyu",
+                        "url": "https://genius.com/artists/Sefyu"
+                    },
+                    {
+                        "api_path": "/artists/2397",
+                        "header_image_url": "https://images.genius.com/d77750a062f28fa5efef1b7df4fe422a.821x821x1.jpg",
+                        "id": 2397,
+                        "image_url": "https://images.genius.com/d77750a062f28fa5efef1b7df4fe422a.821x821x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nubi (FRA)",
+                        "url": "https://genius.com/artists/Nubi-fra"
+                    },
+                    {
+                        "api_path": "/artists/2396",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "id": 2396,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alibi Montana",
+                        "url": "https://genius.com/artists/Alibi-montana"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/150428",
+                    "header_image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "id": 150428,
+                    "image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ol\u2019 Kainry & Dany Dan",
+                    "url": "https://genius.com/artists/Ol-kainry-and-dany-dan"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2903779",
+                "artist_names": "Sefyu",
+                "full_title": "Crouille by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "header_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "id": 2903779,
+                "language": "fr",
+                "lyrics_owner_id": 28041,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-crouille-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-crouille-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 4,
+                    "day": 24
+                },
+                "release_date_for_display": "April 24, 2006",
+                "release_date_with_abbreviated_month_for_display": "Apr. 24, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Crouille",
+                "title_with_featured": "Crouille",
+                "url": "https://genius.com/Sefyu-crouille-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6193826",
+                "artist_names": "Alpha 5.20 (Ft. Sefyu)",
+                "full_title": "Dakar Blood by\u00a0Alpha\u00a05.20 (Ft.\u00a0Sefyu)",
+                "header_image_thumbnail_url": "https://images.genius.com/9fca33fea2c5d11a98e2f4f714d21bf7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9fca33fea2c5d11a98e2f4f714d21bf7.600x600x1.jpg",
+                "id": 6193826,
+                "language": "fr",
+                "lyrics_owner_id": 5236580,
+                "lyrics_state": "complete",
+                "path": "/Alpha-520-dakar-blood-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alpha-520-dakar-blood-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9fca33fea2c5d11a98e2f4f714d21bf7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9fca33fea2c5d11a98e2f4f714d21bf7.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dakar Blood",
+                "title_with_featured": "Dakar Blood (Ft.\u00a0Sefyu)",
+                "url": "https://genius.com/Alpha-520-dakar-blood-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2398",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "id": 2398,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sefyu",
+                        "url": "https://genius.com/artists/Sefyu"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23907",
+                    "header_image_url": "https://images.genius.com/edcfca35a0aa9ba9cd64ae199e764f53.435x435x1.jpg",
+                    "id": 23907,
+                    "image_url": "https://images.genius.com/edcfca35a0aa9ba9cd64ae199e764f53.435x435x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alpha 5.20",
+                    "url": "https://genius.com/artists/Alpha-520"
+                }
+            },
+            {
+                "annotation_count": 25,
+                "api_path": "/songs/57587",
+                "artist_names": "Sefyu",
+                "full_title": "Dame blanche by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "id": 57587,
+                "language": null,
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-dame-blanche-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sefyu-dame-blanche-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 6852
+                },
+                "title": "Dame blanche",
+                "title_with_featured": "Dame blanche",
+                "url": "https://genius.com/Sefyu-dame-blanche-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4409468",
+                "artist_names": "Sefyu",
+                "full_title": "Dans la glace by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/9e0d4d5867374abca6fab12b1b1a5b4d.300x110x1.png",
+                "header_image_url": "https://images.genius.com/9e0d4d5867374abca6fab12b1b1a5b4d.1000x368x1.png",
+                "id": 4409468,
+                "language": "fr",
+                "lyrics_owner_id": 6283697,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-dans-la-glace-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-dans-la-glace-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 28
+                },
+                "release_date_for_display": "March 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/10f185865a76afa9bc147fb8e641539c.220x220x1.png",
+                "song_art_image_url": "https://images.genius.com/10f185865a76afa9bc147fb8e641539c.220x220x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Dans la glace",
+                "title_with_featured": "Dans la glace",
+                "url": "https://genius.com/Sefyu-dans-la-glace-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/4409463",
+                "artist_names": "Sefyu",
+                "full_title": "De la neige dans les coll\u00e8ges by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/bf71f008f14d95d7b453f7495436c809.300x300x1.png",
+                "header_image_url": "https://images.genius.com/bf71f008f14d95d7b453f7495436c809.600x600x1.png",
+                "id": 4409463,
+                "language": "fr",
+                "lyrics_owner_id": 1767468,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-de-la-neige-dans-les-colleges-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-de-la-neige-dans-les-colleges-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 12
+                },
+                "release_date_for_display": "April 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf71f008f14d95d7b453f7495436c809.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/bf71f008f14d95d7b453f7495436c809.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "De la neige dans les coll\u00e8ges",
+                "title_with_featured": "De la neige dans les coll\u00e8ges",
+                "url": "https://genius.com/Sefyu-de-la-neige-dans-les-colleges-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/367481",
+                "artist_names": "Sefyu",
+                "full_title": "Dur by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "id": 367481,
+                "language": "fr",
+                "lyrics_owner_id": 183067,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-dur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-dur-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 3,
+                    "day": 1
+                },
+                "release_date_for_display": "March 1, 2013",
+                "release_date_with_abbreviated_month_for_display": "Mar. 1, 2013",
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "song_art_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Dur",
+                "title_with_featured": "Dur",
+                "url": "https://genius.com/Sefyu-dur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2903742",
+                "artist_names": "Sefyu",
+                "full_title": "Electrochoc by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "header_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "id": 2903742,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-electrochoc-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-electrochoc-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Electrochoc",
+                "title_with_featured": "Electrochoc",
+                "url": "https://genius.com/Sefyu-electrochoc-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/391821",
+                "artist_names": "Sefyu",
+                "full_title": "En live de la cave by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/df3576736b855b367a8792cf88b60636.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/df3576736b855b367a8792cf88b60636.561x561x1.jpg",
+                "id": 391821,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-en-live-de-la-cave-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-en-live-de-la-cave-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 2,
+                    "day": null
+                },
+                "release_date_for_display": "February 2006",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/df3576736b855b367a8792cf88b60636.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/df3576736b855b367a8792cf88b60636.561x561x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "En live de la cave",
+                "title_with_featured": "En live de la cave",
+                "url": "https://genius.com/Sefyu-en-live-de-la-cave-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/55781",
+                "artist_names": "Sefyu",
+                "full_title": "En noir et blanc by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "header_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "id": 55781,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-en-noir-et-blanc-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Sefyu-en-noir-et-blanc-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 10655
+                },
+                "title": "En noir et blanc",
+                "title_with_featured": "En noir et blanc",
+                "url": "https://genius.com/Sefyu-en-noir-et-blanc-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4989107",
+                "artist_names": "Sefyu",
+                "full_title": "Evolution by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "header_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "id": 4989107,
+                "language": "fr",
+                "lyrics_owner_id": 10713693,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-evolution-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-evolution-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 11,
+                    "day": 13
+                },
+                "release_date_for_display": "November 13, 2006",
+                "release_date_with_abbreviated_month_for_display": "Nov. 13, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Evolution",
+                "title_with_featured": "Evolution",
+                "url": "https://genius.com/Sefyu-evolution-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/525478",
+                "artist_names": "Sefyu (Ft. BAbA & RR)",
+                "full_title": "Faits divers by\u00a0Sefyu (Ft.\u00a0BAbA & RR)",
+                "header_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "header_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "id": 525478,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-faits-divers-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Sefyu-faits-divers-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2006",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.300x296x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5027f91bbf494a62e49c4128e9001e9b.400x395x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Faits divers",
+                "title_with_featured": "Faits divers (Ft.\u00a0BAbA & RR)",
+                "url": "https://genius.com/Sefyu-faits-divers-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/10832",
+                        "header_image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "id": 10832,
+                        "image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RR",
+                        "url": "https://genius.com/artists/Rr"
+                    },
+                    {
+                        "api_path": "/artists/208335",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 208335,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "BAbA",
+                        "url": "https://genius.com/artists/Baba"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/748164",
+                "artist_names": "Sefyu (Ft. BAbA & RR)",
+                "full_title": "Faits Divers 2 by\u00a0Sefyu (Ft.\u00a0BAbA & RR)",
+                "header_image_thumbnail_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.600x600x1.jpg",
+                "id": 748164,
+                "language": "fr",
+                "lyrics_owner_id": 342399,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-faits-divers-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-faits-divers-2-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2008",
+                "release_date_with_abbreviated_month_for_display": "2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ce2740c5b2d94457385918a80a835f54.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Faits Divers 2",
+                "title_with_featured": "Faits Divers 2 (Ft.\u00a0BAbA & RR)",
+                "url": "https://genius.com/Sefyu-faits-divers-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/208335",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 208335,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "BAbA",
+                        "url": "https://genius.com/artists/Baba"
+                    },
+                    {
+                        "api_path": "/artists/10832",
+                        "header_image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "id": 10832,
+                        "image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RR",
+                        "url": "https://genius.com/artists/Rr"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/503681",
+                "artist_names": "Sefyu (Ft. BAbA & RR)",
+                "full_title": "Faits divers 3 by\u00a0Sefyu (Ft.\u00a0BAbA & RR)",
+                "header_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "id": 503681,
+                "language": "fr",
+                "lyrics_owner_id": 6513610,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-faits-divers-3-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Sefyu-faits-divers-3-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false
+                },
+                "title": "Faits divers 3",
+                "title_with_featured": "Faits divers 3 (Ft.\u00a0BAbA & RR)",
+                "url": "https://genius.com/Sefyu-faits-divers-3-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/208335",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 208335,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "BAbA",
+                        "url": "https://genius.com/artists/Baba"
+                    },
+                    {
+                        "api_path": "/artists/10832",
+                        "header_image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "id": 10832,
+                        "image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RR",
+                        "url": "https://genius.com/artists/Rr"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/117639",
+                "artist_names": "Sefyu",
+                "full_title": "FDP by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "id": 117639,
+                "language": "fr",
+                "lyrics_owner_id": 144868,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-fdp-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-fdp-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "song_art_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "FDP",
+                "title_with_featured": "FDP",
+                "url": "https://genius.com/Sefyu-fdp-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2445085",
+                "artist_names": "Sefyu",
+                "full_title": "Flow du Malawi by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/45a562592416d9e6b2e8a6ed060086c0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/45a562592416d9e6b2e8a6ed060086c0.317x317x1.jpg",
+                "id": 2445085,
+                "language": "fr",
+                "lyrics_owner_id": 738483,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-flow-du-malawi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-flow-du-malawi-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2004",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/45a562592416d9e6b2e8a6ed060086c0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/45a562592416d9e6b2e8a6ed060086c0.317x317x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Flow du Malawi",
+                "title_with_featured": "Flow du Malawi",
+                "url": "https://genius.com/Sefyu-flow-du-malawi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/57595",
+                "artist_names": "Sefyu",
+                "full_title": "Flow efficace by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "id": 57595,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-flow-efficace-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-flow-efficace-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Flow efficace",
+                "title_with_featured": "Flow efficace",
+                "url": "https://genius.com/Sefyu-flow-efficace-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/57585",
+                "artist_names": "Sefyu",
+                "full_title": "Fuck Sefyu by\u00a0Sefyu",
+                "header_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "id": 57585,
+                "language": "en",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Sefyu-fuck-sefyu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sefyu-fuck-sefyu-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7e028be1e56d300005e53bfc21667426.838x838x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fuck Sefyu",
+                "title_with_featured": "Fuck Sefyu",
+                "url": "https://genius.com/Sefyu-fuck-sefyu-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2398",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "id": 2398,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sefyu",
+                    "url": "https://genius.com/artists/Sefyu"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6188104",
+                "artist_names": "Samat (Ft. 400 Hy\u00e8nes, Alibi Montana, Delta (FRA), Larsen (FRA), Salif, Sefyu & Seven (FRA))",
+                "full_title": "Ghetto guerrier by\u00a0Samat (Ft.\u00a0400\u00a0Hy\u00e8nes, Alibi\u00a0Montana, Delta\u00a0(FRA), Larsen\u00a0(FRA), Salif, Sefyu & Seven\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/f47eea6a5a3a6af3cfbb282be3eb83f4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f47eea6a5a3a6af3cfbb282be3eb83f4.595x595x1.jpg",
+                "id": 6188104,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Samat-ghetto-guerrier-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Samat-ghetto-guerrier-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f47eea6a5a3a6af3cfbb282be3eb83f4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f47eea6a5a3a6af3cfbb282be3eb83f4.595x595x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ghetto guerrier",
+                "title_with_featured": "Ghetto guerrier (Ft.\u00a0400\u00a0Hy\u00e8nes, Alibi\u00a0Montana, Delta\u00a0(FRA), Larsen\u00a0(FRA), Salif, Sefyu & Seven\u00a0(FRA))",
+                "url": "https://genius.com/Samat-ghetto-guerrier-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/988380",
+                        "header_image_url": "https://images.genius.com/9ce7c10a5602ab73e2b2a39664af284c.364x364x1.jpg",
+                        "id": 988380,
+                        "image_url": "https://images.genius.com/9ce7c10a5602ab73e2b2a39664af284c.364x364x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "400 Hy\u00e8nes",
+                        "url": "https://genius.com/artists/400-hyenes"
+                    },
+                    {
+                        "api_path": "/artists/5143",
+                        "header_image_url": "https://images.genius.com/0c8cf55ab4df00778e084d99083a379f.281x500x1.jpg",
+                        "id": 5143,
+                        "image_url": "https://images.genius.com/0c8cf55ab4df00778e084d99083a379f.281x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Delta (FRA)",
+                        "url": "https://genius.com/artists/Delta-fra"
+                    },
+                    {
+                        "api_path": "/artists/2398",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "id": 2398,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sefyu",
+                        "url": "https://genius.com/artists/Sefyu"
+                    },
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    },
+                    {
+                        "api_path": "/artists/2396",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "id": 2396,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alibi Montana",
+                        "url": "https://genius.com/artists/Alibi-montana"
+                    },
+                    {
+                        "api_path": "/artists/1696257",
+                        "header_image_url": "https://images.genius.com/8f303b8a106c6083b1615d7311424095.170x170x1.jpg",
+                        "id": 1696257,
+                        "image_url": "https://images.genius.com/8f303b8a106c6083b1615d7311424095.170x170x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Seven (FRA)",
+                        "url": "https://genius.com/artists/Seven-fra"
+                    },
+                    {
+                        "api_path": "/artists/3323728",
+                        "header_image_url": "https://images.genius.com/df032ac1fb89f9995fa696d719a6dba6.207x207x1.jpg",
+                        "id": 3323728,
+                        "image_url": "https://images.genius.com/df032ac1fb89f9995fa696d719a6dba6.207x207x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Larsen (FRA)",
+                        "url": "https://genius.com/artists/Larsen-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/686619",
+                    "header_image_url": "https://images.genius.com/4a0e766b9672e059ed7e6a2a126354b1.1000x563x1.jpg",
+                    "id": 686619,
+                    "image_url": "https://images.genius.com/63111fb1cfb2d2a8bd881d541e02ac14.608x608x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Samat",
+                    "url": "https://genius.com/artists/Samat"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

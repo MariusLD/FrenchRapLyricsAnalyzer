@@ -1,0 +1,973 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/450436",
+                "artist_names": "Alkpote",
+                "full_title": "Addictif by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.1000x1000x1.jpg",
+                "id": 450436,
+                "language": "fr",
+                "lyrics_owner_id": 374935,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-addictif-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-addictif-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2014",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Addictif",
+                "title_with_featured": "Addictif",
+                "url": "https://genius.com/Alkpote-addictif-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/2306005",
+                "artist_names": "O'Trak (Ft. Alkpote)",
+                "full_title": "Affreux, sales et m\u00e9chants by\u00a0O'Trak (Ft.\u00a0Alkpote)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/66d3b2dd68a208913d0d0fc2bb628878.300x132x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/66d3b2dd68a208913d0d0fc2bb628878.570x250x1.jpg",
+                "id": 2306005,
+                "language": "fr",
+                "lyrics_owner_id": 1543271,
+                "lyrics_state": "complete",
+                "path": "/Otrak-affreux-sales-et-mechants-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Otrak-affreux-sales-et-mechants-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 10
+                },
+                "release_date_for_display": "September 10, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 10, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2941d410c662eda76f15a4a77e310957.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2941d410c662eda76f15a4a77e310957.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Affreux, sales et m\u00e9chants",
+                "title_with_featured": "Affreux, sales et m\u00e9chants (Ft.\u00a0Alkpote)",
+                "url": "https://genius.com/Otrak-affreux-sales-et-mechants-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/565291",
+                    "header_image_url": "https://images.genius.com/73194e29866a22928f8e30f7862a4bbf.1000x563x1.png",
+                    "id": 565291,
+                    "image_url": "https://images.genius.com/c991d91c0221a92b8668c1c4558e8282.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "O\u2019Trak",
+                    "url": "https://genius.com/artists/Otrak",
+                    "iq": 112
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5067429",
+                "artist_names": "Unit\u00e9 2 Feu",
+                "full_title": "African Gangster by\u00a0Unit\u00e9\u00a02 Feu",
+                "header_image_thumbnail_url": "https://images.genius.com/b964a3191d3f5a7769e0c1908e740a8d.300x351x1.jpg",
+                "header_image_url": "https://images.genius.com/b964a3191d3f5a7769e0c1908e740a8d.561x656x1.jpg",
+                "id": 5067429,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Unite-2-feu-african-gangster-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Unite-2-feu-african-gangster-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 15
+                },
+                "release_date_for_display": "March 15, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 15, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8ec769a154d0c7fe3b4b6ce21db4ff32.300x351x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8ec769a154d0c7fe3b4b6ce21db4ff32.561x656x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "African Gangster",
+                "title_with_featured": "African Gangster",
+                "url": "https://genius.com/Unite-2-feu-african-gangster-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/54250",
+                    "header_image_url": "https://images.genius.com/680199acb90633cb8775af22cca2c23c.640x306x1.jpg",
+                    "id": 54250,
+                    "image_url": "https://images.genius.com/cbc1e5e7fdc7ca2704c6636fa6bf6250.363x363x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Unit\u00e9 2 Feu",
+                    "url": "https://genius.com/artists/Unite-2-feu"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/4920629",
+                "artist_names": "Alkpote",
+                "full_title": "Aigle by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/5347c06b4372287c4a71227bd8f4ba98.300x185x1.jpg",
+                "header_image_url": "https://images.genius.com/5347c06b4372287c4a71227bd8f4ba98.960x591x1.jpg",
+                "id": 4920629,
+                "language": "fr",
+                "lyrics_owner_id": 580547,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-aigle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-aigle-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 25
+                },
+                "release_date_for_display": "October 25, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 25, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/78aedaead6fa5c440ebdb1562546e4e1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/78aedaead6fa5c440ebdb1562546e4e1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 19750
+                },
+                "title": "Aigle",
+                "title_with_featured": "Aigle",
+                "url": "https://genius.com/Alkpote-aigle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/2297767",
+                "artist_names": "Alkpote (Ft. Tige La Rafale)",
+                "full_title": "Aigle royal by\u00a0Alkpote (Ft.\u00a0Tige\u00a0La Rafale)",
+                "header_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "id": 2297767,
+                "language": "en",
+                "lyrics_owner_id": 1543271,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-aigle-royal-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-aigle-royal-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 19
+                },
+                "release_date_for_display": "March 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Aigle royal",
+                "title_with_featured": "Aigle royal (Ft.\u00a0Tige\u00a0La Rafale)",
+                "url": "https://genius.com/Alkpote-aigle-royal-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18876",
+                        "header_image_url": "https://images.genius.com/a0d557e37fb295370acdf55c152792f6.399x598x1.jpg",
+                        "id": 18876,
+                        "image_url": "https://images.genius.com/a0d557e37fb295370acdf55c152792f6.399x598x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tige La Rafale",
+                        "url": "https://genius.com/artists/Tige-la-rafale"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/498924",
+                "artist_names": "Alkpote",
+                "full_title": "Alerte g\u00e9n\u00e9rale by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/30d889dde657038396eab58fec940c7a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/30d889dde657038396eab58fec940c7a.400x400x1.jpg",
+                "id": 498924,
+                "language": "fr",
+                "lyrics_owner_id": 295950,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-alerte-generale-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alkpote-alerte-generale-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 5,
+                    "day": 12
+                },
+                "release_date_for_display": "May 12, 2008",
+                "release_date_with_abbreviated_month_for_display": "May. 12, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/30d889dde657038396eab58fec940c7a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/30d889dde657038396eab58fec940c7a.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Alerte g\u00e9n\u00e9rale",
+                "title_with_featured": "Alerte g\u00e9n\u00e9rale",
+                "url": "https://genius.com/Alkpote-alerte-generale-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/8697867",
+                "artist_names": "Alkpote",
+                "full_title": "Alk2000 by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/4b84b832f85321efdb9be930bb8443ab.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4b84b832f85321efdb9be930bb8443ab.1000x1000x1.jpg",
+                "id": 8697867,
+                "language": "fr",
+                "lyrics_owner_id": 11889376,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-alk2000-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-alk2000-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 3
+                },
+                "release_date_for_display": "February 3, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 3, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4b84b832f85321efdb9be930bb8443ab.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4b84b832f85321efdb9be930bb8443ab.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Alk2000",
+                "title_with_featured": "Alk2000",
+                "url": "https://genius.com/Alkpote-alk2000-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/341477",
+                "artist_names": "Alkpote",
+                "full_title": "Alkpote (Unit\u00e9 2 Feu) - Marche Arri\u00e8re by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/ef8bfceeeb9a181b534c1b607b2b9996.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ef8bfceeeb9a181b534c1b607b2b9996.1000x1000x1.jpg",
+                "id": 341477,
+                "language": "fr",
+                "lyrics_owner_id": 259935,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-alkpote-unite-2-feu-marche-arriere-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alkpote-alkpote-unite-2-feu-marche-arriere-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2013",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef8bfceeeb9a181b534c1b607b2b9996.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef8bfceeeb9a181b534c1b607b2b9996.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Alkpote (Unit\u00e9 2 Feu) - Marche Arri\u00e8re",
+                "title_with_featured": "Alkpote (Unit\u00e9 2 Feu) - Marche Arri\u00e8re",
+                "url": "https://genius.com/Alkpote-alkpote-unite-2-feu-marche-arriere-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/2479793",
+                "artist_names": "Alkpote",
+                "full_title": "Alksimodo by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.1000x1000x1.jpg",
+                "id": 2479793,
+                "language": "fr",
+                "lyrics_owner_id": 3396424,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-alksimodo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-alksimodo-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 6,
+                    "day": 24
+                },
+                "release_date_for_display": "June 24, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jun. 24, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 6740
+                },
+                "title": "Alksimodo",
+                "title_with_featured": "Alksimodo",
+                "url": "https://genius.com/Alkpote-alksimodo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2825204",
+                "artist_names": "Unit\u00e9 2 Feu",
+                "full_title": "All\u00e9geance by\u00a0Unit\u00e9\u00a02 Feu",
+                "header_image_thumbnail_url": "https://images.genius.com/1a964a9a8c1b2dd21d09098901f06014.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1a964a9a8c1b2dd21d09098901f06014.500x500x1.jpg",
+                "id": 2825204,
+                "language": "fr",
+                "lyrics_owner_id": 3026682,
+                "lyrics_state": "complete",
+                "path": "/Unite-2-feu-allegeance-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Unite-2-feu-allegeance-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2006",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1a964a9a8c1b2dd21d09098901f06014.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1a964a9a8c1b2dd21d09098901f06014.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "All\u00e9geance",
+                "title_with_featured": "All\u00e9geance",
+                "url": "https://genius.com/Unite-2-feu-allegeance-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/54250",
+                    "header_image_url": "https://images.genius.com/680199acb90633cb8775af22cca2c23c.640x306x1.jpg",
+                    "id": 54250,
+                    "image_url": "https://images.genius.com/cbc1e5e7fdc7ca2704c6636fa6bf6250.363x363x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Unit\u00e9 2 Feu",
+                    "url": "https://genius.com/artists/Unite-2-feu"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/508108",
+                "artist_names": "Alkpote",
+                "full_title": "Allez Boom ! by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/f7f8ba91b1165fd8a5b380285295075f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f7f8ba91b1165fd8a5b380285295075f.1000x1000x1.jpg",
+                "id": 508108,
+                "language": "fr",
+                "lyrics_owner_id": 33340,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-allez-boom-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-allez-boom-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 9,
+                    "day": 13
+                },
+                "release_date_for_display": "September 13, 2010",
+                "release_date_with_abbreviated_month_for_display": "Sep. 13, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f7f8ba91b1165fd8a5b380285295075f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f7f8ba91b1165fd8a5b380285295075f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Allez Boom !",
+                "title_with_featured": "Allez Boom !",
+                "url": "https://genius.com/Alkpote-allez-boom-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/4568973",
+                "artist_names": "Alkpote (Ft. Philippe Katerine)",
+                "full_title": "Amour by\u00a0Alkpote (Ft.\u00a0Philippe\u00a0Katerine)",
+                "header_image_thumbnail_url": "https://images.genius.com/4f6b7656f045e02e4c86043cc44f8546.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4f6b7656f045e02e4c86043cc44f8546.1000x1000x1.jpg",
+                "id": 4568973,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-amour-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Alkpote-amour-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 24
+                },
+                "release_date_for_display": "May 24, 2019",
+                "release_date_with_abbreviated_month_for_display": "May. 24, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f6b7656f045e02e4c86043cc44f8546.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4f6b7656f045e02e4c86043cc44f8546.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 20744
+                },
+                "title": "Amour",
+                "title_with_featured": "Amour (Ft.\u00a0Philippe\u00a0Katerine)",
+                "url": "https://genius.com/Alkpote-amour-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/389358",
+                        "header_image_url": "https://images.genius.com/6a42222e216474f4a8d34e116919cf63.220x220x1.jpg",
+                        "id": 389358,
+                        "image_url": "https://images.genius.com/6a42222e216474f4a8d34e116919cf63.220x220x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Philippe Katerine",
+                        "url": "https://genius.com/artists/Philippe-katerine"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4240209",
+                "artist_names": "Alkpote",
+                "full_title": "Amour et loyaut\u00e9 by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "id": 4240209,
+                "language": "fr",
+                "lyrics_owner_id": 7755454,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-amour-et-loyaute-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-amour-et-loyaute-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 19
+                },
+                "release_date_for_display": "March 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Amour et loyaut\u00e9",
+                "title_with_featured": "Amour et loyaut\u00e9",
+                "url": "https://genius.com/Alkpote-amour-et-loyaute-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 49,
+                "api_path": "/songs/2475372",
+                "artist_names": "Alkpote",
+                "full_title": "Amsterdam City Gang by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/c00d032e6553cb6311aa63655fb5433a.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/c00d032e6553cb6311aa63655fb5433a.1000x563x1.jpg",
+                "id": 2475372,
+                "language": "fr",
+                "lyrics_owner_id": 2175034,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-amsterdam-city-gang-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Alkpote-amsterdam-city-gang-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 23
+                },
+                "release_date_for_display": "May 23, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 23, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 20,
+                    "hot": false,
+                    "pageviews": 15699
+                },
+                "title": "Amsterdam City Gang",
+                "title_with_featured": "Amsterdam City Gang",
+                "url": "https://genius.com/Alkpote-amsterdam-city-gang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4698458",
+                "artist_names": "Alkpote (Ft. Myssa)",
+                "full_title": "Anti-putes by\u00a0Alkpote (Ft.\u00a0Myssa)",
+                "header_image_thumbnail_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.1000x1000x1.jpg",
+                "id": 4698458,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-anti-putes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-anti-putes-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 6,
+                    "day": 15
+                },
+                "release_date_for_display": "June 15, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jun. 15, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Anti-putes",
+                "title_with_featured": "Anti-putes (Ft.\u00a0Myssa)",
+                "url": "https://genius.com/Alkpote-anti-putes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/662025",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 662025,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Myssa",
+                        "url": "https://genius.com/artists/Myssa"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/4240212",
+                "artist_names": "Alkpote",
+                "full_title": "Appel priv\u00e9 by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "id": 4240212,
+                "language": "en",
+                "lyrics_owner_id": 7755454,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-appel-prive-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-appel-prive-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 19
+                },
+                "release_date_for_display": "March 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Appel priv\u00e9",
+                "title_with_featured": "Appel priv\u00e9",
+                "url": "https://genius.com/Alkpote-appel-prive-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7670236",
+                "artist_names": "Alkpote (Ft. Ouss Wayne)",
+                "full_title": "Apr\u00e8s minuit by\u00a0Alkpote (Ft.\u00a0Ouss\u00a0Wayne)",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                "id": 7670236,
+                "language": "fr",
+                "lyrics_owner_id": 15971016,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-apres-minuit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-apres-minuit-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 6
+                },
+                "release_date_for_display": "February 6, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 6, 2022",
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                "song_art_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Apr\u00e8s minuit",
+                "title_with_featured": "Apr\u00e8s minuit (Ft.\u00a0Ouss\u00a0Wayne)",
+                "url": "https://genius.com/Alkpote-apres-minuit-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2738358",
+                        "header_image_url": "https://images.genius.com/d58c168dab4f1b694a7c58aacc7226f8.1000x1000x1.jpg",
+                        "id": 2738358,
+                        "image_url": "https://images.genius.com/d58c168dab4f1b694a7c58aacc7226f8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ouss Wayne",
+                        "url": "https://genius.com/artists/Ouss-wayne"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/3471191",
+                "artist_names": "Alkpote (Ft. 13 Block)",
+                "full_title": "A/R by\u00a0Alkpote (Ft.\u00a013\u00a0Block)",
+                "header_image_thumbnail_url": "https://images.genius.com/7383f57c25751653830a6d79c38b6e2d.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/7383f57c25751653830a6d79c38b6e2d.1000x563x1.jpg",
+                "id": 3471191,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-a-r-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Alkpote-a-r-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 26
+                },
+                "release_date_for_display": "January 26, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6dd7c8d3f9c336067a00837361f2e4d4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6dd7c8d3f9c336067a00837361f2e4d4.866x866x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 12883
+                },
+                "title": "A/R",
+                "title_with_featured": "A/R (Ft.\u00a013\u00a0Block)",
+                "url": "https://genius.com/Alkpote-a-r-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/327072",
+                        "header_image_url": "https://images.genius.com/8c64bc4b1f75cd37a0d8d849f3a2ae5c.220x220x1.png",
+                        "id": 327072,
+                        "image_url": "https://images.genius.com/475cbda85c9a0cf007d038a99fd046df.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "13 Block",
+                        "url": "https://genius.com/artists/13-block"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4698475",
+                "artist_names": "Alkpote (Ft. Zino la Frappe)",
+                "full_title": "Arabes de l\u00e9gende by\u00a0Alkpote (Ft.\u00a0Zino\u00a0la Frappe)",
+                "header_image_thumbnail_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.1000x1000x1.jpg",
+                "id": 4698475,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-arabes-de-legende-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-arabes-de-legende-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 6,
+                    "day": 15
+                },
+                "release_date_for_display": "June 15, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jun. 15, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Arabes de l\u00e9gende",
+                "title_with_featured": "Arabes de l\u00e9gende (Ft.\u00a0Zino\u00a0la Frappe)",
+                "url": "https://genius.com/Alkpote-arabes-de-legende-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2338674",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2338674,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Zino la Frappe",
+                        "url": "https://genius.com/artists/Zino-la-frappe"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2893431",
+                "artist_names": "Mister You (Ft. Alkpote & Farage)",
+                "full_title": "Au bout de l'enfer by\u00a0Mister\u00a0You (Ft.\u00a0Alkpote & Farage)",
+                "header_image_thumbnail_url": "https://images.genius.com/2b96b2c26af2fcacfa37e8b14ab1d97b.300x267x1.jpg",
+                "header_image_url": "https://images.genius.com/2b96b2c26af2fcacfa37e8b14ab1d97b.800x712x1.jpg",
+                "id": 2893431,
+                "language": "en",
+                "lyrics_owner_id": 3290396,
+                "lyrics_state": "complete",
+                "path": "/Mister-you-au-bout-de-lenfer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mister-you-au-bout-de-lenfer-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 1,
+                    "day": 15
+                },
+                "release_date_for_display": "January 15, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jan. 15, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2b96b2c26af2fcacfa37e8b14ab1d97b.300x267x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2b96b2c26af2fcacfa37e8b14ab1d97b.800x712x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Au bout de l\u2019enfer",
+                "title_with_featured": "Au bout de l'enfer (Ft.\u00a0Alkpote & Farage)",
+                "url": "https://genius.com/Mister-you-au-bout-de-lenfer-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    },
+                    {
+                        "api_path": "/artists/15429",
+                        "header_image_url": "https://images.genius.com/3ec5facd5ab4294c0c809d3fa9e86e79.170x170x1.jpg",
+                        "id": 15429,
+                        "image_url": "https://images.genius.com/535ab2e51c29b78b89d39be1a023097a.174x174x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Farage",
+                        "url": "https://genius.com/artists/Farage"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1375",
+                    "header_image_url": "https://images.genius.com/04a40db284f23a309135e3e1f5dace45.407x407x1.jpg",
+                    "id": 1375,
+                    "image_url": "https://images.genius.com/04a40db284f23a309135e3e1f5dace45.407x407x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Mister You",
+                    "url": "https://genius.com/artists/Mister-you",
+                    "iq": 323
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

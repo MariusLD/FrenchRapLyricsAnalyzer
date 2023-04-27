@@ -1,0 +1,537 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5580798",
+                "artist_names": "Syst\u00e8me D (Ft. Cut Killer, Demi Portion, Dj Netik, Doux Breuvage, Eklips, Elias Wallace, George Ka, Hippocampe Fou, Stav, Tha\u00efs Lona & Tim Dup)",
+                "full_title": "Syst\u00e8me D by\u00a0Syst\u00e8me\u00a0D (Ft.\u00a0Cut\u00a0Killer, Demi\u00a0Portion, Dj\u00a0Netik, Doux\u00a0Breuvage, Eklips, Elias\u00a0Wallace, George\u00a0Ka, Hippocampe\u00a0Fou, Stav, Tha\u00efs\u00a0Lona & Tim\u00a0Dup)",
+                "header_image_thumbnail_url": "https://images.genius.com/c047e8b232bd93af0395c0e6823a9603.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c047e8b232bd93af0395c0e6823a9603.600x600x1.jpg",
+                "id": 5580798,
+                "language": "fr",
+                "lyrics_owner_id": 8179174,
+                "lyrics_state": "complete",
+                "path": "/Systeme-d-systeme-d-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Systeme-d-systeme-d-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 5
+                },
+                "release_date_for_display": "May 5, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 5, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c047e8b232bd93af0395c0e6823a9603.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c047e8b232bd93af0395c0e6823a9603.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Syst\u00e8me D",
+                "title_with_featured": "Syst\u00e8me D (Ft.\u00a0Cut\u00a0Killer, Demi\u00a0Portion, Dj\u00a0Netik, Doux\u00a0Breuvage, Eklips, Elias\u00a0Wallace, George\u00a0Ka, Hippocampe\u00a0Fou, Stav, Tha\u00efs\u00a0Lona & Tim\u00a0Dup)",
+                "url": "https://genius.com/Systeme-d-systeme-d-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/29268",
+                        "header_image_url": "https://images.genius.com/7022fba6aac1ba4582680ea11d74fa83.838x450x1.jpg",
+                        "id": 29268,
+                        "image_url": "https://images.genius.com/998df45c60ae2fc76af20d7be2c1c077.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cut Killer",
+                        "url": "https://genius.com/artists/Cut-killer"
+                    },
+                    {
+                        "api_path": "/artists/569228",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 569228,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dj Netik",
+                        "url": "https://genius.com/artists/Dj-netik"
+                    },
+                    {
+                        "api_path": "/artists/1432459",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1432459,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Stav",
+                        "url": "https://genius.com/artists/Stav"
+                    },
+                    {
+                        "api_path": "/artists/1208306",
+                        "header_image_url": "https://images.genius.com/efe33167d33cdc93eaa735afc698c23a.1000x563x1.jpg",
+                        "id": 1208306,
+                        "image_url": "https://images.genius.com/c165db214906f1b347e2d375ea748143.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elias Wallace",
+                        "url": "https://genius.com/artists/Elias-wallace"
+                    },
+                    {
+                        "api_path": "/artists/2243180",
+                        "header_image_url": "https://images.genius.com/cb00cd274df88b2f0fd7bec74d51eddf.901x508x1.jpg",
+                        "id": 2243180,
+                        "image_url": "https://images.genius.com/144f21d210018462fb56f6f901ddfb88.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tha\u00efs Lona",
+                        "url": "https://genius.com/artists/Thais-lona"
+                    },
+                    {
+                        "api_path": "/artists/12408",
+                        "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "id": 12408,
+                        "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Eklips",
+                        "url": "https://genius.com/artists/Eklips"
+                    },
+                    {
+                        "api_path": "/artists/1742787",
+                        "header_image_url": "https://images.genius.com/32e67e5fd82f2f922779e3dab2738a05.1000x750x1.jpg",
+                        "id": 1742787,
+                        "image_url": "https://images.genius.com/2b2cb5d470052aedb57edf434eba6f3f.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Doux Breuvage",
+                        "url": "https://genius.com/artists/Doux-breuvage"
+                    },
+                    {
+                        "api_path": "/artists/2046357",
+                        "header_image_url": "https://images.genius.com/8b02872ce6530deb6761ff04f2a7e9cb.1000x564x1.png",
+                        "id": 2046357,
+                        "image_url": "https://images.genius.com/5e84fd465b40b3575e8a775c9f9fcf2e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "George Ka",
+                        "url": "https://genius.com/artists/George-ka"
+                    },
+                    {
+                        "api_path": "/artists/15862",
+                        "header_image_url": "https://images.genius.com/8469dca6749b290c14fe9d1fac95517d.320x480x1.jpg",
+                        "id": 15862,
+                        "image_url": "https://images.genius.com/1b1a2401c82d5b8e21a1d6a47261e7ef.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hippocampe Fou",
+                        "url": "https://genius.com/artists/Hippocampe-fou",
+                        "iq": 839
+                    },
+                    {
+                        "api_path": "/artists/1002265",
+                        "header_image_url": "https://images.genius.com/1b18c45d5a191784aff5f5a923e8276c.1000x1000x1.jpg",
+                        "id": 1002265,
+                        "image_url": "https://images.genius.com/1b18c45d5a191784aff5f5a923e8276c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tim Dup",
+                        "url": "https://genius.com/artists/Tim-dup"
+                    },
+                    {
+                        "api_path": "/artists/14366",
+                        "header_image_url": "https://images.genius.com/3611c451c2c1148b33a3867e385dc77b.685x255x1.png",
+                        "id": 14366,
+                        "image_url": "https://images.genius.com/315e09d89ec8a332caac61de724885f5.612x612x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Demi Portion",
+                        "url": "https://genius.com/artists/Demi-portion",
+                        "iq": 114
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2243181",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2243181,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syst\u00e8me D",
+                    "url": "https://genius.com/artists/Systeme-d"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5241167",
+                "artist_names": "Gr\u00f6dash (Ft. Dany Dan, Eklips & Jeff Le Nerf)",
+                "full_title": "The cypher by\u00a0Gr\u00f6dash (Ft.\u00a0Dany\u00a0Dan, Eklips & Jeff\u00a0Le Nerf)",
+                "header_image_thumbnail_url": "https://images.genius.com/87059afc5679260d397bb15634cf553e.300x300x1.png",
+                "header_image_url": "https://images.genius.com/87059afc5679260d397bb15634cf553e.640x640x1.png",
+                "id": 5241167,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Grodash-the-cypher-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grodash-the-cypher-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/87059afc5679260d397bb15634cf553e.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/87059afc5679260d397bb15634cf553e.640x640x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "The cypher",
+                "title_with_featured": "The cypher (Ft.\u00a0Dany\u00a0Dan, Eklips & Jeff\u00a0Le Nerf)",
+                "url": "https://genius.com/Grodash-the-cypher-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1986",
+                        "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                        "id": 1986,
+                        "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dany Dan",
+                        "url": "https://genius.com/artists/Dany-dan",
+                        "iq": 345
+                    },
+                    {
+                        "api_path": "/artists/18374",
+                        "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "id": 18374,
+                        "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeff Le Nerf",
+                        "url": "https://genius.com/artists/Jeff-le-nerf"
+                    },
+                    {
+                        "api_path": "/artists/12408",
+                        "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "id": 12408,
+                        "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Eklips",
+                        "url": "https://genius.com/artists/Eklips"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15227",
+                    "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "id": 15227,
+                    "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gr\u00f6dash",
+                    "url": "https://genius.com/artists/Grodash"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5082620",
+                "artist_names": "Eklips (Ft. Admiral T, Biga Ranx, Nathy & Vicelow)",
+                "full_title": "Ti-Punch by\u00a0Eklips (Ft.\u00a0Admiral\u00a0T, Biga\u00a0Ranx, Nathy & Vicelow)",
+                "header_image_thumbnail_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.600x600x1.jpg",
+                "id": 5082620,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Eklips-ti-punch-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-ti-punch-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ti-Punch",
+                "title_with_featured": "Ti-Punch (Ft.\u00a0Admiral\u00a0T, Biga\u00a0Ranx, Nathy & Vicelow)",
+                "url": "https://genius.com/Eklips-ti-punch-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11686",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/admiral%20t%20.jpg",
+                        "id": 11686,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/admiral%20t%20.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Admiral T",
+                        "url": "https://genius.com/artists/Admiral-t",
+                        "iq": 105
+                    },
+                    {
+                        "api_path": "/artists/171524",
+                        "header_image_url": "https://images.genius.com/efa2cc96a025d386b5a50cdb0de4d556.1000x478x1.jpg",
+                        "id": 171524,
+                        "image_url": "https://images.genius.com/5ac1ed5f5770531f773d073e4fa5c500.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Biga Ranx",
+                        "url": "https://genius.com/artists/Biga-ranx",
+                        "iq": 672
+                    },
+                    {
+                        "api_path": "/artists/152870",
+                        "header_image_url": "https://images.genius.com/4df0935f9454db8bc507e195704fc259.433x433x1.jpg",
+                        "id": 152870,
+                        "image_url": "https://images.genius.com/4df0935f9454db8bc507e195704fc259.433x433x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nathy",
+                        "url": "https://genius.com/artists/Nathy"
+                    },
+                    {
+                        "api_path": "/artists/18960",
+                        "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                        "id": 18960,
+                        "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vicelow",
+                        "url": "https://genius.com/artists/Vicelow"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/6189453",
+                "artist_names": "Le Rem\u00e8de (Ft. Le Rat Luciano)",
+                "full_title": "Vie \u00e0 200 by\u00a0Le\u00a0Rem\u00e8de (Ft.\u00a0Le\u00a0Rat Luciano)",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 6189453,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-vie-a-200-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-vie-a-200-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2005",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vie \u00e0 200",
+                "title_with_featured": "Vie \u00e0 200 (Ft.\u00a0Le\u00a0Rat Luciano)",
+                "url": "https://genius.com/Le-remede-vie-a-200-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1964",
+                        "header_image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "id": 1964,
+                        "image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Le Rat Luciano",
+                        "url": "https://genius.com/artists/Le-rat-luciano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6587569",
+                "artist_names": "Muse-Sic",
+                "full_title": "Voices by\u00a0Muse-Sic",
+                "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "id": 6587569,
+                "language": "en",
+                "lyrics_owner_id": 13134921,
+                "lyrics_state": "complete",
+                "path": "/Muse-sic-voices-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Muse-sic-voices-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 31
+                },
+                "release_date_for_display": "May 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 31, 2020",
+                "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Voices",
+                "title_with_featured": "Voices",
+                "url": "https://genius.com/Muse-sic-voices-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2644343",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2644343,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Muse-Sic",
+                    "url": "https://genius.com/artists/Muse-sic"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/412506",
+                "artist_names": "Eklips (Ft. Youssoupha)",
+                "full_title": "Vraies stars by\u00a0Eklips (Ft.\u00a0Youssoupha)",
+                "header_image_thumbnail_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.600x600x1.jpg",
+                "id": 412506,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Eklips-vraies-stars-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Eklips-vraies-stars-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/91a57540eb04606ba830b2bfbfb44f97.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vraies stars",
+                "title_with_featured": "Vraies stars (Ft.\u00a0Youssoupha)",
+                "url": "https://genius.com/Eklips-vraies-stars-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1684",
+                        "header_image_url": "https://images.genius.com/19aee70ad683dff8782aec43e1909d72.1000x660x1.jpg",
+                        "id": 1684,
+                        "image_url": "https://images.genius.com/c6c3d1e0b137d299ed7bb8e3fa8fae52.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Youssoupha",
+                        "url": "https://genius.com/artists/Youssoupha",
+                        "iq": 1850
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5082607",
+                "artist_names": "Eklips",
+                "full_title": "We Are Trained by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.600x600x1.jpg",
+                "id": 5082607,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Eklips-we-are-trained-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-we-are-trained-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "We Are Trained",
+                "title_with_featured": "We Are Trained",
+                "url": "https://genius.com/Eklips-we-are-trained-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5082611",
+                "artist_names": "Eklips",
+                "full_title": "Wu-Tang-Klips by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.400x396x1.jpg",
+                "id": 5082611,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Eklips-wu-tang-klips-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-wu-tang-klips-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Wu-Tang-Klips",
+                "title_with_featured": "Wu-Tang-Klips",
+                "url": "https://genius.com/Eklips-wu-tang-klips-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

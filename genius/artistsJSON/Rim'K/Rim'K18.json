@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/521067",
+                "artist_names": "Lacrim (Ft. Mister You & Rim'K)",
+                "full_title": "Yes We Can by\u00a0Lacrim (Ft.\u00a0Mister\u00a0You & Rim'K)",
+                "header_image_thumbnail_url": "https://images.genius.com/46f389fc405084245e5343ec1d5922ef.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/46f389fc405084245e5343ec1d5922ef.500x500x1.jpg",
+                "id": 521067,
+                "language": null,
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Lacrim-yes-we-can-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lacrim-yes-we-can-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/46f389fc405084245e5343ec1d5922ef.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/46f389fc405084245e5343ec1d5922ef.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 11395
+                },
+                "title": "Yes We Can",
+                "title_with_featured": "Yes We Can (Ft.\u00a0Mister\u00a0You & Rim'K)",
+                "url": "https://genius.com/Lacrim-yes-we-can-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2455",
+                        "header_image_url": "https://images.genius.com/58fd31f99d79144a99d186dedf9d60b6.1000x563x1.png",
+                        "id": 2455,
+                        "image_url": "https://images.genius.com/b1b7d2ed16a7de57e9af693f956c3329.502x502x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Rim\u2019K",
+                        "url": "https://genius.com/artists/Rimk",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/1375",
+                        "header_image_url": "https://images.genius.com/04a40db284f23a309135e3e1f5dace45.407x407x1.jpg",
+                        "id": 1375,
+                        "image_url": "https://images.genius.com/04a40db284f23a309135e3e1f5dace45.407x407x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mister You",
+                        "url": "https://genius.com/artists/Mister-you",
+                        "iq": 323
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11650",
+                    "header_image_url": "https://images.genius.com/a56bea02c03bf2cdf1312931415097c1.1000x667x1.jpg",
+                    "id": 11650,
+                    "image_url": "https://images.genius.com/c3d2691daa3d67cd58031bc4096496e6.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lacrim",
+                    "url": "https://genius.com/artists/Lacrim"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

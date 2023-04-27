@@ -1,0 +1,1001 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/145410",
+                "artist_names": "Jeff Le Nerf (Ft. No\u00e9mie)",
+                "full_title": "Princesse by\u00a0Jeff\u00a0Le Nerf (Ft.\u00a0No\u00e9mie)",
+                "header_image_thumbnail_url": "https://images.genius.com/cab20f5cf24a30fb7d303919d2b6d706.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cab20f5cf24a30fb7d303919d2b6d706.1000x1000x1.jpg",
+                "id": 145410,
+                "language": "fr",
+                "lyrics_owner_id": 174331,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-princesse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-princesse-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/cab20f5cf24a30fb7d303919d2b6d706.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cab20f5cf24a30fb7d303919d2b6d706.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Princesse",
+                "title_with_featured": "Princesse (Ft.\u00a0No\u00e9mie)",
+                "url": "https://genius.com/Jeff-le-nerf-princesse-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/368702",
+                        "header_image_url": "https://images.genius.com/ee2bb206fb215ef6a87b725816be4b1e.800x800x1.jpg",
+                        "id": 368702,
+                        "image_url": "https://images.genius.com/ee2bb206fb215ef6a87b725816be4b1e.800x800x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "No\u00e9mie",
+                        "url": "https://genius.com/artists/Noemie"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2306140",
+                "artist_names": "L'Hexaler (Ft. Jeff Le Nerf & L'indis)",
+                "full_title": "Que serait l'homme sans l'\u00e2me ? by\u00a0L'Hexaler (Ft.\u00a0Jeff\u00a0Le Nerf & L'indis)",
+                "header_image_thumbnail_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.960x951x1.jpg",
+                "id": 2306140,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Lhexaler-que-serait-lhomme-sans-lame-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Lhexaler-que-serait-lhomme-sans-lame-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/327011074bcb516ce3c6bfeba6b1d818.960x951x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Que serait l\u2019homme sans l\u2019\u00e2me ?",
+                "title_with_featured": "Que serait l'homme sans l'\u00e2me ? (Ft.\u00a0Jeff\u00a0Le Nerf & L'indis)",
+                "url": "https://genius.com/Lhexaler-que-serait-lhomme-sans-lame-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15430",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/164449_137377026319116_5476218_n.jpg",
+                        "id": 15430,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/164449_137377026319116_5476218_n.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "L\u2019indis",
+                        "url": "https://genius.com/artists/Lindis",
+                        "iq": 8589
+                    },
+                    {
+                        "api_path": "/artists/18374",
+                        "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "id": 18374,
+                        "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeff Le Nerf",
+                        "url": "https://genius.com/artists/Jeff-le-nerf"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/35370",
+                    "header_image_url": "https://images.genius.com/cd418a26396feea5cce04c7c1555cb46.1000x449x1.png",
+                    "id": 35370,
+                    "image_url": "https://images.genius.com/cd418a26396feea5cce04c7c1555cb46.1000x449x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "L\u2019Hexaler",
+                    "url": "https://genius.com/artists/Lhexaler"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3502559",
+                "artist_names": "Scylla (Ft. Furax Barbarossa & Jeff Le Nerf)",
+                "full_title": "Qui t'a dit qu'on jouait ? by\u00a0Scylla (Ft.\u00a0Furax\u00a0Barbarossa & Jeff\u00a0Le Nerf)",
+                "header_image_thumbnail_url": "https://images.genius.com/9c33dac3a36ba37f65ec68edbc000c72.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9c33dac3a36ba37f65ec68edbc000c72.600x600x1.jpg",
+                "id": 3502559,
+                "language": "fr",
+                "lyrics_owner_id": 657927,
+                "lyrics_state": "complete",
+                "path": "/Scylla-qui-ta-dit-quon-jouait-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Scylla-qui-ta-dit-quon-jouait-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 6
+                },
+                "release_date_for_display": "February 6, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 6, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9c33dac3a36ba37f65ec68edbc000c72.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9c33dac3a36ba37f65ec68edbc000c72.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false
+                },
+                "title": "Qui t\u2019a dit qu\u2019on jouait ?",
+                "title_with_featured": "Qui t'a dit qu'on jouait ? (Ft.\u00a0Furax\u00a0Barbarossa & Jeff\u00a0Le Nerf)",
+                "url": "https://genius.com/Scylla-qui-ta-dit-quon-jouait-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/17313",
+                        "header_image_url": "https://images.genius.com/03626219792566755dc18faa634b8d04.1000x563x1.jpg",
+                        "id": 17313,
+                        "image_url": "https://images.genius.com/93b0b732b6940d18d76125b202de36a2.383x383x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Furax Barbarossa",
+                        "url": "https://genius.com/artists/Furax-barbarossa"
+                    },
+                    {
+                        "api_path": "/artists/18374",
+                        "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "id": 18374,
+                        "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeff Le Nerf",
+                        "url": "https://genius.com/artists/Jeff-le-nerf"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/17103",
+                    "header_image_url": "https://images.genius.com/e078ec8f383447774ffe9a623bc85380.633x633x1.jpg",
+                    "id": 17103,
+                    "image_url": "https://images.genius.com/e078ec8f383447774ffe9a623bc85380.633x633x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scylla",
+                    "url": "https://genius.com/artists/Scylla"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2925243",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Quoi qu'ils veuillent by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "header_image_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "id": 2925243,
+                "language": "fr",
+                "lyrics_owner_id": 358351,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-quoi-quils-veuillent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-quoi-quils-veuillent-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 10
+                },
+                "release_date_for_display": "November 10, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 10, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Quoi qu\u2019ils veuillent",
+                "title_with_featured": "Quoi qu'ils veuillent",
+                "url": "https://genius.com/Jeff-le-nerf-quoi-quils-veuillent-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/379179",
+                "artist_names": "Kool Shen (Ft. Jeff Le Nerf)",
+                "full_title": "Rappelle-toi by\u00a0Kool\u00a0Shen (Ft.\u00a0Jeff\u00a0Le Nerf)",
+                "header_image_thumbnail_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.300x306x1.jpg",
+                "header_image_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.981x1000x1.jpg",
+                "id": 379179,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Kool-shen-rappelle-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kool-shen-rappelle-toi-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2009",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.300x306x1.jpg",
+                "song_art_image_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.981x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Rappelle-toi",
+                "title_with_featured": "Rappelle-toi (Ft.\u00a0Jeff\u00a0Le Nerf)",
+                "url": "https://genius.com/Kool-shen-rappelle-toi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18374",
+                        "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "id": 18374,
+                        "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeff Le Nerf",
+                        "url": "https://genius.com/artists/Jeff-le-nerf"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2384281",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Repose En Paix by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "id": 2384281,
+                "language": "fr",
+                "lyrics_owner_id": 274130,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-repose-en-paix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-repose-en-paix-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 23
+                },
+                "release_date_for_display": "September 23, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 23, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Repose En Paix",
+                "title_with_featured": "Repose En Paix",
+                "url": "https://genius.com/Jeff-le-nerf-repose-en-paix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5071291",
+                "artist_names": "Kalash l'Afro (Ft. Jeff Le Nerf)",
+                "full_title": "Rester vrai by\u00a0Kalash\u00a0l'Afro (Ft.\u00a0Jeff\u00a0Le Nerf)",
+                "header_image_thumbnail_url": "https://images.genius.com/621545ecf056c8210640816740f88686.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/621545ecf056c8210640816740f88686.1000x1000x1.jpg",
+                "id": 5071291,
+                "language": "en",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Kalash-lafro-rester-vrai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kalash-lafro-rester-vrai-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/621545ecf056c8210640816740f88686.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/621545ecf056c8210640816740f88686.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Rester vrai",
+                "title_with_featured": "Rester vrai (Ft.\u00a0Jeff\u00a0Le Nerf)",
+                "url": "https://genius.com/Kalash-lafro-rester-vrai-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18374",
+                        "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "id": 18374,
+                        "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeff Le Nerf",
+                        "url": "https://genius.com/artists/Jeff-le-nerf"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18874",
+                    "header_image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                    "id": 18874,
+                    "image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kalash l\u2019Afro",
+                    "url": "https://genius.com/artists/Kalash-lafro"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/304567",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Rest In Biffle by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "header_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "id": 304567,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-rest-in-biffle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-rest-in-biffle-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Rest In Biffle",
+                "title_with_featured": "Rest In Biffle",
+                "url": "https://genius.com/Jeff-le-nerf-rest-in-biffle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2356646",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Rien \u00c0 Foutre by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "id": 2356646,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-rien-a-foutre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-rien-a-foutre-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Rien \u00c0 Foutre",
+                "title_with_featured": "Rien \u00c0 Foutre",
+                "url": "https://genius.com/Jeff-le-nerf-rien-a-foutre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/580735",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Salam by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                "id": 580735,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-salam-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-salam-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Salam",
+                "title_with_featured": "Salam",
+                "url": "https://genius.com/Jeff-le-nerf-salam-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/304706",
+                "artist_names": "Jeff Le Nerf (Ft. Bishok)",
+                "full_title": "Sales mani\u00e8res by\u00a0Jeff\u00a0Le Nerf (Ft.\u00a0Bishok)",
+                "header_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "header_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "id": 304706,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-sales-manieres-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-sales-manieres-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Sales mani\u00e8res",
+                "title_with_featured": "Sales mani\u00e8res (Ft.\u00a0Bishok)",
+                "url": "https://genius.com/Jeff-le-nerf-sales-manieres-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/112945",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 112945,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bishok",
+                        "url": "https://genius.com/artists/Bishok"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/139096",
+                "artist_names": "Inglourious Bastardz (Ft. 10vers, Jeff Le Nerf, Menshen, Neka & Sendo)",
+                "full_title": "Sang chaud by\u00a0Inglourious\u00a0Bastardz (Ft.\u00a010vers, Jeff\u00a0Le Nerf, Menshen, Neka & Sendo)",
+                "header_image_thumbnail_url": "https://images.genius.com/5695cb8befbd4b6921d5feb1b55b12c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5695cb8befbd4b6921d5feb1b55b12c3.500x500x1.jpg",
+                "id": 139096,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Inglourious-bastardz-sang-chaud-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Inglourious-bastardz-sang-chaud-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5695cb8befbd4b6921d5feb1b55b12c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5695cb8befbd4b6921d5feb1b55b12c3.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sang chaud",
+                "title_with_featured": "Sang chaud (Ft.\u00a010vers, Jeff\u00a0Le Nerf, Menshen, Neka & Sendo)",
+                "url": "https://genius.com/Inglourious-bastardz-sang-chaud-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/31697",
+                        "header_image_url": "https://images.genius.com/4cd39d946ec1f8c9b94aae098b412cc9.1000x383x1.jpg",
+                        "id": 31697,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/1365730418_neka-ibz-003.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Neka",
+                        "url": "https://genius.com/artists/Neka"
+                    },
+                    {
+                        "api_path": "/artists/45621",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 45621,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sendo",
+                        "url": "https://genius.com/artists/Sendo"
+                    },
+                    {
+                        "api_path": "/artists/45622",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 45622,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Menshen",
+                        "url": "https://genius.com/artists/Menshen"
+                    },
+                    {
+                        "api_path": "/artists/31696",
+                        "header_image_url": "https://images.genius.com/aa0603ca3c0b1688940f646a026e9617.500x333x1.jpg",
+                        "id": 31696,
+                        "image_url": "https://images.genius.com/aa0603ca3c0b1688940f646a026e9617.500x333x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "10vers",
+                        "url": "https://genius.com/artists/10vers"
+                    },
+                    {
+                        "api_path": "/artists/18374",
+                        "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "id": 18374,
+                        "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeff Le Nerf",
+                        "url": "https://genius.com/artists/Jeff-le-nerf"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/32421",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/1365636825_shapeimage_2.png",
+                    "id": 32421,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/1365636825_shapeimage_2.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Inglourious Bastardz",
+                    "url": "https://genius.com/artists/Inglourious-bastardz"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2385308",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Show Bizz by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "id": 2385308,
+                "language": "fr",
+                "lyrics_owner_id": 133353,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-show-bizz-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-show-bizz-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 4
+                },
+                "release_date_for_display": "December 4, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 4, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Show Bizz",
+                "title_with_featured": "Show Bizz",
+                "url": "https://genius.com/Jeff-le-nerf-show-bizz-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/304551",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Si demain j'arr\u00eate by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "header_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "id": 304551,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-si-demain-jarrete-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-si-demain-jarrete-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Si demain j\u2019arr\u00eate",
+                "title_with_featured": "Si demain j'arr\u00eate",
+                "url": "https://genius.com/Jeff-le-nerf-si-demain-jarrete-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/145456",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Si j'\u00e9tais riche by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.400x400x1.jpg",
+                "id": 145456,
+                "language": null,
+                "lyrics_owner_id": 174331,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-si-jetais-riche-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-si-jetais-riche-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 10,
+                    "day": 22
+                },
+                "release_date_for_display": "October 22, 2007",
+                "release_date_with_abbreviated_month_for_display": "Oct. 22, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Si j\u2019\u00e9tais riche",
+                "title_with_featured": "Si j'\u00e9tais riche",
+                "url": "https://genius.com/Jeff-le-nerf-si-jetais-riche-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2954088",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Souriez ! by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "header_image_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "id": 2954088,
+                "language": "fr",
+                "lyrics_owner_id": 358351,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-souriez-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-souriez-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/bd2ad7543996b16b661ba243f34d7807.300x300x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Souriez !",
+                "title_with_featured": "Souriez !",
+                "url": "https://genius.com/Jeff-le-nerf-souriez-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/304705",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Superman by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "header_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "id": 304705,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-superman-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-superman-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.300x238x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fa548b24027af2fc60a060eb8c91c05.350x278x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Superman",
+                "title_with_featured": "Superman",
+                "url": "https://genius.com/Jeff-le-nerf-superman-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2413544",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Sur les nerfs by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "id": 2413544,
+                "language": "fr",
+                "lyrics_owner_id": 355600,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-sur-les-nerfs-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-sur-les-nerfs-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 4
+                },
+                "release_date_for_display": "December 4, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 4, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/64ee9e241546ea096fc85202044b25c8.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sur les nerfs",
+                "title_with_featured": "Sur les nerfs",
+                "url": "https://genius.com/Jeff-le-nerf-sur-les-nerfs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/2265652",
+                "artist_names": "Jeff Le Nerf",
+                "full_title": "Tenue hardcore exig\u00e9e by\u00a0Jeff\u00a0Le Nerf",
+                "header_image_thumbnail_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.400x400x1.jpg",
+                "id": 2265652,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Jeff-le-nerf-tenue-hardcore-exigee-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jeff-le-nerf-tenue-hardcore-exigee-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 10,
+                    "day": 22
+                },
+                "release_date_for_display": "October 22, 2007",
+                "release_date_with_abbreviated_month_for_display": "Oct. 22, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f4257ef1e971eeb293559b443eab9ee.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tenue hardcore exig\u00e9e",
+                "title_with_featured": "Tenue hardcore exig\u00e9e",
+                "url": "https://genius.com/Jeff-le-nerf-tenue-hardcore-exigee-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18374",
+                    "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "id": 18374,
+                    "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Le Nerf",
+                    "url": "https://genius.com/artists/Jeff-le-nerf"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2961565",
+                "artist_names": "Grim Reaperz (Ft. Furax Barbarossa, Infamous Mobb, Jeff Le Nerf & Scylla)",
+                "full_title": "The Cycle by\u00a0Grim\u00a0Reaperz (Ft.\u00a0Furax\u00a0Barbarossa, Infamous\u00a0Mobb, Jeff\u00a0Le Nerf & Scylla)",
+                "header_image_thumbnail_url": "https://images.genius.com/29b224f8ee592fdbe42522a084cc8cb0.300x146x1.jpg",
+                "header_image_url": "https://images.genius.com/29b224f8ee592fdbe42522a084cc8cb0.796x388x1.jpg",
+                "id": 2961565,
+                "language": "fr",
+                "lyrics_owner_id": 11457,
+                "lyrics_state": "complete",
+                "path": "/Grim-reaperz-the-cycle-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Grim-reaperz-the-cycle-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 16
+                },
+                "release_date_for_display": "December 16, 2016",
+                "release_date_with_abbreviated_month_for_display": "Dec. 16, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8d2f8a31b3d9d0ee527aaa9ec359c4e2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8d2f8a31b3d9d0ee527aaa9ec359c4e2.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "The Cycle",
+                "title_with_featured": "The Cycle (Ft.\u00a0Furax\u00a0Barbarossa, Infamous\u00a0Mobb, Jeff\u00a0Le Nerf & Scylla)",
+                "url": "https://genius.com/Grim-reaperz-the-cycle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/17103",
+                        "header_image_url": "https://images.genius.com/e078ec8f383447774ffe9a623bc85380.633x633x1.jpg",
+                        "id": 17103,
+                        "image_url": "https://images.genius.com/e078ec8f383447774ffe9a623bc85380.633x633x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Scylla",
+                        "url": "https://genius.com/artists/Scylla"
+                    },
+                    {
+                        "api_path": "/artists/18374",
+                        "header_image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "id": 18374,
+                        "image_url": "https://images.genius.com/e785b9fcf20531f28555f978689ef21c.550x550x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeff Le Nerf",
+                        "url": "https://genius.com/artists/Jeff-le-nerf"
+                    },
+                    {
+                        "api_path": "/artists/17313",
+                        "header_image_url": "https://images.genius.com/03626219792566755dc18faa634b8d04.1000x563x1.jpg",
+                        "id": 17313,
+                        "image_url": "https://images.genius.com/93b0b732b6940d18d76125b202de36a2.383x383x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Furax Barbarossa",
+                        "url": "https://genius.com/artists/Furax-barbarossa"
+                    },
+                    {
+                        "api_path": "/artists/5330",
+                        "header_image_url": "https://images.genius.com/670223cceeee4365a96645d45c1fabd1.534x357x1.jpg",
+                        "id": 5330,
+                        "image_url": "https://images.genius.com/670223cceeee4365a96645d45c1fabd1.534x357x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Infamous Mobb",
+                        "url": "https://genius.com/artists/Infamous-mobb"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/44585",
+                    "header_image_url": "https://images.genius.com/d6193c62ef627cc43b0a45e79dbf5a47.600x402x1.jpg",
+                    "id": 44585,
+                    "image_url": "https://images.genius.com/d6193c62ef627cc43b0a45e79dbf5a47.600x402x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grim Reaperz",
+                    "url": "https://genius.com/artists/Grim-reaperz"
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

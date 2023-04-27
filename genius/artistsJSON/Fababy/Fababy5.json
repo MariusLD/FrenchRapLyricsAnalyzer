@@ -1,0 +1,964 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/2429157",
+                "artist_names": "Fababy",
+                "full_title": "Intro : Mam's by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.960x960x1.jpg",
+                "id": 2429157,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Fababy-intro-mams-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-intro-mams-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 11
+                },
+                "release_date_for_display": "March 11, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 11, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Intro : Mam\u2019s",
+                "title_with_featured": "Intro : Mam's",
+                "url": "https://genius.com/Fababy-intro-mams-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6612324",
+                "artist_names": "Fababy (Ft. H Magnum & Mosty (FRA))",
+                "full_title": "Ivoirien est chaud by\u00a0Fababy (Ft.\u00a0H\u00a0Magnum & Mosty\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                "id": 6612324,
+                "language": "fr",
+                "lyrics_owner_id": 6960962,
+                "lyrics_state": "complete",
+                "path": "/Fababy-ivoirien-est-chaud-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-ivoirien-est-chaud-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 3,
+                    "day": 19
+                },
+                "release_date_for_display": "March 19, 2021",
+                "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ivoirien est chaud",
+                "title_with_featured": "Ivoirien est chaud (Ft.\u00a0H\u00a0Magnum & Mosty\u00a0(FRA))",
+                "url": "https://genius.com/Fababy-ivoirien-est-chaud-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2652806",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2652806,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mosty (FRA)",
+                        "url": "https://genius.com/artists/Mosty-fra"
+                    },
+                    {
+                        "api_path": "/artists/1875",
+                        "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "id": 1875,
+                        "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "H Magnum",
+                        "url": "https://genius.com/artists/H-magnum",
+                        "iq": 1618
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 53,
+                "api_path": "/songs/59685",
+                "artist_names": "La Fouine (Ft. Fababy, Leck & Six)",
+                "full_title": "Jalousie by\u00a0La\u00a0Fouine (Ft.\u00a0Fababy, Leck & Six)",
+                "header_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "id": 59685,
+                "language": "fr",
+                "lyrics_owner_id": 44422,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-jalousie-lyrics",
+                "pyongs_count": 9,
+                "relationships_index_url": "https://genius.com/La-fouine-jalousie-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 23,
+                    "hot": false,
+                    "pageviews": 126733
+                },
+                "title": "Jalousie",
+                "title_with_featured": "Jalousie (Ft.\u00a0Fababy, Leck & Six)",
+                "url": "https://genius.com/La-fouine-jalousie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14336",
+                        "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "id": 14336,
+                        "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Fababy",
+                        "url": "https://genius.com/artists/Fababy",
+                        "iq": 1452
+                    },
+                    {
+                        "api_path": "/artists/14019",
+                        "header_image_url": "https://images.genius.com/0a81748f38232ebd175f74eb009bceaa.1000x600x1.png",
+                        "id": 14019,
+                        "image_url": "https://images.genius.com/97218ed01e906b01404a4571c489b496.554x554x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Leck",
+                        "url": "https://genius.com/artists/Leck",
+                        "iq": 2250
+                    },
+                    {
+                        "api_path": "/artists/325073",
+                        "header_image_url": "https://images.genius.com/e3607c4bc5dace69b3be5989284ea0f9.833x833x1.jpg",
+                        "id": 325073,
+                        "image_url": "https://images.genius.com/e3607c4bc5dace69b3be5989284ea0f9.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Six",
+                        "url": "https://genius.com/artists/Six"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/366834",
+                "artist_names": "Team BS",
+                "full_title": "Jamais assez by\u00a0Team\u00a0BS",
+                "header_image_thumbnail_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.600x600x1.jpg",
+                "id": 366834,
+                "language": "fr",
+                "lyrics_owner_id": 607838,
+                "lyrics_state": "complete",
+                "path": "/Team-bs-jamais-assez-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Team-bs-jamais-assez-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 18546
+                },
+                "title": "Jamais assez",
+                "title_with_featured": "Jamais assez",
+                "url": "https://genius.com/Team-bs-jamais-assez-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/144512",
+                    "header_image_url": "https://images.genius.com/ef110c35c8da4592c303362e5a13b720.546x549x1.jpg",
+                    "id": 144512,
+                    "image_url": "https://images.genius.com/ef110c35c8da4592c303362e5a13b720.546x549x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Team BS",
+                    "url": "https://genius.com/artists/Team-bs"
+                }
+            },
+            {
+                "annotation_count": 33,
+                "api_path": "/songs/57701",
+                "artist_names": "La Fouine (Ft. Fababy)",
+                "full_title": "J'arrive en balle by\u00a0La\u00a0Fouine (Ft.\u00a0Fababy)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/19addb5f3f1718e0933c66484e00a8a4.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/19addb5f3f1718e0933c66484e00a8a4.346x346x1.jpg",
+                "id": 57701,
+                "language": "fr",
+                "lyrics_owner_id": 15586,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-jarrive-en-balle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-jarrive-en-balle-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 10,
+                    "day": 24
+                },
+                "release_date_for_display": "October 24, 2011",
+                "release_date_with_abbreviated_month_for_display": "Oct. 24, 2011",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/19addb5f3f1718e0933c66484e00a8a4.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/19addb5f3f1718e0933c66484e00a8a4.346x346x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 25,
+                    "hot": false,
+                    "pageviews": 16683
+                },
+                "title": "J\u2019arrive en balle",
+                "title_with_featured": "J'arrive en balle (Ft.\u00a0Fababy)",
+                "url": "https://genius.com/La-fouine-jarrive-en-balle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14336",
+                        "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "id": 14336,
+                        "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Fababy",
+                        "url": "https://genius.com/artists/Fababy",
+                        "iq": 1452
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3624262",
+                "artist_names": "Fababy",
+                "full_title": "Je penses \u00e0 nous by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                "id": 3624262,
+                "language": "fr",
+                "lyrics_owner_id": 4787826,
+                "lyrics_state": "complete",
+                "path": "/Fababy-je-penses-a-nous-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-je-penses-a-nous-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 11
+                },
+                "release_date_for_display": "May 11, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 11, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Je penses \u00e0 nous",
+                "title_with_featured": "Je penses \u00e0 nous",
+                "url": "https://genius.com/Fababy-je-penses-a-nous-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 31,
+                "api_path": "/songs/65043",
+                "artist_names": "Fababy",
+                "full_title": "Je Pr\u00e9f\u00e8re Mourir by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/07d8239c1ed6131bcea31fe125d3a881.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/07d8239c1ed6131bcea31fe125d3a881.500x500x1.jpg",
+                "id": 65043,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Fababy-je-prefere-mourir-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Fababy-je-prefere-mourir-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2012",
+                "release_date_with_abbreviated_month_for_display": "2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/07d8239c1ed6131bcea31fe125d3a881.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/07d8239c1ed6131bcea31fe125d3a881.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 23628
+                },
+                "title": "Je Pr\u00e9f\u00e8re Mourir",
+                "title_with_featured": "Je Pr\u00e9f\u00e8re Mourir",
+                "url": "https://genius.com/Fababy-je-prefere-mourir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/365983",
+                "artist_names": "Team BS",
+                "full_title": "Je rappe by\u00a0Team\u00a0BS",
+                "header_image_thumbnail_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.600x600x1.jpg",
+                "id": 365983,
+                "language": "fr",
+                "lyrics_owner_id": 258291,
+                "lyrics_state": "complete",
+                "path": "/Team-bs-je-rappe-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Team-bs-je-rappe-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a87c5475e0cb1aafb75717be19d1d105.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 29794
+                },
+                "title": "Je rappe",
+                "title_with_featured": "Je rappe",
+                "url": "https://genius.com/Team-bs-je-rappe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/144512",
+                    "header_image_url": "https://images.genius.com/ef110c35c8da4592c303362e5a13b720.546x549x1.jpg",
+                    "id": 144512,
+                    "image_url": "https://images.genius.com/ef110c35c8da4592c303362e5a13b720.546x549x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Team BS",
+                    "url": "https://genius.com/artists/Team-bs"
+                }
+            },
+            {
+                "annotation_count": 33,
+                "api_path": "/songs/131249",
+                "artist_names": "Volts Face (Ft. Fababy)",
+                "full_title": "Je sais que tu kiffes quand je rap by\u00a0Volts\u00a0Face (Ft.\u00a0Fababy)",
+                "header_image_thumbnail_url": "https://images.genius.com/64b818dbc4b6f3014a2778157ef05ca1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/64b818dbc4b6f3014a2778157ef05ca1.300x300x1.jpg",
+                "id": 131249,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Volts-face-je-sais-que-tu-kiffes-quand-je-rap-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Volts-face-je-sais-que-tu-kiffes-quand-je-rap-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/64b818dbc4b6f3014a2778157ef05ca1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/64b818dbc4b6f3014a2778157ef05ca1.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 20866
+                },
+                "title": "Je sais que tu kiffes quand je rap",
+                "title_with_featured": "Je sais que tu kiffes quand je rap (Ft.\u00a0Fababy)",
+                "url": "https://genius.com/Volts-face-je-sais-que-tu-kiffes-quand-je-rap-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14336",
+                        "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "id": 14336,
+                        "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Fababy",
+                        "url": "https://genius.com/artists/Fababy",
+                        "iq": 1452
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/20063",
+                    "header_image_url": "https://images.genius.com/6203fe5d5e3ff024a0c958aa8d819e0a.661x661x1.jpg",
+                    "id": 20063,
+                    "image_url": "https://images.genius.com/6203fe5d5e3ff024a0c958aa8d819e0a.661x661x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Volts Face",
+                    "url": "https://genius.com/artists/Volts-face",
+                    "iq": 2773
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/78343",
+                "artist_names": "Bilel (Ft. Fababy)",
+                "full_title": "Je suis ce que je suis by\u00a0Bilel (Ft.\u00a0Fababy)",
+                "header_image_thumbnail_url": "https://images.genius.com/3e9619498885895a90edf3e9460081fc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3e9619498885895a90edf3e9460081fc.600x600x1.jpg",
+                "id": 78343,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Bilel-je-suis-ce-que-je-suis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bilel-je-suis-ce-que-je-suis-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2012",
+                "release_date_with_abbreviated_month_for_display": "2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3e9619498885895a90edf3e9460081fc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3e9619498885895a90edf3e9460081fc.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 15949
+                },
+                "title": "Je suis ce que je suis",
+                "title_with_featured": "Je suis ce que je suis (Ft.\u00a0Fababy)",
+                "url": "https://genius.com/Bilel-je-suis-ce-que-je-suis-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14336",
+                        "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "id": 14336,
+                        "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Fababy",
+                        "url": "https://genius.com/artists/Fababy",
+                        "iq": 1452
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18278",
+                    "header_image_url": "https://images.genius.com/b89e5bac0b5315a6cfebeac5dc7e1f25.960x960x1.jpg",
+                    "id": 18278,
+                    "image_url": "https://images.genius.com/21bbe0d54026d3edd1e4332b65a7debf.800x800x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bilel",
+                    "url": "https://genius.com/artists/Bilel"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3652708",
+                "artist_names": "Fababy",
+                "full_title": "John Snow by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/5e0cb0d87a0ea0e008bf33752eeda0a5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5e0cb0d87a0ea0e008bf33752eeda0a5.600x600x1.jpg",
+                "id": 3652708,
+                "language": "fr",
+                "lyrics_owner_id": 123435,
+                "lyrics_state": "complete",
+                "path": "/Fababy-john-snow-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-john-snow-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 25
+                },
+                "release_date_for_display": "March 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e0cb0d87a0ea0e008bf33752eeda0a5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5e0cb0d87a0ea0e008bf33752eeda0a5.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "John Snow",
+                "title_with_featured": "John Snow",
+                "url": "https://genius.com/Fababy-john-snow-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8168618",
+                "artist_names": "Fababy",
+                "full_title": "Jolie dioula by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/d2a73cfb7877b0a7a204c52d11d7c5be.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d2a73cfb7877b0a7a204c52d11d7c5be.1000x1000x1.jpg",
+                "id": 8168618,
+                "language": null,
+                "lyrics_owner_id": 16171941,
+                "lyrics_state": "incomplete",
+                "path": "/Fababy-jolie-dioula-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-jolie-dioula-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/d2a73cfb7877b0a7a204c52d11d7c5be.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d2a73cfb7877b0a7a204c52d11d7c5be.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jolie dioula",
+                "title_with_featured": "Jolie dioula",
+                "url": "https://genius.com/Fababy-jolie-dioula-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/204531",
+                "artist_names": "Fababy",
+                "full_title": "J'suis nostalgique by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.600x600x1.jpg",
+                "id": 204531,
+                "language": "fr",
+                "lyrics_owner_id": 136680,
+                "lyrics_state": "complete",
+                "path": "/Fababy-jsuis-nostalgique-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-jsuis-nostalgique-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 13343
+                },
+                "title": "J\u2019suis nostalgique",
+                "title_with_featured": "J'suis nostalgique",
+                "url": "https://genius.com/Fababy-jsuis-nostalgique-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3019495",
+                "artist_names": "Fababy",
+                "full_title": "Ka\u00efra by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                "id": 3019495,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Fababy-kaira-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-kaira-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 3
+                },
+                "release_date_for_display": "March 3, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 3, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Ka\u00efra",
+                "title_with_featured": "Ka\u00efra",
+                "url": "https://genius.com/Fababy-kaira-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3652702",
+                "artist_names": "Fababy",
+                "full_title": "La bouteille by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.959x959x1.jpg",
+                "id": 3652702,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Fababy-la-bouteille-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-la-bouteille-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.959x959x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La bouteille",
+                "title_with_featured": "La bouteille",
+                "url": "https://genius.com/Fababy-la-bouteille-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3631919",
+                "artist_names": "Fababy",
+                "full_title": "La Fin by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.959x959x1.jpg",
+                "id": 3631919,
+                "language": "fr",
+                "lyrics_owner_id": 4695915,
+                "lyrics_state": "complete",
+                "path": "/Fababy-la-fin-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-la-fin-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 9
+                },
+                "release_date_for_display": "April 9, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 9, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6bfd749d4dfd177a0c3980ee0741747c.959x959x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "La Fin",
+                "title_with_featured": "La Fin",
+                "url": "https://genius.com/Fababy-la-fin-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5931071",
+                "artist_names": "Hiro (Ft. Naza)",
+                "full_title": "Laissez-les by\u00a0Hiro (Ft.\u00a0Naza)",
+                "header_image_thumbnail_url": "https://images.genius.com/c4e477f0b436e50add24353af5147014.300x110x1.png",
+                "header_image_url": "https://images.genius.com/c4e477f0b436e50add24353af5147014.851x311x1.png",
+                "id": 5931071,
+                "language": "en",
+                "lyrics_owner_id": 11660935,
+                "lyrics_state": "complete",
+                "path": "/Hiro-laissez-les-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hiro-laissez-les-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 29
+                },
+                "release_date_for_display": "January 29, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 29, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c2544513ea6c7211d9f04e501d929026.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c2544513ea6c7211d9f04e501d929026.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Laissez-les",
+                "title_with_featured": "Laissez-les (Ft.\u00a0Naza)",
+                "url": "https://genius.com/Hiro-laissez-les-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/399005",
+                        "header_image_url": "https://images.genius.com/9c18e6f9f9cf0c67f66429138618a0c5.400x268x1.jpg",
+                        "id": 399005,
+                        "image_url": "https://images.genius.com/9ad784628ff9d79029b1e9aa48e6812a.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naza",
+                        "url": "https://genius.com/artists/Naza"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/328600",
+                    "header_image_url": "https://images.genius.com/e33af63601345171f022cbb264edff13.768x768x1.jpg",
+                    "id": 328600,
+                    "image_url": "https://images.genius.com/e33af63601345171f022cbb264edff13.768x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hiro",
+                    "url": "https://genius.com/artists/Hiro",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2437224",
+                "artist_names": "Fababy",
+                "full_title": "La mala by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.960x960x1.jpg",
+                "id": 2437224,
+                "language": "fr",
+                "lyrics_owner_id": 138580,
+                "lyrics_state": "complete",
+                "path": "/Fababy-la-mala-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-la-mala-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 11
+                },
+                "release_date_for_display": "March 11, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 11, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/624f279d4d4a6fa2641e75c69f101db1.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "La mala",
+                "title_with_featured": "La mala",
+                "url": "https://genius.com/Fababy-la-mala-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6273980",
+                "artist_names": "Fababy",
+                "full_title": "La r\u00e9volte by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/1584e02c857c27307459c19b5730b459.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1584e02c857c27307459c19b5730b459.600x600x1.jpg",
+                "id": 6273980,
+                "language": "fr",
+                "lyrics_owner_id": 11998976,
+                "lyrics_state": "complete",
+                "path": "/Fababy-la-revolte-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Fababy-la-revolte-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 12
+                },
+                "release_date_for_display": "December 12, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 12, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1584e02c857c27307459c19b5730b459.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1584e02c857c27307459c19b5730b459.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "La r\u00e9volte",
+                "title_with_featured": "La r\u00e9volte",
+                "url": "https://genius.com/Fababy-la-revolte-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 56,
+                "api_path": "/songs/57799",
+                "artist_names": "Fababy",
+                "full_title": "La Symphonie Des Chargeurs by\u00a0Fababy",
+                "header_image_thumbnail_url": "https://images.genius.com/c0eaf3210c4938d0a5c642a7fd71b7b4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c0eaf3210c4938d0a5c642a7fd71b7b4.500x500x1.jpg",
+                "id": 57799,
+                "language": "fr",
+                "lyrics_owner_id": 6849,
+                "lyrics_state": "complete",
+                "path": "/Fababy-la-symphonie-des-chargeurs-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-la-symphonie-des-chargeurs-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 27
+                },
+                "release_date_for_display": "February 27, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 27, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c0eaf3210c4938d0a5c642a7fd71b7b4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c0eaf3210c4938d0a5c642a7fd71b7b4.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 38,
+                    "hot": false,
+                    "pageviews": 23268
+                },
+                "title": "La Symphonie Des Chargeurs",
+                "title_with_featured": "La Symphonie Des Chargeurs",
+                "url": "https://genius.com/Fababy-la-symphonie-des-chargeurs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            }
+        ],
+        "next_page": 6
+    }
+}

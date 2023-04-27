@@ -1,0 +1,931 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4789732",
+                "artist_names": "Black M",
+                "full_title": "Lucien by\u00a0Black\u00a0M",
+                "header_image_thumbnail_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.800x800x1.jpg",
+                "id": 4789732,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Black-m-lucien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Black-m-lucien-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 13
+                },
+                "release_date_for_display": "September 13, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 13, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lucien",
+                "title_with_featured": "Lucien",
+                "url": "https://genius.com/Black-m-lucien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15788",
+                    "header_image_url": "https://images.genius.com/218186bc591a53b89942f9e8924fe58e.1000x582x1.jpg",
+                    "id": 15788,
+                    "image_url": "https://images.genius.com/500eb6bdfbc4f33bd72af4f3d3e7e6a1.930x930x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Black M",
+                    "url": "https://genius.com/artists/Black-m",
+                    "iq": 1649
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5959694",
+                "artist_names": "Bianca Costa",
+                "full_title": "Luis by\u00a0Bianca\u00a0Costa",
+                "header_image_thumbnail_url": "https://images.genius.com/2b0dd55878594404727697e00d2389cc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2b0dd55878594404727697e00d2389cc.1000x1000x1.jpg",
+                "id": 5959694,
+                "language": "en",
+                "lyrics_owner_id": 6552113,
+                "lyrics_state": "complete",
+                "path": "/Bianca-costa-luis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bianca-costa-luis-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 18
+                },
+                "release_date_for_display": "September 18, 2020",
+                "release_date_with_abbreviated_month_for_display": "Sep. 18, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2b0dd55878594404727697e00d2389cc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2b0dd55878594404727697e00d2389cc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Luis",
+                "title_with_featured": "Luis",
+                "url": "https://genius.com/Bianca-costa-luis-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2395635",
+                    "header_image_url": "https://images.genius.com/1ca0b835917fd06119eef1e787d36aa7.1000x670x1.jpg",
+                    "id": 2395635,
+                    "image_url": "https://images.genius.com/d23a58ad0505537a24f0179e201842d0.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bianca Costa",
+                    "url": "https://genius.com/artists/Bianca-costa"
+                }
+            },
+            {
+                "annotation_count": 52,
+                "api_path": "/songs/65365",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Ma direction by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.499x499x1.jpg",
+                "id": 65365,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-ma-direction-lyrics",
+                "pyongs_count": 12,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-ma-direction-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 5
+                },
+                "release_date_for_display": "March 5, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 5, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.499x499x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 404937
+                },
+                "title": "Ma direction",
+                "title_with_featured": "Ma direction",
+                "url": "https://genius.com/Sexion-dassaut-ma-direction-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/528641",
+                "artist_names": "Maska",
+                "full_title": "Mama by\u00a0Maska",
+                "header_image_thumbnail_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.400x400x1.jpg",
+                "id": 528641,
+                "language": "fr",
+                "lyrics_owner_id": 1240085,
+                "lyrics_state": "complete",
+                "path": "/Maska-mama-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maska-mama-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mama",
+                "title_with_featured": "Mama",
+                "url": "https://genius.com/Maska-mama-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/67251",
+                "artist_names": "Dry (Ft. Gims)",
+                "full_title": "Ma m\u00e9lodie by\u00a0Dry (Ft.\u00a0Gims)",
+                "header_image_thumbnail_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.600x600x1.jpg",
+                "id": 67251,
+                "language": "en",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Dry-ma-melodie-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Dry-ma-melodie-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 20
+                },
+                "release_date_for_display": "February 20, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 20, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 44450
+                },
+                "title": "Ma m\u00e9lodie",
+                "title_with_featured": "Ma m\u00e9lodie (Ft.\u00a0Gims)",
+                "url": "https://genius.com/Dry-ma-melodie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13325",
+                        "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                        "id": 13325,
+                        "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gims",
+                        "url": "https://genius.com/artists/Gims"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1260",
+                    "header_image_url": "https://images.genius.com/9c0a4ec6e6e186286e3d8e5967cf0a09.650x250x1.jpg",
+                    "id": 1260,
+                    "image_url": "https://images.genius.com/00604a702de2dd2a6beb6250679a53b5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dry",
+                    "url": "https://genius.com/artists/Dry",
+                    "iq": 558
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3787644",
+                "artist_names": "Maska",
+                "full_title": "Marley ou Cobain by\u00a0Maska",
+                "header_image_thumbnail_url": "https://images.genius.com/e1f483192a2087cae210d0090aa4fbe5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e1f483192a2087cae210d0090aa4fbe5.883x883x1.jpg",
+                "id": 3787644,
+                "language": "fr",
+                "lyrics_owner_id": 7550841,
+                "lyrics_state": "complete",
+                "path": "/Maska-marley-ou-cobain-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maska-marley-ou-cobain-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e1f483192a2087cae210d0090aa4fbe5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e1f483192a2087cae210d0090aa4fbe5.883x883x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Marley ou Cobain",
+                "title_with_featured": "Marley ou Cobain",
+                "url": "https://genius.com/Maska-marley-ou-cobain-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3257320",
+                "artist_names": "Maska",
+                "full_title": "Maudite taffe by\u00a0Maska",
+                "header_image_thumbnail_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.960x960x1.jpg",
+                "id": 3257320,
+                "language": "fr",
+                "lyrics_owner_id": 3203186,
+                "lyrics_state": "complete",
+                "path": "/Maska-maudite-taffe-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Maska-maudite-taffe-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 13
+                },
+                "release_date_for_display": "October 13, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 13, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Maudite taffe",
+                "title_with_featured": "Maudite taffe",
+                "url": "https://genius.com/Maska-maudite-taffe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4406540",
+                "artist_names": "Maska",
+                "full_title": "M\u00e9galo by\u00a0Maska",
+                "header_image_thumbnail_url": "https://images.genius.com/adf2a51ffe7840aa178c5f960da2dbb8.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/adf2a51ffe7840aa178c5f960da2dbb8.1000x563x1.jpg",
+                "id": 4406540,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Maska-megalo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maska-megalo-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 14
+                },
+                "release_date_for_display": "March 14, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 14, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/db959108caae44bde66f72581d914c10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/db959108caae44bde66f72581d914c10.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "M\u00e9galo",
+                "title_with_featured": "M\u00e9galo",
+                "url": "https://genius.com/Maska-megalo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/7243397",
+                "artist_names": "Lefa",
+                "full_title": "Mentor by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/209d84cf0d979ade29e724669449e130.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/209d84cf0d979ade29e724669449e130.870x489x1.jpg",
+                "id": 7243397,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Lefa-mentor-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Lefa-mentor-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f669cc91835cf1bf2f277f0cf1be8f24.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f669cc91835cf1bf2f277f0cf1be8f24.693x693x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 7086
+                },
+                "title": "Mentor",
+                "title_with_featured": "Mentor",
+                "url": "https://genius.com/Lefa-mentor-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/528623",
+                "artist_names": "Maska (Ft. Lynda)",
+                "full_title": "Mes peines perdues by\u00a0Maska (Ft.\u00a0Lynda)",
+                "header_image_thumbnail_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.400x400x1.jpg",
+                "id": 528623,
+                "language": "fr",
+                "lyrics_owner_id": 296494,
+                "lyrics_state": "complete",
+                "path": "/Maska-mes-peines-perdues-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Maska-mes-peines-perdues-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9577ddb2b77d611dd26fdca236c91f88.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mes peines perdues",
+                "title_with_featured": "Mes peines perdues (Ft.\u00a0Lynda)",
+                "url": "https://genius.com/Maska-mes-peines-perdues-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/59544",
+                        "header_image_url": "https://images.genius.com/3c053db38084d46e0524a9ca07b35b42.1000x956x1.jpg",
+                        "id": 59544,
+                        "image_url": "https://images.genius.com/99a701bf295331f9eaf6b73acf67ae41.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lynda",
+                        "url": "https://genius.com/artists/Lynda"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/61257",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Mets pas celle-l\u00e0 by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/c3ba40661a8ad94b9ddf393af44b74a7.300x166x1.jpg",
+                "header_image_url": "https://images.genius.com/c3ba40661a8ad94b9ddf393af44b74a7.512x283x1.jpg",
+                "id": 61257,
+                "language": "fr",
+                "lyrics_owner_id": 6383,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-mets-pas-celle-la-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 12,
+                    "day": 11
+                },
+                "release_date_for_display": "December 11, 2011",
+                "release_date_with_abbreviated_month_for_display": "Dec. 11, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4e87ac7585b00c3cc92bc49a70ed8b9e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4e87ac7585b00c3cc92bc49a70ed8b9e.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 40355
+                },
+                "title": "Mets pas celle-l\u00e0",
+                "title_with_featured": "Mets pas celle-l\u00e0",
+                "url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6841388",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Mets pas celle l\u00e0 (Instrumental) by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.1000x1000x1.jpg",
+                "id": 6841388,
+                "language": "en",
+                "lyrics_owner_id": 11601922,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-mets-pas-celle-la-instrumental-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-instrumental-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 19
+                },
+                "release_date_for_display": "November 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mets pas celle l\u00e0 (Instrumental)",
+                "title_with_featured": "Mets pas celle l\u00e0 (Instrumental)",
+                "url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-instrumental-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/59114",
+                "artist_names": "Jarod (Ft. Sexion d'Assaut)",
+                "full_title": "Mine de rien by\u00a0Jarod (Ft.\u00a0Sexion\u00a0d'Assaut)",
+                "header_image_thumbnail_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.610x610x1.jpg",
+                "id": 59114,
+                "language": "fr",
+                "lyrics_owner_id": 6849,
+                "lyrics_state": "complete",
+                "path": "/Jarod-mine-de-rien-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Jarod-mine-de-rien-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2011",
+                "release_date_with_abbreviated_month_for_display": "2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.610x610x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mine de rien",
+                "title_with_featured": "Mine de rien (Ft.\u00a0Sexion\u00a0d'Assaut)",
+                "url": "https://genius.com/Jarod-mine-de-rien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1261",
+                        "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                        "id": 1261,
+                        "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sexion d\u2019Assaut",
+                        "url": "https://genius.com/artists/Sexion-dassaut"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14828",
+                    "header_image_url": "https://images.genius.com/57f8aff00042bbfb7c2db0bf2e56cd64.1000x667x1.jpg",
+                    "id": 14828,
+                    "image_url": "https://images.genius.com/0f847931ed12b6cf8c49b3ba4ca2ff61.557x557x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Jarod",
+                    "url": "https://genius.com/artists/Jarod",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/364734",
+                "artist_names": "Black M",
+                "full_title": "Mme Pavoshko by\u00a0Black\u00a0M",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/c15c693de433e02b61e0e1b987a19409.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/c15c693de433e02b61e0e1b987a19409.960x960x1.jpg",
+                "id": 364734,
+                "language": "fr",
+                "lyrics_owner_id": 591510,
+                "lyrics_state": "complete",
+                "path": "/Black-m-mme-pavoshko-lyrics",
+                "pyongs_count": 15,
+                "relationships_index_url": "https://genius.com/Black-m-mme-pavoshko-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 21
+                },
+                "release_date_for_display": "February 21, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 21, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/c15c693de433e02b61e0e1b987a19409.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/c15c693de433e02b61e0e1b987a19409.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 113220
+                },
+                "title": "Mme Pavoshko",
+                "title_with_featured": "Mme Pavoshko",
+                "url": "https://genius.com/Black-m-mme-pavoshko-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15788",
+                    "header_image_url": "https://images.genius.com/218186bc591a53b89942f9e8924fe58e.1000x582x1.jpg",
+                    "id": 15788,
+                    "image_url": "https://images.genius.com/500eb6bdfbc4f33bd72af4f3d3e7e6a1.930x930x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Black M",
+                    "url": "https://genius.com/artists/Black-m",
+                    "iq": 1649
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3257315",
+                "artist_names": "Maska",
+                "full_title": "Mon h\u00e9ro\u00efne by\u00a0Maska",
+                "header_image_thumbnail_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.960x960x1.jpg",
+                "id": 3257315,
+                "language": "fr",
+                "lyrics_owner_id": 3203186,
+                "lyrics_state": "complete",
+                "path": "/Maska-mon-heroine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maska-mon-heroine-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 13
+                },
+                "release_date_for_display": "October 13, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 13, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1073ed3f7c45e4de8e5857c0dbe1b60d.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mon h\u00e9ro\u00efne",
+                "title_with_featured": "Mon h\u00e9ro\u00efne",
+                "url": "https://genius.com/Maska-mon-heroine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/334332",
+                "artist_names": "Maska (Ft. Dr B\u00e9riz)",
+                "full_title": "Mon mal-\u00eatre by\u00a0Maska (Ft.\u00a0Dr\u00a0B\u00e9riz)",
+                "header_image_thumbnail_url": "https://images.genius.com/769fc914ebd47293e8a0cfbfa494b923.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/769fc914ebd47293e8a0cfbfa494b923.1000x1000x1.jpg",
+                "id": 334332,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Maska-mon-mal-etre-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Maska-mon-mal-etre-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/769fc914ebd47293e8a0cfbfa494b923.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/769fc914ebd47293e8a0cfbfa494b923.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 6064
+                },
+                "title": "Mon mal-\u00eatre",
+                "title_with_featured": "Mon mal-\u00eatre (Ft.\u00a0Dr\u00a0B\u00e9riz)",
+                "url": "https://genius.com/Maska-mon-mal-etre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/33739",
+                        "header_image_url": "https://images.genius.com/638c0ab69c2cf115efa79fc06e94ee66.912x912x1.jpg",
+                        "id": 33739,
+                        "image_url": "https://images.genius.com/83730be2e26044e0c265afc4503c6949.630x630x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dr B\u00e9riz",
+                        "url": "https://genius.com/artists/Dr-beriz",
+                        "iq": 1433
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7658324",
+                "artist_names": "Maska",
+                "full_title": "Mortel by\u00a0Maska",
+                "header_image_thumbnail_url": "https://images.genius.com/48e4d3cc0365314b1926daa21b84de59.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/48e4d3cc0365314b1926daa21b84de59.1000x1000x1.jpg",
+                "id": 7658324,
+                "language": "fr",
+                "lyrics_owner_id": 7550841,
+                "lyrics_state": "complete",
+                "path": "/Maska-mortel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maska-mortel-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/48e4d3cc0365314b1926daa21b84de59.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/48e4d3cc0365314b1926daa21b84de59.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mortel",
+                "title_with_featured": "Mortel",
+                "url": "https://genius.com/Maska-mortel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/37482",
+                    "header_image_url": "https://images.genius.com/460daa5e67968bb4e4c6232e6775ae69.1000x666x1.png",
+                    "id": 37482,
+                    "image_url": "https://images.genius.com/cd37f0c9011f62a66986e47cc455c429.525x525x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maska",
+                    "url": "https://genius.com/artists/Maska"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3839791",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Ne m\u2019engraine pas by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/b5ff384c2694be7fa5750cc1873d364e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5ff384c2694be7fa5750cc1873d364e.400x400x1.jpg",
+                "id": 3839791,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-ne-mengraine-pas-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-ne-mengraine-pas-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5ff384c2694be7fa5750cc1873d364e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5ff384c2694be7fa5750cc1873d364e.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Ne m\u2019engraine pas",
+                "title_with_featured": "Ne m\u2019engraine pas",
+                "url": "https://genius.com/Sexion-dassaut-ne-mengraine-pas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4789722",
+                "artist_names": "Black M (Ft. PLK)",
+                "full_title": "No No No by\u00a0Black\u00a0M (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.800x800x1.jpg",
+                "id": 4789722,
+                "language": "fr",
+                "lyrics_owner_id": 3950478,
+                "lyrics_state": "complete",
+                "path": "/Black-m-no-no-no-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Black-m-no-no-no-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 13
+                },
+                "release_date_for_display": "September 13, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 13, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5a47462fc65e897780eb5f97d277e246.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "No No No",
+                "title_with_featured": "No No No (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Black-m-no-no-no-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15788",
+                    "header_image_url": "https://images.genius.com/218186bc591a53b89942f9e8924fe58e.1000x582x1.jpg",
+                    "id": 15788,
+                    "image_url": "https://images.genius.com/500eb6bdfbc4f33bd72af4f3d3e7e6a1.930x930x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Black M",
+                    "url": "https://genius.com/artists/Black-m",
+                    "iq": 1649
+                }
+            },
+            {
+                "annotation_count": 28,
+                "api_path": "/songs/322258",
+                "artist_names": "Sexion d'Assaut (Ft. Dry)",
+                "full_title": "Normal by\u00a0Sexion\u00a0d'Assaut (Ft.\u00a0Dry)",
+                "header_image_thumbnail_url": "https://images.genius.com/13ce4cd36114220da6cc6fe8bbfe04f2.300x303x1.jpg",
+                "header_image_url": "https://images.genius.com/13ce4cd36114220da6cc6fe8bbfe04f2.461x465x1.jpg",
+                "id": 322258,
+                "language": "fr",
+                "lyrics_owner_id": 112706,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-normal-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-normal-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2007",
+                "release_date_with_abbreviated_month_for_display": "2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/13ce4cd36114220da6cc6fe8bbfe04f2.300x303x1.jpg",
+                "song_art_image_url": "https://images.genius.com/13ce4cd36114220da6cc6fe8bbfe04f2.461x465x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Normal",
+                "title_with_featured": "Normal (Ft.\u00a0Dry)",
+                "url": "https://genius.com/Sexion-dassaut-normal-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1260",
+                        "header_image_url": "https://images.genius.com/9c0a4ec6e6e186286e3d8e5967cf0a09.650x250x1.jpg",
+                        "id": 1260,
+                        "image_url": "https://images.genius.com/00604a702de2dd2a6beb6250679a53b5.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dry",
+                        "url": "https://genius.com/artists/Dry",
+                        "iq": 558
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

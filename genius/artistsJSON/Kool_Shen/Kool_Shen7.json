@@ -1,0 +1,945 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/377337",
+                "artist_names": "Kool Shen (Ft. Nano (Producer) & Tony Truand)",
+                "full_title": "Oh No by\u00a0Kool\u00a0Shen (Ft.\u00a0Nano\u00a0(Producer) & Tony\u00a0Truand)",
+                "header_image_thumbnail_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.472x472x1.jpg",
+                "id": 377337,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Kool-shen-oh-no-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kool-shen-oh-no-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 4,
+                    "day": 19
+                },
+                "release_date_for_display": "April 19, 2004",
+                "release_date_with_abbreviated_month_for_display": "Apr. 19, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.472x472x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Oh No",
+                "title_with_featured": "Oh No (Ft.\u00a0Nano\u00a0(Producer) & Tony\u00a0Truand)",
+                "url": "https://genius.com/Kool-shen-oh-no-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1367161",
+                        "header_image_url": "https://images.genius.com/2d11bf482201c37f7f817c9051a0d210.270x270x1.jpg",
+                        "id": 1367161,
+                        "image_url": "https://images.genius.com/2d11bf482201c37f7f817c9051a0d210.270x270x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tony Truand",
+                        "url": "https://genius.com/artists/Tony-truand"
+                    },
+                    {
+                        "api_path": "/artists/49280",
+                        "header_image_url": "https://images.genius.com/8c63d308514135edb569645b037c84f7.499x499x1.jpg",
+                        "id": 49280,
+                        "image_url": "https://images.genius.com/8c63d308514135edb569645b037c84f7.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nano (Producer)",
+                        "url": "https://genius.com/artists/Nano-producer"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1591417",
+                "artist_names": "Lord Kossity (Ft. Kool Shen)",
+                "full_title": "Oh No (Judgement Day) by\u00a0Lord\u00a0Kossity (Ft.\u00a0Kool\u00a0Shen)",
+                "header_image_thumbnail_url": "https://images.genius.com/b5d5e4a737168143fcfea3347e9b98e9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5d5e4a737168143fcfea3347e9b98e9.600x600x1.jpg",
+                "id": 1591417,
+                "language": "en",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Lord-kossity-oh-no-judgement-day-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lord-kossity-oh-no-judgement-day-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5d5e4a737168143fcfea3347e9b98e9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5d5e4a737168143fcfea3347e9b98e9.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Oh No (Judgement Day)",
+                "title_with_featured": "Oh No (Judgement Day) (Ft.\u00a0Kool\u00a0Shen)",
+                "url": "https://genius.com/Lord-kossity-oh-no-judgement-day-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12547",
+                        "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                        "id": 12547,
+                        "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kool Shen",
+                        "url": "https://genius.com/artists/Kool-shen"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18002",
+                    "header_image_url": "https://images.genius.com/51cf093f407940de4303c737d2dac6ff.526x526x1.jpg",
+                    "id": 18002,
+                    "image_url": "https://images.genius.com/51cf093f407940de4303c737d2dac6ff.526x526x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lord Kossity",
+                    "url": "https://genius.com/artists/Lord-kossity"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3036676",
+                "artist_names": "Supr\u00eame NTM (Ft. Psykopat)",
+                "full_title": "Old Skool by\u00a0Supr\u00eame\u00a0NTM (Ft.\u00a0Psykopat)",
+                "header_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "id": 3036676,
+                "language": "en",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-old-skool-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-old-skool-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 3,
+                    "day": 28
+                },
+                "release_date_for_display": "March 28, 1995",
+                "release_date_with_abbreviated_month_for_display": "Mar. 28, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Old Skool",
+                "title_with_featured": "Old Skool (Ft.\u00a0Psykopat)",
+                "url": "https://genius.com/Supreme-ntm-old-skool-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/188094",
+                        "header_image_url": "https://images.genius.com/48edbbb8b55a6baeaa83f3dd3fb1c2e2.320x180x1.jpg",
+                        "id": 188094,
+                        "image_url": "https://images.genius.com/904d523acffcab1a387a8810b493f250.536x536x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Psykopat",
+                        "url": "https://genius.com/artists/Psykopat"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/214455",
+                "artist_names": "Kool Shen",
+                "full_title": "On a enfonc\u00e9 des portes by\u00a0Kool\u00a0Shen",
+                "header_image_thumbnail_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.472x472x1.jpg",
+                "id": 214455,
+                "language": "fr",
+                "lyrics_owner_id": 270257,
+                "lyrics_state": "complete",
+                "path": "/Kool-shen-on-a-enfonce-des-portes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kool-shen-on-a-enfonce-des-portes-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 4,
+                    "day": 19
+                },
+                "release_date_for_display": "April 19, 2004",
+                "release_date_with_abbreviated_month_for_display": "Apr. 19, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2eca13931f4a02141edb641019859b89.472x472x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "On a enfonc\u00e9 des portes",
+                "title_with_featured": "On a enfonc\u00e9 des portes",
+                "url": "https://genius.com/Kool-shen-on-a-enfonce-des-portes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/87367",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "On est encore l\u00e0 by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.320x320x1.jpg",
+                "id": 87367,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-on-est-encore-la-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-on-est-encore-la-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 4,
+                    "day": 21
+                },
+                "release_date_for_display": "April 21, 1998",
+                "release_date_with_abbreviated_month_for_display": "Apr. 21, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 20118
+                },
+                "title": "On est encore l\u00e0",
+                "title_with_featured": "On est encore l\u00e0",
+                "url": "https://genius.com/Supreme-ntm-on-est-encore-la-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/515375",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "On est encore l\u00e0 - Part 2 by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.320x320x1.jpg",
+                "id": 515375,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-on-est-encore-la-part-2-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-on-est-encore-la-part-2-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 4,
+                    "day": 21
+                },
+                "release_date_for_display": "April 21, 1998",
+                "release_date_with_abbreviated_month_for_display": "Apr. 21, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "On est encore l\u00e0 - Part 2",
+                "title_with_featured": "On est encore l\u00e0 - Part 2",
+                "url": "https://genius.com/Supreme-ntm-on-est-encore-la-part-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3274003",
+                "artist_names": "IV My People",
+                "full_title": "On Vit Nos Rimes by\u00a0IV\u00a0My People",
+                "header_image_thumbnail_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.500x500x1.jpg",
+                "id": 3274003,
+                "language": "fr",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Iv-my-people-on-vit-nos-rimes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Iv-my-people-on-vit-nos-rimes-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 11,
+                    "day": 14
+                },
+                "release_date_for_display": "November 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Nov. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On Vit Nos Rimes",
+                "title_with_featured": "On Vit Nos Rimes",
+                "url": "https://genius.com/Iv-my-people-on-vit-nos-rimes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19243",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 19243,
+                    "image_url": "https://images.genius.com/cb6cef84eebc4ff7b340a995c2e455a0.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "IV My People",
+                    "url": "https://genius.com/artists/Iv-my-people"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/379186",
+                "artist_names": "Kool Shen",
+                "full_title": "Outro by\u00a0Kool\u00a0Shen",
+                "header_image_thumbnail_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.300x306x1.jpg",
+                "header_image_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.981x1000x1.jpg",
+                "id": 379186,
+                "language": null,
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Kool-shen-outro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kool-shen-outro-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.300x306x1.jpg",
+                "song_art_image_url": "https://images.genius.com/76e90ad4d4e5f04addaf08fe6e05fc54.981x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Outro",
+                "title_with_featured": "Outro",
+                "url": "https://genius.com/Kool-shen-outro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/378638",
+                "artist_names": "Busta Flex",
+                "full_title": "Outro by\u00a0Busta\u00a0Flex",
+                "header_image_thumbnail_url": "https://images.genius.com/f420c4b2b6f752f2d528dafa2174845e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f420c4b2b6f752f2d528dafa2174845e.750x750x1.jpg",
+                "id": 378638,
+                "language": null,
+                "lyrics_owner_id": 153454,
+                "lyrics_state": "complete",
+                "path": "/Busta-flex-outro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Busta-flex-outro-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 2,
+                    "day": 2
+                },
+                "release_date_for_display": "February 2, 1998",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f420c4b2b6f752f2d528dafa2174845e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f420c4b2b6f752f2d528dafa2174845e.750x750x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Outro",
+                "title_with_featured": "Outro",
+                "url": "https://genius.com/Busta-flex-outro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14348",
+                    "header_image_url": "https://images.genius.com/40683b90799d7e324c90f64428e92d45.650x250x1.jpg",
+                    "id": 14348,
+                    "image_url": "https://images.genius.com/4fff2a46b9993a490e39019cf336b7b7.959x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Busta Flex",
+                    "url": "https://genius.com/artists/Busta-flex"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3036685",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "Outro (Album - Paris Sous Les Bombes) by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "id": 3036685,
+                "language": "en",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-outro-album-paris-sous-les-bombes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-outro-album-paris-sous-les-bombes-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 3,
+                    "day": 28
+                },
+                "release_date_for_display": "March 28, 1995",
+                "release_date_with_abbreviated_month_for_display": "Mar. 28, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Outro (Album - Paris Sous Les Bombes)",
+                "title_with_featured": "Outro (Album - Paris Sous Les Bombes)",
+                "url": "https://genius.com/Supreme-ntm-outro-album-paris-sous-les-bombes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/275497",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "Outro (Supr\u00eame NTM) by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.320x320x1.jpg",
+                "id": 275497,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-outro-supreme-ntm-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-outro-supreme-ntm-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 4,
+                    "day": 21
+                },
+                "release_date_for_display": "April 21, 1998",
+                "release_date_with_abbreviated_month_for_display": "Apr. 21, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17800f65ce7efc1a4bea4f1bc86685c6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Outro (Supr\u00eame NTM)",
+                "title_with_featured": "Outro (Supr\u00eame NTM)",
+                "url": "https://genius.com/Supreme-ntm-outro-supreme-ntm-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2434073",
+                "artist_names": "Kool Shen (Ft. Lyricson)",
+                "full_title": "Over by\u00a0Kool\u00a0Shen (Ft.\u00a0Lyricson)",
+                "header_image_thumbnail_url": "https://images.genius.com/6116436b20ecea2d83ee15f8c1d85745.300x298x1.png",
+                "header_image_url": "https://images.genius.com/6116436b20ecea2d83ee15f8c1d85745.600x595x1.png",
+                "id": 2434073,
+                "language": "fr",
+                "lyrics_owner_id": 83343,
+                "lyrics_state": "complete",
+                "path": "/Kool-shen-over-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kool-shen-over-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 2,
+                    "day": 26
+                },
+                "release_date_for_display": "February 26, 2016",
+                "release_date_with_abbreviated_month_for_display": "Feb. 26, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6116436b20ecea2d83ee15f8c1d85745.300x298x1.png",
+                "song_art_image_url": "https://images.genius.com/6116436b20ecea2d83ee15f8c1d85745.600x595x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Over",
+                "title_with_featured": "Over (Ft.\u00a0Lyricson)",
+                "url": "https://genius.com/Kool-shen-over-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21120",
+                        "header_image_url": "https://images.genius.com/412aab13ef94114fcbfe2c22ce8612f9.250x377x1.jpg",
+                        "id": 21120,
+                        "image_url": "https://images.genius.com/412aab13ef94114fcbfe2c22ce8612f9.250x377x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lyricson",
+                        "url": "https://genius.com/artists/Lyricson"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/336146",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "Paix by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/0ed21f66087dae33ef9316e3348aa0f7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0ed21f66087dae33ef9316e3348aa0f7.600x600x1.jpg",
+                "id": 336146,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-paix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-paix-sample",
+                "release_date_components": {
+                    "year": 1991,
+                    "month": 6,
+                    "day": 3
+                },
+                "release_date_for_display": "June 3, 1991",
+                "release_date_with_abbreviated_month_for_display": "Jun. 3, 1991",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0ed21f66087dae33ef9316e3348aa0f7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0ed21f66087dae33ef9316e3348aa0f7.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Paix",
+                "title_with_featured": "Paix",
+                "url": "https://genius.com/Supreme-ntm-paix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8605311",
+                "artist_names": "Kool Shen (Ft. Serum (FRA))",
+                "full_title": "Paradis du son by\u00a0Kool\u00a0Shen (Ft.\u00a0Serum\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/2a1fc37181a4db80e8e2928f38cf8cc4.300x304x1.jpg",
+                "header_image_url": "https://images.genius.com/2a1fc37181a4db80e8e2928f38cf8cc4.351x356x1.jpg",
+                "id": 8605311,
+                "language": "fr",
+                "lyrics_owner_id": 196265,
+                "lyrics_state": "incomplete",
+                "path": "/Kool-shen-paradis-du-son-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kool-shen-paradis-du-son-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/2a1fc37181a4db80e8e2928f38cf8cc4.300x304x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2a1fc37181a4db80e8e2928f38cf8cc4.351x356x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Paradis du son",
+                "title_with_featured": "Paradis du son (Ft.\u00a0Serum\u00a0(FRA))",
+                "url": "https://genius.com/Kool-shen-paradis-du-son-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/612450",
+                        "header_image_url": "https://images.genius.com/9a9aaf23fef4de9444c57af3e4d7a436.396x400x1.jpg",
+                        "id": 612450,
+                        "image_url": "https://images.genius.com/3b62f038d440f0c046bf9c8cf62e00b0.300x300x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Serum (FRA)",
+                        "url": "https://genius.com/artists/Serum-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/120954",
+                "artist_names": "Kool Shen (Ft. Rold\u00e1n & Salif)",
+                "full_title": "Paris Cuba by\u00a0Kool\u00a0Shen (Ft.\u00a0Rold\u00e1n & Salif)",
+                "header_image_thumbnail_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.500x500x1.jpg",
+                "id": 120954,
+                "language": "en",
+                "lyrics_owner_id": 96980,
+                "lyrics_state": "complete",
+                "path": "/Kool-shen-paris-cuba-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kool-shen-paris-cuba-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 11,
+                    "day": 14
+                },
+                "release_date_for_display": "November 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Nov. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf039634fda63898bff42fcc9b7f7024.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 5426
+                },
+                "title": "Paris Cuba",
+                "title_with_featured": "Paris Cuba (Ft.\u00a0Rold\u00e1n & Salif)",
+                "url": "https://genius.com/Kool-shen-paris-cuba-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1454457",
+                        "header_image_url": "https://images.genius.com/04d6170300ef0010eb47b90c4db1a763.266x266x1.jpg",
+                        "id": 1454457,
+                        "image_url": "https://images.genius.com/04d6170300ef0010eb47b90c4db1a763.266x266x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rold\u00e1n",
+                        "url": "https://genius.com/artists/Roldan"
+                    },
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12547",
+                    "header_image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "id": 12547,
+                    "image_url": "https://images.genius.com/adfc115df7aa8098e784e49772251f52.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kool Shen",
+                    "url": "https://genius.com/artists/Kool-shen"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/51243",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "Paris sous les bombes by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "id": 51243,
+                "language": "fr",
+                "lyrics_owner_id": 15008,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-paris-sous-les-bombes-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-paris-sous-les-bombes-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 1995",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 10694
+                },
+                "title": "Paris sous les bombes",
+                "title_with_featured": "Paris sous les bombes",
+                "url": "https://genius.com/Supreme-ntm-paris-sous-les-bombes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/50404",
+                "artist_names": "Supr\u00eame NTM (Ft. Psykopat)",
+                "full_title": "Pass pass le oinj' by\u00a0Supr\u00eame\u00a0NTM (Ft.\u00a0Psykopat)",
+                "header_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "id": 50404,
+                "language": "fr",
+                "lyrics_owner_id": 15008,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-pass-pass-le-oinj-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-pass-pass-le-oinj-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 1995",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 15018
+                },
+                "title": "Pass pass le oinj\u2019",
+                "title_with_featured": "Pass pass le oinj' (Ft.\u00a0Psykopat)",
+                "url": "https://genius.com/Supreme-ntm-pass-pass-le-oinj-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/188094",
+                        "header_image_url": "https://images.genius.com/48edbbb8b55a6baeaa83f3dd3fb1c2e2.320x180x1.jpg",
+                        "id": 188094,
+                        "image_url": "https://images.genius.com/904d523acffcab1a387a8810b493f250.536x536x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Psykopat",
+                        "url": "https://genius.com/artists/Psykopat"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/51239",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "Plus jamais \u00e7a by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "id": 51239,
+                "language": "fr",
+                "lyrics_owner_id": 15008,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-plus-jamais-ca-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-plus-jamais-ca-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 1995",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53e4eb82d0b18f9132c17807c1cd1a18.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 7144
+                },
+                "title": "Plus jamais \u00e7a",
+                "title_with_featured": "Plus jamais \u00e7a",
+                "url": "https://genius.com/Supreme-ntm-plus-jamais-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/337068",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "Plus rien ne va by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.500x496x1.jpg",
+                "id": 337068,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-plus-rien-ne-va-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-plus-rien-ne-va-sample",
+                "release_date_components": {
+                    "year": 1993,
+                    "month": 3,
+                    "day": 15
+                },
+                "release_date_for_display": "March 15, 1993",
+                "release_date_with_abbreviated_month_for_display": "Mar. 15, 1993",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.500x496x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus rien ne va",
+                "title_with_featured": "Plus rien ne va",
+                "url": "https://genius.com/Supreme-ntm-plus-rien-ne-va-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/61147",
+                "artist_names": "Supr\u00eame NTM",
+                "full_title": "Police by\u00a0Supr\u00eame\u00a0NTM",
+                "header_image_thumbnail_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.500x496x1.jpg",
+                "id": 61147,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Supreme-ntm-police-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Supreme-ntm-police-sample",
+                "release_date_components": {
+                    "year": 1993,
+                    "month": 3,
+                    "day": 15
+                },
+                "release_date_for_display": "March 15, 1993",
+                "release_date_with_abbreviated_month_for_display": "Mar. 15, 1993",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7b5614868f4dc0b8a2c1e3d85ba2b8cd.500x496x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 33914
+                },
+                "title": "Police",
+                "title_with_featured": "Police",
+                "url": "https://genius.com/Supreme-ntm-police-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/24568",
+                    "header_image_url": "https://images.genius.com/fdfb55d21023733cf0240308340ebd04.1000x444x1.jpg",
+                    "id": 24568,
+                    "image_url": "https://images.genius.com/949ffbea5ebe16dd1762092e0cb794c5.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Supr\u00eame NTM",
+                    "url": "https://genius.com/artists/Supreme-ntm"
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

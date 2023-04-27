@@ -1,0 +1,933 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/8033575",
+                "artist_names": "Di-Meh (Ft. Caballero)",
+                "full_title": "Veuve Clicquot by\u00a0Di-Meh (Ft.\u00a0Caballero)",
+                "header_image_thumbnail_url": "https://images.genius.com/d6c2348e916bf9849cd6cab020dc8b6c.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/d6c2348e916bf9849cd6cab020dc8b6c.1000x563x1.jpg",
+                "id": 8033575,
+                "language": "en",
+                "lyrics_owner_id": 5254134,
+                "lyrics_state": "complete",
+                "path": "/Di-meh-veuve-clicquot-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Di-meh-veuve-clicquot-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 25
+                },
+                "release_date_for_display": "May 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/83d999e17cb4e042619b45871742d410.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/83d999e17cb4e042619b45871742d410.767x767x1.png",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Veuve Clicquot",
+                "title_with_featured": "Veuve Clicquot (Ft.\u00a0Caballero)",
+                "url": "https://genius.com/Di-meh-veuve-clicquot-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21842",
+                        "header_image_url": "https://images.genius.com/689de26306306219ead4497bd6befb5e.591x396x1.png",
+                        "id": 21842,
+                        "image_url": "https://images.genius.com/1f48feea278bf8ffc49476fb75ee690a.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Caballero",
+                        "url": "https://genius.com/artists/Caballero",
+                        "iq": 125
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/60891",
+                    "header_image_url": "https://images.genius.com/c9d4f0c0c4b218e3679685874612fb21.1000x563x1.jpg",
+                    "id": 60891,
+                    "image_url": "https://images.genius.com/c618e1678656012159ad761a6872e539.374x374x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Di-Meh",
+                    "url": "https://genius.com/artists/Di-meh"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5730108",
+                "artist_names": "Alkpote",
+                "full_title": "Vieillasse by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/b2f4a74a3d4051575fa34ac42ce9758d.300x172x1.jpg",
+                "header_image_url": "https://images.genius.com/b2f4a74a3d4051575fa34ac42ce9758d.927x531x1.jpg",
+                "id": 5730108,
+                "language": "fr",
+                "lyrics_owner_id": 11067796,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-vieillasse-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alkpote-vieillasse-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 3
+                },
+                "release_date_for_display": "July 3, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 3, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1853cb49e6c6ed69077cf1d35e4bb411.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/1853cb49e6c6ed69077cf1d35e4bb411.648x648x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Vieillasse",
+                "title_with_featured": "Vieillasse",
+                "url": "https://genius.com/Alkpote-vieillasse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/4097369",
+                "artist_names": "Myth Syzer (Ft. Alkpote & Jok'Air)",
+                "full_title": "Vilain by\u00a0Myth\u00a0Syzer (Ft.\u00a0Alkpote & Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/1173e69f8482d199ff8dfe8e2a34dc23.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/1173e69f8482d199ff8dfe8e2a34dc23.1000x563x1.jpg",
+                "id": 4097369,
+                "language": "en",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Myth-syzer-vilain-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Myth-syzer-vilain-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5482759cb29f337cb4ce8fa10020e49e.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5482759cb29f337cb4ce8fa10020e49e.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 6985
+                },
+                "title": "Vilain",
+                "title_with_featured": "Vilain (Ft.\u00a0Alkpote & Jok'Air)",
+                "url": "https://genius.com/Myth-syzer-vilain-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/ebf4fc2ad9371a2c57d1761c7dd80a2b.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    },
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/42514",
+                    "header_image_url": "https://images.genius.com/e343c02a981ac3e835b433436e554847.1000x429x1.jpg",
+                    "id": 42514,
+                    "image_url": "https://images.genius.com/31777c652678dc9456d15578902246d3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Myth Syzer",
+                    "url": "https://genius.com/artists/Myth-syzer"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8421437",
+                "artist_names": "Myth Syzer (Ft. Alkpote & Jok'Air)",
+                "full_title": "Vilain (Mo Rice Remix) by\u00a0Myth\u00a0Syzer (Ft.\u00a0Alkpote & Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.500x500x1.jpg",
+                "id": 8421437,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Myth-syzer-vilain-mo-rice-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Myth-syzer-vilain-mo-rice-remix-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 6
+                },
+                "release_date_for_display": "March 6, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 6, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vilain (Mo Rice Remix)",
+                "title_with_featured": "Vilain (Mo Rice Remix) (Ft.\u00a0Alkpote & Jok'Air)",
+                "url": "https://genius.com/Myth-syzer-vilain-mo-rice-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    },
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/ebf4fc2ad9371a2c57d1761c7dd80a2b.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/42514",
+                    "header_image_url": "https://images.genius.com/e343c02a981ac3e835b433436e554847.1000x429x1.jpg",
+                    "id": 42514,
+                    "image_url": "https://images.genius.com/31777c652678dc9456d15578902246d3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Myth Syzer",
+                    "url": "https://genius.com/artists/Myth-syzer"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8421439",
+                "artist_names": "Myth Syzer (Ft. Alkpote & Jok'Air)",
+                "full_title": "Vilain (Tom Pinard Remix) by\u00a0Myth\u00a0Syzer (Ft.\u00a0Alkpote & Jok'Air)",
+                "header_image_thumbnail_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.500x500x1.jpg",
+                "id": 8421439,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Myth-syzer-vilain-tom-pinard-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Myth-syzer-vilain-tom-pinard-remix-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 6
+                },
+                "release_date_for_display": "March 6, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 6, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1ec894972cf8bb9904b86277b2ab83d6.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vilain (Tom Pinard Remix)",
+                "title_with_featured": "Vilain (Tom Pinard Remix) (Ft.\u00a0Alkpote & Jok'Air)",
+                "url": "https://genius.com/Myth-syzer-vilain-tom-pinard-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    },
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/ebf4fc2ad9371a2c57d1761c7dd80a2b.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/42514",
+                    "header_image_url": "https://images.genius.com/e343c02a981ac3e835b433436e554847.1000x429x1.jpg",
+                    "id": 42514,
+                    "image_url": "https://images.genius.com/31777c652678dc9456d15578902246d3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Myth Syzer",
+                    "url": "https://genius.com/artists/Myth-syzer"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2891689",
+                "artist_names": "Alkpote (Ft. Demon One & Selim du 94)",
+                "full_title": "Violentissime* by\u00a0Alkpote (Ft.\u00a0Demon\u00a0One & Selim\u00a0du 94)",
+                "header_image_thumbnail_url": "https://images.genius.com/63b41187a9cd832fb497478326795502.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/63b41187a9cd832fb497478326795502.630x630x1.jpg",
+                "id": 2891689,
+                "language": null,
+                "lyrics_owner_id": 3290396,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-violentissime-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-violentissime-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/63b41187a9cd832fb497478326795502.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/63b41187a9cd832fb497478326795502.630x630x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Violentissime*",
+                "title_with_featured": "Violentissime* (Ft.\u00a0Demon\u00a0One & Selim\u00a0du 94)",
+                "url": "https://genius.com/Alkpote-violentissime-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15226",
+                        "header_image_url": "https://images.genius.com/855c3f5b4428295b50ee84b24faeaf74.900x600x1.jpg",
+                        "id": 15226,
+                        "image_url": "https://images.genius.com/855c3f5b4428295b50ee84b24faeaf74.900x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Selim du 94",
+                        "url": "https://genius.com/artists/Selim-du-94"
+                    },
+                    {
+                        "api_path": "/artists/16336",
+                        "header_image_url": "https://images.genius.com/97b36ce2e340e1f0c2c058c856ba241b.400x400x1.jpg",
+                        "id": 16336,
+                        "image_url": "https://images.genius.com/97b36ce2e340e1f0c2c058c856ba241b.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Demon One",
+                        "url": "https://genius.com/artists/Demon-one",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/7753698",
+                "artist_names": "KronoMuzik, Pandrezz & Ronare (Ft. Alkpote)",
+                "full_title": "Violette & Citronnelle by\u00a0KronoMuzik,\u00a0Pandrezz & Ronare (Ft.\u00a0Alkpote)",
+                "header_image_thumbnail_url": "https://images.genius.com/85877c4635256e80821945d9801f851f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/85877c4635256e80821945d9801f851f.1000x1000x1.jpg",
+                "id": 7753698,
+                "language": "fr",
+                "lyrics_owner_id": 15523758,
+                "lyrics_state": "complete",
+                "path": "/Kronomuzik-pandrezz-and-ronare-violette-and-citronnelle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kronomuzik-pandrezz-and-ronare-violette-and-citronnelle-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 27
+                },
+                "release_date_for_display": "May 27, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 27, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/85877c4635256e80821945d9801f851f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/85877c4635256e80821945d9801f851f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 5155
+                },
+                "title": "Violette & Citronnelle",
+                "title_with_featured": "Violette & Citronnelle (Ft.\u00a0Alkpote)",
+                "url": "https://genius.com/Kronomuzik-pandrezz-and-ronare-violette-and-citronnelle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/3078920",
+                    "header_image_url": "https://images.genius.com/45dd3a6bfdfda01097f96a7e48fceb7e.1000x563x1.jpg",
+                    "id": 3078920,
+                    "image_url": "https://images.genius.com/8cf2ad68cc9a45b0fae37640f7b98430.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KronoMuzik, Pandrezz & Ronare",
+                    "url": "https://genius.com/artists/Kronomuzik-pandrezz-and-ronare"
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/69766",
+                "artist_names": "Alkpote",
+                "full_title": "Voltaire by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "id": 69766,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-voltaire-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alkpote-voltaire-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 19
+                },
+                "release_date_for_display": "March 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f6134a87b45ae0a72758e2644bb53e3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 7195
+                },
+                "title": "Voltaire",
+                "title_with_featured": "Voltaire",
+                "url": "https://genius.com/Alkpote-voltaire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/425433",
+                "artist_names": "Alkpote",
+                "full_title": "Vomissure by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.1000x1000x1.jpg",
+                "id": 425433,
+                "language": "fr",
+                "lyrics_owner_id": 374935,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-vomissure-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-vomissure-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2014",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dde0b81fcc75c774d4906d1c1f1fd3f5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Vomissure",
+                "title_with_featured": "Vomissure",
+                "url": "https://genius.com/Alkpote-vomissure-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/98857",
+                "artist_names": "Alkpote (Ft. Katana & Zek)",
+                "full_title": "Walkman cassette by\u00a0Alkpote (Ft.\u00a0Katana & Zek)",
+                "header_image_thumbnail_url": "https://images.genius.com/b61a437bcf35711d8f333620147febd4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b61a437bcf35711d8f333620147febd4.600x600x1.jpg",
+                "id": 98857,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-walkman-cassette-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-walkman-cassette-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b61a437bcf35711d8f333620147febd4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b61a437bcf35711d8f333620147febd4.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Walkman cassette",
+                "title_with_featured": "Walkman cassette (Ft.\u00a0Katana & Zek)",
+                "url": "https://genius.com/Alkpote-walkman-cassette-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20136",
+                        "header_image_url": "https://images.genius.com/07df8893cf69947fce3d86d87033003d.173x173x1.jpg",
+                        "id": 20136,
+                        "image_url": "https://images.genius.com/07df8893cf69947fce3d86d87033003d.173x173x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Katana",
+                        "url": "https://genius.com/artists/Katana"
+                    },
+                    {
+                        "api_path": "/artists/14103",
+                        "header_image_url": "https://images.genius.com/12b89c4ccee540d241a7b9491cba848c.668x668x1.png",
+                        "id": 14103,
+                        "image_url": "https://images.genius.com/01f621b0eabe53884fbbff28be763185.668x668x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zek",
+                        "url": "https://genius.com/artists/Zek",
+                        "iq": 2181
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8226478",
+                "artist_names": "Kozi (Ft. Alkpote)",
+                "full_title": "Whaou by\u00a0Kozi (Ft.\u00a0Alkpote)",
+                "header_image_thumbnail_url": "https://images.genius.com/87c905ae9495ac8f0b58f72802962f74.300x300x1.webp",
+                "header_image_url": "https://images.genius.com/87c905ae9495ac8f0b58f72802962f74.500x500x1.webp",
+                "id": 8226478,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Kozi-whaou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kozi-whaou-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 22
+                },
+                "release_date_for_display": "July 22, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jul. 22, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87c905ae9495ac8f0b58f72802962f74.300x300x1.webp",
+                "song_art_image_url": "https://images.genius.com/87c905ae9495ac8f0b58f72802962f74.500x500x1.webp",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Whaou",
+                "title_with_featured": "Whaou (Ft.\u00a0Alkpote)",
+                "url": "https://genius.com/Kozi-whaou-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/20233",
+                    "header_image_url": "https://images.genius.com/737aebc66020e2c54bbcecfc69681d5d.421x548x1.jpg",
+                    "id": 20233,
+                    "image_url": "https://images.genius.com/737aebc66020e2c54bbcecfc69681d5d.421x548x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kozi",
+                    "url": "https://genius.com/artists/Kozi"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/336210",
+                "artist_names": "Alkpote (Ft. 25G)",
+                "full_title": "Y'a pas d\u2019heure by\u00a0Alkpote (Ft.\u00a025G)",
+                "header_image_thumbnail_url": "https://images.genius.com/689898f788b050a2d7ea07edbca2ef65.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/689898f788b050a2d7ea07edbca2ef65.480x360x1.jpg",
+                "id": 336210,
+                "language": "fr",
+                "lyrics_owner_id": 33340,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-ya-pas-dheure-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alkpote-ya-pas-dheure-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 5,
+                    "day": 12
+                },
+                "release_date_for_display": "May 12, 2008",
+                "release_date_with_abbreviated_month_for_display": "May. 12, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5a9bcce32bc5a616cc0615e04f542cd4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5a9bcce32bc5a616cc0615e04f542cd4.561x561x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 9035
+                },
+                "title": "Y\u2019a pas d\u2019heure",
+                "title_with_featured": "Y'a pas d\u2019heure (Ft.\u00a025G)",
+                "url": "https://genius.com/Alkpote-ya-pas-dheure-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/48881",
+                        "header_image_url": "https://images.genius.com/205f2364a536f7b3e25c0eaa53869307.960x540x1.jpg",
+                        "id": 48881,
+                        "image_url": "https://images.genius.com/55f27029737e8a7ad188f06cb4330f31.385x385x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "25G",
+                        "url": "https://genius.com/artists/25g"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5241376",
+                "artist_names": "Gr\u00f6dash (Ft. Alkpote, Fik's Niavo, La Karabine, LMC Click, Myssa, Popo, Smoker, Steeve Austeen & Zek)",
+                "full_title": "Yeah Moggo (Remix)* by\u00a0Gr\u00f6dash (Ft.\u00a0Alkpote, Fik's\u00a0Niavo, La\u00a0Karabine, LMC\u00a0Click, Myssa, Popo, Smoker, Steeve\u00a0Austeen & Zek)",
+                "header_image_thumbnail_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.1000x1000x1.jpg",
+                "id": 5241376,
+                "language": "en",
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "complete",
+                "path": "/Grodash-yeah-moggo-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grodash-yeah-moggo-remix-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 3,
+                    "day": 31
+                },
+                "release_date_for_display": "March 31, 2014",
+                "release_date_with_abbreviated_month_for_display": "Mar. 31, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Yeah Moggo (Remix)*",
+                "title_with_featured": "Yeah Moggo (Remix)* (Ft.\u00a0Alkpote, Fik's\u00a0Niavo, La\u00a0Karabine, LMC\u00a0Click, Myssa, Popo, Smoker, Steeve\u00a0Austeen & Zek)",
+                "url": "https://genius.com/Grodash-yeah-moggo-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/348140",
+                        "header_image_url": "https://images.genius.com/81bbf30b05b5b5600d0ec18c1fba55d6.640x640x1.jpg",
+                        "id": 348140,
+                        "image_url": "https://images.genius.com/81bbf30b05b5b5600d0ec18c1fba55d6.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fik\u2019s Niavo",
+                        "url": "https://genius.com/artists/Fiks-niavo"
+                    },
+                    {
+                        "api_path": "/artists/15230",
+                        "header_image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "id": 15230,
+                        "image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Smoker",
+                        "url": "https://genius.com/artists/Smoker"
+                    },
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    },
+                    {
+                        "api_path": "/artists/992650",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 992650,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Popo",
+                        "url": "https://genius.com/artists/Popo"
+                    },
+                    {
+                        "api_path": "/artists/687097",
+                        "header_image_url": "https://images.genius.com/b86457db637f729eb031b747b3cfc3ff.342x342x1.jpg",
+                        "id": 687097,
+                        "image_url": "https://images.genius.com/b86457db637f729eb031b747b3cfc3ff.342x342x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "LMC Click",
+                        "url": "https://genius.com/artists/Lmc-click"
+                    },
+                    {
+                        "api_path": "/artists/662025",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 662025,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Myssa",
+                        "url": "https://genius.com/artists/Myssa"
+                    },
+                    {
+                        "api_path": "/artists/14103",
+                        "header_image_url": "https://images.genius.com/12b89c4ccee540d241a7b9491cba848c.668x668x1.png",
+                        "id": 14103,
+                        "image_url": "https://images.genius.com/01f621b0eabe53884fbbff28be763185.668x668x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zek",
+                        "url": "https://genius.com/artists/Zek",
+                        "iq": 2181
+                    },
+                    {
+                        "api_path": "/artists/2102376",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2102376,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Steeve Austeen",
+                        "url": "https://genius.com/artists/Steeve-austeen"
+                    },
+                    {
+                        "api_path": "/artists/2102375",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2102375,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Karabine",
+                        "url": "https://genius.com/artists/La-karabine"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15227",
+                    "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "id": 15227,
+                    "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gr\u00f6dash",
+                    "url": "https://genius.com/artists/Grodash"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4698468",
+                "artist_names": "Alkpote (Ft. Cortex (rappeur), LMC Click & Skaner)",
+                "full_title": "Zone de guerre by\u00a0Alkpote (Ft.\u00a0Cortex\u00a0(rappeur), LMC\u00a0Click & Skaner)",
+                "header_image_thumbnail_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.1000x1000x1.jpg",
+                "id": 4698468,
+                "language": "en",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-zone-de-guerre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-zone-de-guerre-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 6,
+                    "day": 15
+                },
+                "release_date_for_display": "June 15, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jun. 15, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cc69094ddffd430c1c51ad61c340ec49.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Zone de guerre",
+                "title_with_featured": "Zone de guerre (Ft.\u00a0Cortex\u00a0(rappeur), LMC\u00a0Click & Skaner)",
+                "url": "https://genius.com/Alkpote-zone-de-guerre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1352863",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1352863,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Skaner",
+                        "url": "https://genius.com/artists/Skaner"
+                    },
+                    {
+                        "api_path": "/artists/1133999",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1133999,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cortex (rappeur)",
+                        "url": "https://genius.com/artists/Cortex-rappeur"
+                    },
+                    {
+                        "api_path": "/artists/687097",
+                        "header_image_url": "https://images.genius.com/b86457db637f729eb031b747b3cfc3ff.342x342x1.jpg",
+                        "id": 687097,
+                        "image_url": "https://images.genius.com/b86457db637f729eb031b747b3cfc3ff.342x342x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "LMC Click",
+                        "url": "https://genius.com/artists/Lmc-click"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/2669886",
+                "artist_names": "Alkpote",
+                "full_title": "Zone mortuaire by\u00a0Alkpote",
+                "header_image_thumbnail_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.1000x1000x1.jpg",
+                "id": 2669886,
+                "language": "fr",
+                "lyrics_owner_id": 1543271,
+                "lyrics_state": "complete",
+                "path": "/Alkpote-zone-mortuaire-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alkpote-zone-mortuaire-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 6,
+                    "day": 24
+                },
+                "release_date_for_display": "June 24, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jun. 24, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4541dcb3da1ce05cd2e9322f906ddea0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Zone mortuaire",
+                "title_with_featured": "Zone mortuaire",
+                "url": "https://genius.com/Alkpote-zone-mortuaire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15427",
+                    "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                    "id": 15427,
+                    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Alkpote",
+                    "url": "https://genius.com/artists/Alkpote",
+                    "iq": 496
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

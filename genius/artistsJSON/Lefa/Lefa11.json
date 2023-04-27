@@ -1,0 +1,909 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/4903778",
+                "artist_names": "Lefa (Ft. Megaski)",
+                "full_title": "Megazord by\u00a0Lefa (Ft.\u00a0Megaski)",
+                "header_image_thumbnail_url": "https://images.genius.com/af82f2347f0e135c58c75373814dc82e.300x300x1.png",
+                "header_image_url": "https://images.genius.com/af82f2347f0e135c58c75373814dc82e.940x940x1.png",
+                "id": 4903778,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Lefa-megazord-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lefa-megazord-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 18
+                },
+                "release_date_for_display": "October 18, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 18, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/af82f2347f0e135c58c75373814dc82e.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/af82f2347f0e135c58c75373814dc82e.940x940x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 6679
+                },
+                "title": "Megazord",
+                "title_with_featured": "Megazord (Ft.\u00a0Megaski)",
+                "url": "https://genius.com/Lefa-megazord-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1954227",
+                        "header_image_url": "https://images.genius.com/45e8928c52a7118892c46d99bfbd6249.621x621x1.jpg",
+                        "id": 1954227,
+                        "image_url": "https://images.genius.com/45e8928c52a7118892c46d99bfbd6249.621x621x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Megaski",
+                        "url": "https://genius.com/artists/Megaski"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7243399",
+                "artist_names": "Lefa",
+                "full_title": "Meilleur price by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/fbc95b83aab486f18882880e0ffb05c8.300x300x1.png",
+                "header_image_url": "https://images.genius.com/fbc95b83aab486f18882880e0ffb05c8.1000x1000x1.png",
+                "id": 7243399,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Lefa-meilleur-price-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lefa-meilleur-price-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 8
+                },
+                "release_date_for_display": "October 8, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 8, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fbc95b83aab486f18882880e0ffb05c8.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/fbc95b83aab486f18882880e0ffb05c8.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Meilleur price",
+                "title_with_featured": "Meilleur price",
+                "url": "https://genius.com/Lefa-meilleur-price-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/65367",
+                "artist_names": "Sexion d'Assaut (Ft. L.I.O. Petrodollars)",
+                "full_title": "Melrose Place by\u00a0Sexion\u00a0d'Assaut (Ft.\u00a0L.I.O.\u00a0Petrodollars)",
+                "header_image_thumbnail_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.499x499x1.jpg",
+                "id": 65367,
+                "language": "fr",
+                "lyrics_owner_id": 72245,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-melrose-place-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-melrose-place-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 5
+                },
+                "release_date_for_display": "March 5, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 5, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6a310ef6fa3c99b002a9dd528323e6f.499x499x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 116126
+                },
+                "title": "Melrose Place",
+                "title_with_featured": "Melrose Place (Ft.\u00a0L.I.O.\u00a0Petrodollars)",
+                "url": "https://genius.com/Sexion-dassaut-melrose-place-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18052",
+                        "header_image_url": "https://images.genius.com/44571e7380e740d982540127a7ea7bc3.583x583x1.jpg",
+                        "id": 18052,
+                        "image_url": "https://images.genius.com/44571e7380e740d982540127a7ea7bc3.583x583x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "L.I.O. Petrodollars",
+                        "url": "https://genius.com/artists/Lio-petrodollars"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/152228",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "M\u00eame pas l'smic by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/606d1812c2e1c71983bef73f950dc143.300x300x1.png",
+                "header_image_url": "https://images.genius.com/606d1812c2e1c71983bef73f950dc143.400x400x1.png",
+                "id": 152228,
+                "language": null,
+                "lyrics_owner_id": 199943,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-meme-pas-lsmic-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-meme-pas-lsmic-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 9,
+                    "day": null
+                },
+                "release_date_for_display": "September 2008",
+                "release_date_with_abbreviated_month_for_display": "Sep. 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/606d1812c2e1c71983bef73f950dc143.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/606d1812c2e1c71983bef73f950dc143.400x400x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "M\u00eame pas l\u2019smic",
+                "title_with_featured": "M\u00eame pas l'smic",
+                "url": "https://genius.com/Sexion-dassaut-meme-pas-lsmic-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/7243397",
+                "artist_names": "Lefa",
+                "full_title": "Mentor by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/209d84cf0d979ade29e724669449e130.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/209d84cf0d979ade29e724669449e130.870x489x1.jpg",
+                "id": 7243397,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Lefa-mentor-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Lefa-mentor-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f669cc91835cf1bf2f277f0cf1be8f24.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f669cc91835cf1bf2f277f0cf1be8f24.693x693x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 7086
+                },
+                "title": "Mentor",
+                "title_with_featured": "Mentor",
+                "url": "https://genius.com/Lefa-mentor-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5430132",
+                "artist_names": "Barack (Ft. Lefa & Tayc)",
+                "full_title": "Mes d\u00e9fauts by\u00a0Barack (Ft.\u00a0Lefa & Tayc)",
+                "header_image_thumbnail_url": "https://images.genius.com/0840b52aeb107a1dd01e085239bab8e7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0840b52aeb107a1dd01e085239bab8e7.1000x1000x1.jpg",
+                "id": 5430132,
+                "language": "fr",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Barack-mes-defauts-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Barack-mes-defauts-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0840b52aeb107a1dd01e085239bab8e7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0840b52aeb107a1dd01e085239bab8e7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mes d\u00e9fauts",
+                "title_with_featured": "Mes d\u00e9fauts (Ft.\u00a0Lefa & Tayc)",
+                "url": "https://genius.com/Barack-mes-defauts-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15927",
+                        "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                        "id": 15927,
+                        "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lefa",
+                        "url": "https://genius.com/artists/Lefa",
+                        "iq": 3307
+                    },
+                    {
+                        "api_path": "/artists/1181301",
+                        "header_image_url": "https://images.genius.com/c869fcfe8fd5c1a0adc47e035c8bef3f.1000x602x1.jpg",
+                        "id": 1181301,
+                        "image_url": "https://images.genius.com/874a6b4f57b16cb8bff9c4ad8c85feff.538x538x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tayc",
+                        "url": "https://genius.com/artists/Tayc"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/36707",
+                    "header_image_url": "https://images.genius.com/d719367c9a7c9a41f86f73d179dccd4e.1000x667x1.jpg",
+                    "id": 36707,
+                    "image_url": "https://images.genius.com/d0fcb0eb9ec20040ecf4eb70200587f1.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Barack",
+                    "url": "https://genius.com/artists/Barack",
+                    "iq": 386
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7732362",
+                "artist_names": "Lefa",
+                "full_title": "M\u00e9taverse by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/53778d2c2eb74820a7aa14805b31927a.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/53778d2c2eb74820a7aa14805b31927a.1000x563x1.jpg",
+                "id": 7732362,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Lefa-metaverse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lefa-metaverse-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 11
+                },
+                "release_date_for_display": "March 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2a9b6122a0741c7dcf53b4de4b3a7b96.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2a9b6122a0741c7dcf53b4de4b3a7b96.865x865x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "M\u00e9taverse",
+                "title_with_featured": "M\u00e9taverse",
+                "url": "https://genius.com/Lefa-metaverse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/61257",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Mets pas celle-l\u00e0 by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/c3ba40661a8ad94b9ddf393af44b74a7.300x166x1.jpg",
+                "header_image_url": "https://images.genius.com/c3ba40661a8ad94b9ddf393af44b74a7.512x283x1.jpg",
+                "id": 61257,
+                "language": "fr",
+                "lyrics_owner_id": 6383,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-mets-pas-celle-la-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 12,
+                    "day": 11
+                },
+                "release_date_for_display": "December 11, 2011",
+                "release_date_with_abbreviated_month_for_display": "Dec. 11, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4e87ac7585b00c3cc92bc49a70ed8b9e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4e87ac7585b00c3cc92bc49a70ed8b9e.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 40355
+                },
+                "title": "Mets pas celle-l\u00e0",
+                "title_with_featured": "Mets pas celle-l\u00e0",
+                "url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6841388",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Mets pas celle l\u00e0 (Instrumental) by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.1000x1000x1.jpg",
+                "id": 6841388,
+                "language": "en",
+                "lyrics_owner_id": 11601922,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-mets-pas-celle-la-instrumental-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-instrumental-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 19
+                },
+                "release_date_for_display": "November 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4bad0f3fe1cb87e4b2b9840e3baa395a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mets pas celle l\u00e0 (Instrumental)",
+                "title_with_featured": "Mets pas celle l\u00e0 (Instrumental)",
+                "url": "https://genius.com/Sexion-dassaut-mets-pas-celle-la-instrumental-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/59114",
+                "artist_names": "Jarod (Ft. Sexion d'Assaut)",
+                "full_title": "Mine de rien by\u00a0Jarod (Ft.\u00a0Sexion\u00a0d'Assaut)",
+                "header_image_thumbnail_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.610x610x1.jpg",
+                "id": 59114,
+                "language": "fr",
+                "lyrics_owner_id": 6849,
+                "lyrics_state": "complete",
+                "path": "/Jarod-mine-de-rien-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Jarod-mine-de-rien-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2011",
+                "release_date_with_abbreviated_month_for_display": "2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/487a6eff63e67035b1fa6a61baf8ee10.610x610x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mine de rien",
+                "title_with_featured": "Mine de rien (Ft.\u00a0Sexion\u00a0d'Assaut)",
+                "url": "https://genius.com/Jarod-mine-de-rien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1261",
+                        "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                        "id": 1261,
+                        "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sexion d\u2019Assaut",
+                        "url": "https://genius.com/artists/Sexion-dassaut"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14828",
+                    "header_image_url": "https://images.genius.com/57f8aff00042bbfb7c2db0bf2e56cd64.1000x667x1.jpg",
+                    "id": 14828,
+                    "image_url": "https://images.genius.com/0f847931ed12b6cf8c49b3ba4ca2ff61.557x557x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Jarod",
+                    "url": "https://genius.com/artists/Jarod",
+                    "iq": 133
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7732367",
+                "artist_names": "Lefa",
+                "full_title": "Miroir by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/257b2af085f8e2c9d8b747b5c97210a0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/257b2af085f8e2c9d8b747b5c97210a0.1000x1000x1.jpg",
+                "id": 7732367,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Lefa-miroir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lefa-miroir-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 11
+                },
+                "release_date_for_display": "March 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/257b2af085f8e2c9d8b747b5c97210a0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/257b2af085f8e2c9d8b747b5c97210a0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Miroir",
+                "title_with_featured": "Miroir",
+                "url": "https://genius.com/Lefa-miroir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7688225",
+                "artist_names": "Lefa",
+                "full_title": "Mise \u00e0 jour by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/69e3bb9cf529e845a19d9e9633c39e25.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/69e3bb9cf529e845a19d9e9633c39e25.1000x517x1.jpg",
+                "id": 7688225,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Lefa-mise-a-jour-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lefa-mise-a-jour-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 11
+                },
+                "release_date_for_display": "February 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/48fb3929159b83a2ac62c3d92d1ad319.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/48fb3929159b83a2ac62c3d92d1ad319.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 6217
+                },
+                "title": "Mise \u00e0 jour",
+                "title_with_featured": "Mise \u00e0 jour",
+                "url": "https://genius.com/Lefa-mise-a-jour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/65966",
+                "artist_names": "Dry (Ft. Sexion d'Assaut)",
+                "full_title": "Mon d\u00e9faut by\u00a0Dry (Ft.\u00a0Sexion\u00a0d'Assaut)",
+                "header_image_thumbnail_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.600x600x1.jpg",
+                "id": 65966,
+                "language": "fr",
+                "lyrics_owner_id": 73186,
+                "lyrics_state": "complete",
+                "path": "/Dry-mon-defaut-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Dry-mon-defaut-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 20
+                },
+                "release_date_for_display": "February 20, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 20, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6c3884d70e64c58fa1a9d4698ed7a3a.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 29795
+                },
+                "title": "Mon d\u00e9faut",
+                "title_with_featured": "Mon d\u00e9faut (Ft.\u00a0Sexion\u00a0d'Assaut)",
+                "url": "https://genius.com/Dry-mon-defaut-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1261",
+                        "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                        "id": 1261,
+                        "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sexion d\u2019Assaut",
+                        "url": "https://genius.com/artists/Sexion-dassaut"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1260",
+                    "header_image_url": "https://images.genius.com/9c0a4ec6e6e186286e3d8e5967cf0a09.650x250x1.jpg",
+                    "id": 1260,
+                    "image_url": "https://images.genius.com/00604a702de2dd2a6beb6250679a53b5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dry",
+                    "url": "https://genius.com/artists/Dry",
+                    "iq": 558
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/68589",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Mon gars s\u00fbr by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/123c3f5478b3c9927e3588fdc353f071.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/123c3f5478b3c9927e3588fdc353f071.600x600x1.jpg",
+                "id": 68589,
+                "language": "fr",
+                "lyrics_owner_id": 84217,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-mon-gars-sur-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-mon-gars-sur-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/123c3f5478b3c9927e3588fdc353f071.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/123c3f5478b3c9927e3588fdc353f071.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 38690
+                },
+                "title": "Mon gars s\u00fbr",
+                "title_with_featured": "Mon gars s\u00fbr",
+                "url": "https://genius.com/Sexion-dassaut-mon-gars-sur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/540367",
+                "artist_names": "Sexion d'Assaut",
+                "full_title": "Mon monde by\u00a0Sexion\u00a0d'Assaut",
+                "header_image_thumbnail_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.500x500x1.jpg",
+                "id": 540367,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Sexion-dassaut-mon-monde-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sexion-dassaut-mon-monde-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2007",
+                "release_date_with_abbreviated_month_for_display": "2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ddeb0d205501cf3e03925b6bfaee3909.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Mon monde",
+                "title_with_featured": "Mon monde",
+                "url": "https://genius.com/Sexion-dassaut-mon-monde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1261",
+                    "header_image_url": "https://images.genius.com/43a611263c944e2fed141dd9bc3d5656.609x403x1.png",
+                    "id": 1261,
+                    "image_url": "https://images.genius.com/1683023bda9e0bd6a9f11acf01c25c94.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sexion d\u2019Assaut",
+                    "url": "https://genius.com/artists/Sexion-dassaut"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/2410927",
+                "artist_names": "Lefa",
+                "full_title": "Monsieur Fall by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/209e1433ee40e60115a19523eb6986b4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/209e1433ee40e60115a19523eb6986b4.600x600x1.jpg",
+                "id": 2410927,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Lefa-monsieur-fall-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lefa-monsieur-fall-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 29
+                },
+                "release_date_for_display": "January 29, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 29, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/209e1433ee40e60115a19523eb6986b4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/209e1433ee40e60115a19523eb6986b4.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 10931
+                },
+                "title": "Monsieur Fall",
+                "title_with_featured": "Monsieur Fall",
+                "url": "https://genius.com/Lefa-monsieur-fall-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3580208",
+                "artist_names": "Lefa",
+                "full_title": "Montana by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.1000x1000x1.jpg",
+                "id": 3580208,
+                "language": "fr",
+                "lyrics_owner_id": 1094887,
+                "lyrics_state": "complete",
+                "path": "/Lefa-montana-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lefa-montana-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 6
+                },
+                "release_date_for_display": "April 6, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 6, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Montana",
+                "title_with_featured": "Montana",
+                "url": "https://genius.com/Lefa-montana-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3580191",
+                "artist_names": "Lefa",
+                "full_title": "Motel by\u00a0Lefa",
+                "header_image_thumbnail_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.1000x1000x1.jpg",
+                "id": 3580191,
+                "language": "fr",
+                "lyrics_owner_id": 1094887,
+                "lyrics_state": "complete",
+                "path": "/Lefa-motel-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lefa-motel-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 6
+                },
+                "release_date_for_display": "April 6, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 6, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d500c3c7e81d1c2b0b7b897530723cea.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 5584
+                },
+                "title": "Motel",
+                "title_with_featured": "Motel",
+                "url": "https://genius.com/Lefa-motel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5537610",
+                "artist_names": "Lefa (Ft. Josman)",
+                "full_title": "New Level by\u00a0Lefa (Ft.\u00a0Josman)",
+                "header_image_thumbnail_url": "https://images.genius.com/61a8874b46bc645ae68c53a0518d9379.300x300x1.png",
+                "header_image_url": "https://images.genius.com/61a8874b46bc645ae68c53a0518d9379.1000x1000x1.png",
+                "id": 5537610,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Lefa-new-level-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lefa-new-level-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 10
+                },
+                "release_date_for_display": "July 10, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 10, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/61a8874b46bc645ae68c53a0518d9379.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/61a8874b46bc645ae68c53a0518d9379.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 11794
+                },
+                "title": "New Level",
+                "title_with_featured": "New Level (Ft.\u00a0Josman)",
+                "url": "https://genius.com/Lefa-new-level-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/153477",
+                        "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                        "id": 153477,
+                        "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Josman",
+                        "url": "https://genius.com/artists/Josman",
+                        "iq": 893
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15927",
+                    "header_image_url": "https://images.genius.com/1fee9cc5e89e50c66dd217ccb71cbfaa.1000x567x1.jpg",
+                    "id": 15927,
+                    "image_url": "https://images.genius.com/c20c661812494d9b3f7c843e34812ac0.802x802x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lefa",
+                    "url": "https://genius.com/artists/Lefa",
+                    "iq": 3307
+                }
+            }
+        ],
+        "next_page": 12
+    }
+}

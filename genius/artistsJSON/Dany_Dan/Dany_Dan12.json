@@ -1,0 +1,958 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/407195",
+                "artist_names": "Ol' Kainry & Dany Dan (Ft. Disiz)",
+                "full_title": "O\u00f9 est le love ? by\u00a0Ol'\u00a0Kainry & Dany Dan (Ft.\u00a0Disiz)",
+                "header_image_thumbnail_url": "https://images.genius.com/d74e69056b22d177e2b1f677b29928a7.300x310x1.jpg",
+                "header_image_url": "https://images.genius.com/d74e69056b22d177e2b1f677b29928a7.929x960x1.jpg",
+                "id": 407195,
+                "language": "fr",
+                "lyrics_owner_id": 349482,
+                "lyrics_state": "complete",
+                "path": "/Ol-kainry-and-dany-dan-ou-est-le-love-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ol-kainry-and-dany-dan-ou-est-le-love-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 5,
+                    "day": 12
+                },
+                "release_date_for_display": "May 12, 2014",
+                "release_date_with_abbreviated_month_for_display": "May. 12, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d74e69056b22d177e2b1f677b29928a7.300x310x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d74e69056b22d177e2b1f677b29928a7.929x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "O\u00f9 est le love ?",
+                "title_with_featured": "O\u00f9 est le love ? (Ft.\u00a0Disiz)",
+                "url": "https://genius.com/Ol-kainry-and-dany-dan-ou-est-le-love-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2252",
+                        "header_image_url": "https://images.genius.com/6de1823873908fd5e293343bee950d3c.960x586x1.jpg",
+                        "id": 2252,
+                        "image_url": "https://images.genius.com/4ec5dcbd50dfd892afff1b3cb667b0ed.715x715x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Disiz",
+                        "url": "https://genius.com/artists/Disiz",
+                        "iq": 105
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/150428",
+                    "header_image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "id": 150428,
+                    "image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ol\u2019 Kainry & Dany Dan",
+                    "url": "https://genius.com/artists/Ol-kainry-and-dany-dan"
+                }
+            },
+            {
+                "annotation_count": 49,
+                "api_path": "/songs/94849",
+                "artist_names": "La Fouine (Ft. Canardo, Fababy, Niro, Sniper, Sultan & Youssoupha)",
+                "full_title": "Paname Boss by\u00a0La\u00a0Fouine (Ft.\u00a0Canardo, Fababy, Niro, Sniper, Sultan & Youssoupha)",
+                "header_image_thumbnail_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.575x575x1.jpg",
+                "id": 94849,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-paname-boss-lyrics",
+                "pyongs_count": 14,
+                "relationships_index_url": "https://genius.com/La-fouine-paname-boss-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.575x575x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 437982
+                },
+                "title": "Paname Boss",
+                "title_with_featured": "Paname Boss (Ft.\u00a0Canardo, Fababy, Niro, Sniper, Sultan & Youssoupha)",
+                "url": "https://genius.com/La-fouine-paname-boss-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14724",
+                        "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "id": 14724,
+                        "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niro",
+                        "url": "https://genius.com/artists/Niro",
+                        "iq": 3778
+                    },
+                    {
+                        "api_path": "/artists/14336",
+                        "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "id": 14336,
+                        "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Fababy",
+                        "url": "https://genius.com/artists/Fababy",
+                        "iq": 1452
+                    },
+                    {
+                        "api_path": "/artists/11648",
+                        "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "id": 11648,
+                        "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Canardo",
+                        "url": "https://genius.com/artists/Canardo"
+                    },
+                    {
+                        "api_path": "/artists/6670",
+                        "header_image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "id": 6670,
+                        "image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sultan",
+                        "url": "https://genius.com/artists/Sultan",
+                        "iq": 2066
+                    },
+                    {
+                        "api_path": "/artists/1684",
+                        "header_image_url": "https://images.genius.com/19aee70ad683dff8782aec43e1909d72.1000x660x1.jpg",
+                        "id": 1684,
+                        "image_url": "https://images.genius.com/c6c3d1e0b137d299ed7bb8e3fa8fae52.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Youssoupha",
+                        "url": "https://genius.com/artists/Youssoupha",
+                        "iq": 1850
+                    },
+                    {
+                        "api_path": "/artists/1507",
+                        "header_image_url": "https://images.genius.com/7eb5104743212aa7f8b2dbf677684417.960x960x1.jpg",
+                        "id": 1507,
+                        "image_url": "https://images.genius.com/7eb5104743212aa7f8b2dbf677684417.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sniper",
+                        "url": "https://genius.com/artists/Sniper"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2956153",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue (Ft. Val\u00e9rie Belinga)",
+                "full_title": "Papa India by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue (Ft.\u00a0Val\u00e9rie\u00a0Belinga)",
+                "header_image_thumbnail_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.960x960x1.jpg",
+                "id": 2956153,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-papa-india-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-papa-india-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 24
+                },
+                "release_date_for_display": "March 24, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 24, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Papa India",
+                "title_with_featured": "Papa India (Ft.\u00a0Val\u00e9rie\u00a0Belinga)",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-papa-india-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1059171",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1059171,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Val\u00e9rie Belinga",
+                        "url": "https://genius.com/artists/Valerie-belinga"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/408770",
+                "artist_names": "Ol' Kainry & Dany Dan",
+                "full_title": "Parano\u00efa by\u00a0Ol'\u00a0Kainry & Dany Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.600x600x1.jpg",
+                "id": 408770,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Ol-kainry-and-dany-dan-paranoia-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ol-kainry-and-dany-dan-paranoia-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 10,
+                    "day": 3
+                },
+                "release_date_for_display": "October 3, 2005",
+                "release_date_with_abbreviated_month_for_display": "Oct. 3, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Parano\u00efa",
+                "title_with_featured": "Parano\u00efa",
+                "url": "https://genius.com/Ol-kainry-and-dany-dan-paranoia-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/150428",
+                    "header_image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "id": 150428,
+                    "image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ol\u2019 Kainry & Dany Dan",
+                    "url": "https://genius.com/artists/Ol-kainry-and-dany-dan"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2387581",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Parisien by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/8e5c9b8dcea9de5c21b06fa279b7093d.300x299x1.jpg",
+                "header_image_url": "https://images.genius.com/8e5c9b8dcea9de5c21b06fa279b7093d.400x399x1.jpg",
+                "id": 2387581,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-parisien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-parisien-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2005",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8e5c9b8dcea9de5c21b06fa279b7093d.300x299x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8e5c9b8dcea9de5c21b06fa279b7093d.400x399x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Parisien",
+                "title_with_featured": "Parisien",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-parisien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7469128",
+                "artist_names": "Dany Dan",
+                "full_title": "Parisiens by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.350x350x1.jpg",
+                "id": 7469128,
+                "language": null,
+                "lyrics_owner_id": 7575996,
+                "lyrics_state": "incomplete",
+                "path": "/Dany-dan-parisiens-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-parisiens-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Parisiens",
+                "title_with_featured": "Parisiens",
+                "url": "https://genius.com/Dany-dan-parisiens-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4574234",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Partout autour by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/f6dd703e1d68b9335305c8438a74379d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f6dd703e1d68b9335305c8438a74379d.1000x1000x1.jpg",
+                "id": 4574234,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-partout-autour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-partout-autour-sample",
+                "release_date_components": {
+                    "year": 1997,
+                    "month": 11,
+                    "day": null
+                },
+                "release_date_for_display": "November 1997",
+                "release_date_with_abbreviated_month_for_display": "Nov. 1997",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f6dd703e1d68b9335305c8438a74379d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f6dd703e1d68b9335305c8438a74379d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Partout autour",
+                "title_with_featured": "Partout autour",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-partout-autour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5135273",
+                "artist_names": "Dany Dan",
+                "full_title": "Partout autour du monde by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.350x350x1.jpg",
+                "id": 5135273,
+                "language": null,
+                "lyrics_owner_id": 7245690,
+                "lyrics_state": "incomplete",
+                "path": "/Dany-dan-partout-autour-du-monde-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-partout-autour-du-monde-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Partout autour du monde",
+                "title_with_featured": "Partout autour du monde",
+                "url": "https://genius.com/Dany-dan-partout-autour-du-monde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/97399",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Pas besoin d'appara\u00eetre dur by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "id": 97399,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-pas-besoin-dapparaitre-dur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-pas-besoin-dapparaitre-dur-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 10,
+                    "day": 1
+                },
+                "release_date_for_display": "October 1, 1995",
+                "release_date_with_abbreviated_month_for_display": "Oct. 1, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pas besoin d\u2019appara\u00eetre dur",
+                "title_with_featured": "Pas besoin d'appara\u00eetre dur",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-pas-besoin-dapparaitre-dur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5532998",
+                "artist_names": "La Harissa (Ft. Les Sages Po\u00e8tes de la Rue)",
+                "full_title": "Pas De Limites by\u00a0La\u00a0Harissa (Ft.\u00a0Les\u00a0Sages Po\u00e8tes de la Rue)",
+                "header_image_thumbnail_url": "https://images.genius.com/cb66bddda2527faa5956ecb35b7cd291.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb66bddda2527faa5956ecb35b7cd291.630x630x1.jpg",
+                "id": 5532998,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/La-harissa-pas-de-limites-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-harissa-pas-de-limites-sample",
+                "release_date_components": {
+                    "year": 1997,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1997",
+                "release_date_with_abbreviated_month_for_display": "1997",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb66bddda2527faa5956ecb35b7cd291.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb66bddda2527faa5956ecb35b7cd291.630x630x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pas De Limites",
+                "title_with_featured": "Pas De Limites (Ft.\u00a0Les\u00a0Sages Po\u00e8tes de la Rue)",
+                "url": "https://genius.com/La-harissa-pas-de-limites-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1970",
+                        "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                        "id": 1970,
+                        "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Les Sages Po\u00e8tes de la Rue",
+                        "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/326038",
+                    "header_image_url": "https://images.genius.com/6b202117949b4e83638e63be299a750a.960x637x1.jpg",
+                    "id": 326038,
+                    "image_url": "https://images.genius.com/2ab803871718f8d53e469418e7368c44.398x398x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Harissa",
+                    "url": "https://genius.com/artists/La-harissa"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3032895",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Planance po\u00e9tique by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.960x960x1.jpg",
+                "id": 3032895,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-planance-poetique-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-planance-poetique-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 24
+                },
+                "release_date_for_display": "March 24, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 24, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/26829b6242322c3038be03d48fb075c9.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Planance po\u00e9tique",
+                "title_with_featured": "Planance po\u00e9tique",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-planance-poetique-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5135271",
+                "artist_names": "Dany Dan",
+                "full_title": "Pleine forme by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.350x350x1.jpg",
+                "id": 5135271,
+                "language": null,
+                "lyrics_owner_id": 7245690,
+                "lyrics_state": "incomplete",
+                "path": "/Dany-dan-pleine-forme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-pleine-forme-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pleine forme",
+                "title_with_featured": "Pleine forme",
+                "url": "https://genius.com/Dany-dan-pleine-forme-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6547024",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Plein la vue by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/95f2b38acae99cb29b1a5a4e2a3d7eb4.249x249x1.jpg",
+                "header_image_url": "https://images.genius.com/95f2b38acae99cb29b1a5a4e2a3d7eb4.249x249x1.jpg",
+                "id": 6547024,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-plein-la-vue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-plein-la-vue-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/95f2b38acae99cb29b1a5a4e2a3d7eb4.249x249x1.jpg",
+                "song_art_image_url": "https://images.genius.com/95f2b38acae99cb29b1a5a4e2a3d7eb4.249x249x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plein la vue",
+                "title_with_featured": "Plein la vue",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-plein-la-vue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7469137",
+                "artist_names": "Dany Dan",
+                "full_title": "Plus De Confiance by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.350x350x1.jpg",
+                "id": 7469137,
+                "language": null,
+                "lyrics_owner_id": 7575996,
+                "lyrics_state": "incomplete",
+                "path": "/Dany-dan-plus-de-confiance-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-plus-de-confiance-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fe1fd0019e0661f97a7d8a2c6741f8bb.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus De Confiance",
+                "title_with_featured": "Plus De Confiance",
+                "url": "https://genius.com/Dany-dan-plus-de-confiance-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3168388",
+                "artist_names": "Iron Sy (Ft. Dany Dan)",
+                "full_title": "Plus On Est de Fous by\u00a0Iron\u00a0Sy (Ft.\u00a0Dany\u00a0Dan)",
+                "header_image_thumbnail_url": "https://images.genius.com/a88995647be7a77860a5dcbd46e18be5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a88995647be7a77860a5dcbd46e18be5.500x500x1.jpg",
+                "id": 3168388,
+                "language": null,
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "unreleased",
+                "path": "/Iron-sy-plus-on-est-de-fous-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Iron-sy-plus-on-est-de-fous-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/a88995647be7a77860a5dcbd46e18be5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a88995647be7a77860a5dcbd46e18be5.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus On Est de Fous",
+                "title_with_featured": "Plus On Est de Fous (Ft.\u00a0Dany\u00a0Dan)",
+                "url": "https://genius.com/Iron-sy-plus-on-est-de-fous-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1986",
+                        "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                        "id": 1986,
+                        "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dany Dan",
+                        "url": "https://genius.com/artists/Dany-dan",
+                        "iq": 345
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/40424",
+                    "header_image_url": "https://images.genius.com/a41f0eb8aef5c89e87151f65ce5f3881.960x960x1.jpg",
+                    "id": 40424,
+                    "image_url": "https://images.genius.com/8011043d58aaf1ad03a2d22f0eef4de2.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Iron Sy",
+                    "url": "https://genius.com/artists/Iron-sy"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5135235",
+                "artist_names": "Dany Dan",
+                "full_title": "Plus on est fou by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.350x350x1.jpg",
+                "id": 5135235,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-plus-on-est-fou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-plus-on-est-fou-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37d4258285bfe08c764e13015551f2f4.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus on est fou",
+                "title_with_featured": "Plus on est fou",
+                "url": "https://genius.com/Dany-dan-plus-on-est-fou-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2385394",
+                "artist_names": "Mo'vez Lang (Ft. Dany Dan)",
+                "full_title": "Poison Juv\u00e9nil by\u00a0Mo'vez\u00a0Lang (Ft.\u00a0Dany\u00a0Dan)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/66895652c7b49932b511242bacae2f3a.298x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/66895652c7b49932b511242bacae2f3a.298x300x1.jpg",
+                "id": 2385394,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Movez-lang-poison-juvenil-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Movez-lang-poison-juvenil-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 1995",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 1995",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/66895652c7b49932b511242bacae2f3a.298x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/66895652c7b49932b511242bacae2f3a.298x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Poison Juv\u00e9nil",
+                "title_with_featured": "Poison Juv\u00e9nil (Ft.\u00a0Dany\u00a0Dan)",
+                "url": "https://genius.com/Movez-lang-poison-juvenil-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1986",
+                        "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                        "id": 1986,
+                        "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dany Dan",
+                        "url": "https://genius.com/artists/Dany-dan",
+                        "iq": 345
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/33690",
+                    "header_image_url": "https://images.genius.com/a0e2e4102cf16dccb7f6c48d51a3d04b.444x444x1.jpg",
+                    "id": 33690,
+                    "image_url": "https://images.genius.com/a0e2e4102cf16dccb7f6c48d51a3d04b.444x444x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mo\u2019vez Lang",
+                    "url": "https://genius.com/artists/Movez-lang"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6342867",
+                "artist_names": "Dany Dan",
+                "full_title": "Pop song I by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.983x983x1.jpg",
+                "id": 6342867,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-pop-song-i-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-pop-song-i-sample",
+                "release_date_components": {
+                    "year": 2000,
+                    "month": 9,
+                    "day": 15
+                },
+                "release_date_for_display": "September 15, 2000",
+                "release_date_with_abbreviated_month_for_display": "Sep. 15, 2000",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.983x983x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pop song I",
+                "title_with_featured": "Pop song I",
+                "url": "https://genius.com/Dany-dan-pop-song-i-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6343082",
+                "artist_names": "Dany Dan",
+                "full_title": "Pop song II by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.983x983x1.jpg",
+                "id": 6343082,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-pop-song-ii-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-pop-song-ii-sample",
+                "release_date_components": {
+                    "year": 2000,
+                    "month": 9,
+                    "day": 15
+                },
+                "release_date_for_display": "September 15, 2000",
+                "release_date_with_abbreviated_month_for_display": "Sep. 15, 2000",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e42bf7136fc54c844ad2ae6b8f8c457d.983x983x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pop song II",
+                "title_with_featured": "Pop song II",
+                "url": "https://genius.com/Dany-dan-pop-song-ii-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/7636287",
+                "artist_names": "Dany Dan",
+                "full_title": "Pop (Style Libre) by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/e6044ff359bc1937609e9953eb21a7a3.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/e6044ff359bc1937609e9953eb21a7a3.480x360x1.jpg",
+                "id": 7636287,
+                "language": "fr",
+                "lyrics_owner_id": 7575996,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-pop-style-libre-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Dany-dan-pop-style-libre-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2022",
+                "release_date_with_abbreviated_month_for_display": "2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6044ff359bc1937609e9953eb21a7a3.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6044ff359bc1937609e9953eb21a7a3.480x360x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Pop (Style Libre)",
+                "title_with_featured": "Pop (Style Libre)",
+                "url": "https://genius.com/Dany-dan-pop-style-libre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            }
+        ],
+        "next_page": 13
+    }
+}

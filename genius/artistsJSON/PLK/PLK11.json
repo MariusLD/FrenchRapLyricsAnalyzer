@@ -1,0 +1,992 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/2997807",
+                "artist_names": "PLK",
+                "full_title": "PDM#3 by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/cfc1392b2503274614e53e36a0342cfc.300x169x1.png",
+                "header_image_url": "https://images.genius.com/cfc1392b2503274614e53e36a0342cfc.1000x563x1.png",
+                "id": 2997807,
+                "language": "fr",
+                "lyrics_owner_id": 1392552,
+                "lyrics_state": "complete",
+                "path": "/Plk-pdm3-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Plk-pdm3-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 21
+                },
+                "release_date_for_display": "February 21, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 21, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cfc1392b2503274614e53e36a0342cfc.300x169x1.png",
+                "song_art_image_url": "https://images.genius.com/cfc1392b2503274614e53e36a0342cfc.1000x563x1.png",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "PDM#3",
+                "title_with_featured": "PDM#3",
+                "url": "https://genius.com/Plk-pdm3-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/8985145",
+                "artist_names": "PLK",
+                "full_title": "Pelo by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.1000x1000x1.jpg",
+                "id": 8985145,
+                "language": "fr",
+                "lyrics_owner_id": 1071553,
+                "lyrics_state": "complete",
+                "path": "/Plk-pelo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-pelo-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Pelo",
+                "title_with_featured": "Pelo",
+                "url": "https://genius.com/Plk-pelo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7349395",
+                "artist_names": "PLK",
+                "full_title": "Perdu by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.1000x1000x1.jpg",
+                "id": 7349395,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Plk-perdu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-perdu-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 12
+                },
+                "release_date_for_display": "November 12, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 12, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 7410
+                },
+                "title": "Perdu",
+                "title_with_featured": "Perdu",
+                "url": "https://genius.com/Plk-perdu-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/6800896",
+                "artist_names": "Soso Maness (Ft. PLK)",
+                "full_title": "Petrouchka by\u00a0Soso\u00a0Maness (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/ad44d3e90793b9ddd7f6b79db9649b63.300x97x1.png",
+                "header_image_url": "https://images.genius.com/ad44d3e90793b9ddd7f6b79db9649b63.1000x322x1.png",
+                "id": 6800896,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Soso-maness-petrouchka-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Soso-maness-petrouchka-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 4
+                },
+                "release_date_for_display": "June 4, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 4, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4238ec8a16b62817f764bf2f9b95e3ef.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/4238ec8a16b62817f764bf2f9b95e3ef.401x401x1.png",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 128174
+                },
+                "title": "Petrouchka",
+                "title_with_featured": "Petrouchka (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Soso-maness-petrouchka-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/147487",
+                    "header_image_url": "https://images.genius.com/87ec22191e8eedbf245dea6a04652504.838x445x1.jpg",
+                    "id": 147487,
+                    "image_url": "https://images.genius.com/9e0c59e5e8a785617697ef5df25f4341.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Soso Maness",
+                    "url": "https://genius.com/artists/Soso-maness"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/7076002",
+                "artist_names": "Soso Maness (Ft. PLK & RAF Camora)",
+                "full_title": "Petrouchka (Remix) by\u00a0Soso\u00a0Maness (Ft.\u00a0PLK & RAF\u00a0Camora)",
+                "header_image_thumbnail_url": "https://images.genius.com/649b1a70c395956e30c00c8361101de2.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/649b1a70c395956e30c00c8361101de2.1000x563x1.jpg",
+                "id": 7076002,
+                "language": "en",
+                "lyrics_owner_id": 8068117,
+                "lyrics_state": "complete",
+                "path": "/Soso-maness-petrouchka-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Soso-maness-petrouchka-remix-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 6
+                },
+                "release_date_for_display": "August 6, 2021",
+                "release_date_with_abbreviated_month_for_display": "Aug. 6, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/624c4685ad1187522905d2b670560152.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/624c4685ad1187522905d2b670560152.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 6385
+                },
+                "title": "Petrouchka (Remix)",
+                "title_with_featured": "Petrouchka (Remix) (Ft.\u00a0PLK & RAF\u00a0Camora)",
+                "url": "https://genius.com/Soso-maness-petrouchka-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/12767",
+                        "header_image_url": "https://images.genius.com/dc40fa95702c5bdd89f08ccc4486b86a.1000x429x1.jpg",
+                        "id": 12767,
+                        "image_url": "https://images.genius.com/327fc4776fce348a834b23c2592863dd.1000x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "RAF Camora",
+                        "url": "https://genius.com/artists/Raf-camora",
+                        "iq": 5083
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/147487",
+                    "header_image_url": "https://images.genius.com/87ec22191e8eedbf245dea6a04652504.838x445x1.jpg",
+                    "id": 147487,
+                    "image_url": "https://images.genius.com/9e0c59e5e8a785617697ef5df25f4341.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Soso Maness",
+                    "url": "https://genius.com/artists/Soso-maness"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/697916",
+                "artist_names": "PLK",
+                "full_title": "Peur de me tromper by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/1c3c8e3bf2fb3f8607dad312cc7d8450.300x188x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/1c3c8e3bf2fb3f8607dad312cc7d8450.1000x625x1.jpg",
+                "id": 697916,
+                "language": "fr",
+                "lyrics_owner_id": 74564,
+                "lyrics_state": "complete",
+                "path": "/Plk-peur-de-me-tromper-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Plk-peur-de-me-tromper-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 4
+                },
+                "release_date_for_display": "February 4, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 4, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/1c3c8e3bf2fb3f8607dad312cc7d8450.300x188x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/1c3c8e3bf2fb3f8607dad312cc7d8450.1000x625x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 10036
+                },
+                "title": "Peur de me tromper",
+                "title_with_featured": "Peur de me tromper",
+                "url": "https://genius.com/Plk-peur-de-me-tromper-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/5838739",
+                "artist_names": "PLK (Ft. Hamza)",
+                "full_title": "Pilote by\u00a0PLK (Ft.\u00a0Hamza)",
+                "header_image_thumbnail_url": "https://images.genius.com/58524e463bf467d3117799542e86c738.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/58524e463bf467d3117799542e86c738.1000x563x1.jpg",
+                "id": 5838739,
+                "language": "fr",
+                "lyrics_owner_id": 2910947,
+                "lyrics_state": "complete",
+                "path": "/Plk-pilote-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Plk-pilote-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 28
+                },
+                "release_date_for_display": "August 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/453d2fc154f9121407a7f3d2a1abb02f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/453d2fc154f9121407a7f3d2a1abb02f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 45327
+                },
+                "title": "Pilote",
+                "title_with_featured": "Pilote (Ft.\u00a0Hamza)",
+                "url": "https://genius.com/Plk-pilote-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/74111",
+                        "header_image_url": "https://images.genius.com/c9f1bb44e13872a3d948437a3b86e4e9.649x960x1.jpg",
+                        "id": 74111,
+                        "image_url": "https://images.genius.com/4e999f4c4332ed7339dcd3c6a909a0bb.521x521x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hamza",
+                        "url": "https://genius.com/artists/Hamza",
+                        "iq": 521
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3436372",
+                "artist_names": "Zeu (Ft. Ormaz & PLK)",
+                "full_title": "Piou Piou by\u00a0Zeu (Ft.\u00a0Ormaz & PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/17959a78cfb40e04bee2839cb09cb24d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17959a78cfb40e04bee2839cb09cb24d.656x656x1.jpg",
+                "id": 3436372,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Zeu-piou-piou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zeu-piou-piou-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/91c0cab2a63e7c3004cb3789fb99579b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/91c0cab2a63e7c3004cb3789fb99579b.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 6053
+                },
+                "title": "Piou Piou",
+                "title_with_featured": "Piou Piou (Ft.\u00a0Ormaz & PLK)",
+                "url": "https://genius.com/Zeu-piou-piou-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/165981",
+                        "header_image_url": "https://images.genius.com/c639ef512abd0957130bb9092867578b.1000x666x1.jpg",
+                        "id": 165981,
+                        "image_url": "https://images.genius.com/59b7f9e2f02199ac4906c51b310cd43f.803x803x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ormaz",
+                        "url": "https://genius.com/artists/Ormaz"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/165982",
+                    "header_image_url": "https://images.genius.com/41d0eed06082470f62773af6f203024d.562x1000x1.png",
+                    "id": 165982,
+                    "image_url": "https://images.genius.com/a620e389425992420c7ff6be0f14b824.750x750x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zeu",
+                    "url": "https://genius.com/artists/Zeu",
+                    "iq": 143
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6733147",
+                "artist_names": "PLK",
+                "full_title": "Plan B* by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                "id": 6733147,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Plk-plan-b-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-plan-b-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Plan B*",
+                "title_with_featured": "Plan B*",
+                "url": "https://genius.com/Plk-plan-b-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2884784",
+                "artist_names": "PLK",
+                "full_title": "Plata o Plomo by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/6dc3e9b47156832698a36f3a6ac4f0ac.300x200x1.png",
+                "header_image_url": "https://images.genius.com/6dc3e9b47156832698a36f3a6ac4f0ac.1000x666x1.png",
+                "id": 2884784,
+                "language": "en",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Plk-plata-o-plomo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-plata-o-plomo-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 10,
+                    "day": 17
+                },
+                "release_date_for_display": "October 17, 2016",
+                "release_date_with_abbreviated_month_for_display": "Oct. 17, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5f0aca98692aee04c0ec3e9803dc689b.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5f0aca98692aee04c0ec3e9803dc689b.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 9279
+                },
+                "title": "Plata o Plomo",
+                "title_with_featured": "Plata o Plomo",
+                "url": "https://genius.com/Plk-plata-o-plomo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3566149",
+                "artist_names": "PLK",
+                "full_title": "Platinum by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/12409fde5a2ddb83b9e3183a4a079139.300x200x1.jpg",
+                "header_image_url": "https://images.genius.com/12409fde5a2ddb83b9e3183a4a079139.1000x665x1.jpg",
+                "id": 3566149,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Plk-platinum-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Plk-platinum-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 28
+                },
+                "release_date_for_display": "March 28, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 28, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7fb8f5fdf0584747eb8d508e97b564cc.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7fb8f5fdf0584747eb8d508e97b564cc.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 14609
+                },
+                "title": "Platinum",
+                "title_with_featured": "Platinum",
+                "url": "https://genius.com/Plk-platinum-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3939690",
+                "artist_names": "PLK",
+                "full_title": "Polak by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/39bc144c9f42b060e2159f8d2680b961.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/39bc144c9f42b060e2159f8d2680b961.1000x563x1.jpg",
+                "id": 3939690,
+                "language": "fr",
+                "lyrics_owner_id": 585160,
+                "lyrics_state": "complete",
+                "path": "/Plk-polak-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Plk-polak-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f2a5f462fa514c9669f800f95fc98eab.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f2a5f462fa514c9669f800f95fc98eab.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 47889
+                },
+                "title": "Polak",
+                "title_with_featured": "Polak",
+                "url": "https://genius.com/Plk-polak-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8876634",
+                "artist_names": "PLK",
+                "full_title": "POL-AK (2069') by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.1000x1000x1.jpg",
+                "id": 8876634,
+                "language": "fr",
+                "lyrics_owner_id": 19510449,
+                "lyrics_state": "complete",
+                "path": "/Plk-pol-ak-2069-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-pol-ak-2069-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/59256c5195b665c400d4dc1a8d20282d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "POL-AK (2069')",
+                "title_with_featured": "POL-AK (2069')",
+                "url": "https://genius.com/Plk-pol-ak-2069-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5838746",
+                "artist_names": "PLK",
+                "full_title": "Pourtant by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/453d2fc154f9121407a7f3d2a1abb02f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/453d2fc154f9121407a7f3d2a1abb02f.1000x1000x1.jpg",
+                "id": 5838746,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Plk-pourtant-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Plk-pourtant-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 28
+                },
+                "release_date_for_display": "August 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/453d2fc154f9121407a7f3d2a1abb02f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/453d2fc154f9121407a7f3d2a1abb02f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 30393
+                },
+                "title": "Pourtant",
+                "title_with_featured": "Pourtant",
+                "url": "https://genius.com/Plk-pourtant-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6177424",
+                "artist_names": "SDM",
+                "full_title": "Prince de la Calle by\u00a0SDM",
+                "header_image_thumbnail_url": "https://images.genius.com/1a045d7e5e095f77e71fb2e71abd16ef.300x169x1.png",
+                "header_image_url": "https://images.genius.com/1a045d7e5e095f77e71fb2e71abd16ef.1000x562x1.png",
+                "id": 6177424,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Sdm-prince-de-la-calle-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Sdm-prince-de-la-calle-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 20
+                },
+                "release_date_for_display": "November 20, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 20, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bb9950afb3342e8d87417bb2e213704d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bb9950afb3342e8d87417bb2e213704d.358x358x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 14969
+                },
+                "title": "Prince de la Calle",
+                "title_with_featured": "Prince de la Calle",
+                "url": "https://genius.com/Sdm-prince-de-la-calle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1904845",
+                    "header_image_url": "https://images.genius.com/4cc4b497bfaa673d8be68e68ce2bcee5.800x1000x1.jpg",
+                    "id": 1904845,
+                    "image_url": "https://images.genius.com/e9e5ba37101795899f12e2f087428a9a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SDM",
+                    "url": "https://genius.com/artists/Sdm"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/4708898",
+                "artist_names": "PLK",
+                "full_title": "Probl\u00e8mes by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/595ed34a9ec71a3ec6ac89b19c98e774.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/595ed34a9ec71a3ec6ac89b19c98e774.1000x540x1.jpg",
+                "id": 4708898,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Plk-problemes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Plk-problemes-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 19
+                },
+                "release_date_for_display": "July 19, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 19, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/132a4a2aaa063d963e5be7d672b779c2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/132a4a2aaa063d963e5be7d672b779c2.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 53741
+                },
+                "title": "Probl\u00e8mes",
+                "title_with_featured": "Probl\u00e8mes",
+                "url": "https://genius.com/Plk-problemes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5233848",
+                "artist_names": "Timal (Ft. PLK)",
+                "full_title": "Promis by\u00a0Timal (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "header_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "id": 5233848,
+                "language": "da",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-promis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-promis-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 9555
+                },
+                "title": "Promis",
+                "title_with_featured": "Promis (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Timal-promis-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8976027",
+                "artist_names": "SCH (Ft. JuL & PLK)",
+                "full_title": "Putana by\u00a0SCH (Ft.\u00a0JuL & PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                "id": 8976027,
+                "language": "en",
+                "lyrics_owner_id": 20267504,
+                "lyrics_state": "complete",
+                "path": "/Sch-putana-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sch-putana-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 29
+                },
+                "release_date_for_display": "March 29, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 29, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Putana",
+                "title_with_featured": "Putana (Ft.\u00a0JuL & PLK)",
+                "url": "https://genius.com/Sch-putana-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/74283",
+                        "header_image_url": "https://images.genius.com/420e900bc528bd58064a16dae6e325c9.449x613x1.png",
+                        "id": 74283,
+                        "image_url": "https://images.genius.com/581fd4fd6fc511609f0988f003def364.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JuL",
+                        "url": "https://genius.com/artists/Jul"
+                    },
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/276476",
+                    "header_image_url": "https://images.genius.com/a7814e87e59e58dab4d2fee4e4af2228.595x204x1.png",
+                    "id": 276476,
+                    "image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "SCH",
+                    "url": "https://genius.com/artists/Sch",
+                    "iq": 12286
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/8778687",
+                "artist_names": "Georgio (Ft. PLK)",
+                "full_title": "Quand tout s'enflamme by\u00a0Georgio (Ft.\u00a0PLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.1000x1000x1.jpg",
+                "id": 8778687,
+                "language": "fr",
+                "lyrics_owner_id": 3704518,
+                "lyrics_state": "complete",
+                "path": "/Georgio-quand-tout-senflamme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-quand-tout-senflamme-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 3
+                },
+                "release_date_for_display": "February 3, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 3, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Quand tout s\u2019enflamme",
+                "title_with_featured": "Quand tout s'enflamme (Ft.\u00a0PLK)",
+                "url": "https://genius.com/Georgio-quand-tout-senflamme-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/7349389",
+                "artist_names": "PLK",
+                "full_title": "R.A.F by\u00a0PLK",
+                "header_image_thumbnail_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.1000x1000x1.jpg",
+                "id": 7349389,
+                "language": "fr",
+                "lyrics_owner_id": 4415864,
+                "lyrics_state": "complete",
+                "path": "/Plk-raf-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Plk-raf-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 12
+                },
+                "release_date_for_display": "November 12, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 12, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/11d522dca03b5374e44069141ec96bfe.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 13306
+                },
+                "title": "R.A.F",
+                "title_with_featured": "R.A.F",
+                "url": "https://genius.com/Plk-raf-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/128813",
+                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                    "id": 128813,
+                    "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "PLK",
+                    "url": "https://genius.com/artists/Plk",
+                    "iq": 100
+                }
+            }
+        ],
+        "next_page": 12
+    }
+}

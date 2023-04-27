@@ -1,0 +1,949 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/2167246",
+                "artist_names": "Jorrdee",
+                "full_title": "P.A part.II by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/Ad7sVDbq91k/mqdefault.webp",
+                "header_image_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/Ad7sVDbq91k/mqdefault.webp",
+                "id": 2167246,
+                "language": "fr",
+                "lyrics_owner_id": 1003952,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-pa-partii-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pa-partii-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 25
+                },
+                "release_date_for_display": "February 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 25, 2015",
+                "song_art_image_thumbnail_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/Ad7sVDbq91k/mqdefault.webp",
+                "song_art_image_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/Ad7sVDbq91k/mqdefault.webp",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "P.A part.II",
+                "title_with_featured": "P.A part.II",
+                "url": "https://genius.com/Jorrdee-pa-partii-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5571535",
+                "artist_names": "Mazoo (Ft. Gouap, Jorrdee, Lala &ce & Retro X)",
+                "full_title": "Papier Sur Toi by\u00a0Mazoo (Ft.\u00a0Gouap, Jorrdee, Lala\u00a0&ce & Retro\u00a0X)",
+                "header_image_thumbnail_url": "https://images.genius.com/92be4794926cfd29328734f19bbb6e49.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92be4794926cfd29328734f19bbb6e49.1000x1000x1.jpg",
+                "id": 5571535,
+                "language": "nl",
+                "lyrics_owner_id": 6345245,
+                "lyrics_state": "complete",
+                "path": "/Mazoo-papier-sur-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mazoo-papier-sur-toi-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 17
+                },
+                "release_date_for_display": "October 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92be4794926cfd29328734f19bbb6e49.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92be4794926cfd29328734f19bbb6e49.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Papier Sur Toi",
+                "title_with_featured": "Papier Sur Toi (Ft.\u00a0Gouap, Jorrdee, Lala\u00a0&ce & Retro\u00a0X)",
+                "url": "https://genius.com/Mazoo-papier-sur-toi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/515495",
+                        "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                        "id": 515495,
+                        "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jorrdee",
+                        "url": "https://genius.com/artists/Jorrdee"
+                    },
+                    {
+                        "api_path": "/artists/624449",
+                        "header_image_url": "https://images.genius.com/7b428a11debe76d81d2c6277067378d6.1000x662x1.jpg",
+                        "id": 624449,
+                        "image_url": "https://images.genius.com/a025700193010fbf3745664eb7d28986.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lala &ce",
+                        "url": "https://genius.com/artists/Lala-ce",
+                        "iq": 276
+                    },
+                    {
+                        "api_path": "/artists/1035209",
+                        "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                        "id": 1035209,
+                        "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Retro X",
+                        "url": "https://genius.com/artists/Retro-x"
+                    },
+                    {
+                        "api_path": "/artists/611000",
+                        "header_image_url": "https://images.genius.com/821a70bfd15e79a840f03332afb757d0.1000x256x1.jpg",
+                        "id": 611000,
+                        "image_url": "https://images.genius.com/3f1b8c7800d1e50c06ce5bbe1a9f9b69.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gouap",
+                        "url": "https://genius.com/artists/Gouap"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/663629",
+                    "header_image_url": "https://images.genius.com/a582ecc406cd42cd0b7df2ae22a2b555.1000x1000x1.jpg",
+                    "id": 663629,
+                    "image_url": "https://images.genius.com/92be4794926cfd29328734f19bbb6e49.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mazoo",
+                    "url": "https://genius.com/artists/Mazoo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3294515",
+                "artist_names": "Jorrdee",
+                "full_title": "Parce que by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/5e8904c480234d4a1789525bbeee49fc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5e8904c480234d4a1789525bbeee49fc.1000x1000x1.jpg",
+                "id": 3294515,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-parce-que-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-parce-que-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 29
+                },
+                "release_date_for_display": "October 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e8904c480234d4a1789525bbeee49fc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5e8904c480234d4a1789525bbeee49fc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Parce que",
+                "title_with_featured": "Parce que",
+                "url": "https://genius.com/Jorrdee-parce-que-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5625958",
+                "artist_names": "Jorrdee",
+                "full_title": "Pas de Gang by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.300x300x1.png",
+                "header_image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                "id": 5625958,
+                "language": "en",
+                "lyrics_owner_id": 7159386,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-pas-de-gang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pas-de-gang-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pas de Gang",
+                "title_with_featured": "Pas de Gang",
+                "url": "https://genius.com/Jorrdee-pas-de-gang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2411893",
+                "artist_names": "Congo Bill (Ft. Jorrdee & Slim C)",
+                "full_title": "Pas le moral by\u00a0Congo\u00a0Bill (Ft.\u00a0Jorrdee & Slim\u00a0C)",
+                "header_image_thumbnail_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/951GwZGTUJg/mqdefault.webp",
+                "header_image_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/951GwZGTUJg/mqdefault.webp",
+                "id": 2411893,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Congo-bill-pas-le-moral-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Congo-bill-pas-le-moral-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 16
+                },
+                "release_date_for_display": "January 16, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 16, 2016",
+                "song_art_image_thumbnail_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/951GwZGTUJg/mqdefault.webp",
+                "song_art_image_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/951GwZGTUJg/mqdefault.webp",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Pas le moral",
+                "title_with_featured": "Pas le moral (Ft.\u00a0Jorrdee & Slim\u00a0C)",
+                "url": "https://genius.com/Congo-bill-pas-le-moral-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/515495",
+                        "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                        "id": 515495,
+                        "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jorrdee",
+                        "url": "https://genius.com/artists/Jorrdee"
+                    },
+                    {
+                        "api_path": "/artists/42647",
+                        "header_image_url": "https://images.genius.com/415ceb0583d4dc51ea842297a50ef589.400x400x1.jpg",
+                        "id": 42647,
+                        "image_url": "https://images.genius.com/415ceb0583d4dc51ea842297a50ef589.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Slim C",
+                        "url": "https://genius.com/artists/Slim-c",
+                        "iq": 714
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/623900",
+                    "header_image_url": "https://images.genius.com/17a8803ecd55e71382b49f8561971ad5.778x778x1.png",
+                    "id": 623900,
+                    "image_url": "https://images.genius.com/17a8803ecd55e71382b49f8561971ad5.778x778x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Congo Bill",
+                    "url": "https://genius.com/artists/Congo-bill"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3262227",
+                "artist_names": "Gouap (Ft. Jorrdee & Timoth\u00e9e Joly)",
+                "full_title": "Pass by\u00a0Gouap (Ft.\u00a0Jorrdee & Timoth\u00e9e\u00a0Joly)",
+                "header_image_thumbnail_url": "https://images.genius.com/69d96eddb297a3dfb7788bc7252efc7f.300x300x1.png",
+                "header_image_url": "https://images.genius.com/69d96eddb297a3dfb7788bc7252efc7f.499x499x1.png",
+                "id": 3262227,
+                "language": null,
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Gouap-pass-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gouap-pass-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 4
+                },
+                "release_date_for_display": "October 4, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 4, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/69d96eddb297a3dfb7788bc7252efc7f.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/69d96eddb297a3dfb7788bc7252efc7f.499x499x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pass",
+                "title_with_featured": "Pass (Ft.\u00a0Jorrdee & Timoth\u00e9e\u00a0Joly)",
+                "url": "https://genius.com/Gouap-pass-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1112490",
+                        "header_image_url": "https://images.genius.com/956a96067ed9ab2bbfdfaae5e278cb1d.1000x269x1.png",
+                        "id": 1112490,
+                        "image_url": "https://images.genius.com/18d938bbd6b03219de29cd9d159ae499.881x881x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Timoth\u00e9e Joly",
+                        "url": "https://genius.com/artists/Timothee-joly"
+                    },
+                    {
+                        "api_path": "/artists/515495",
+                        "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                        "id": 515495,
+                        "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jorrdee",
+                        "url": "https://genius.com/artists/Jorrdee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/611000",
+                    "header_image_url": "https://images.genius.com/821a70bfd15e79a840f03332afb757d0.1000x256x1.jpg",
+                    "id": 611000,
+                    "image_url": "https://images.genius.com/3f1b8c7800d1e50c06ce5bbe1a9f9b69.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gouap",
+                    "url": "https://genius.com/artists/Gouap"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3088623",
+                "artist_names": "Jorrdee",
+                "full_title": "Perch\u00e9 by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.1000x1000x1.jpg",
+                "id": 3088623,
+                "language": "fr",
+                "lyrics_owner_id": 169443,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-perche-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-perche-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 15
+                },
+                "release_date_for_display": "May 15, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 15, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Perch\u00e9",
+                "title_with_featured": "Perch\u00e9",
+                "url": "https://genius.com/Jorrdee-perche-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2415762",
+                "artist_names": "Jorrdee",
+                "full_title": "Personne ne sort by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/fffb60c2bde618d3afabe286be566612.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/fffb60c2bde618d3afabe286be566612.1000x563x1.jpg",
+                "id": 2415762,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-personne-ne-sort-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-personne-ne-sort-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 2
+                },
+                "release_date_for_display": "December 2, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 2, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/00f651a74df9d3f80e603ffc612087d6.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/00f651a74df9d3f80e603ffc612087d6.916x916x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Personne ne sort",
+                "title_with_featured": "Personne ne sort",
+                "url": "https://genius.com/Jorrdee-personne-ne-sort-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/4602678",
+                "artist_names": "BU$HI (Ft. Jorrdee)",
+                "full_title": "PewPew by\u00a0BU$HI (Ft.\u00a0Jorrdee)",
+                "header_image_thumbnail_url": "https://images.genius.com/bdc7c3e7d67d90b10d61800d96cb177c.300x300x1.png",
+                "header_image_url": "https://images.genius.com/bdc7c3e7d67d90b10d61800d96cb177c.1000x1000x1.png",
+                "id": 4602678,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Bu-hi-pewpew-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bu-hi-pewpew-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 2
+                },
+                "release_date_for_display": "April 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bdc7c3e7d67d90b10d61800d96cb177c.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/bdc7c3e7d67d90b10d61800d96cb177c.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "PewPew",
+                "title_with_featured": "PewPew (Ft.\u00a0Jorrdee)",
+                "url": "https://genius.com/Bu-hi-pewpew-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/515495",
+                        "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                        "id": 515495,
+                        "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jorrdee",
+                        "url": "https://genius.com/artists/Jorrdee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1233575",
+                    "header_image_url": "https://images.genius.com/82806158f2f5c5af8d1551bd952e1ffc.1000x563x1.png",
+                    "id": 1233575,
+                    "image_url": "https://images.genius.com/050576e9808baedd8ef14febeddf510e.685x685x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BU$HI",
+                    "url": "https://genius.com/artists/Bu-hi"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4907524",
+                "artist_names": "Jorrdee",
+                "full_title": "Pilule Bleue by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/7bdb8d0d8a4ddd57a0ab287b273c062e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7bdb8d0d8a4ddd57a0ab287b273c062e.500x500x1.jpg",
+                "id": 4907524,
+                "language": "fr",
+                "lyrics_owner_id": 2956605,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-pilule-bleue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pilule-bleue-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 2,
+                    "day": 1
+                },
+                "release_date_for_display": "February 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Feb. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7bdb8d0d8a4ddd57a0ab287b273c062e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7bdb8d0d8a4ddd57a0ab287b273c062e.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pilule Bleue",
+                "title_with_featured": "Pilule Bleue",
+                "url": "https://genius.com/Jorrdee-pilule-bleue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/2439556",
+                "artist_names": "Jorrdee",
+                "full_title": "Pimp C by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/90a582709ef2fb25d38db98c47608a38.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/90a582709ef2fb25d38db98c47608a38.1000x562x1.jpg",
+                "id": 2439556,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-pimp-c-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pimp-c-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2011",
+                "release_date_with_abbreviated_month_for_display": "2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/90a582709ef2fb25d38db98c47608a38.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/90a582709ef2fb25d38db98c47608a38.1000x562x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Pimp C",
+                "title_with_featured": "Pimp C",
+                "url": "https://genius.com/Jorrdee-pimp-c-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5651232",
+                "artist_names": "Jorrdee",
+                "full_title": "Plein Coeur by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/8b26b2f99c037baed308f0af4187e2c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8b26b2f99c037baed308f0af4187e2c8.1000x1000x1.jpg",
+                "id": 5651232,
+                "language": "fr",
+                "lyrics_owner_id": 1578562,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-plein-coeur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-plein-coeur-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 6,
+                    "day": 8
+                },
+                "release_date_for_display": "June 8, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jun. 8, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b26b2f99c037baed308f0af4187e2c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b26b2f99c037baed308f0af4187e2c8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plein Coeur",
+                "title_with_featured": "Plein Coeur",
+                "url": "https://genius.com/Jorrdee-plein-coeur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5577037",
+                "artist_names": "Jorrdee",
+                "full_title": "Plus en plus by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/057383d75477754dc8125ed429304287.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/057383d75477754dc8125ed429304287.960x960x1.jpg",
+                "id": 5577037,
+                "language": "fr",
+                "lyrics_owner_id": 169223,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-plus-en-plus-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-plus-en-plus-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 23
+                },
+                "release_date_for_display": "August 23, 2015",
+                "release_date_with_abbreviated_month_for_display": "Aug. 23, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/057383d75477754dc8125ed429304287.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/057383d75477754dc8125ed429304287.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus en plus",
+                "title_with_featured": "Plus en plus",
+                "url": "https://genius.com/Jorrdee-plus-en-plus-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4943895",
+                "artist_names": "Jorrdee",
+                "full_title": "P.M by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/d3a21239d8f3366b7ba962f9711e949c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d3a21239d8f3366b7ba962f9711e949c.640x640x1.jpg",
+                "id": 4943895,
+                "language": null,
+                "lyrics_owner_id": 3569851,
+                "lyrics_state": "unreleased",
+                "path": "/Jorrdee-pm-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pm-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d3a21239d8f3366b7ba962f9711e949c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d3a21239d8f3366b7ba962f9711e949c.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "P.M",
+                "title_with_featured": "P.M",
+                "url": "https://genius.com/Jorrdee-pm-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2985813",
+                "artist_names": "Jorrdee",
+                "full_title": "Pop by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/4e87749fb6299f701afeed821137c592.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4e87749fb6299f701afeed821137c592.500x500x1.jpg",
+                "id": 2985813,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-pop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pop-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 3
+                },
+                "release_date_for_display": "November 3, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 3, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4e87749fb6299f701afeed821137c592.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4e87749fb6299f701afeed821137c592.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pop",
+                "title_with_featured": "Pop",
+                "url": "https://genius.com/Jorrdee-pop-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3920477",
+                "artist_names": "Jorrdee (Ft. NO WAY)",
+                "full_title": "Pop Boy by\u00a0Jorrdee (Ft.\u00a0NO\u00a0WAY)",
+                "header_image_thumbnail_url": "https://images.genius.com/63c79b93be24f99848622f475f7cae11.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/63c79b93be24f99848622f475f7cae11.487x487x1.jpg",
+                "id": 3920477,
+                "language": "fr",
+                "lyrics_owner_id": 5233007,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-pop-boy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pop-boy-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/63c79b93be24f99848622f475f7cae11.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/63c79b93be24f99848622f475f7cae11.487x487x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Pop Boy",
+                "title_with_featured": "Pop Boy (Ft.\u00a0NO\u00a0WAY)",
+                "url": "https://genius.com/Jorrdee-pop-boy-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/676167",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 676167,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "NO WAY",
+                        "url": "https://genius.com/artists/No-way"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4360170",
+                "artist_names": "BU$HI",
+                "full_title": "Potion (Charrette) by\u00a0BU$HI",
+                "header_image_thumbnail_url": "https://images.genius.com/be8ee827b6deceb32d7069c4e0f3805f.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/be8ee827b6deceb32d7069c4e0f3805f.1000x563x1.jpg",
+                "id": 4360170,
+                "language": "fr",
+                "lyrics_owner_id": 4696301,
+                "lyrics_state": "complete",
+                "path": "/Bu-hi-potion-charrette-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Bu-hi-potion-charrette-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 13
+                },
+                "release_date_for_display": "September 13, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 13, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aacc63e36ce012542651947ab885a894.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/aacc63e36ce012542651947ab885a894.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Potion (Charrette)",
+                "title_with_featured": "Potion (Charrette)",
+                "url": "https://genius.com/Bu-hi-potion-charrette-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1233575",
+                    "header_image_url": "https://images.genius.com/82806158f2f5c5af8d1551bd952e1ffc.1000x563x1.png",
+                    "id": 1233575,
+                    "image_url": "https://images.genius.com/050576e9808baedd8ef14febeddf510e.685x685x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BU$HI",
+                    "url": "https://genius.com/artists/Bu-hi"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3088591",
+                "artist_names": "Jorrdee",
+                "full_title": "POWER by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.1000x1000x1.jpg",
+                "id": 3088591,
+                "language": "fr",
+                "lyrics_owner_id": 169443,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-power-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-power-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 15
+                },
+                "release_date_for_display": "May 15, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 15, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bc1b72f33a60cb5714b073101e0d64dc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "POWER",
+                "title_with_featured": "POWER",
+                "url": "https://genius.com/Jorrdee-power-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3023470",
+                "artist_names": "Jorrdee",
+                "full_title": "PPTT by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/41f1e431cce6423628930604e30148c4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/41f1e431cce6423628930604e30148c4.960x960x1.jpg",
+                "id": 3023470,
+                "language": "fr",
+                "lyrics_owner_id": 408049,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-pptt-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-pptt-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/41f1e431cce6423628930604e30148c4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/41f1e431cce6423628930604e30148c4.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "PPTT",
+                "title_with_featured": "PPTT",
+                "url": "https://genius.com/Jorrdee-pptt-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2524229",
+                "artist_names": "Jorrdee",
+                "full_title": "Prendre by\u00a0Jorrdee",
+                "header_image_thumbnail_url": "https://images.genius.com/4eb1a306eecfc4081bb3ef51c066c744.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4eb1a306eecfc4081bb3ef51c066c744.643x643x1.jpg",
+                "id": 2524229,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Jorrdee-prendre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jorrdee-prendre-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 8,
+                    "day": 28
+                },
+                "release_date_for_display": "August 28, 2014",
+                "release_date_with_abbreviated_month_for_display": "Aug. 28, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/687471dbb913081b1fa64139f5f05eae.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/687471dbb913081b1fa64139f5f05eae.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Prendre",
+                "title_with_featured": "Prendre",
+                "url": "https://genius.com/Jorrdee-prendre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/515495",
+                    "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                    "id": 515495,
+                    "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jorrdee",
+                    "url": "https://genius.com/artists/Jorrdee"
+                }
+            }
+        ],
+        "next_page": 16
+    }
+}

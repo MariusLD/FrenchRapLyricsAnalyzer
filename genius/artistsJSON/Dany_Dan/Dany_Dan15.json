@@ -1,0 +1,994 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/404102",
+                "artist_names": "Dany Dan (Ft. Ham's)",
+                "full_title": "Trouver Le Love by\u00a0Dany\u00a0Dan (Ft.\u00a0Ham's)",
+                "header_image_thumbnail_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.1000x1000x1.jpg",
+                "id": 404102,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-trouver-le-love-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-trouver-le-love-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 10,
+                    "day": 3
+                },
+                "release_date_for_display": "October 3, 2006",
+                "release_date_with_abbreviated_month_for_display": "Oct. 3, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Trouver Le Love",
+                "title_with_featured": "Trouver Le Love (Ft.\u00a0Ham's)",
+                "url": "https://genius.com/Dany-dan-trouver-le-love-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165626",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 165626,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ham\u2019s",
+                        "url": "https://genius.com/artists/Hams"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/97454",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue (Ft. Pleofi)",
+                "full_title": "Tu dormiras au fond de ma rue by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue (Ft.\u00a0Pleofi)",
+                "header_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "id": 97454,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-tu-dormiras-au-fond-de-ma-rue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-tu-dormiras-au-fond-de-ma-rue-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 10,
+                    "day": null
+                },
+                "release_date_for_display": "October 1995",
+                "release_date_with_abbreviated_month_for_display": "Oct. 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tu dormiras au fond de ma rue",
+                "title_with_featured": "Tu dormiras au fond de ma rue (Ft.\u00a0Pleofi)",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-tu-dormiras-au-fond-de-ma-rue-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/135082",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 135082,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pleofi",
+                        "url": "https://genius.com/artists/Pleofi"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/276185",
+                "artist_names": "Dany Dan",
+                "full_title": "Tu savais pas? by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/e6bc7ef19f456deaf98f8e637a71418c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6bc7ef19f456deaf98f8e637a71418c.621x621x1.jpg",
+                "id": 276185,
+                "language": "fr",
+                "lyrics_owner_id": 102967,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-tu-savais-pas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-tu-savais-pas-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 5,
+                    "day": 17
+                },
+                "release_date_for_display": "May 17, 2010",
+                "release_date_with_abbreviated_month_for_display": "May. 17, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6bc7ef19f456deaf98f8e637a71418c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6bc7ef19f456deaf98f8e637a71418c.621x621x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tu savais pas?",
+                "title_with_featured": "Tu savais pas?",
+                "url": "https://genius.com/Dany-dan-tu-savais-pas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/2337413",
+                "artist_names": "Beat de Boul (Ft. Dany Dan & Sir Doum's)",
+                "full_title": "Un dingue en moi by\u00a0Beat\u00a0de Boul (Ft.\u00a0Dany\u00a0Dan & Sir\u00a0Doum's)",
+                "header_image_thumbnail_url": "https://images.genius.com/76bc24c9e41a9c11a8dd936c089421d5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/76bc24c9e41a9c11a8dd936c089421d5.1000x1000x1.jpg",
+                "id": 2337413,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Beat-de-boul-un-dingue-en-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Beat-de-boul-un-dingue-en-moi-sample",
+                "release_date_components": {
+                    "year": 2000,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2000",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2000",
+                "song_art_image_thumbnail_url": "https://images.genius.com/76bc24c9e41a9c11a8dd936c089421d5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/76bc24c9e41a9c11a8dd936c089421d5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Un dingue en moi",
+                "title_with_featured": "Un dingue en moi (Ft.\u00a0Dany\u00a0Dan & Sir\u00a0Doum's)",
+                "url": "https://genius.com/Beat-de-boul-un-dingue-en-moi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14178",
+                        "header_image_url": "https://images.genius.com/39adfb088152980e04c6a24321a9c406.398x250x1.jpg",
+                        "id": 14178,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/1370522853_5479cb00315e7fc48192f2804979ce82.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Doum\u2019s",
+                        "url": "https://genius.com/artists/Sir-doums"
+                    },
+                    {
+                        "api_path": "/artists/1986",
+                        "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                        "id": 1986,
+                        "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dany Dan",
+                        "url": "https://genius.com/artists/Dany-dan",
+                        "iq": 345
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1935",
+                    "header_image_url": "https://images.genius.com/33877cbb8c9e8572356c30bfcc4014ea.599x593x1.jpg",
+                    "id": 1935,
+                    "image_url": "https://images.genius.com/2451e9d038dd30d4a713403a402b000a.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beat de Boul",
+                    "url": "https://genius.com/artists/Beat-de-boul"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/97645",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Un homme et un micro by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "id": 97645,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-un-homme-et-un-micro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-un-homme-et-un-micro-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1998",
+                "release_date_with_abbreviated_month_for_display": "1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Un homme et un micro",
+                "title_with_featured": "Un homme et un micro",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-un-homme-et-un-micro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/67731",
+                "artist_names": "Dany Dan",
+                "full_title": "Un homme et un micro by\u00a0Dany\u00a0Dan",
+                "header_image_thumbnail_url": "https://images.genius.com/a4f4f4efb08b82609cb4b6eeeaa13e6e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a4f4f4efb08b82609cb4b6eeeaa13e6e.460x460x1.jpg",
+                "id": 67731,
+                "language": "fr",
+                "lyrics_owner_id": 80316,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-un-homme-et-un-micro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-un-homme-et-un-micro-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/a4f4f4efb08b82609cb4b6eeeaa13e6e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a4f4f4efb08b82609cb4b6eeeaa13e6e.460x460x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Un homme et un micro",
+                "title_with_featured": "Un homme et un micro",
+                "url": "https://genius.com/Dany-dan-un-homme-et-un-micro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2820081",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Un jeune en chien by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "id": 2820081,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-un-jeune-en-chien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-un-jeune-en-chien-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1998",
+                "release_date_with_abbreviated_month_for_display": "1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Un jeune en chien",
+                "title_with_featured": "Un jeune en chien",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-un-jeune-en-chien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/97492",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Un monde \u00e9trange by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "id": 97492,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-un-monde-etrange-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-un-monde-etrange-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 10,
+                    "day": null
+                },
+                "release_date_for_display": "October 1995",
+                "release_date_with_abbreviated_month_for_display": "Oct. 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un monde \u00e9trange",
+                "title_with_featured": "Un monde \u00e9trange",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-un-monde-etrange-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/97435",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Un noir tue un noir by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "id": 97435,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-un-noir-tue-un-noir-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-un-noir-tue-un-noir-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 10,
+                    "day": 1
+                },
+                "release_date_for_display": "October 1, 1995",
+                "release_date_with_abbreviated_month_for_display": "Oct. 1, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/787df42057e950729ef8cdd362da5bd5.599x599x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un noir tue un noir",
+                "title_with_featured": "Un noir tue un noir",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-un-noir-tue-un-noir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2289379",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Un seul avertissement (in\u00e9dit) by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/ecfa0d048575451c85617d5a95602039.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ecfa0d048575451c85617d5a95602039.410x410x1.jpg",
+                "id": 2289379,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-un-seul-avertissement-inedit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-un-seul-avertissement-inedit-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1995",
+                "release_date_with_abbreviated_month_for_display": "1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ecfa0d048575451c85617d5a95602039.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ecfa0d048575451c85617d5a95602039.410x410x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Un seul avertissement (in\u00e9dit)",
+                "title_with_featured": "Un seul avertissement (in\u00e9dit)",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-un-seul-avertissement-inedit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5672428",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Un seul avertissement (remix) by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/5cbf3c4e76eb7f2eb460513ced973458.300x404x1.jpg",
+                "header_image_url": "https://images.genius.com/5cbf3c4e76eb7f2eb460513ced973458.743x1000x1.jpg",
+                "id": 5672428,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-un-seul-avertissement-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-un-seul-avertissement-remix-sample",
+                "release_date_components": {
+                    "year": 1996,
+                    "month": 6,
+                    "day": null
+                },
+                "release_date_for_display": "June 1996",
+                "release_date_with_abbreviated_month_for_display": "Jun. 1996",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5cbf3c4e76eb7f2eb460513ced973458.300x404x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5cbf3c4e76eb7f2eb460513ced973458.743x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un seul avertissement (remix)",
+                "title_with_featured": "Un seul avertissement (remix)",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-un-seul-avertissement-remix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/2330144",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Va t\u00e8j' ton gun by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/dce707b2a9df60182fcd63f61f187a9d.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/dce707b2a9df60182fcd63f61f187a9d.600x600x1.jpg",
+                "id": 2330144,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-va-tej-ton-gun-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-va-tej-ton-gun-sample",
+                "release_date_components": {
+                    "year": 1997,
+                    "month": 7,
+                    "day": 13
+                },
+                "release_date_for_display": "July 13, 1997",
+                "release_date_with_abbreviated_month_for_display": "Jul. 13, 1997",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/dce707b2a9df60182fcd63f61f187a9d.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/dce707b2a9df60182fcd63f61f187a9d.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Va t\u00e8j\u2019 ton gun",
+                "title_with_featured": "Va t\u00e8j' ton gun",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-va-tej-ton-gun-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2458656",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "V\u00e9t\u00e9rans by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/d81621c64c449146657384d5e75c04e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d81621c64c449146657384d5e75c04e3.600x600x1.jpg",
+                "id": 2458656,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-veterans-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-veterans-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2001",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d81621c64c449146657384d5e75c04e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d81621c64c449146657384d5e75c04e3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "V\u00e9t\u00e9rans",
+                "title_with_featured": "V\u00e9t\u00e9rans",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-veterans-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2435073",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Veux-tu coucher ? by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/1f4432dd279ec16e851d4e6497f0475a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f4432dd279ec16e851d4e6497f0475a.500x500x1.jpg",
+                "id": 2435073,
+                "language": "en",
+                "lyrics_owner_id": 2546098,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-veux-tu-coucher-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-veux-tu-coucher-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 5,
+                    "day": 16
+                },
+                "release_date_for_display": "May 16, 2002",
+                "release_date_with_abbreviated_month_for_display": "May. 16, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f4432dd279ec16e851d4e6497f0475a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f4432dd279ec16e851d4e6497f0475a.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Veux-tu coucher ?",
+                "title_with_featured": "Veux-tu coucher ?",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-veux-tu-coucher-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/98148",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Victoire by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "id": 98148,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-victoire-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-victoire-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 6,
+                    "day": 3
+                },
+                "release_date_for_display": "June 3, 1998",
+                "release_date_with_abbreviated_month_for_display": "Jun. 3, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Victoire",
+                "title_with_featured": "Victoire",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-victoire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3655315",
+                "artist_names": "LIM (Ft. Dany Dan & Mala)",
+                "full_title": "Violences urbaines by\u00a0LIM (Ft.\u00a0Dany\u00a0Dan & Mala)",
+                "header_image_thumbnail_url": "https://images.genius.com/d684460a69872d4672de4d496abc5ffa.857x857x1.jpghttps://images.genius.com/63dcfe672e613961b104bbced65873ca.857x857x1.jpg",
+                "header_image_url": "https://images.genius.com/d684460a69872d4672de4d496abc5ffa.857x857x1.jpghttps://images.genius.com/63dcfe672e613961b104bbced65873ca.857x857x1.jpg",
+                "id": 3655315,
+                "language": null,
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "incomplete",
+                "path": "/Lim-violences-urbaines-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lim-violences-urbaines-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 10,
+                    "day": 6
+                },
+                "release_date_for_display": "October 6, 2002",
+                "release_date_with_abbreviated_month_for_display": "Oct. 6, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c00fb6ad4cc8f2576471fc91511f834e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c00fb6ad4cc8f2576471fc91511f834e.857x857x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Violences urbaines",
+                "title_with_featured": "Violences urbaines (Ft.\u00a0Dany\u00a0Dan & Mala)",
+                "url": "https://genius.com/Lim-violences-urbaines-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11628",
+                        "header_image_url": "https://images.genius.com/3e1e90b453b3661509c0b3cc0251078a.1000x655x1.jpg",
+                        "id": 11628,
+                        "image_url": "https://images.genius.com/1dcba2ab320fb4782bd1f95b5c5bf945.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mala",
+                        "url": "https://genius.com/artists/Mala"
+                    },
+                    {
+                        "api_path": "/artists/1986",
+                        "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                        "id": 1986,
+                        "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dany Dan",
+                        "url": "https://genius.com/artists/Dany-dan",
+                        "iq": 345
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13319",
+                    "header_image_url": "https://images.genius.com/9a1be147a5f50510d4657a805f7323c6.1000x764x1.jpg",
+                    "id": 13319,
+                    "image_url": "https://images.genius.com/af5ade8a15b3519111d261443b7be993.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LIM",
+                    "url": "https://genius.com/artists/Lim"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/97643",
+                "artist_names": "Les Sages Po\u00e8tes de la Rue",
+                "full_title": "Voulez-vous bouger ? by\u00a0Les\u00a0Sages Po\u00e8tes de la Rue",
+                "header_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "id": 97643,
+                "language": "fr",
+                "lyrics_owner_id": 74433,
+                "lyrics_state": "complete",
+                "path": "/Les-sages-poetes-de-la-rue-voulez-vous-bouger-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-sages-poetes-de-la-rue-voulez-vous-bouger-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1998",
+                "release_date_with_abbreviated_month_for_display": "1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3a2034cd19973f0804a10a7e4e9093b0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Voulez-vous bouger ?",
+                "title_with_featured": "Voulez-vous bouger ?",
+                "url": "https://genius.com/Les-sages-poetes-de-la-rue-voulez-vous-bouger-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1970",
+                    "header_image_url": "https://images.genius.com/7a8419686fa3c8d3c6848fd0a087749d.810x192x1.jpg",
+                    "id": 1970,
+                    "image_url": "https://images.genius.com/bc0b4c4d39bea30b3785a6fde76ca108.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Sages Po\u00e8tes de la Rue",
+                    "url": "https://genius.com/artists/Les-sages-poetes-de-la-rue"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/5409837",
+                "artist_names": "Ol' Kainry & Dany Dan (Ft. CNL Soldiers)",
+                "full_title": "Vrai by\u00a0Ol'\u00a0Kainry & Dany Dan (Ft.\u00a0CNL\u00a0Soldiers)",
+                "header_image_thumbnail_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.600x600x1.jpg",
+                "id": 5409837,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Ol-kainry-and-dany-dan-vrai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ol-kainry-and-dany-dan-vrai-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 10,
+                    "day": 3
+                },
+                "release_date_for_display": "October 3, 2005",
+                "release_date_with_abbreviated_month_for_display": "Oct. 3, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c96acbd5abe46054cb045e3319b04cb3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vrai",
+                "title_with_featured": "Vrai (Ft.\u00a0CNL\u00a0Soldiers)",
+                "url": "https://genius.com/Ol-kainry-and-dany-dan-vrai-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2172117",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2172117,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "CNL Soldiers",
+                        "url": "https://genius.com/artists/Cnl-soldiers"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/150428",
+                    "header_image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "id": 150428,
+                    "image_url": "https://images.genius.com/237c5aad612dd7884ecb2ae316154c5c.531x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ol\u2019 Kainry & Dany Dan",
+                    "url": "https://genius.com/artists/Ol-kainry-and-dany-dan"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7025753",
+                "artist_names": "Kohndo (Ft. Dany Dan)",
+                "full_title": "Week end (On part en week end) by\u00a0Kohndo (Ft.\u00a0Dany\u00a0Dan)",
+                "header_image_thumbnail_url": "https://images.genius.com/deaaec9ba643a9b797a5537340e2b8ff.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/deaaec9ba643a9b797a5537340e2b8ff.600x600x1.jpg",
+                "id": 7025753,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-week-end-on-part-en-week-end-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-week-end-on-part-en-week-end-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 9
+                },
+                "release_date_for_display": "June 9, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 9, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/deaaec9ba643a9b797a5537340e2b8ff.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/deaaec9ba643a9b797a5537340e2b8ff.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Week end (On part en week end)",
+                "title_with_featured": "Week end (On part en week end) (Ft.\u00a0Dany\u00a0Dan)",
+                "url": "https://genius.com/Kohndo-week-end-on-part-en-week-end-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1986",
+                        "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                        "id": 1986,
+                        "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dany Dan",
+                        "url": "https://genius.com/artists/Dany-dan",
+                        "iq": 345
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/405800",
+                "artist_names": "Vicelow (Ft. 3010, Dany Dan, Disiz, Sam's & Ta\u00efro)",
+                "full_title": "Welcome to the BT2 (Remix) by\u00a0Vicelow (Ft.\u00a03010, Dany\u00a0Dan, Disiz, Sam's & Ta\u00efro)",
+                "header_image_thumbnail_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.300x199x1.jpg",
+                "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                "id": 405800,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Vicelow-welcome-to-the-bt2-remix-lyrics",
+                "pyongs_count": 9,
+                "relationships_index_url": "https://genius.com/Vicelow-welcome-to-the-bt2-remix-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 4,
+                    "day": 16
+                },
+                "release_date_for_display": "April 16, 2014",
+                "release_date_with_abbreviated_month_for_display": "Apr. 16, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.300x199x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 21101
+                },
+                "title": "Welcome to the BT2 (Remix)",
+                "title_with_featured": "Welcome to the BT2 (Remix) (Ft.\u00a03010, Dany\u00a0Dan, Disiz, Sam's & Ta\u00efro)",
+                "url": "https://genius.com/Vicelow-welcome-to-the-bt2-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16030",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/tairo1.jpg",
+                        "id": 16030,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/tairo1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ta\u00efro",
+                        "url": "https://genius.com/artists/Tairo"
+                    },
+                    {
+                        "api_path": "/artists/2252",
+                        "header_image_url": "https://images.genius.com/6de1823873908fd5e293343bee950d3c.960x586x1.jpg",
+                        "id": 2252,
+                        "image_url": "https://images.genius.com/4ec5dcbd50dfd892afff1b3cb667b0ed.715x715x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Disiz",
+                        "url": "https://genius.com/artists/Disiz",
+                        "iq": 105
+                    },
+                    {
+                        "api_path": "/artists/14648",
+                        "header_image_url": "https://images.genius.com/bd53d590e4902fff6efd3f6cc2ef8853.568x205x1.png",
+                        "id": 14648,
+                        "image_url": "https://images.genius.com/57fac4e06402a2cd6f08a55945914b66.542x542x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "3010",
+                        "url": "https://genius.com/artists/3010",
+                        "iq": 1455
+                    },
+                    {
+                        "api_path": "/artists/11854",
+                        "header_image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                        "id": 11854,
+                        "image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sam\u2019s",
+                        "url": "https://genius.com/artists/Sams",
+                        "iq": 862
+                    },
+                    {
+                        "api_path": "/artists/1986",
+                        "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                        "id": 1986,
+                        "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dany Dan",
+                        "url": "https://genius.com/artists/Dany-dan",
+                        "iq": 345
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            }
+        ],
+        "next_page": 16
+    }
+}

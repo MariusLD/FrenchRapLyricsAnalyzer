@@ -1,0 +1,916 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5178422",
+                "artist_names": "AM La Scampia",
+                "full_title": "Fais-le by\u00a0AM\u00a0La Scampia",
+                "header_image_thumbnail_url": "https://images.genius.com/b1d3b52b386c666c6cf758175e66119c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b1d3b52b386c666c6cf758175e66119c.680x680x1.jpg",
+                "id": 5178422,
+                "language": "fr",
+                "lyrics_owner_id": 4986071,
+                "lyrics_state": "complete",
+                "path": "/Am-la-scampia-fais-le-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Am-la-scampia-fais-le-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 17
+                },
+                "release_date_for_display": "January 17, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 17, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b1d3b52b386c666c6cf758175e66119c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b1d3b52b386c666c6cf758175e66119c.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fais-le",
+                "title_with_featured": "Fais-le",
+                "url": "https://genius.com/Am-la-scampia-fais-le-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1165897",
+                    "header_image_url": "https://images.genius.com/8845bad2c89d96ba52701398ecfe4e98.960x960x1.jpg",
+                    "id": 1165897,
+                    "image_url": "https://images.genius.com/9cf3ae728d0b5c4c1958fdc4c676de22.358x358x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AM La Scampia",
+                    "url": "https://genius.com/artists/Am-la-scampia"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7967722",
+                "artist_names": "AM La Scampia (Ft. Hatik)",
+                "full_title": "Famiglia (Remix) by\u00a0AM\u00a0La Scampia (Ft.\u00a0Hatik)",
+                "header_image_thumbnail_url": "https://images.genius.com/c6a3e19b191c0dd5e852dc0852bc1be0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c6a3e19b191c0dd5e852dc0852bc1be0.598x598x1.jpg",
+                "id": 7967722,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Am-la-scampia-famiglia-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Am-la-scampia-famiglia-remix-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 27
+                },
+                "release_date_for_display": "May 27, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 27, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c6a3e19b191c0dd5e852dc0852bc1be0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c6a3e19b191c0dd5e852dc0852bc1be0.598x598x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Famiglia (Remix)",
+                "title_with_featured": "Famiglia (Remix) (Ft.\u00a0Hatik)",
+                "url": "https://genius.com/Am-la-scampia-famiglia-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/147321",
+                        "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                        "id": 147321,
+                        "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hatik",
+                        "url": "https://genius.com/artists/Hatik",
+                        "iq": 129
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1165897",
+                    "header_image_url": "https://images.genius.com/8845bad2c89d96ba52701398ecfe4e98.960x960x1.jpg",
+                    "id": 1165897,
+                    "image_url": "https://images.genius.com/9cf3ae728d0b5c4c1958fdc4c676de22.358x358x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AM La Scampia",
+                    "url": "https://genius.com/artists/Am-la-scampia"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5237689",
+                "artist_names": "Hatik",
+                "full_title": "FDP by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.300x300x1.png",
+                "header_image_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.1000x1000x1.png",
+                "id": 5237689,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-fdp-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-fdp-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 6
+                },
+                "release_date_for_display": "March 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "FDP",
+                "title_with_featured": "FDP",
+                "url": "https://genius.com/Hatik-fdp-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5237692",
+                "artist_names": "Hatik",
+                "full_title": "Ferme les yeux by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.300x300x1.png",
+                "header_image_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.1000x1000x1.png",
+                "id": 5237692,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-ferme-les-yeux-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-ferme-les-yeux-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 6
+                },
+                "release_date_for_display": "March 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/561782e7868556293cfa6a8296bc4dc6.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ferme les yeux",
+                "title_with_featured": "Ferme les yeux",
+                "url": "https://genius.com/Hatik-ferme-les-yeux-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/7914547",
+                "artist_names": "Hatik",
+                "full_title": "Finir un texte by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/13c75c6095d4c391f85097a5a2c99f4d.300x169x1.jpeg",
+                "header_image_url": "https://images.genius.com/13c75c6095d4c391f85097a5a2c99f4d.640x360x1.jpeg",
+                "id": 7914547,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-finir-un-texte-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-finir-un-texte-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 21
+                },
+                "release_date_for_display": "April 21, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 21, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cc4bfdbe04023e0a84d1bd2986f56c06.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/cc4bfdbe04023e0a84d1bd2986f56c06.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Finir un texte",
+                "title_with_featured": "Finir un texte",
+                "url": "https://genius.com/Hatik-finir-un-texte-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7488639",
+                "artist_names": "R\u00e9my (Ft. Hatik)",
+                "full_title": "Flammes by\u00a0R\u00e9my (Ft.\u00a0Hatik)",
+                "header_image_thumbnail_url": "https://images.genius.com/eedf238ceaf71dfa156fa1c871cf7a33.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/eedf238ceaf71dfa156fa1c871cf7a33.1000x1000x1.jpg",
+                "id": 7488639,
+                "language": "da",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Remy-flammes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Remy-flammes-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 21
+                },
+                "release_date_for_display": "January 21, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 21, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/eedf238ceaf71dfa156fa1c871cf7a33.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/eedf238ceaf71dfa156fa1c871cf7a33.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Flammes",
+                "title_with_featured": "Flammes (Ft.\u00a0Hatik)",
+                "url": "https://genius.com/Remy-flammes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/147321",
+                        "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                        "id": 147321,
+                        "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hatik",
+                        "url": "https://genius.com/artists/Hatik",
+                        "iq": 129
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/797875",
+                    "header_image_url": "https://images.genius.com/ac811b1f81a452dc417b206cbeeb7cbc.1000x426x1.jpg",
+                    "id": 797875,
+                    "image_url": "https://images.genius.com/1d7c41f62b79bcbfe0d4f9e388c631f6.406x406x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "R\u00e9my",
+                    "url": "https://genius.com/artists/Remy"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5304107",
+                "artist_names": "Hatik (Ft. Sam's)",
+                "full_title": "FLK (Fais les kiffer) by\u00a0Hatik (Ft.\u00a0Sam's)",
+                "header_image_thumbnail_url": "https://images.genius.com/e6570cd37c4ccc987dd29a43b66fbfa7.300x127x1.png",
+                "header_image_url": "https://images.genius.com/e6570cd37c4ccc987dd29a43b66fbfa7.1000x422x1.png",
+                "id": 5304107,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-flk-fais-les-kiffer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-flk-fais-les-kiffer-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 21
+                },
+                "release_date_for_display": "March 21, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 21, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b0acd6eb959c420288dde8d04d34c1a9.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/b0acd6eb959c420288dde8d04d34c1a9.394x394x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 20425
+                },
+                "title": "FLK (Fais les kiffer)",
+                "title_with_featured": "FLK (Fais les kiffer) (Ft.\u00a0Sam's)",
+                "url": "https://genius.com/Hatik-flk-fais-les-kiffer-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11854",
+                        "header_image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                        "id": 11854,
+                        "image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sam\u2019s",
+                        "url": "https://genius.com/artists/Sams",
+                        "iq": 862
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/369881",
+                "artist_names": "Hatik",
+                "full_title": "Fragments (Intro) by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.1000x1000x1.jpg",
+                "id": 369881,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Hatik-fragments-intro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-fragments-intro-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/46c5cddfbb1f7a97f49ad8b23866a2eb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fragments (Intro)",
+                "title_with_featured": "Fragments (Intro)",
+                "url": "https://genius.com/Hatik-fragments-intro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4500742",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle #1 by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/8c04ae8f525a231fb1f5354f7426b120.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/8c04ae8f525a231fb1f5354f7426b120.1000x563x1.jpg",
+                "id": 4500742,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hatik-freestyle-1-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-1-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 23
+                },
+                "release_date_for_display": "April 23, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 23, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8c04ae8f525a231fb1f5354f7426b120.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8c04ae8f525a231fb1f5354f7426b120.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #1",
+                "title_with_featured": "Freestyle #1",
+                "url": "https://genius.com/Hatik-freestyle-1-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4573329",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle #2 by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/3dc3ab01f1e1e64295b5ce932e990616.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/3dc3ab01f1e1e64295b5ce932e990616.480x360x1.jpg",
+                "id": 4573329,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hatik-freestyle-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-2-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 22
+                },
+                "release_date_for_display": "May 22, 2019",
+                "release_date_with_abbreviated_month_for_display": "May. 22, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3dc3ab01f1e1e64295b5ce932e990616.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3dc3ab01f1e1e64295b5ce932e990616.480x360x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #2",
+                "title_with_featured": "Freestyle #2",
+                "url": "https://genius.com/Hatik-freestyle-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4903249",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle Booska Bitume by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/4cef61f4e3ba5649bddcb8b9ac91705f.300x170x1.png",
+                "header_image_url": "https://images.genius.com/4cef61f4e3ba5649bddcb8b9ac91705f.736x416x1.png",
+                "id": 4903249,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hatik-freestyle-booska-bitume-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-booska-bitume-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8df86dd531d7718de257d618cd5b7acb.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8df86dd531d7718de257d618cd5b7acb.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle Booska Bitume",
+                "title_with_featured": "Freestyle Booska Bitume",
+                "url": "https://genius.com/Hatik-freestyle-booska-bitume-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4879886",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle Couvre Feu by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.300x300x1.png",
+                "header_image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                "id": 4879886,
+                "language": "fr",
+                "lyrics_owner_id": 219404,
+                "lyrics_state": "complete",
+                "path": "/Hatik-freestyle-couvre-feu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-couvre-feu-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle Couvre Feu",
+                "title_with_featured": "Freestyle Couvre Feu",
+                "url": "https://genius.com/Hatik-freestyle-couvre-feu-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4635085",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle en direct de Fleury Merogis by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/cbf01d6aa345fc22412694ca72371b1a.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/cbf01d6aa345fc22412694ca72371b1a.480x360x1.jpg",
+                "id": 4635085,
+                "language": "fr",
+                "lyrics_owner_id": 545293,
+                "lyrics_state": "complete",
+                "path": "/Hatik-freestyle-en-direct-de-fleury-merogis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-en-direct-de-fleury-merogis-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cbf01d6aa345fc22412694ca72371b1a.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cbf01d6aa345fc22412694ca72371b1a.480x360x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle en direct de Fleury Merogis",
+                "title_with_featured": "Freestyle en direct de Fleury Merogis",
+                "url": "https://genius.com/Hatik-freestyle-en-direct-de-fleury-merogis-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7894890",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle La Force by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.300x300x1.png",
+                "header_image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                "id": 7894890,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Hatik-freestyle-la-force-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-la-force-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 11
+                },
+                "release_date_for_display": "April 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle La Force",
+                "title_with_featured": "Freestyle La Force",
+                "url": "https://genius.com/Hatik-freestyle-la-force-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8060893",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle Rap \u00c9lite by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.1000x1000x1.jpg",
+                "id": 8060893,
+                "language": null,
+                "lyrics_owner_id": 9722677,
+                "lyrics_state": "unreleased",
+                "path": "/Hatik-freestyle-rap-elite-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-rap-elite-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 1
+                },
+                "release_date_for_display": "June 1, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 1, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle Rap \u00c9lite",
+                "title_with_featured": "Freestyle Rap \u00c9lite",
+                "url": "https://genius.com/Hatik-freestyle-rap-elite-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8608239",
+                "artist_names": "Hatik",
+                "full_title": "Freestyle Sans titre Part. 2 by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/6495c10fec74e091c11286c960f70189.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/6495c10fec74e091c11286c960f70189.1000x563x1.jpg",
+                "id": 8608239,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Hatik-freestyle-sans-titre-part-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-freestyle-sans-titre-part-2-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 2
+                },
+                "release_date_for_display": "December 2, 2022",
+                "release_date_with_abbreviated_month_for_display": "Dec. 2, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6495c10fec74e091c11286c960f70189.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6495c10fec74e091c11286c960f70189.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle Sans titre Part. 2",
+                "title_with_featured": "Freestyle Sans titre Part. 2",
+                "url": "https://genius.com/Hatik-freestyle-sans-titre-part-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4352552",
+                "artist_names": "Hatik",
+                "full_title": "Freitag by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.genius.com/5038345e7e77ede16ec722de459c9ed1.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/5038345e7e77ede16ec722de459c9ed1.700x394x1.jpg",
+                "id": 4352552,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hatik-freitag-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hatik-freitag-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 1
+                },
+                "release_date_for_display": "March 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b46c9586453f66e32bfe8c23ec22144f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b46c9586453f66e32bfe8c23ec22144f.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freitag",
+                "title_with_featured": "Freitag",
+                "url": "https://genius.com/Hatik-freitag-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/369891",
+                "artist_names": "Hatik",
+                "full_title": "Ftor Session by\u00a0Hatik",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/e10873c7edecdedb3ef020015a2b6cb4.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/e10873c7edecdedb3ef020015a2b6cb4.1000x1000x1.jpg",
+                "id": 369891,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Hatik-ftor-session-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hatik-ftor-session-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/e10873c7edecdedb3ef020015a2b6cb4.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/e10873c7edecdedb3ef020015a2b6cb4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ftor Session",
+                "title_with_featured": "Ftor Session",
+                "url": "https://genius.com/Hatik-ftor-session-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/147321",
+                    "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                    "id": 147321,
+                    "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hatik",
+                    "url": "https://genius.com/artists/Hatik",
+                    "iq": 129
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/249060",
+                "artist_names": "Disiz",
+                "full_title": "Fuck les probl\u00e8mes by\u00a0Disiz",
+                "header_image_thumbnail_url": "https://images.genius.com/0f2e11fd0fca6d17af7c827d9b08dbf4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0f2e11fd0fca6d17af7c827d9b08dbf4.960x960x1.jpg",
+                "id": 249060,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Disiz-fuck-les-problemes-lyrics",
+                "pyongs_count": 24,
+                "relationships_index_url": "https://genius.com/Disiz-fuck-les-problemes-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 12,
+                    "day": 2
+                },
+                "release_date_for_display": "December 2, 2013",
+                "release_date_with_abbreviated_month_for_display": "Dec. 2, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0f2e11fd0fca6d17af7c827d9b08dbf4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0f2e11fd0fca6d17af7c827d9b08dbf4.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 25680
+                },
+                "title": "Fuck les probl\u00e8mes",
+                "title_with_featured": "Fuck les probl\u00e8mes",
+                "url": "https://genius.com/Disiz-fuck-les-problemes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2252",
+                    "header_image_url": "https://images.genius.com/6de1823873908fd5e293343bee950d3c.960x586x1.jpg",
+                    "id": 2252,
+                    "image_url": "https://images.genius.com/4ec5dcbd50dfd892afff1b3cb667b0ed.715x715x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Disiz",
+                    "url": "https://genius.com/artists/Disiz",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7331215",
+                "artist_names": "Tiitof (Ft. Hatik)",
+                "full_title": "F*****y by\u00a0Tiitof (Ft.\u00a0Hatik)",
+                "header_image_thumbnail_url": "https://images.genius.com/1444e12282243a2f035ec24345e539c5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1444e12282243a2f035ec24345e539c5.1000x1000x1.jpg",
+                "id": 7331215,
+                "language": "fr",
+                "lyrics_owner_id": 5909635,
+                "lyrics_state": "complete",
+                "path": "/Tiitof-fy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tiitof-fy-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1444e12282243a2f035ec24345e539c5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1444e12282243a2f035ec24345e539c5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "F*****y",
+                "title_with_featured": "F*****y (Ft.\u00a0Hatik)",
+                "url": "https://genius.com/Tiitof-fy-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/147321",
+                        "header_image_url": "https://images.genius.com/af5dc01618bb99f17cff9469937c5758.1000x373x1.png",
+                        "id": 147321,
+                        "image_url": "https://images.genius.com/4d36213b4fdb8ef9a77b84f4b40878df.483x483x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hatik",
+                        "url": "https://genius.com/artists/Hatik",
+                        "iq": 129
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/673584",
+                    "header_image_url": "https://images.genius.com/273945a68cd73edfe7afe89ec8d1f136.1000x563x1.jpg",
+                    "id": 673584,
+                    "image_url": "https://images.genius.com/a752f4b88f31843747a924a0e8593f56.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tiitof",
+                    "url": "https://genius.com/artists/Tiitof"
+                }
+            }
+        ],
+        "next_page": 6
+    }
+}

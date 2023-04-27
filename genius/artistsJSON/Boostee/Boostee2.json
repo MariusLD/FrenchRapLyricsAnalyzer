@@ -1,0 +1,897 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3050683",
+                "artist_names": "Boostee",
+                "full_title": "Girlz and Drugz by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "id": 3050683,
+                "language": "fr",
+                "lyrics_owner_id": 4409260,
+                "lyrics_state": "complete",
+                "path": "/Boostee-girlz-and-drugz-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Boostee-girlz-and-drugz-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Girlz and Drugz",
+                "title_with_featured": "Girlz and Drugz",
+                "url": "https://genius.com/Boostee-girlz-and-drugz-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4772066",
+                "artist_names": "Joyca (Ft. Boostee)",
+                "full_title": "Haut de Gamme by\u00a0Joyca (Ft.\u00a0Boostee)",
+                "header_image_thumbnail_url": "https://images.genius.com/caa8511c85b8ec64436d478d89b72f8c.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/caa8511c85b8ec64436d478d89b72f8c.1000x563x1.jpg",
+                "id": 4772066,
+                "language": "fr",
+                "lyrics_owner_id": 6014365,
+                "lyrics_state": "complete",
+                "path": "/Joyca-haut-de-gamme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Joyca-haut-de-gamme-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 10
+                },
+                "release_date_for_display": "August 10, 2019",
+                "release_date_with_abbreviated_month_for_display": "Aug. 10, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6bbb444037dc7a5daf3d006956dcabd8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6bbb444037dc7a5daf3d006956dcabd8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Haut de Gamme",
+                "title_with_featured": "Haut de Gamme (Ft.\u00a0Boostee)",
+                "url": "https://genius.com/Joyca-haut-de-gamme-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/660000",
+                        "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                        "id": 660000,
+                        "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Boostee",
+                        "url": "https://genius.com/artists/Boostee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1458364",
+                    "header_image_url": "https://images.genius.com/fc79462e6917ffd205099402764822ee.1000x450x1.jpg",
+                    "id": 1458364,
+                    "image_url": "https://images.genius.com/d04ea44405e440cee7ccd100b9a5f300.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joyca",
+                    "url": "https://genius.com/artists/Joyca"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3727239",
+                "artist_names": "Joyca (Ft. Boostee)",
+                "full_title": "Heart & Soul by\u00a0Joyca (Ft.\u00a0Boostee)",
+                "header_image_thumbnail_url": "https://images.genius.com/1c3240ffa32f2737fc2f7da1c6303b87.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/1c3240ffa32f2737fc2f7da1c6303b87.1000x563x1.jpg",
+                "id": 3727239,
+                "language": "en",
+                "lyrics_owner_id": 4409260,
+                "lyrics_state": "complete",
+                "path": "/Joyca-heart-and-soul-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Joyca-heart-and-soul-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 18
+                },
+                "release_date_for_display": "May 18, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 18, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aad9475f0183cb62e799d242e2d47b73.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/aad9475f0183cb62e799d242e2d47b73.640x640x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 5172
+                },
+                "title": "Heart & Soul",
+                "title_with_featured": "Heart & Soul (Ft.\u00a0Boostee)",
+                "url": "https://genius.com/Joyca-heart-and-soul-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/660000",
+                        "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                        "id": 660000,
+                        "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Boostee",
+                        "url": "https://genius.com/artists/Boostee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1458364",
+                    "header_image_url": "https://images.genius.com/fc79462e6917ffd205099402764822ee.1000x450x1.jpg",
+                    "id": 1458364,
+                    "image_url": "https://images.genius.com/d04ea44405e440cee7ccd100b9a5f300.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joyca",
+                    "url": "https://genius.com/artists/Joyca"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3211761",
+                "artist_names": "Boostee",
+                "full_title": "Hello Aloha by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/015320d4b7088375c2ad1ce9d51f1855.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/015320d4b7088375c2ad1ce9d51f1855.1000x563x1.jpg",
+                "id": 3211761,
+                "language": "en",
+                "lyrics_owner_id": 3862966,
+                "lyrics_state": "complete",
+                "path": "/Boostee-hello-aloha-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Boostee-hello-aloha-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 8,
+                    "day": 26
+                },
+                "release_date_for_display": "August 26, 2017",
+                "release_date_with_abbreviated_month_for_display": "Aug. 26, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d685c7044df3a99d33468a3c74a9ba2f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d685c7044df3a99d33468a3c74a9ba2f.750x750x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Hello Aloha",
+                "title_with_featured": "Hello Aloha",
+                "url": "https://genius.com/Boostee-hello-aloha-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6786464",
+                "artist_names": "Boostee",
+                "full_title": "Heya by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "id": 6786464,
+                "language": "fr",
+                "lyrics_owner_id": 5407742,
+                "lyrics_state": "complete",
+                "path": "/Boostee-heya-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-heya-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 7
+                },
+                "release_date_for_display": "May 7, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Heya",
+                "title_with_featured": "Heya",
+                "url": "https://genius.com/Boostee-heya-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4762418",
+                "artist_names": "Boostee",
+                "full_title": "Husky by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.1000x1000x1.jpg",
+                "id": 4762418,
+                "language": "fr",
+                "lyrics_owner_id": 5407742,
+                "lyrics_state": "complete",
+                "path": "/Boostee-husky-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-husky-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 6
+                },
+                "release_date_for_display": "September 6, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 6, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Husky",
+                "title_with_featured": "Husky",
+                "url": "https://genius.com/Boostee-husky-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3050725",
+                "artist_names": "Boostee",
+                "full_title": "I Don't Care by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "id": 3050725,
+                "language": "fr",
+                "lyrics_owner_id": 4409260,
+                "lyrics_state": "complete",
+                "path": "/Boostee-i-dont-care-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-i-dont-care-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "I Don\u2019t Care",
+                "title_with_featured": "I Don't Care",
+                "url": "https://genius.com/Boostee-i-dont-care-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6786209",
+                "artist_names": "Boostee",
+                "full_title": "Imagine by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "id": 6786209,
+                "language": "fr",
+                "lyrics_owner_id": 5407742,
+                "lyrics_state": "complete",
+                "path": "/Boostee-imagine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-imagine-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 7
+                },
+                "release_date_for_display": "May 7, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Imagine",
+                "title_with_featured": "Imagine",
+                "url": "https://genius.com/Boostee-imagine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4762415",
+                "artist_names": "Boostee",
+                "full_title": "I.N.T.R.O by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.1000x1000x1.jpg",
+                "id": 4762415,
+                "language": "fr",
+                "lyrics_owner_id": 5407742,
+                "lyrics_state": "complete",
+                "path": "/Boostee-intro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-intro-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 6
+                },
+                "release_date_for_display": "September 6, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 6, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "I.N.T.R.O",
+                "title_with_featured": "I.N.T.R.O",
+                "url": "https://genius.com/Boostee-intro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6786463",
+                "artist_names": "Boostee",
+                "full_title": "Iroquois by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "id": 6786463,
+                "language": "fr",
+                "lyrics_owner_id": 4255368,
+                "lyrics_state": "complete",
+                "path": "/Boostee-iroquois-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-iroquois-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 7
+                },
+                "release_date_for_display": "May 7, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Iroquois",
+                "title_with_featured": "Iroquois",
+                "url": "https://genius.com/Boostee-iroquois-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7611917",
+                "artist_names": "Boostee",
+                "full_title": "Jake Miller - Hold On (Boostee Cover) by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/d06e75ac9d1591b7dfd936c45e331e5a.240x240x1.jpg",
+                "header_image_url": "https://images.genius.com/d06e75ac9d1591b7dfd936c45e331e5a.240x240x1.jpg",
+                "id": 7611917,
+                "language": "en",
+                "lyrics_owner_id": 6426232,
+                "lyrics_state": "complete",
+                "path": "/Boostee-jake-miller-hold-on-boostee-cover-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-jake-miller-hold-on-boostee-cover-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 13
+                },
+                "release_date_for_display": "February 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d06e75ac9d1591b7dfd936c45e331e5a.240x240x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d06e75ac9d1591b7dfd936c45e331e5a.240x240x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jake Miller - Hold On (Boostee Cover)",
+                "title_with_featured": "Jake Miller - Hold On (Boostee Cover)",
+                "url": "https://genius.com/Boostee-jake-miller-hold-on-boostee-cover-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6450445",
+                "artist_names": "Boostee",
+                "full_title": "Jeunes & Tristes by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/21eafac7fda62c256a89cebf640f5723.300x127x1.jpg",
+                "header_image_url": "https://images.genius.com/21eafac7fda62c256a89cebf640f5723.1000x423x1.jpg",
+                "id": 6450445,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Boostee-jeunes-and-tristes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-jeunes-and-tristes-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53f0aef86946b404fedbf9e5db58d019.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53f0aef86946b404fedbf9e5db58d019.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jeunes & Tristes",
+                "title_with_featured": "Jeunes & Tristes",
+                "url": "https://genius.com/Boostee-jeunes-and-tristes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4762424",
+                "artist_names": "Boostee",
+                "full_title": "Jungle by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.1000x1000x1.jpg",
+                "id": 4762424,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Boostee-jungle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-jungle-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 6
+                },
+                "release_date_for_display": "September 6, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 6, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87ca44b644740aec9a41195acb2a4e4f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jungle",
+                "title_with_featured": "Jungle",
+                "url": "https://genius.com/Boostee-jungle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3050707",
+                "artist_names": "Boostee",
+                "full_title": "Keep on Moving by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "id": 3050707,
+                "language": "en",
+                "lyrics_owner_id": 4409260,
+                "lyrics_state": "complete",
+                "path": "/Boostee-keep-on-moving-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-keep-on-moving-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Keep on Moving",
+                "title_with_featured": "Keep on Moving",
+                "url": "https://genius.com/Boostee-keep-on-moving-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3027474",
+                "artist_names": "Boostee",
+                "full_title": "Kool Kids by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "id": 3027474,
+                "language": "fr",
+                "lyrics_owner_id": 4409260,
+                "lyrics_state": "complete",
+                "path": "/Boostee-kool-kids-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-kool-kids-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/90185e2fbd580f7b6fd90606e53d10ca.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Kool Kids",
+                "title_with_featured": "Kool Kids",
+                "url": "https://genius.com/Boostee-kool-kids-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6786466",
+                "artist_names": "Boostee",
+                "full_title": "Lakota by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "id": 6786466,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Boostee-lakota-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-lakota-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 7
+                },
+                "release_date_for_display": "May 7, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7a1e49dc65202f0ba33934849c1524bc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lakota",
+                "title_with_featured": "Lakota",
+                "url": "https://genius.com/Boostee-lakota-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8623465",
+                "artist_names": "Boostee",
+                "full_title": "Le bruit de ses ailes by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/f08f90739a42d5f269a2de40710652ad.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f08f90739a42d5f269a2de40710652ad.600x600x1.jpg",
+                "id": 8623465,
+                "language": "fr",
+                "lyrics_owner_id": 5407742,
+                "lyrics_state": "complete",
+                "path": "/Boostee-le-bruit-de-ses-ailes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-le-bruit-de-ses-ailes-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 8
+                },
+                "release_date_for_display": "December 8, 2022",
+                "release_date_with_abbreviated_month_for_display": "Dec. 8, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f08f90739a42d5f269a2de40710652ad.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f08f90739a42d5f269a2de40710652ad.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le bruit de ses ailes",
+                "title_with_featured": "Le bruit de ses ailes",
+                "url": "https://genius.com/Boostee-le-bruit-de-ses-ailes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/3330307",
+                "artist_names": "Joyca (Ft. Boostee)",
+                "full_title": "Le Monde de Disney by\u00a0Joyca (Ft.\u00a0Boostee)",
+                "header_image_thumbnail_url": "https://images.genius.com/31ed0b532b905dd6a6c075fc55be4afa.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/31ed0b532b905dd6a6c075fc55be4afa.1000x563x1.jpg",
+                "id": 3330307,
+                "language": "fr",
+                "lyrics_owner_id": 4332343,
+                "lyrics_state": "complete",
+                "path": "/Joyca-le-monde-de-disney-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Joyca-le-monde-de-disney-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 20
+                },
+                "release_date_for_display": "November 20, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 20, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/31ed0b532b905dd6a6c075fc55be4afa.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/31ed0b532b905dd6a6c075fc55be4afa.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 18427
+                },
+                "title": "Le Monde de Disney",
+                "title_with_featured": "Le Monde de Disney (Ft.\u00a0Boostee)",
+                "url": "https://genius.com/Joyca-le-monde-de-disney-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/660000",
+                        "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                        "id": 660000,
+                        "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Boostee",
+                        "url": "https://genius.com/artists/Boostee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1458364",
+                    "header_image_url": "https://images.genius.com/fc79462e6917ffd205099402764822ee.1000x450x1.jpg",
+                    "id": 1458364,
+                    "image_url": "https://images.genius.com/d04ea44405e440cee7ccd100b9a5f300.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joyca",
+                    "url": "https://genius.com/artists/Joyca"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2964267",
+                "artist_names": "Boostee",
+                "full_title": "Let me love by\u00a0Boostee",
+                "header_image_thumbnail_url": "https://images.genius.com/9496a9b7ec6f63f3b930dc829e1233aa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9496a9b7ec6f63f3b930dc829e1233aa.600x600x1.jpg",
+                "id": 2964267,
+                "language": null,
+                "lyrics_owner_id": 1772377,
+                "lyrics_state": "complete",
+                "path": "/Boostee-let-me-love-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Boostee-let-me-love-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2016",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9496a9b7ec6f63f3b930dc829e1233aa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9496a9b7ec6f63f3b930dc829e1233aa.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 6785
+                },
+                "title": "Let me love",
+                "title_with_featured": "Let me love",
+                "url": "https://genius.com/Boostee-let-me-love-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/660000",
+                    "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                    "id": 660000,
+                    "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boostee",
+                    "url": "https://genius.com/artists/Boostee"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3319932",
+                "artist_names": "Slimane (Ft. Boostee)",
+                "full_title": "Luna by\u00a0Slimane (Ft.\u00a0Boostee)",
+                "header_image_thumbnail_url": "https://images.genius.com/d828a204c80b568598f94b588830f68d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d828a204c80b568598f94b588830f68d.960x960x1.jpg",
+                "id": 3319932,
+                "language": "fr",
+                "lyrics_owner_id": 5859470,
+                "lyrics_state": "complete",
+                "path": "/Slimane-luna-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Slimane-luna-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 26
+                },
+                "release_date_for_display": "January 26, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d828a204c80b568598f94b588830f68d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d828a204c80b568598f94b588830f68d.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Luna",
+                "title_with_featured": "Luna (Ft.\u00a0Boostee)",
+                "url": "https://genius.com/Slimane-luna-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/660000",
+                        "header_image_url": "https://images.genius.com/e7ea5d8bca02caa982e9c5c4e9b15b4c.1000x525x1.jpg",
+                        "id": 660000,
+                        "image_url": "https://images.genius.com/632a31360adcde4d435210bbe4c0df1c.854x854x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Boostee",
+                        "url": "https://genius.com/artists/Boostee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/217821",
+                    "header_image_url": "https://images.genius.com/ed2a278364d5bba92f3459d46da4d09e.500x500x1.jpg",
+                    "id": 217821,
+                    "image_url": "https://images.genius.com/ed2a278364d5bba92f3459d46da4d09e.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Slimane",
+                    "url": "https://genius.com/artists/Slimane"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

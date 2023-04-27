@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3011671",
+                "artist_names": "Iron Sy",
+                "full_title": "Vida Local by\u00a0Iron\u00a0Sy",
+                "header_image_thumbnail_url": "https://images.genius.com/c15b6c5ffc9329e86292942be7287aad.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c15b6c5ffc9329e86292942be7287aad.1000x1000x1.jpg",
+                "id": 3011671,
+                "language": "fr",
+                "lyrics_owner_id": 3087762,
+                "lyrics_state": "complete",
+                "path": "/Iron-sy-vida-local-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Iron-sy-vida-local-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c15b6c5ffc9329e86292942be7287aad.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c15b6c5ffc9329e86292942be7287aad.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Vida Local",
+                "title_with_featured": "Vida Local",
+                "url": "https://genius.com/Iron-sy-vida-local-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40424",
+                    "header_image_url": "https://images.genius.com/a41f0eb8aef5c89e87151f65ce5f3881.960x960x1.jpg",
+                    "id": 40424,
+                    "image_url": "https://images.genius.com/8011043d58aaf1ad03a2d22f0eef4de2.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Iron Sy",
+                    "url": "https://genius.com/artists/Iron-sy"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8730388",
+                "artist_names": "Freeze Corleone (Ft. Iron Sy)",
+                "full_title": "Yamakasi* by\u00a0Freeze\u00a0Corleone (Ft.\u00a0Iron\u00a0Sy)",
+                "header_image_thumbnail_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.300x300x1.png",
+                "header_image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                "id": 8730388,
+                "language": "fr",
+                "lyrics_owner_id": 15990875,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-yamakasi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-yamakasi-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Yamakasi*",
+                "title_with_featured": "Yamakasi* (Ft.\u00a0Iron\u00a0Sy)",
+                "url": "https://genius.com/Freeze-corleone-yamakasi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/40424",
+                        "header_image_url": "https://images.genius.com/a41f0eb8aef5c89e87151f65ce5f3881.960x960x1.jpg",
+                        "id": 40424,
+                        "image_url": "https://images.genius.com/8011043d58aaf1ad03a2d22f0eef4de2.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Iron Sy",
+                        "url": "https://genius.com/artists/Iron-sy"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

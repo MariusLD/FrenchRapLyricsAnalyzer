@@ -1,0 +1,947 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7600075",
+                "artist_names": "Bosh",
+                "full_title": "Elle* by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                "id": 7600075,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Bosh-elle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-elle-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2022",
+                "release_date_with_abbreviated_month_for_display": "2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Elle*",
+                "title_with_featured": "Elle*",
+                "url": "https://genius.com/Bosh-elle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6557555",
+                "artist_names": "Sienna (FRA)",
+                "full_title": "En bombe by\u00a0Sienna\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/c576a9360a1378b0791aa306a73b8ded.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c576a9360a1378b0791aa306a73b8ded.600x600x1.jpg",
+                "id": 6557555,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Sienna-fra-en-bombe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sienna-fra-en-bombe-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c576a9360a1378b0791aa306a73b8ded.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c576a9360a1378b0791aa306a73b8ded.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "En bombe",
+                "title_with_featured": "En bombe",
+                "url": "https://genius.com/Sienna-fra-en-bombe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2632323",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2632323,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sienna (FRA)",
+                    "url": "https://genius.com/artists/Sienna-fra"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6332453",
+                "artist_names": "Dabs (Ft. Bosh)",
+                "full_title": "Esp\u00e8ces by\u00a0Dabs (Ft.\u00a0Bosh)",
+                "header_image_thumbnail_url": "https://images.genius.com/9ade5a61195bbb35810e8e847d401ab5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9ade5a61195bbb35810e8e847d401ab5.1000x1000x1.jpg",
+                "id": 6332453,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Dabs-especes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dabs-especes-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 18
+                },
+                "release_date_for_display": "June 18, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 18, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9ade5a61195bbb35810e8e847d401ab5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9ade5a61195bbb35810e8e847d401ab5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Esp\u00e8ces",
+                "title_with_featured": "Esp\u00e8ces (Ft.\u00a0Bosh)",
+                "url": "https://genius.com/Dabs-especes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/314635",
+                        "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                        "id": 314635,
+                        "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bosh",
+                        "url": "https://genius.com/artists/Bosh"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/674763",
+                    "header_image_url": "https://images.genius.com/6b731aa9c25f8d5be6e6998504cf5c0e.1000x565x1.jpg",
+                    "id": 674763,
+                    "image_url": "https://images.genius.com/6dfa404b74a37417edc246f76de3478a.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dabs",
+                    "url": "https://genius.com/artists/Dabs"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5574563",
+                "artist_names": "Bosh",
+                "full_title": "Fort by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "id": 5574563,
+                "language": "fr",
+                "lyrics_owner_id": 3606285,
+                "lyrics_state": "complete",
+                "path": "/Bosh-fort-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-fort-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Fort",
+                "title_with_featured": "Fort",
+                "url": "https://genius.com/Bosh-fort-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3737761",
+                "artist_names": "Bosh",
+                "full_title": "Four by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/a4748dab9e94aa957175ddd87485a284.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a4748dab9e94aa957175ddd87485a284.1000x1000x1.jpg",
+                "id": 3737761,
+                "language": "fr",
+                "lyrics_owner_id": 6377573,
+                "lyrics_state": "complete",
+                "path": "/Bosh-four-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-four-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a4748dab9e94aa957175ddd87485a284.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a4748dab9e94aa957175ddd87485a284.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 10308
+                },
+                "title": "Four",
+                "title_with_featured": "Four",
+                "url": "https://genius.com/Bosh-four-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4203830",
+                "artist_names": "Ouss & Riane (Ft. Bosh & Leto)",
+                "full_title": "Freestyle l\u00e9gendaire #5 (Din\u00e9ro) by\u00a0Ouss\u00a0& Riane (Ft.\u00a0Bosh & Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/48cd492c4ae77ffb480eb02306835529.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/48cd492c4ae77ffb480eb02306835529.500x500x1.jpg",
+                "id": 4203830,
+                "language": "fr",
+                "lyrics_owner_id": 7684910,
+                "lyrics_state": "complete",
+                "path": "/Ouss-and-riane-freestyle-legendaire-5-dinero-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ouss-and-riane-freestyle-legendaire-5-dinero-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 3
+                },
+                "release_date_for_display": "December 3, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 3, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/48cd492c4ae77ffb480eb02306835529.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/48cd492c4ae77ffb480eb02306835529.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle l\u00e9gendaire #5 (Din\u00e9ro)",
+                "title_with_featured": "Freestyle l\u00e9gendaire #5 (Din\u00e9ro) (Ft.\u00a0Bosh & Leto)",
+                "url": "https://genius.com/Ouss-and-riane-freestyle-legendaire-5-dinero-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/314635",
+                        "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                        "id": 314635,
+                        "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bosh",
+                        "url": "https://genius.com/artists/Bosh"
+                    },
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/153518",
+                    "header_image_url": "https://images.genius.com/6f1b076513564ff8774c0dda8e821457.960x960x1.jpg",
+                    "id": 153518,
+                    "image_url": "https://images.genius.com/6f1b076513564ff8774c0dda8e821457.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ouss & Riane",
+                    "url": "https://genius.com/artists/Ouss-and-riane"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3748362",
+                "artist_names": "Bosh",
+                "full_title": "Freestyle l\u00e9ger en attendant la sortie du clip ''Monnaie'' by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                "id": 3748362,
+                "language": "fr",
+                "lyrics_owner_id": 6377573,
+                "lyrics_state": "complete",
+                "path": "/Bosh-freestyle-leger-en-attendant-la-sortie-du-clip-monnaie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-freestyle-leger-en-attendant-la-sortie-du-clip-monnaie-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 12
+                },
+                "release_date_for_display": "April 12, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 12, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle l\u00e9ger en attendant la sortie du clip \u2018\u2019Monnaie\u2019\u2019",
+                "title_with_featured": "Freestyle l\u00e9ger en attendant la sortie du clip ''Monnaie''",
+                "url": "https://genius.com/Bosh-freestyle-leger-en-attendant-la-sortie-du-clip-monnaie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4097504",
+                "artist_names": "Bosh",
+                "full_title": "Freestyle (Live des studios de Generations) by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/e996dae5598e3f32d6612bca8ab80e97.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/e996dae5598e3f32d6612bca8ab80e97.1000x563x1.jpg",
+                "id": 4097504,
+                "language": "fr",
+                "lyrics_owner_id": 6377573,
+                "lyrics_state": "complete",
+                "path": "/Bosh-freestyle-live-des-studios-de-generations-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-freestyle-live-des-studios-de-generations-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 2
+                },
+                "release_date_for_display": "July 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jul. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e996dae5598e3f32d6612bca8ab80e97.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e996dae5598e3f32d6612bca8ab80e97.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle (Live des studios de Generations)",
+                "title_with_featured": "Freestyle (Live des studios de Generations)",
+                "url": "https://genius.com/Bosh-freestyle-live-des-studios-de-generations-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5657691",
+                "artist_names": "Bosh & Sam's",
+                "full_title": "Freestyle #Plan\u00e8teRap by\u00a0Bosh\u00a0& Sam's",
+                "header_image_thumbnail_url": "https://images.genius.com/180d800185d7c4a7ab01e5853735950a.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/180d800185d7c4a7ab01e5853735950a.1000x563x1.jpg",
+                "id": 5657691,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Bosh-and-sams-freestyle-planeterap-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-and-sams-freestyle-planeterap-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 6,
+                    "day": 10
+                },
+                "release_date_for_display": "June 10, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jun. 10, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/180d800185d7c4a7ab01e5853735950a.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/180d800185d7c4a7ab01e5853735950a.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle #Plan\u00e8teRap",
+                "title_with_featured": "Freestyle #Plan\u00e8teRap",
+                "url": "https://genius.com/Bosh-and-sams-freestyle-planeterap-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2278164",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2278164,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh & Sam\u2019s",
+                    "url": "https://genius.com/artists/Bosh-and-sams"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5638456",
+                "artist_names": "Bosh",
+                "full_title": "Freestyle Sheuboni by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/bded3a1ee25573865f1475ed5f06a4bb.300x300x1.png",
+                "header_image_url": "https://images.genius.com/bded3a1ee25573865f1475ed5f06a4bb.767x767x1.png",
+                "id": 5638456,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bosh-freestyle-sheuboni-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-freestyle-sheuboni-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 6,
+                    "day": 4
+                },
+                "release_date_for_display": "June 4, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jun. 4, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bded3a1ee25573865f1475ed5f06a4bb.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/bded3a1ee25573865f1475ed5f06a4bb.767x767x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freestyle Sheuboni",
+                "title_with_featured": "Freestyle Sheuboni",
+                "url": "https://genius.com/Bosh-freestyle-sheuboni-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6214227",
+                "artist_names": "Bosh (Ft. Tigerz, Toussaint & Yanoh)",
+                "full_title": "Gang by\u00a0Bosh (Ft.\u00a0Tigerz, Toussaint & Yanoh)",
+                "header_image_thumbnail_url": "https://images.genius.com/7541974fb17b169e59047a46f0b5b6fa.300x300x1.png",
+                "header_image_url": "https://images.genius.com/7541974fb17b169e59047a46f0b5b6fa.1000x1000x1.png",
+                "id": 6214227,
+                "language": "en",
+                "lyrics_owner_id": 4619745,
+                "lyrics_state": "complete",
+                "path": "/Bosh-gang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-gang-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7541974fb17b169e59047a46f0b5b6fa.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/7541974fb17b169e59047a46f0b5b6fa.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Gang",
+                "title_with_featured": "Gang (Ft.\u00a0Tigerz, Toussaint & Yanoh)",
+                "url": "https://genius.com/Bosh-gang-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20650",
+                        "header_image_url": "https://images.genius.com/bc76bc10b0612ef26f36393c2844a151.466x466x1.jpg",
+                        "id": 20650,
+                        "image_url": "https://images.genius.com/bc76bc10b0612ef26f36393c2844a151.466x466x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Toussaint",
+                        "url": "https://genius.com/artists/Toussaint"
+                    },
+                    {
+                        "api_path": "/artists/42367",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 42367,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tigerz",
+                        "url": "https://genius.com/artists/Tigerz"
+                    },
+                    {
+                        "api_path": "/artists/2166924",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2166924,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Yanoh",
+                        "url": "https://genius.com/artists/Yanoh"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8083580",
+                "artist_names": "Bosh",
+                "full_title": "Gangsta Shit by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/102ec16aa10e335f93b24c3183f62404.300x155x1.webp",
+                "header_image_url": "https://images.genius.com/102ec16aa10e335f93b24c3183f62404.1000x517x1.webp",
+                "id": 8083580,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Bosh-gangsta-shit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-gangsta-shit-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 9
+                },
+                "release_date_for_display": "June 9, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 9, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/35d70f1f7c868be0cb28d2984bf25838.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/35d70f1f7c868be0cb28d2984bf25838.358x358x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Gangsta Shit",
+                "title_with_featured": "Gangsta Shit",
+                "url": "https://genius.com/Bosh-gangsta-shit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/7282585",
+                "artist_names": "Bosh",
+                "full_title": "Gringa by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/b3c81127bfa8404ac59f020a351d7db2.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/b3c81127bfa8404ac59f020a351d7db2.1000x563x1.jpg",
+                "id": 7282585,
+                "language": "en",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Bosh-gringa-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-gringa-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 15
+                },
+                "release_date_for_display": "October 15, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 15, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e1254d49294c1e6f1fc87599cdd36629.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e1254d49294c1e6f1fc87599cdd36629.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Gringa",
+                "title_with_featured": "Gringa",
+                "url": "https://genius.com/Bosh-gringa-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5764185",
+                "artist_names": "Bosh",
+                "full_title": "Highway by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                "id": 5764185,
+                "language": "en",
+                "lyrics_owner_id": 11309575,
+                "lyrics_state": "complete",
+                "path": "/Bosh-highway-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-highway-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 13
+                },
+                "release_date_for_display": "July 13, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 13, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Highway",
+                "title_with_featured": "Highway",
+                "url": "https://genius.com/Bosh-highway-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7818274",
+                "artist_names": "Bosh (Ft. Soolking)",
+                "full_title": "Himalaya by\u00a0Bosh (Ft.\u00a0Soolking)",
+                "header_image_thumbnail_url": "https://images.genius.com/cd5ba015c4a640ddd13c1288811aa84e.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/cd5ba015c4a640ddd13c1288811aa84e.1000x517x1.jpg",
+                "id": 7818274,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bosh-himalaya-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-himalaya-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 21
+                },
+                "release_date_for_display": "March 21, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 21, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/24145ea1eedb431950059d04b960d7c2.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/24145ea1eedb431950059d04b960d7c2.767x767x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Himalaya",
+                "title_with_featured": "Himalaya (Ft.\u00a0Soolking)",
+                "url": "https://genius.com/Bosh-himalaya-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/693078",
+                        "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                        "id": 693078,
+                        "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soolking",
+                        "url": "https://genius.com/artists/Soolking"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8352500",
+                "artist_names": "Bosh (Ft. Unknown T)",
+                "full_title": "Hum Hum by\u00a0Bosh (Ft.\u00a0Unknown\u00a0T)",
+                "header_image_thumbnail_url": "https://images.genius.com/793f53d21585c1c414f81921671545f1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/793f53d21585c1c414f81921671545f1.999x999x1.jpg",
+                "id": 8352500,
+                "language": "en",
+                "lyrics_owner_id": 16118156,
+                "lyrics_state": "complete",
+                "path": "/Bosh-hum-hum-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-hum-hum-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2022",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/793f53d21585c1c414f81921671545f1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/793f53d21585c1c414f81921671545f1.999x999x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Hum Hum",
+                "title_with_featured": "Hum Hum (Ft.\u00a0Unknown\u00a0T)",
+                "url": "https://genius.com/Bosh-hum-hum-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1276114",
+                        "header_image_url": "https://images.genius.com/5c4b9a0d1616ae4103a5ba98f390b965.1000x333x1.jpg",
+                        "id": 1276114,
+                        "image_url": "https://images.genius.com/0130a7445d029c27faa53638b0bebf9e.451x451x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Unknown T",
+                        "url": "https://genius.com/artists/Unknown-t"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8595392",
+                "artist_names": "Bosh",
+                "full_title": "Intro (Algorithme) by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/caee66a039340ce4d607654a383165d1.300x169x1.png",
+                "header_image_url": "https://images.genius.com/caee66a039340ce4d607654a383165d1.1000x563x1.png",
+                "id": 8595392,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Bosh-intro-algorithme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-intro-algorithme-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/61cda74954c84f9de89a54b73e1aefea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/61cda74954c84f9de89a54b73e1aefea.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Intro (Algorithme)",
+                "title_with_featured": "Intro (Algorithme)",
+                "url": "https://genius.com/Bosh-intro-algorithme-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5574561",
+                "artist_names": "Bosh",
+                "full_title": "Jamais by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "id": 5574561,
+                "language": "fr",
+                "lyrics_owner_id": 9886113,
+                "lyrics_state": "complete",
+                "path": "/Bosh-jamais-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-jamais-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jamais",
+                "title_with_featured": "Jamais",
+                "url": "https://genius.com/Bosh-jamais-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5365063",
+                "artist_names": "Bosh",
+                "full_title": "J'\u00e9limine by\u00a0Bosh",
+                "header_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "id": 5365063,
+                "language": "fr",
+                "lyrics_owner_id": 6014365,
+                "lyrics_state": "complete",
+                "path": "/Bosh-jelimine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bosh-jelimine-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "J\u2019\u00e9limine",
+                "title_with_featured": "J'\u00e9limine",
+                "url": "https://genius.com/Bosh-jelimine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5365071",
+                "artist_names": "Bosh (Ft. Tigerz)",
+                "full_title": "JITVB by\u00a0Bosh (Ft.\u00a0Tigerz)",
+                "header_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "id": 5365071,
+                "language": "fr",
+                "lyrics_owner_id": 6014365,
+                "lyrics_state": "complete",
+                "path": "/Bosh-jitvb-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Bosh-jitvb-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f0059abe2f9b7139770478ebf802bc5c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "JITVB",
+                "title_with_featured": "JITVB (Ft.\u00a0Tigerz)",
+                "url": "https://genius.com/Bosh-jitvb-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/42367",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 42367,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tigerz",
+                        "url": "https://genius.com/artists/Tigerz"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/314635",
+                    "header_image_url": "https://images.genius.com/f3ac16f378aa3cdcd60e2fd8fbbb189b.864x486x1.jpg",
+                    "id": 314635,
+                    "image_url": "https://images.genius.com/92f5cb0e2299ba1fc4468dffd7418817.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bosh",
+                    "url": "https://genius.com/artists/Bosh"
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

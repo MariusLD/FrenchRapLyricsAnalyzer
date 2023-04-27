@@ -1,0 +1,1065 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/642952",
+                "artist_names": "Pi\u00e8ge de Freestyle (Ft. Billie Brelok, Cheeko, Ga\u00ebl Faye, Hippocampe Fou, Sugar & Swift Guad)",
+                "full_title": "#55 \"Solidarit\u00e9\" by\u00a0Pi\u00e8ge\u00a0de Freestyle (Ft.\u00a0Billie\u00a0Brelok, Cheeko, Ga\u00ebl\u00a0Faye, Hippocampe\u00a0Fou, Sugar & Swift\u00a0Guad)",
+                "header_image_thumbnail_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.300x235x1.jpg",
+                "header_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                "id": 642952,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Piege-de-freestyle-55-solidarite-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Piege-de-freestyle-55-solidarite-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 12,
+                    "day": 18
+                },
+                "release_date_for_display": "December 18, 2014",
+                "release_date_with_abbreviated_month_for_display": "Dec. 18, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.300x235x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "#55 \u201cSolidarit\u00e9\u201d",
+                "title_with_featured": "#55 \"Solidarit\u00e9\" (Ft.\u00a0Billie\u00a0Brelok, Cheeko, Ga\u00ebl\u00a0Faye, Hippocampe\u00a0Fou, Sugar & Swift\u00a0Guad)",
+                "url": "https://genius.com/Piege-de-freestyle-55-solidarite-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/22451",
+                        "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                        "id": 22451,
+                        "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ga\u00ebl Faye",
+                        "url": "https://genius.com/artists/Gael-faye"
+                    },
+                    {
+                        "api_path": "/artists/4244",
+                        "header_image_url": "https://images.genius.com/33bd3566952dd86329255fb380624dc1.426x426x1.png",
+                        "id": 4244,
+                        "image_url": "https://images.genius.com/33bd3566952dd86329255fb380624dc1.426x426x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sugar",
+                        "url": "https://genius.com/artists/Sugar"
+                    },
+                    {
+                        "api_path": "/artists/53889",
+                        "header_image_url": "https://images.genius.com/321927601f53bc8bec84fead59a897fe.960x960x1.png",
+                        "id": 53889,
+                        "image_url": "https://images.genius.com/321927601f53bc8bec84fead59a897fe.960x960x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cheeko",
+                        "url": "https://genius.com/artists/Cheeko"
+                    },
+                    {
+                        "api_path": "/artists/13158",
+                        "header_image_url": "https://images.genius.com/cabf964166fd564db265ca19a6439663.1000x667x1.jpg",
+                        "id": 13158,
+                        "image_url": "https://images.genius.com/6516aea584a221b57af35ff24822c9af.563x563x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Swift Guad",
+                        "url": "https://genius.com/artists/Swift-guad"
+                    },
+                    {
+                        "api_path": "/artists/53907",
+                        "header_image_url": "https://images.genius.com/e6d9e1be2c0b86d4fd1750cec1dffeba.300x168x1.jpg",
+                        "id": 53907,
+                        "image_url": "https://images.genius.com/e6d9e1be2c0b86d4fd1750cec1dffeba.300x168x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Billie Brelok",
+                        "url": "https://genius.com/artists/Billie-brelok"
+                    },
+                    {
+                        "api_path": "/artists/15862",
+                        "header_image_url": "https://images.genius.com/8469dca6749b290c14fe9d1fac95517d.320x480x1.jpg",
+                        "id": 15862,
+                        "image_url": "https://images.genius.com/1b1a2401c82d5b8e21a1d6a47261e7ef.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hippocampe Fou",
+                        "url": "https://genius.com/artists/Hippocampe-fou",
+                        "iq": 839
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/17713",
+                    "header_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                    "id": 17713,
+                    "image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pi\u00e8ge de Freestyle",
+                    "url": "https://genius.com/artists/Piege-de-freestyle"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/449587",
+                "artist_names": "Pi\u00e8ge de Freestyle (Ft. Bunk, Ga\u00ebl Faye, Jok'Air, Paranoyan, Swift Guad & Willaxxx)",
+                "full_title": "#8 \"G\u00e9g\u00e9 reviens !\" by\u00a0Pi\u00e8ge\u00a0de Freestyle (Ft.\u00a0Bunk, Ga\u00ebl\u00a0Faye, Jok'Air, Paranoyan, Swift\u00a0Guad & Willaxxx)",
+                "header_image_thumbnail_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.300x235x1.jpg",
+                "header_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                "id": 449587,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Piege-de-freestyle-8-gege-reviens-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Piege-de-freestyle-8-gege-reviens-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 11
+                },
+                "release_date_for_display": "January 11, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jan. 11, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.300x235x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "#8 \u201cG\u00e9g\u00e9 reviens !\u201d",
+                "title_with_featured": "#8 \"G\u00e9g\u00e9 reviens !\" (Ft.\u00a0Bunk, Ga\u00ebl\u00a0Faye, Jok'Air, Paranoyan, Swift\u00a0Guad & Willaxxx)",
+                "url": "https://genius.com/Piege-de-freestyle-8-gege-reviens-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/64881",
+                        "header_image_url": "https://images.genius.com/6ff1b14b193889c0071cc7f936d9c7fe.1000x560x1.jpg",
+                        "id": 64881,
+                        "image_url": "https://images.genius.com/7394e0cd54713f9f6f82f22054adbe24.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bunk",
+                        "url": "https://genius.com/artists/Bunk"
+                    },
+                    {
+                        "api_path": "/artists/77476",
+                        "header_image_url": "https://images.genius.com/0ed4c98ec55ade4cc79bed8106758d95.500x333x1.jpg",
+                        "id": 77476,
+                        "image_url": "https://images.genius.com/0ed4c98ec55ade4cc79bed8106758d95.500x333x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Paranoyan",
+                        "url": "https://genius.com/artists/Paranoyan"
+                    },
+                    {
+                        "api_path": "/artists/13158",
+                        "header_image_url": "https://images.genius.com/cabf964166fd564db265ca19a6439663.1000x667x1.jpg",
+                        "id": 13158,
+                        "image_url": "https://images.genius.com/6516aea584a221b57af35ff24822c9af.563x563x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Swift Guad",
+                        "url": "https://genius.com/artists/Swift-guad"
+                    },
+                    {
+                        "api_path": "/artists/35421",
+                        "header_image_url": "https://images.genius.com/dd82bbc801e1d9214ed4421eab827559.1000x667x1.jpg",
+                        "id": 35421,
+                        "image_url": "https://images.genius.com/ebf4fc2ad9371a2c57d1761c7dd80a2b.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jok\u2019Air",
+                        "url": "https://genius.com/artists/Jokair"
+                    },
+                    {
+                        "api_path": "/artists/19591",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                        "id": 19591,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/31151_405038922864_704282864_4099256_6107356_n.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Willaxxx",
+                        "url": "https://genius.com/artists/Willaxxx"
+                    },
+                    {
+                        "api_path": "/artists/22451",
+                        "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                        "id": 22451,
+                        "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ga\u00ebl Faye",
+                        "url": "https://genius.com/artists/Gael-faye"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/17713",
+                    "header_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                    "id": 17713,
+                    "image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pi\u00e8ge de Freestyle",
+                    "url": "https://genius.com/artists/Piege-de-freestyle"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/114569",
+                "artist_names": "Ga\u00ebl Faye (Ft. Pytshens Kambilo)",
+                "full_title": "A-France by\u00a0Ga\u00ebl\u00a0Faye (Ft.\u00a0Pytshens\u00a0Kambilo)",
+                "header_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "id": 114569,
+                "language": "fr",
+                "lyrics_owner_id": 13034,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-a-france-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gael-faye-a-france-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 9112
+                },
+                "title": "A-France",
+                "title_with_featured": "A-France (Ft.\u00a0Pytshens\u00a0Kambilo)",
+                "url": "https://genius.com/Gael-faye-a-france-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/37102",
+                        "header_image_url": "https://images.genius.com/d3e63d9fca1680fd17d2ea78f2c03b2f.1000x563x1.jpg",
+                        "id": 37102,
+                        "image_url": "https://images.genius.com/d3e63d9fca1680fd17d2ea78f2c03b2f.1000x563x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pytshens Kambilo",
+                        "url": "https://genius.com/artists/Pytshens-kambilo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/3360",
+                "artist_names": "Milk Coffee and Sugar",
+                "full_title": "Alien by\u00a0Milk\u00a0Coffee and Sugar",
+                "header_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "id": 3360,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Milk-coffee-and-sugar-alien-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Milk-coffee-and-sugar-alien-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 5,
+                    "day": 10
+                },
+                "release_date_for_display": "May 10, 2010",
+                "release_date_with_abbreviated_month_for_display": "May. 10, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 17261
+                },
+                "title": "Alien",
+                "title_with_featured": "Alien",
+                "url": "https://genius.com/Milk-coffee-and-sugar-alien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1514",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "id": 1514,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Milk Coffee and Sugar",
+                    "url": "https://genius.com/artists/Milk-coffee-and-sugar"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/151631",
+                "artist_names": "Milk Coffee and Sugar",
+                "full_title": "Allumez les briquets by\u00a0Milk\u00a0Coffee and Sugar",
+                "header_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "id": 151631,
+                "language": "fr",
+                "lyrics_owner_id": 170454,
+                "lyrics_state": "complete",
+                "path": "/Milk-coffee-and-sugar-allumez-les-briquets-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Milk-coffee-and-sugar-allumez-les-briquets-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 5,
+                    "day": 10
+                },
+                "release_date_for_display": "May 10, 2010",
+                "release_date_with_abbreviated_month_for_display": "May. 10, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Allumez les briquets",
+                "title_with_featured": "Allumez les briquets",
+                "url": "https://genius.com/Milk-coffee-and-sugar-allumez-les-briquets-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1514",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "id": 1514,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Milk Coffee and Sugar",
+                    "url": "https://genius.com/artists/Milk-coffee-and-sugar"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/3054227",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "\u00c0 trop courir by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/1a4c343b46e2b7f6d99e9f534dc4683b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1a4c343b46e2b7f6d99e9f534dc4683b.340x340x1.jpg",
+                "id": 3054227,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-a-trop-courir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-a-trop-courir-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1a4c343b46e2b7f6d99e9f534dc4683b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1a4c343b46e2b7f6d99e9f534dc4683b.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false,
+                    "pageviews": 7428
+                },
+                "title": "\u00c0 trop courir",
+                "title_with_featured": "\u00c0 trop courir",
+                "url": "https://genius.com/Gael-faye-a-trop-courir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/4059433",
+                "artist_names": "Ga\u00ebl Faye (Ft. Fl\u00e1via Coelho)",
+                "full_title": "Balade br\u00e9silienne by\u00a0Ga\u00ebl\u00a0Faye (Ft.\u00a0Fl\u00e1via\u00a0Coelho)",
+                "header_image_thumbnail_url": "https://images.genius.com/abe5dbc3f51323fd39aa450be1e9bc6d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/abe5dbc3f51323fd39aa450be1e9bc6d.375x375x1.jpg",
+                "id": 4059433,
+                "language": "fr",
+                "lyrics_owner_id": 2328971,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-balade-bresilienne-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gael-faye-balade-bresilienne-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/abe5dbc3f51323fd39aa450be1e9bc6d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/abe5dbc3f51323fd39aa450be1e9bc6d.375x375x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 7117
+                },
+                "title": "Balade br\u00e9silienne",
+                "title_with_featured": "Balade br\u00e9silienne (Ft.\u00a0Fl\u00e1via\u00a0Coelho)",
+                "url": "https://genius.com/Gael-faye-balade-bresilienne-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/454470",
+                        "header_image_url": "https://images.genius.com/11ffe2139439648e7d81c3bd848f2a61.1000x1000x1.jpg",
+                        "id": 454470,
+                        "image_url": "https://images.genius.com/11ffe2139439648e7d81c3bd848f2a61.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fl\u00e1via Coelho",
+                        "url": "https://genius.com/artists/Flavia-coelho"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8389327",
+                "artist_names": "Grand Corps Malade, Ben Mazu\u00e9 & Ga\u00ebl Faye",
+                "full_title": "Besoin de rien by\u00a0Grand\u00a0Corps Malade, Ben Mazu\u00e9 & Ga\u00ebl Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/d5ffb4ed72d30ab567f75cd5edafd85d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d5ffb4ed72d30ab567f75cd5edafd85d.1000x1000x1.jpg",
+                "id": 8389327,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Grand-corps-malade-ben-mazue-and-gael-faye-besoin-de-rien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grand-corps-malade-ben-mazue-and-gael-faye-besoin-de-rien-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 16
+                },
+                "release_date_for_display": "September 16, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 16, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d5ffb4ed72d30ab567f75cd5edafd85d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d5ffb4ed72d30ab567f75cd5edafd85d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Besoin de rien",
+                "title_with_featured": "Besoin de rien",
+                "url": "https://genius.com/Grand-corps-malade-ben-mazue-and-gael-faye-besoin-de-rien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3295625",
+                    "header_image_url": "https://images.genius.com/cb8a66b9013545a6e8ebd691a57a5906.864x486x1.jpg",
+                    "id": 3295625,
+                    "image_url": "https://images.genius.com/46a00cadb1742dc62acb57749ebc6cd9.582x582x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grand Corps Malade, Ben Mazu\u00e9 & Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Grand-corps-malade-ben-mazue-and-gael-faye"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/410618",
+                "artist_names": "Milk Coffee and Sugar (Ft. Bruno Edjenguele)",
+                "full_title": "Big Bang by\u00a0Milk\u00a0Coffee and Sugar (Ft.\u00a0Bruno\u00a0Edjenguele)",
+                "header_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "id": 410618,
+                "language": "fr",
+                "lyrics_owner_id": 396179,
+                "lyrics_state": "complete",
+                "path": "/Milk-coffee-and-sugar-big-bang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Milk-coffee-and-sugar-big-bang-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 5,
+                    "day": 10
+                },
+                "release_date_for_display": "May 10, 2010",
+                "release_date_with_abbreviated_month_for_display": "May. 10, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 18,
+                    "hot": false
+                },
+                "title": "Big Bang",
+                "title_with_featured": "Big Bang (Ft.\u00a0Bruno\u00a0Edjenguele)",
+                "url": "https://genius.com/Milk-coffee-and-sugar-big-bang-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/169830",
+                        "header_image_url": "https://images.genius.com/6d521b6e617d62c2cab72e49c0ad0629.292x432x1.jpg",
+                        "id": 169830,
+                        "image_url": "https://images.genius.com/6d521b6e617d62c2cab72e49c0ad0629.292x432x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bruno Edjenguele",
+                        "url": "https://genius.com/artists/Bruno-edjenguele"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1514",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "id": 1514,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Milk Coffee and Sugar",
+                    "url": "https://genius.com/artists/Milk-coffee-and-sugar"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/113276",
+                "artist_names": "Ga\u00ebl Faye (Ft. Stogie T)",
+                "full_title": "Blend by\u00a0Ga\u00ebl\u00a0Faye (Ft.\u00a0Stogie\u00a0T)",
+                "header_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "id": 113276,
+                "language": "fr",
+                "lyrics_owner_id": 13034,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-blend-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Gael-faye-blend-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Blend",
+                "title_with_featured": "Blend (Ft.\u00a0Stogie\u00a0T)",
+                "url": "https://genius.com/Gael-faye-blend-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/28879",
+                        "header_image_url": "https://images.genius.com/c19faba17583efec0983f3ed413e868e.1000x1000x1.jpg",
+                        "id": 28879,
+                        "image_url": "https://images.genius.com/9d652338327d7609073adef243743cd0.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Stogie T",
+                        "url": "https://genius.com/artists/Stogie-t",
+                        "iq": 1452
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/6049943",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "Boomer by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.640x640x1.jpg",
+                "id": 6049943,
+                "language": "fr",
+                "lyrics_owner_id": 6597912,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-boomer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-boomer-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Boomer",
+                "title_with_featured": "Boomer",
+                "url": "https://genius.com/Gael-faye-boomer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/115412",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "Bouge \u00e0 Buja by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "id": 115412,
+                "language": "fr",
+                "lyrics_owner_id": 13034,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-bouge-a-buja-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-bouge-a-buja-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Bouge \u00e0 Buja",
+                "title_with_featured": "Bouge \u00e0 Buja",
+                "url": "https://genius.com/Gael-faye-bouge-a-buja-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8157865",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "Butare by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/8f57285eb42e9b3500df2c072ea0ddb1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8f57285eb42e9b3500df2c072ea0ddb1.1000x1000x1.jpg",
+                "id": 8157865,
+                "language": "fr",
+                "lyrics_owner_id": 4805987,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-butare-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-butare-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 1
+                },
+                "release_date_for_display": "July 1, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jul. 1, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8f57285eb42e9b3500df2c072ea0ddb1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8f57285eb42e9b3500df2c072ea0ddb1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Butare",
+                "title_with_featured": "Butare",
+                "url": "https://genius.com/Gael-faye-butare-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/4065139",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "By by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/186ec1400a212566fb3406042525e5e4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/186ec1400a212566fb3406042525e5e4.399x399x1.jpg",
+                "id": 4065139,
+                "language": "fr",
+                "lyrics_owner_id": 3975933,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-by-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-by-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/186ec1400a212566fb3406042525e5e4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/186ec1400a212566fb3406042525e5e4.399x399x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false
+                },
+                "title": "By",
+                "title_with_featured": "By",
+                "url": "https://genius.com/Gael-faye-by-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/54814",
+                "artist_names": "Milk Coffee and Sugar",
+                "full_title": "Caf\u00e9 z\u00e8bre by\u00a0Milk\u00a0Coffee and Sugar",
+                "header_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "id": 54814,
+                "language": null,
+                "lyrics_owner_id": 26617,
+                "lyrics_state": "complete",
+                "path": "/Milk-coffee-and-sugar-cafe-zebre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Milk-coffee-and-sugar-cafe-zebre-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 5,
+                    "day": 10
+                },
+                "release_date_for_display": "May 10, 2010",
+                "release_date_with_abbreviated_month_for_display": "May. 10, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Caf\u00e9 z\u00e8bre",
+                "title_with_featured": "Caf\u00e9 z\u00e8bre",
+                "url": "https://genius.com/Milk-coffee-and-sugar-cafe-zebre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1514",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "id": 1514,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Milk Coffee and Sugar",
+                    "url": "https://genius.com/artists/Milk-coffee-and-sugar"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/6049946",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "C'est cool by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.640x640x1.jpg",
+                "id": 6049946,
+                "language": "fr",
+                "lyrics_owner_id": 416187,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-cest-cool-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-cest-cool-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "C\u2019est cool",
+                "title_with_featured": "C'est cool",
+                "url": "https://genius.com/Gael-faye-cest-cool-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6049942",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "Chalouper by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.640x640x1.jpg",
+                "id": 6049942,
+                "language": "fr",
+                "lyrics_owner_id": 5527424,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-chalouper-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-chalouper-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e3ea3f1cf787c855ae2b50ceed4fd7cd.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 5891
+                },
+                "title": "Chalouper",
+                "title_with_featured": "Chalouper",
+                "url": "https://genius.com/Gael-faye-chalouper-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/114828",
+                "artist_names": "Ga\u00ebl Faye",
+                "full_title": "Charivari by\u00a0Ga\u00ebl\u00a0Faye",
+                "header_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "id": 114828,
+                "language": null,
+                "lyrics_owner_id": 13034,
+                "lyrics_state": "complete",
+                "path": "/Gael-faye-charivari-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gael-faye-charivari-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ffc7f36f19316403798eed9d8fdad576.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Charivari",
+                "title_with_featured": "Charivari",
+                "url": "https://genius.com/Gael-faye-charivari-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/22451",
+                    "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                    "id": 22451,
+                    "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ga\u00ebl Faye",
+                    "url": "https://genius.com/artists/Gael-faye"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2320437",
+                "artist_names": "Jonas (Ft. Edgar Sekloka, Ga\u00ebl Faye & Rox)",
+                "full_title": "Comportement \u00e0 risque by\u00a0Jonas (Ft.\u00a0Edgar\u00a0Sekloka, Ga\u00ebl\u00a0Faye & Rox)",
+                "header_image_thumbnail_url": "https://images.genius.com/cbdef393e04dd0d7b30d717455b800da.300x300x1.png",
+                "header_image_url": "https://images.genius.com/cbdef393e04dd0d7b30d717455b800da.1000x1000x1.png",
+                "id": 2320437,
+                "language": "fr",
+                "lyrics_owner_id": 72031,
+                "lyrics_state": "complete",
+                "path": "/Jonas-comportement-a-risque-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jonas-comportement-a-risque-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cbdef393e04dd0d7b30d717455b800da.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/cbdef393e04dd0d7b30d717455b800da.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Comportement \u00e0 risque",
+                "title_with_featured": "Comportement \u00e0 risque (Ft.\u00a0Edgar\u00a0Sekloka, Ga\u00ebl\u00a0Faye & Rox)",
+                "url": "https://genius.com/Jonas-comportement-a-risque-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/359807",
+                        "header_image_url": "https://images.genius.com/0752c5dc09295810fa7aac628b8268cb.670x490x1.jpg",
+                        "id": 359807,
+                        "image_url": "https://images.genius.com/4c24bf84b6242005b6753d57b57aaf87.426x426x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rox",
+                        "url": "https://genius.com/artists/Rox"
+                    },
+                    {
+                        "api_path": "/artists/53396",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/edgarsekloka.jpg",
+                        "id": 53396,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/edgarsekloka.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Edgar Sekloka",
+                        "url": "https://genius.com/artists/Edgar-sekloka"
+                    },
+                    {
+                        "api_path": "/artists/22451",
+                        "header_image_url": "https://images.genius.com/de89b36d8c9f90ecebe6e802f2618a90.448x191x1.png",
+                        "id": 22451,
+                        "image_url": "https://images.genius.com/109c9c5416132abf5170be8087617daf.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ga\u00ebl Faye",
+                        "url": "https://genius.com/artists/Gael-faye"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/29708",
+                    "header_image_url": "https://images.genius.com/cbdef393e04dd0d7b30d717455b800da.1000x1000x1.png",
+                    "id": 29708,
+                    "image_url": "https://images.genius.com/cbdef393e04dd0d7b30d717455b800da.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonas",
+                    "url": "https://genius.com/artists/Jonas"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/152003",
+                "artist_names": "Milk Coffee and Sugar (Ft. Bruno Edjenguele)",
+                "full_title": "Croire en nous by\u00a0Milk\u00a0Coffee and Sugar (Ft.\u00a0Bruno\u00a0Edjenguele)",
+                "header_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "id": 152003,
+                "language": "fr",
+                "lyrics_owner_id": 170454,
+                "lyrics_state": "complete",
+                "path": "/Milk-coffee-and-sugar-croire-en-nous-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Milk-coffee-and-sugar-croire-en-nous-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 5,
+                    "day": 10
+                },
+                "release_date_for_display": "May 10, 2010",
+                "release_date_with_abbreviated_month_for_display": "May. 10, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7d6d085a85debb898603506a39ad1de6.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 18,
+                    "hot": false
+                },
+                "title": "Croire en nous",
+                "title_with_featured": "Croire en nous (Ft.\u00a0Bruno\u00a0Edjenguele)",
+                "url": "https://genius.com/Milk-coffee-and-sugar-croire-en-nous-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/169830",
+                        "header_image_url": "https://images.genius.com/6d521b6e617d62c2cab72e49c0ad0629.292x432x1.jpg",
+                        "id": 169830,
+                        "image_url": "https://images.genius.com/6d521b6e617d62c2cab72e49c0ad0629.292x432x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bruno Edjenguele",
+                        "url": "https://genius.com/artists/Bruno-edjenguele"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1514",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "id": 1514,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/grande_music.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Milk Coffee and Sugar",
+                    "url": "https://genius.com/artists/Milk-coffee-and-sugar"
+                }
+            }
+        ],
+        "next_page": 2
+    }
+}

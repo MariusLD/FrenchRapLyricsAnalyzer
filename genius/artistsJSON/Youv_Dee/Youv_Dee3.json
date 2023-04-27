@@ -1,0 +1,1111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/5345944",
+                "artist_names": "Youv Dee",
+                "full_title": "Enfer et paradis by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/04e430d2bdabdcab50ad6b7724c7bb88.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/04e430d2bdabdcab50ad6b7724c7bb88.1000x563x1.jpg",
+                "id": 5345944,
+                "language": "fr",
+                "lyrics_owner_id": 6778666,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-enfer-et-paradis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-enfer-et-paradis-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3061ccee9f5facd8060dbfba9da4660e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3061ccee9f5facd8060dbfba9da4660e.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false
+                },
+                "title": "Enfer et paradis",
+                "title_with_featured": "Enfer et paradis",
+                "url": "https://genius.com/Youv-dee-enfer-et-paradis-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4141801",
+                "artist_names": "Youv Dee (Ft. Diddi Trix & Laskiiz)",
+                "full_title": "Euros by\u00a0Youv\u00a0Dee (Ft.\u00a0Diddi\u00a0Trix & Laskiiz)",
+                "header_image_thumbnail_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.500x500x1.jpg",
+                "id": 4141801,
+                "language": "fr",
+                "lyrics_owner_id": 3569851,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-euros-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-euros-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 14
+                },
+                "release_date_for_display": "December 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Euros",
+                "title_with_featured": "Euros (Ft.\u00a0Diddi\u00a0Trix & Laskiiz)",
+                "url": "https://genius.com/Youv-dee-euros-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/535881",
+                        "header_image_url": "https://images.genius.com/bbfbfbb8429bcee38d5f40df92cdd8b0.1000x1000x1.jpg",
+                        "id": 535881,
+                        "image_url": "https://images.genius.com/eee1406c546e0fcd12ecc9c8928ccc41.811x811x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Laskiiz",
+                        "url": "https://genius.com/artists/Laskiiz"
+                    },
+                    {
+                        "api_path": "/artists/1038275",
+                        "header_image_url": "https://images.genius.com/e519ba39b5f1f91a89af99a7a96c5ab1.589x312x1.png",
+                        "id": 1038275,
+                        "image_url": "https://images.genius.com/9e776a8b4793cc483baec6f40e154688.405x405x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Diddi Trix",
+                        "url": "https://genius.com/artists/Diddi-trix"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/3397554",
+                "artist_names": "Ghost Killer Track (Ft. Youv Dee)",
+                "full_title": "Facile by\u00a0Ghost\u00a0Killer Track (Ft.\u00a0Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/734b546e65b2a4592794a33b032df30e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/734b546e65b2a4592794a33b032df30e.616x616x1.jpg",
+                "id": 3397554,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Ghost-killer-track-facile-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ghost-killer-track-facile-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 16
+                },
+                "release_date_for_display": "February 16, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/734b546e65b2a4592794a33b032df30e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/734b546e65b2a4592794a33b032df30e.616x616x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false
+                },
+                "title": "Facile",
+                "title_with_featured": "Facile (Ft.\u00a0Youv\u00a0Dee)",
+                "url": "https://genius.com/Ghost-killer-track-facile-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/614152",
+                    "header_image_url": "https://images.genius.com/735a3d6739f0d2273035da305d305ba4.1000x1000x1.jpg",
+                    "id": 614152,
+                    "image_url": "https://images.genius.com/7f3951de176837473e83cdf99867f2e9.638x638x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ghost Killer Track",
+                    "url": "https://genius.com/artists/Ghost-killer-track",
+                    "iq": 138
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8810487",
+                "artist_names": "Youv Dee",
+                "full_title": "Fallait Pas by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/df451fbde58396af77defc66a359e82a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/df451fbde58396af77defc66a359e82a.1000x1000x1.jpg",
+                "id": 8810487,
+                "language": "fr",
+                "lyrics_owner_id": 6778666,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-fallait-pas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-fallait-pas-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 10
+                },
+                "release_date_for_display": "February 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/df451fbde58396af77defc66a359e82a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/df451fbde58396af77defc66a359e82a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fallait Pas",
+                "title_with_featured": "Fallait Pas",
+                "url": "https://genius.com/Youv-dee-fallait-pas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/4523035",
+                "artist_names": "Foda C (Ft. Joanna & Youv Dee)",
+                "full_title": "Fant\u00f4me by\u00a0Foda\u00a0C (Ft.\u00a0Joanna & Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/e0fefd5193551b017138590a86313748.300x168x1.jpg",
+                "header_image_url": "https://images.genius.com/e0fefd5193551b017138590a86313748.336x188x1.jpg",
+                "id": 4523035,
+                "language": "fr",
+                "lyrics_owner_id": 3851723,
+                "lyrics_state": "complete",
+                "path": "/Foda-c-fantome-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Foda-c-fantome-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 2
+                },
+                "release_date_for_display": "May 2, 2019",
+                "release_date_with_abbreviated_month_for_display": "May. 2, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e0fefd5193551b017138590a86313748.300x168x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e0fefd5193551b017138590a86313748.336x188x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Fant\u00f4me",
+                "title_with_featured": "Fant\u00f4me (Ft.\u00a0Joanna & Youv\u00a0Dee)",
+                "url": "https://genius.com/Foda-c-fantome-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    },
+                    {
+                        "api_path": "/artists/1512788",
+                        "header_image_url": "https://images.genius.com/72d0321e84c342d9f098dea60d129a4b.750x1000x1.heic",
+                        "id": 1512788,
+                        "image_url": "https://images.genius.com/f10295cd63bf2d8b3a37c2ce178ff233.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Joanna",
+                        "url": "https://genius.com/artists/Joanna",
+                        "iq": 116
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/221396",
+                    "header_image_url": "https://images.genius.com/cf43232b2fc84555884538d9f043d932.1000x563x1.jpg",
+                    "id": 221396,
+                    "image_url": "https://images.genius.com/113078c1f89a212a11153d1c1c4859d7.508x508x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Foda C",
+                    "url": "https://genius.com/artists/Foda-c"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4378482",
+                "artist_names": "Binks Beatz (Ft. Youv Dee)",
+                "full_title": "Fast life by\u00a0Binks\u00a0Beatz (Ft.\u00a0Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/b77136ca323d445ebabba11f162608e7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b77136ca323d445ebabba11f162608e7.600x600x1.jpg",
+                "id": 4378482,
+                "language": "fr",
+                "lyrics_owner_id": 4392509,
+                "lyrics_state": "complete",
+                "path": "/Binks-beatz-fast-life-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Binks-beatz-fast-life-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 15
+                },
+                "release_date_for_display": "March 15, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 15, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b77136ca323d445ebabba11f162608e7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b77136ca323d445ebabba11f162608e7.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Fast life",
+                "title_with_featured": "Fast life (Ft.\u00a0Youv\u00a0Dee)",
+                "url": "https://genius.com/Binks-beatz-fast-life-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/659505",
+                    "header_image_url": "https://images.genius.com/9a0cf5e96f81b297f10fd8d08e4e6620.1000x665x1.jpg",
+                    "id": 659505,
+                    "image_url": "https://images.genius.com/7065edde47ea30b6b16a643d3628dc18.410x410x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Binks Beatz",
+                    "url": "https://genius.com/artists/Binks-beatz"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8638925",
+                "artist_names": "Youv Dee",
+                "full_title": "Feeling by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/e413ab6c66715fd02eda00a9920df6f3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e413ab6c66715fd02eda00a9920df6f3.1000x1000x1.jpg",
+                "id": 8638925,
+                "language": "fr",
+                "lyrics_owner_id": 6778666,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-feeling-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-feeling-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 14
+                },
+                "release_date_for_display": "December 14, 2022",
+                "release_date_with_abbreviated_month_for_display": "Dec. 14, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e413ab6c66715fd02eda00a9920df6f3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e413ab6c66715fd02eda00a9920df6f3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Feeling",
+                "title_with_featured": "Feeling",
+                "url": "https://genius.com/Youv-dee-feeling-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6225900",
+                "artist_names": "Chanceko (Ft. Take A Mic & Youv Dee)",
+                "full_title": "Fitness Park by\u00a0Chanceko (Ft.\u00a0Take\u00a0A Mic & Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/d6b9cb83b74d7c4af1273991e2a6aae5.300x300x1.png",
+                "header_image_url": "https://images.genius.com/d6b9cb83b74d7c4af1273991e2a6aae5.373x373x1.png",
+                "id": 6225900,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Chanceko-fitness-park-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Chanceko-fitness-park-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d6b9cb83b74d7c4af1273991e2a6aae5.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/d6b9cb83b74d7c4af1273991e2a6aae5.373x373x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fitness Park",
+                "title_with_featured": "Fitness Park (Ft.\u00a0Take\u00a0A Mic & Youv\u00a0Dee)",
+                "url": "https://genius.com/Chanceko-fitness-park-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    },
+                    {
+                        "api_path": "/artists/68618",
+                        "header_image_url": "https://images.genius.com/1180e047eb24445541a3a27b9b31a130.480x270x150.gif",
+                        "id": 68618,
+                        "image_url": "https://images.genius.com/843fda915bb929ee1857097b9d018208.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Take A Mic",
+                        "url": "https://genius.com/artists/Take-a-mic",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/203821",
+                    "header_image_url": "https://images.genius.com/70a645d1c3db58abd5976f57dad2e6ee.1000x875x1.jpg",
+                    "id": 203821,
+                    "image_url": "https://images.genius.com/d6b9cb83b74d7c4af1273991e2a6aae5.373x373x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chanceko",
+                    "url": "https://genius.com/artists/Chanceko"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6533719",
+                "artist_names": "Taki (FRA) (Ft. Assy)",
+                "full_title": "Flex by\u00a0Taki\u00a0(FRA) (Ft.\u00a0Assy)",
+                "header_image_thumbnail_url": "https://images.genius.com/0de09f227f033e5e205a2606397ea866.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0de09f227f033e5e205a2606397ea866.1000x1000x1.jpg",
+                "id": 6533719,
+                "language": "en",
+                "lyrics_owner_id": 4212511,
+                "lyrics_state": "complete",
+                "path": "/Taki-fra-flex-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Taki-fra-flex-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 4
+                },
+                "release_date_for_display": "June 4, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 4, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0de09f227f033e5e205a2606397ea866.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0de09f227f033e5e205a2606397ea866.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Flex",
+                "title_with_featured": "Flex (Ft.\u00a0Assy)",
+                "url": "https://genius.com/Taki-fra-flex-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/393203",
+                        "header_image_url": "https://images.genius.com/122f478b9f3f04b7485a4eff55b881b6.590x268x1.png",
+                        "id": 393203,
+                        "image_url": "https://images.genius.com/d0a4efd80b462995633d0bbf24fde4cc.509x509x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Assy",
+                        "url": "https://genius.com/artists/Assy"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2623122",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2623122,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taki (FRA)",
+                    "url": "https://genius.com/artists/Taki-fra"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4223430",
+                "artist_names": "Booska-P (Ft. 100 Blaze, Bol\u00e9mvn, Gianni, \u200bnelick, \u200bDA Uzi & Youv Dee)",
+                "full_title": "Freestyle #11RappeursASuivre 2019 Part. 2 by\u00a0Booska-P (Ft.\u00a0100\u00a0Blaze, Bol\u00e9mvn, Gianni, \u200bnelick, \u200bDA\u00a0Uzi & Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/8c65f75551cf9e3f89e5af2ed40096bc.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/8c65f75551cf9e3f89e5af2ed40096bc.1000x563x1.jpg",
+                "id": 4223430,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Booska-p-freestyle-11rappeursasuivre-2019-part-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Booska-p-freestyle-11rappeursasuivre-2019-part-2-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 11
+                },
+                "release_date_for_display": "January 11, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 11, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b169ee4cef5385bbebe8f8ece018329.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b169ee4cef5385bbebe8f8ece018329.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Freestyle #11RappeursASuivre 2019 Part. 2",
+                "title_with_featured": "Freestyle #11RappeursASuivre 2019 Part. 2 (Ft.\u00a0100\u00a0Blaze, Bol\u00e9mvn, Gianni, \u200bnelick, \u200bDA\u00a0Uzi & Youv\u00a0Dee)",
+                "url": "https://genius.com/Booska-p-freestyle-11rappeursasuivre-2019-part-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1617807",
+                        "header_image_url": "https://images.genius.com/54a03991e50a1c672e2f886d4f77218e.637x960x1.jpg",
+                        "id": 1617807,
+                        "image_url": "https://images.genius.com/3d46e49b47162c1651a010c4cebc259f.731x731x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Gianni",
+                        "url": "https://genius.com/artists/Gianni",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/1219062",
+                        "header_image_url": "https://images.genius.com/7f54b99b8bad7bc2d151faf9e0748b7f.727x1000x1.jpg",
+                        "id": 1219062,
+                        "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bol\u00e9mvn",
+                        "url": "https://genius.com/artists/Bolemvn"
+                    },
+                    {
+                        "api_path": "/artists/544293",
+                        "header_image_url": "https://images.genius.com/0906bfad3ee4f7439e36bc1db5a8f53a.750x743x1.jpg",
+                        "id": 544293,
+                        "image_url": "https://images.genius.com/6a6b79e79a08d0553f3ff64018be4f5a.537x537x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "100 Blaze",
+                        "url": "https://genius.com/artists/100-blaze"
+                    },
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    },
+                    {
+                        "api_path": "/artists/1212452",
+                        "header_image_url": "https://images.genius.com/5052661837a1c3890e048a082f56ef80.320x320x1.jpg",
+                        "id": 1212452,
+                        "image_url": "https://images.genius.com/3d50fdf7b7769a8570a412b20d3b514e.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bDA Uzi",
+                        "url": "https://genius.com/artists/Da-uzi"
+                    },
+                    {
+                        "api_path": "/artists/115707",
+                        "header_image_url": "https://images.genius.com/f8974fc3da0af9742b3efd6e03faa8dd.640x960x1.jpg",
+                        "id": 115707,
+                        "image_url": "https://images.genius.com/401e92fe3fb832e6322c203b848e3387.786x786x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bnelick",
+                        "url": "https://genius.com/artists/Nelick"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/655167",
+                    "header_image_url": "https://images.genius.com/71e31a92a28aa8867a372fc3109d7840.640x186x1.png",
+                    "id": 655167,
+                    "image_url": "https://images.genius.com/5b6f1655723e542ef28815f6a40b9219.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Booska-P",
+                    "url": "https://genius.com/artists/Booska-p"
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/3609544",
+                "artist_names": "Lord Esperanza (Ft. \u200bnelick, Youri & Youv Dee)",
+                "full_title": "Freestyle Couvre Feu - Lord Esperanza x Nelick x Youv Dee x Youri by\u00a0Lord\u00a0Esperanza (Ft.\u00a0\u200bnelick, Youri & Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/1f920cbe4b4fdaffbcc28d6d461ae9f6.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/1f920cbe4b4fdaffbcc28d6d461ae9f6.1000x563x1.jpg",
+                "id": 3609544,
+                "language": "fr",
+                "lyrics_owner_id": 1418654,
+                "lyrics_state": "complete",
+                "path": "/Lord-esperanza-freestyle-couvre-feu-lord-esperanza-x-nelick-x-youv-dee-x-youri-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lord-esperanza-freestyle-couvre-feu-lord-esperanza-x-nelick-x-youv-dee-x-youri-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2dc3a4b92ed0cb34d449c8821b715107.220x220x1.png",
+                "song_art_image_url": "https://images.genius.com/2dc3a4b92ed0cb34d449c8821b715107.220x220x1.png",
+                "stats": {
+                    "unreviewed_annotations": 26,
+                    "hot": false
+                },
+                "title": "Freestyle Couvre Feu - Lord Esperanza x Nelick x Youv Dee x Youri",
+                "title_with_featured": "Freestyle Couvre Feu - Lord Esperanza x Nelick x Youv Dee x Youri (Ft.\u00a0\u200bnelick, Youri & Youv\u00a0Dee)",
+                "url": "https://genius.com/Lord-esperanza-freestyle-couvre-feu-lord-esperanza-x-nelick-x-youv-dee-x-youri-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1282676",
+                        "header_image_url": "https://images.genius.com/74735d81605b4381a4eb5ccef6aad19e.595x558x1.png",
+                        "id": 1282676,
+                        "image_url": "https://images.genius.com/72dd37456e8db4e9f958ab7b1be9ceb1.471x471x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youri",
+                        "url": "https://genius.com/artists/Youri"
+                    },
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    },
+                    {
+                        "api_path": "/artists/115707",
+                        "header_image_url": "https://images.genius.com/f8974fc3da0af9742b3efd6e03faa8dd.640x960x1.jpg",
+                        "id": 115707,
+                        "image_url": "https://images.genius.com/401e92fe3fb832e6322c203b848e3387.786x786x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bnelick",
+                        "url": "https://genius.com/artists/Nelick"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/790419",
+                    "header_image_url": "https://images.genius.com/e74824963d338a2f178f52528a62d492.958x431x1.png",
+                    "id": 790419,
+                    "image_url": "https://images.genius.com/e0b8fd291c0917f016a846a3693a6d5a.592x592x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lord Esperanza",
+                    "url": "https://genius.com/artists/Lord-esperanza",
+                    "iq": 471
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/6518549",
+                "artist_names": "Youv Dee",
+                "full_title": "Freestyle explosif \"La vie de luxe\" by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/9094ac8230040b6b8e3c57f0cc47b953.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/9094ac8230040b6b8e3c57f0cc47b953.1000x563x1.jpg",
+                "id": 6518549,
+                "language": "fr",
+                "lyrics_owner_id": 6778666,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-freestyle-explosif-la-vie-de-luxe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-freestyle-explosif-la-vie-de-luxe-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 22
+                },
+                "release_date_for_display": "February 22, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 22, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9094ac8230040b6b8e3c57f0cc47b953.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9094ac8230040b6b8e3c57f0cc47b953.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Freestyle explosif \u201cLa vie de luxe\u201d",
+                "title_with_featured": "Freestyle explosif \"La vie de luxe\"",
+                "url": "https://genius.com/Youv-dee-freestyle-explosif-la-vie-de-luxe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/2823183",
+                "artist_names": "Youv Dee",
+                "full_title": "Freestyle Nitro #ODP by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/a5a9c2d171cfee644466079f802c2348.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/a5a9c2d171cfee644466079f802c2348.599x337x1.jpg",
+                "id": 2823183,
+                "language": "fr",
+                "lyrics_owner_id": 142424,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-freestyle-nitro-odp-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Youv-dee-freestyle-nitro-odp-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 6,
+                    "day": 20
+                },
+                "release_date_for_display": "June 20, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jun. 20, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fba923e91b71430ec75bf39201fe4074.234x234x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fba923e91b71430ec75bf39201fe4074.234x234x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 22823
+                },
+                "title": "Freestyle Nitro #ODP",
+                "title_with_featured": "Freestyle Nitro #ODP",
+                "url": "https://genius.com/Youv-dee-freestyle-nitro-odp-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3075806",
+                "artist_names": "Youv Dee",
+                "full_title": "Freestyle Supernovae #ODP by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/1a8680557d81bd81dab68aff613ab18e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1a8680557d81bd81dab68aff613ab18e.500x500x1.jpg",
+                "id": 3075806,
+                "language": "fr",
+                "lyrics_owner_id": 1281093,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-freestyle-supernovae-odp-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-freestyle-supernovae-odp-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 26
+                },
+                "release_date_for_display": "April 26, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 26, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1a8680557d81bd81dab68aff613ab18e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1a8680557d81bd81dab68aff613ab18e.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Freestyle Supernovae #ODP",
+                "title_with_featured": "Freestyle Supernovae #ODP",
+                "url": "https://genius.com/Youv-dee-freestyle-supernovae-odp-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3493325",
+                "artist_names": "Assy (Ft. Arsn & Youv Dee)",
+                "full_title": "Gameboy by\u00a0Assy (Ft.\u00a0Arsn & Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/953e07d873de68516bf24191ffd88e9c.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/953e07d873de68516bf24191ffd88e9c.599x600x1.jpg",
+                "id": 3493325,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Assy-gameboy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Assy-gameboy-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 2
+                },
+                "release_date_for_display": "March 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/953e07d873de68516bf24191ffd88e9c.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/953e07d873de68516bf24191ffd88e9c.599x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Gameboy",
+                "title_with_featured": "Gameboy (Ft.\u00a0Arsn & Youv\u00a0Dee)",
+                "url": "https://genius.com/Assy-gameboy-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/933046",
+                        "header_image_url": "https://images.genius.com/bebb4e8373d21ad805cf49e30ef2b122.582x207x1.png",
+                        "id": 933046,
+                        "image_url": "https://images.genius.com/a640d5deb1f30eee1980dec70e017ab0.459x459x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Arsn",
+                        "url": "https://genius.com/artists/Arsn"
+                    },
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/393203",
+                    "header_image_url": "https://images.genius.com/122f478b9f3f04b7485a4eff55b881b6.590x268x1.png",
+                    "id": 393203,
+                    "image_url": "https://images.genius.com/d0a4efd80b462995633d0bbf24fde4cc.509x509x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Assy",
+                    "url": "https://genius.com/artists/Assy"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/4141797",
+                "artist_names": "Youv Dee",
+                "full_title": "Gear 3 by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.500x500x1.jpg",
+                "id": 4141797,
+                "language": "fr",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-gear-3-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Youv-dee-gear-3-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 14
+                },
+                "release_date_for_display": "December 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d3eaabf3a831980b912139b7d639a8c1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 6221
+                },
+                "title": "Gear 3",
+                "title_with_featured": "Gear 3",
+                "url": "https://genius.com/Youv-dee-gear-3-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/4346767",
+                "artist_names": "Youv Dee (Ft. Sirap)",
+                "full_title": "Gen-gen by\u00a0Youv\u00a0Dee (Ft.\u00a0Sirap)",
+                "header_image_thumbnail_url": "https://images.genius.com/9c93c42452bf15d365456c6a3bf98845.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9c93c42452bf15d365456c6a3bf98845.500x500x1.jpg",
+                "id": 4346767,
+                "language": "fr",
+                "lyrics_owner_id": 3647381,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-gen-gen-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-gen-gen-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 1
+                },
+                "release_date_for_display": "March 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9c93c42452bf15d365456c6a3bf98845.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9c93c42452bf15d365456c6a3bf98845.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false
+                },
+                "title": "Gen-gen",
+                "title_with_featured": "Gen-gen (Ft.\u00a0Sirap)",
+                "url": "https://genius.com/Youv-dee-gen-gen-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/279046",
+                        "header_image_url": "https://images.genius.com/561afe4f63e6df822b918529893771c0.462x266x1.png",
+                        "id": 279046,
+                        "image_url": "https://images.genius.com/bea6b756a4cad1ee83d501af9ef7a336.315x315x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sirap",
+                        "url": "https://genius.com/artists/Sirap",
+                        "iq": 500
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8145834",
+                "artist_names": "Mahdi Ba (Ft. Youv Dee)",
+                "full_title": "G\u00e9nie by\u00a0Mahdi\u00a0Ba (Ft.\u00a0Youv\u00a0Dee)",
+                "header_image_thumbnail_url": "https://images.genius.com/9b5c1f2d6708b6de9ba4bcb4a3ba1c07.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/9b5c1f2d6708b6de9ba4bcb4a3ba1c07.1000x563x1.jpg",
+                "id": 8145834,
+                "language": "fr",
+                "lyrics_owner_id": 6778666,
+                "lyrics_state": "complete",
+                "path": "/Mahdi-ba-genie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mahdi-ba-genie-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8a7c543e228345d8ef0aa420bab64d28.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8a7c543e228345d8ef0aa420bab64d28.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "G\u00e9nie",
+                "title_with_featured": "G\u00e9nie (Ft.\u00a0Youv\u00a0Dee)",
+                "url": "https://genius.com/Mahdi-ba-genie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/933047",
+                        "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                        "id": 933047,
+                        "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Youv Dee",
+                        "url": "https://genius.com/artists/Youv-dee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1215180",
+                    "header_image_url": "https://images.genius.com/ed588832d28199aedc2c404c16e10f6c.1000x185x1.jpg",
+                    "id": 1215180,
+                    "image_url": "https://images.genius.com/b3fa80a6e215533707759c0ed1807668.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mahdi Ba",
+                    "url": "https://genius.com/artists/Mahdi-ba"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5092771",
+                "artist_names": "Youv Dee",
+                "full_title": "Ghetto by\u00a0Youv\u00a0Dee",
+                "header_image_thumbnail_url": "https://images.genius.com/dc0c735b41b22c346434175528d6b708.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dc0c735b41b22c346434175528d6b708.1000x1000x1.jpg",
+                "id": 5092771,
+                "language": "fr",
+                "lyrics_owner_id": 4564316,
+                "lyrics_state": "complete",
+                "path": "/Youv-dee-ghetto-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youv-dee-ghetto-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dc0c735b41b22c346434175528d6b708.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dc0c735b41b22c346434175528d6b708.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Ghetto",
+                "title_with_featured": "Ghetto",
+                "url": "https://genius.com/Youv-dee-ghetto-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/933047",
+                    "header_image_url": "https://images.genius.com/6bfa3aeccb21b88424d7315aa6f01026.1000x701x1.jpg",
+                    "id": 933047,
+                    "image_url": "https://images.genius.com/b592469fb06e38d10506004c549b76a8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Youv Dee",
+                    "url": "https://genius.com/artists/Youv-dee"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/3067594",
+                "artist_names": "Assy & Youv Dee (Ft. Sheldon & STI (FRA))",
+                "full_title": "Glitch by\u00a0Assy\u00a0& Youv Dee (Ft.\u00a0Sheldon & STI\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/2a4f769ea53536e79ea9fd5c00cbddb0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2a4f769ea53536e79ea9fd5c00cbddb0.400x400x1.jpg",
+                "id": 3067594,
+                "language": "fr",
+                "lyrics_owner_id": 4366404,
+                "lyrics_state": "complete",
+                "path": "/Assy-and-youv-dee-glitch-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Assy-and-youv-dee-glitch-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2a4f769ea53536e79ea9fd5c00cbddb0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2a4f769ea53536e79ea9fd5c00cbddb0.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false
+                },
+                "title": "Glitch",
+                "title_with_featured": "Glitch (Ft.\u00a0Sheldon & STI\u00a0(FRA))",
+                "url": "https://genius.com/Assy-and-youv-dee-glitch-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/401378",
+                        "header_image_url": "https://images.genius.com/6844387b355ef6769e4cbfa8835198d4.590x311x1.png",
+                        "id": 401378,
+                        "image_url": "https://images.genius.com/6eeb1478bfb9e7da972839c3d2560f5c.626x626x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "STI (FRA)",
+                        "url": "https://genius.com/artists/Sti-fra"
+                    },
+                    {
+                        "api_path": "/artists/41297",
+                        "header_image_url": "https://images.genius.com/52b77e0bf85bc04c5d9b864a4872cc04.1000x1000x1.jpg",
+                        "id": 41297,
+                        "image_url": "https://images.genius.com/e23d16b9802ab6dce70858a77d7749d1.349x349x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sheldon",
+                        "url": "https://genius.com/artists/Sheldon",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1126075",
+                    "header_image_url": "https://images.genius.com/8f6ee3ef503ca89fb40851f04702d744.960x540x1.jpg",
+                    "id": 1126075,
+                    "image_url": "https://images.genius.com/c0e96c9fadc92817386beb86a9afec7d.448x448x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Assy & Youv Dee",
+                    "url": "https://genius.com/artists/Assy-and-youv-dee"
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

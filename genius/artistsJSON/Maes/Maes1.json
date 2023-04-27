@@ -1,0 +1,952 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/4073983",
+                "artist_names": "Maes",
+                "full_title": "100K by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.300x300x1.png",
+                "header_image_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.400x400x1.png",
+                "id": 4073983,
+                "language": "fr",
+                "lyrics_owner_id": 6006007,
+                "lyrics_state": "complete",
+                "path": "/Maes-100k-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-100k-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.400x400x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 6829
+                },
+                "title": "100K",
+                "title_with_featured": "100K",
+                "url": "https://genius.com/Maes-100k-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7376839",
+                "artist_names": "Maes",
+                "full_title": "10 Janvier by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                "id": 7376839,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Maes-10-janvier-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-10-janvier-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "10 Janvier",
+                "title_with_featured": "10 Janvier",
+                "url": "https://genius.com/Maes-10-janvier-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5557180",
+                "artist_names": "Bol\u00e9mvn (Ft. Maes)",
+                "full_title": "10K by\u00a0Bol\u00e9mvn (Ft.\u00a0Maes)",
+                "header_image_thumbnail_url": "https://images.genius.com/4650c0d99ac256f33d5b2fa809a2ce6e.300x124x1.png",
+                "header_image_url": "https://images.genius.com/4650c0d99ac256f33d5b2fa809a2ce6e.1000x412x1.png",
+                "id": 5557180,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bolemvn-10k-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bolemvn-10k-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/58a66077fdb0d59bcaf681582ef435d5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/58a66077fdb0d59bcaf681582ef435d5.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 30928
+                },
+                "title": "10K",
+                "title_with_featured": "10K (Ft.\u00a0Maes)",
+                "url": "https://genius.com/Bolemvn-10k-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/638160",
+                        "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                        "id": 638160,
+                        "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Maes",
+                        "url": "https://genius.com/artists/Maes",
+                        "iq": 105
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1219062",
+                    "header_image_url": "https://images.genius.com/7f54b99b8bad7bc2d151faf9e0748b7f.727x1000x1.jpg",
+                    "id": 1219062,
+                    "image_url": "https://images.genius.com/b7a0e78f7bc4b7b476fda753a8900f64.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bol\u00e9mvn",
+                    "url": "https://genius.com/artists/Bolemvn"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4010948",
+                "artist_names": "Maes",
+                "full_title": "1995 by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/156561d67a813d405e0f9e58f658f9e7.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/156561d67a813d405e0f9e58f658f9e7.1000x563x1.jpg",
+                "id": 4010948,
+                "language": "en",
+                "lyrics_owner_id": 205837,
+                "lyrics_state": "complete",
+                "path": "/Maes-1995-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-1995-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 9
+                },
+                "release_date_for_display": "October 9, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 9, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/156561d67a813d405e0f9e58f658f9e7.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/156561d67a813d405e0f9e58f658f9e7.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 26723
+                },
+                "title": "1995",
+                "title_with_featured": "1995",
+                "url": "https://genius.com/Maes-1995-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7622417",
+                "artist_names": "Maes",
+                "full_title": "26 ann\u00e9es by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                "id": 7622417,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Maes-26-annees-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-26-annees-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 13182
+                },
+                "title": "26 ann\u00e9es",
+                "title_with_featured": "26 ann\u00e9es",
+                "url": "https://genius.com/Maes-26-annees-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4504587",
+                "artist_names": "Dabs",
+                "full_title": "2.7.0 by\u00a0Dabs",
+                "header_image_thumbnail_url": "https://images.genius.com/2ec4b72529d9905fe402c46848c65160.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/2ec4b72529d9905fe402c46848c65160.1000x563x1.jpg",
+                "id": 4504587,
+                "language": "fr",
+                "lyrics_owner_id": 5850398,
+                "lyrics_state": "complete",
+                "path": "/Dabs-270-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dabs-270-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 26
+                },
+                "release_date_for_display": "April 26, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 26, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c271b7bca93c68fe614c7bdf05085ced.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c271b7bca93c68fe614c7bdf05085ced.512x512x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "2.7.0",
+                "title_with_featured": "2.7.0",
+                "url": "https://genius.com/Dabs-270-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/674763",
+                    "header_image_url": "https://images.genius.com/6b731aa9c25f8d5be6e6998504cf5c0e.1000x565x1.jpg",
+                    "id": 674763,
+                    "image_url": "https://images.genius.com/6dfa404b74a37417edc246f76de3478a.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dabs",
+                    "url": "https://genius.com/artists/Dabs"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3036997",
+                "artist_names": "Maes (Ft. Dabs)",
+                "full_title": "42 by Night by\u00a0Maes (Ft.\u00a0Dabs)",
+                "header_image_thumbnail_url": "https://images.genius.com/ac0e065bc28085533f09fe7b593f0df9.300x300x1.png",
+                "header_image_url": "https://images.genius.com/ac0e065bc28085533f09fe7b593f0df9.500x500x1.png",
+                "id": 3036997,
+                "language": "fr",
+                "lyrics_owner_id": 3232744,
+                "lyrics_state": "complete",
+                "path": "/Maes-42-by-night-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Maes-42-by-night-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 14
+                },
+                "release_date_for_display": "May 14, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 14, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ac0e065bc28085533f09fe7b593f0df9.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/ac0e065bc28085533f09fe7b593f0df9.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 22031
+                },
+                "title": "42 by Night",
+                "title_with_featured": "42 by Night (Ft.\u00a0Dabs)",
+                "url": "https://genius.com/Maes-42-by-night-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/674763",
+                        "header_image_url": "https://images.genius.com/6b731aa9c25f8d5be6e6998504cf5c0e.1000x565x1.jpg",
+                        "id": 674763,
+                        "image_url": "https://images.genius.com/6dfa404b74a37417edc246f76de3478a.430x430x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dabs",
+                        "url": "https://genius.com/artists/Dabs"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8367262",
+                "artist_names": "Maes",
+                "full_title": "90%* by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                "id": 8367262,
+                "language": "fr",
+                "lyrics_owner_id": 9722677,
+                "lyrics_state": "complete",
+                "path": "/Maes-90-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-90-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "90%*",
+                "title_with_featured": "90%*",
+                "url": "https://genius.com/Maes-90-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/5153910",
+                "artist_names": "Maes",
+                "full_title": "\u00c0 c\u00f4t\u00e9 de moi by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/8b9074157e082cb7d710f9b9f6ae6e52.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8b9074157e082cb7d710f9b9f6ae6e52.1000x1000x1.jpg",
+                "id": 5153910,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Maes-a-cote-de-moi-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Maes-a-cote-de-moi-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 17
+                },
+                "release_date_for_display": "January 17, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 17, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b9074157e082cb7d710f9b9f6ae6e52.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b9074157e082cb7d710f9b9f6ae6e52.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 37794
+                },
+                "title": "\u00c0 c\u00f4t\u00e9 de moi",
+                "title_with_featured": "\u00c0 c\u00f4t\u00e9 de moi",
+                "url": "https://genius.com/Maes-a-cote-de-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5201256",
+                "artist_names": "Timal (Ft. Maes)",
+                "full_title": "Ailleurs by\u00a0Timal (Ft.\u00a0Maes)",
+                "header_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "header_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "id": 5201256,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-ailleurs-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Timal-ailleurs-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/50798f16692a79360c0a93a0b8011868.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 14572
+                },
+                "title": "Ailleurs",
+                "title_with_featured": "Ailleurs (Ft.\u00a0Maes)",
+                "url": "https://genius.com/Timal-ailleurs-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/638160",
+                        "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                        "id": 638160,
+                        "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Maes",
+                        "url": "https://genius.com/artists/Maes",
+                        "iq": 105
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6042635",
+                "artist_names": "Timal (Ft. Maes)",
+                "full_title": "Ailleurs (Oliver Ryon Remix) by\u00a0Timal (Ft.\u00a0Maes)",
+                "header_image_thumbnail_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.800x800x1.jpg",
+                "id": 6042635,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Timal-ailleurs-oliver-ryon-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Timal-ailleurs-oliver-ryon-remix-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 16
+                },
+                "release_date_for_display": "October 16, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 16, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d6f99c8ed9aefde269571db71e084562.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ailleurs (Oliver Ryon Remix)",
+                "title_with_featured": "Ailleurs (Oliver Ryon Remix) (Ft.\u00a0Maes)",
+                "url": "https://genius.com/Timal-ailleurs-oliver-ryon-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/638160",
+                        "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                        "id": 638160,
+                        "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Maes",
+                        "url": "https://genius.com/artists/Maes",
+                        "iq": 105
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/963309",
+                    "header_image_url": "https://images.genius.com/4b887b912f68929dfb27bb6a2b5bf66f.1000x563x1.jpg",
+                    "id": 963309,
+                    "image_url": "https://images.genius.com/8e4c02885de317dd3571c504d97828ce.925x925x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Timal",
+                    "url": "https://genius.com/artists/Timal",
+                    "iq": 110
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6471436",
+                "artist_names": "Benab (Ft. Maes)",
+                "full_title": "Andale by\u00a0Benab (Ft.\u00a0Maes)",
+                "header_image_thumbnail_url": "https://images.genius.com/0dee90d4ba80f9632b036be4c1c227f9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0dee90d4ba80f9632b036be4c1c227f9.1000x1000x1.jpg",
+                "id": 6471436,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Benab-andale-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benab-andale-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 19
+                },
+                "release_date_for_display": "February 19, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 19, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0dee90d4ba80f9632b036be4c1c227f9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0dee90d4ba80f9632b036be4c1c227f9.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 9836
+                },
+                "title": "Andale",
+                "title_with_featured": "Andale (Ft.\u00a0Maes)",
+                "url": "https://genius.com/Benab-andale-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/638160",
+                        "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                        "id": 638160,
+                        "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Maes",
+                        "url": "https://genius.com/artists/Maes",
+                        "iq": 105
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1472608",
+                    "header_image_url": "https://images.genius.com/ceaff1891861b19ff79de253e45f288f.1000x533x1.jpg",
+                    "id": 1472608,
+                    "image_url": "https://images.genius.com/2af79248d744a939a0240dbd8eac54fd.578x578x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benab",
+                    "url": "https://genius.com/artists/Benab"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/8807614",
+                "artist_names": "Maes",
+                "full_title": "Arai by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.1000x1000x1.jpg",
+                "id": 8807614,
+                "language": "fr",
+                "lyrics_owner_id": 18950550,
+                "lyrics_state": "complete",
+                "path": "/Maes-arai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-arai-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 10
+                },
+                "release_date_for_display": "March 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Arai",
+                "title_with_featured": "Arai",
+                "url": "https://genius.com/Maes-arai-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/7399537",
+                "artist_names": "Maes",
+                "full_title": "Argent sal by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/e6fe07286ddb79e93f7aebfc846bc929.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e6fe07286ddb79e93f7aebfc846bc929.1000x1000x1.png",
+                "id": 7399537,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Maes-argent-sal-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-argent-sal-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6fe07286ddb79e93f7aebfc846bc929.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e6fe07286ddb79e93f7aebfc846bc929.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Argent sal",
+                "title_with_featured": "Argent sal",
+                "url": "https://genius.com/Maes-argent-sal-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 32,
+                "api_path": "/songs/4920942",
+                "artist_names": "Vald (Ft. Maes)",
+                "full_title": "ASB by\u00a0Vald (Ft.\u00a0Maes)",
+                "header_image_thumbnail_url": "https://images.genius.com/21990d7078f2febce2479543669cb0bd.300x300x1.png",
+                "header_image_url": "https://images.genius.com/21990d7078f2febce2479543669cb0bd.1000x1000x1.png",
+                "id": 4920942,
+                "language": "fr",
+                "lyrics_owner_id": 1904943,
+                "lyrics_state": "complete",
+                "path": "/Vald-asb-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Vald-asb-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21990d7078f2febce2479543669cb0bd.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/21990d7078f2febce2479543669cb0bd.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 23,
+                    "hot": false,
+                    "pageviews": 71461
+                },
+                "title": "ASB",
+                "title_with_featured": "ASB (Ft.\u00a0Maes)",
+                "url": "https://genius.com/Vald-asb-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/638160",
+                        "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                        "id": 638160,
+                        "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Maes",
+                        "url": "https://genius.com/artists/Maes",
+                        "iq": 105
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/4015247",
+                "artist_names": "Maes",
+                "full_title": "Avenue Montaigne by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/7b6318bcb6f7f6596ad1b09c65a7d9c8.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/7b6318bcb6f7f6596ad1b09c65a7d9c8.649x350x1.jpg",
+                "id": 4015247,
+                "language": "fr",
+                "lyrics_owner_id": 205837,
+                "lyrics_state": "complete",
+                "path": "/Maes-avenue-montaigne-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-avenue-montaigne-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 12
+                },
+                "release_date_for_display": "October 12, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 12, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/91d980da5f87c70a32302b1ade53eed2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/91d980da5f87c70a32302b1ade53eed2.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 39027
+                },
+                "title": "Avenue Montaigne",
+                "title_with_featured": "Avenue Montaigne",
+                "url": "https://genius.com/Maes-avenue-montaigne-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8807611",
+                "artist_names": "Maes (Ft. Niska)",
+                "full_title": "B22 by\u00a0Maes (Ft.\u00a0Niska)",
+                "header_image_thumbnail_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.1000x1000x1.jpg",
+                "id": 8807611,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Maes-b22-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-b22-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 10
+                },
+                "release_date_for_display": "March 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7cdf51299f5d57b9c9f90fc8573e2f51.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "B22",
+                "title_with_featured": "B22 (Ft.\u00a0Niska)",
+                "url": "https://genius.com/Maes-b22-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/234413",
+                        "header_image_url": "https://images.genius.com/d0a3b9c30cc5539f50743cc806907492.1000x568x1.jpg",
+                        "id": 234413,
+                        "image_url": "https://images.genius.com/691fb1661dadafe90e6dd457cb02fdbb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niska",
+                        "url": "https://genius.com/artists/Niska",
+                        "iq": 2319
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6659924",
+                "artist_names": "Kaza",
+                "full_title": "Bandida by\u00a0Kaza",
+                "header_image_thumbnail_url": "https://images.genius.com/ff65efdb2a841ae21ce13ba81500ff07.300x300x1.png",
+                "header_image_url": "https://images.genius.com/ff65efdb2a841ae21ce13ba81500ff07.999x999x1.png",
+                "id": 6659924,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Kaza-bandida-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kaza-bandida-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 9
+                },
+                "release_date_for_display": "April 9, 2021",
+                "release_date_with_abbreviated_month_for_display": "Apr. 9, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ff65efdb2a841ae21ce13ba81500ff07.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/ff65efdb2a841ae21ce13ba81500ff07.999x999x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 5316
+                },
+                "title": "Bandida",
+                "title_with_featured": "Bandida",
+                "url": "https://genius.com/Kaza-bandida-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1696555",
+                    "header_image_url": "https://images.genius.com/6ea452b9178716fbf6d16676c8bbbd55.1000x667x1.jpg",
+                    "id": 1696555,
+                    "image_url": "https://images.genius.com/34c164a9012a787f5fd114bd699a8308.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kaza",
+                    "url": "https://genius.com/artists/Kaza"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4073980",
+                "artist_names": "Maes",
+                "full_title": "B\u00e2timent by\u00a0Maes",
+                "header_image_thumbnail_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.300x300x1.png",
+                "header_image_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.400x400x1.png",
+                "id": 4073980,
+                "language": "fr",
+                "lyrics_owner_id": 4992023,
+                "lyrics_state": "complete",
+                "path": "/Maes-batiment-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Maes-batiment-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/b7af7f40bd1385bea788e36cbaa0f03f.400x400x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 12610
+                },
+                "title": "B\u00e2timent",
+                "title_with_featured": "B\u00e2timent",
+                "url": "https://genius.com/Maes-batiment-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/638160",
+                    "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                    "id": 638160,
+                    "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Maes",
+                    "url": "https://genius.com/artists/Maes",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7279478",
+                "artist_names": "Oklmava",
+                "full_title": "B\u00e2timent 18 by\u00a0Oklmava",
+                "header_image_thumbnail_url": "https://images.genius.com/1cd6647f9dd1f252a83e6ccf0d5a938a.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/1cd6647f9dd1f252a83e6ccf0d5a938a.1000x563x1.jpg",
+                "id": 7279478,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Oklmava-batiment-18-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Oklmava-batiment-18-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 13
+                },
+                "release_date_for_display": "October 13, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 13, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b270f00b64743bdf67a14208924a1100.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b270f00b64743bdf67a14208924a1100.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "B\u00e2timent 18",
+                "title_with_featured": "B\u00e2timent 18",
+                "url": "https://genius.com/Oklmava-batiment-18-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2911495",
+                    "header_image_url": "https://images.genius.com/528df2da53479c575edbadea72ca63ba.1000x333x1.jpg",
+                    "id": 2911495,
+                    "image_url": "https://images.genius.com/b35aeb2a60dcc5a7344a2b6486c22c5e.400x400x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Oklmava",
+                    "url": "https://genius.com/artists/Oklmava"
+                }
+            }
+        ],
+        "next_page": 2
+    }
+}

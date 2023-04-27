@@ -1,0 +1,922 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/6113224",
+                "artist_names": "Gims (Ft. Kaaris)",
+                "full_title": "GROSSE BLETA by\u00a0Gims (Ft.\u00a0Kaaris)",
+                "header_image_thumbnail_url": "https://images.genius.com/e006beba4586c870c6aabbbca7ec9eb7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e006beba4586c870c6aabbbca7ec9eb7.1000x1000x1.jpg",
+                "id": 6113224,
+                "language": "no",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Gims-grosse-bleta-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gims-grosse-bleta-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 4
+                },
+                "release_date_for_display": "December 4, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 4, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e006beba4586c870c6aabbbca7ec9eb7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e006beba4586c870c6aabbbca7ec9eb7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 5852
+                },
+                "title": "GROSSE BLETA",
+                "title_with_featured": "GROSSE BLETA (Ft.\u00a0Kaaris)",
+                "url": "https://genius.com/Gims-grosse-bleta-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14693",
+                        "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                        "id": 14693,
+                        "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaaris",
+                        "url": "https://genius.com/artists/Kaaris",
+                        "iq": 2373
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5876530",
+                "artist_names": "Kaaris",
+                "full_title": "Guedro by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/656639eecdc2b9e73ffdfed3da849feb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/656639eecdc2b9e73ffdfed3da849feb.1000x1000x1.jpg",
+                "id": 5876530,
+                "language": "fr",
+                "lyrics_owner_id": 10611490,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-guedro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kaaris-guedro-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 4
+                },
+                "release_date_for_display": "September 4, 2020",
+                "release_date_with_abbreviated_month_for_display": "Sep. 4, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/656639eecdc2b9e73ffdfed3da849feb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/656639eecdc2b9e73ffdfed3da849feb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Guedro",
+                "title_with_featured": "Guedro",
+                "url": "https://genius.com/Kaaris-guedro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/4220944",
+                "artist_names": "Kaaris",
+                "full_title": "Gun salute by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/1f7ceef08b382e15ef373a3cad5579d2.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/1f7ceef08b382e15ef373a3cad5579d2.1000x563x1.jpg",
+                "id": 4220944,
+                "language": "en",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-gun-salute-lyrics",
+                "pyongs_count": 10,
+                "relationships_index_url": "https://genius.com/Kaaris-gun-salute-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 25
+                },
+                "release_date_for_display": "January 25, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 25, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8856e5f6ef181bb2f0c6d1ea661b8575.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8856e5f6ef181bb2f0c6d1ea661b8575.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 40623
+                },
+                "title": "Gun salute",
+                "title_with_featured": "Gun salute",
+                "url": "https://genius.com/Kaaris-gun-salute-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4275536",
+                "artist_names": "Kaaris (Ft. \u200bDA Uzi)",
+                "full_title": "Guzman by\u00a0Kaaris (Ft.\u00a0\u200bDA\u00a0Uzi)",
+                "header_image_thumbnail_url": "https://images.genius.com/645335a01e9112dc6528b32f4da8ed82.300x300x1.png",
+                "header_image_url": "https://images.genius.com/645335a01e9112dc6528b32f4da8ed82.1000x1000x1.png",
+                "id": 4275536,
+                "language": "fr",
+                "lyrics_owner_id": 6283697,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-guzman-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kaaris-guzman-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 2,
+                    "day": 22
+                },
+                "release_date_for_display": "February 22, 2019",
+                "release_date_with_abbreviated_month_for_display": "Feb. 22, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/645335a01e9112dc6528b32f4da8ed82.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/645335a01e9112dc6528b32f4da8ed82.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Guzman",
+                "title_with_featured": "Guzman (Ft.\u00a0\u200bDA\u00a0Uzi)",
+                "url": "https://genius.com/Kaaris-guzman-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1212452",
+                        "header_image_url": "https://images.genius.com/5052661837a1c3890e048a082f56ef80.320x320x1.jpg",
+                        "id": 1212452,
+                        "image_url": "https://images.genius.com/3d50fdf7b7769a8570a412b20d3b514e.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bDA Uzi",
+                        "url": "https://genius.com/artists/Da-uzi"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/2329279",
+                "artist_names": "Kaaris",
+                "full_title": "H by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/10fa78b29fddaa7366cc918adf034ac4.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/10fa78b29fddaa7366cc918adf034ac4.992x1000x1.jpg",
+                "id": 2329279,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-h-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kaaris-h-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 10,
+                    "day": 16
+                },
+                "release_date_for_display": "October 16, 2015",
+                "release_date_with_abbreviated_month_for_display": "Oct. 16, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/10fa78b29fddaa7366cc918adf034ac4.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/10fa78b29fddaa7366cc918adf034ac4.992x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 13895
+                },
+                "title": "H",
+                "title_with_featured": "H",
+                "url": "https://genius.com/Kaaris-h-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6821008",
+                "artist_names": "Kaaris",
+                "full_title": "Hallyday by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/0d2752da15c0a49800855f9fb7994875.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0d2752da15c0a49800855f9fb7994875.1000x1000x1.jpg",
+                "id": 6821008,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-hallyday-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kaaris-hallyday-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 2
+                },
+                "release_date_for_display": "July 2, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 2, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0d2752da15c0a49800855f9fb7994875.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0d2752da15c0a49800855f9fb7994875.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Hallyday",
+                "title_with_featured": "Hallyday",
+                "url": "https://genius.com/Kaaris-hallyday-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/6429750",
+                "artist_names": "Hamza (Ft. Kaaris)",
+                "full_title": "Hara-Kiri by\u00a0Hamza (Ft.\u00a0Kaaris)",
+                "header_image_thumbnail_url": "https://images.genius.com/0ebce96c7786edfa564793583fb8cd65.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0ebce96c7786edfa564793583fb8cd65.737x737x1.jpg",
+                "id": 6429750,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hamza-hara-kiri-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hamza-hara-kiri-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0ebce96c7786edfa564793583fb8cd65.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0ebce96c7786edfa564793583fb8cd65.737x737x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 7003
+                },
+                "title": "Hara-Kiri",
+                "title_with_featured": "Hara-Kiri (Ft.\u00a0Kaaris)",
+                "url": "https://genius.com/Hamza-hara-kiri-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14693",
+                        "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                        "id": 14693,
+                        "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaaris",
+                        "url": "https://genius.com/artists/Kaaris",
+                        "iq": 2373
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/74111",
+                    "header_image_url": "https://images.genius.com/c9f1bb44e13872a3d948437a3b86e4e9.649x960x1.jpg",
+                    "id": 74111,
+                    "image_url": "https://images.genius.com/4e999f4c4332ed7339dcd3c6a909a0bb.521x521x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hamza",
+                    "url": "https://genius.com/artists/Hamza",
+                    "iq": 521
+                }
+            },
+            {
+                "annotation_count": 38,
+                "api_path": "/songs/592932",
+                "artist_names": "Haftbefehl (Ft. Kaaris)",
+                "full_title": "Haram Para by\u00a0Haftbefehl (Ft.\u00a0Kaaris)",
+                "header_image_thumbnail_url": "https://images.genius.com/407eb574c45965ff31f04e811daf6c83.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/407eb574c45965ff31f04e811daf6c83.1000x1000x1.jpg",
+                "id": 592932,
+                "language": "fr",
+                "lyrics_owner_id": 1084474,
+                "lyrics_state": "complete",
+                "path": "/Haftbefehl-haram-para-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Haftbefehl-haram-para-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2014",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/407eb574c45965ff31f04e811daf6c83.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/407eb574c45965ff31f04e811daf6c83.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 24765
+                },
+                "title": "Haram Para",
+                "title_with_featured": "Haram Para (Ft.\u00a0Kaaris)",
+                "url": "https://genius.com/Haftbefehl-haram-para-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14693",
+                        "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                        "id": 14693,
+                        "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaaris",
+                        "url": "https://genius.com/artists/Kaaris",
+                        "iq": 2373
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12452",
+                    "header_image_url": "https://images.genius.com/f0a04c328b1e8c336cc44d033c113a3d.1000x250x1.jpg",
+                    "id": 12452,
+                    "image_url": "https://images.genius.com/8662451a3742b27e52c154fc678a398d.752x752x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Haftbefehl",
+                    "url": "https://genius.com/artists/Haftbefehl"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/119518",
+                "artist_names": "Kaaris",
+                "full_title": "H\u00e9mophile by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.960x960x1.jpg",
+                "id": 119518,
+                "language": "fr",
+                "lyrics_owner_id": 54235,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-hemophile-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kaaris-hemophile-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 5,
+                    "day": 28
+                },
+                "release_date_for_display": "May 28, 2012",
+                "release_date_with_abbreviated_month_for_display": "May. 28, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 11950
+                },
+                "title": "H\u00e9mophile",
+                "title_with_featured": "H\u00e9mophile",
+                "url": "https://genius.com/Kaaris-hemophile-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 44,
+                "api_path": "/songs/61921",
+                "artist_names": "Kaaris",
+                "full_title": "Houdini by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/5eb8c44a2bd05abb101ab5a9d1401207.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/5eb8c44a2bd05abb101ab5a9d1401207.1000x563x1.jpg",
+                "id": 61921,
+                "language": "fr",
+                "lyrics_owner_id": 39969,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-houdini-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Kaaris-houdini-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 12,
+                    "day": 21
+                },
+                "release_date_for_display": "December 21, 2011",
+                "release_date_with_abbreviated_month_for_display": "Dec. 21, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/99355970c374ed71a57e784f52eb712e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/99355970c374ed71a57e784f52eb712e.512x512x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 64066
+                },
+                "title": "Houdini",
+                "title_with_featured": "Houdini",
+                "url": "https://genius.com/Kaaris-houdini-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 63,
+                "api_path": "/songs/374027",
+                "artist_names": "Kaaris",
+                "full_title": "Il a accouch\u00e9 de sa propre fin by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/feb06470b6e6ba23a830d5d03965c20f.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/feb06470b6e6ba23a830d5d03965c20f.1000x563x1.jpg",
+                "id": 374027,
+                "language": "fr",
+                "lyrics_owner_id": 280136,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-il-a-accouche-de-sa-propre-fin-lyrics",
+                "pyongs_count": 28,
+                "relationships_index_url": "https://genius.com/Kaaris-il-a-accouche-de-sa-propre-fin-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 3,
+                    "day": 3
+                },
+                "release_date_for_display": "March 3, 2014",
+                "release_date_with_abbreviated_month_for_display": "Mar. 3, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/feb06470b6e6ba23a830d5d03965c20f.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/feb06470b6e6ba23a830d5d03965c20f.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 93652
+                },
+                "title": "Il a accouch\u00e9 de sa propre fin",
+                "title_with_featured": "Il a accouch\u00e9 de sa propre fin",
+                "url": "https://genius.com/Kaaris-il-a-accouche-de-sa-propre-fin-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/5876526",
+                "artist_names": "Kaaris",
+                "full_title": "Illimit\u00e9 by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/23bc53c8058d2fddbc01866fd9a7a17a.300x124x1.png",
+                "header_image_url": "https://images.genius.com/23bc53c8058d2fddbc01866fd9a7a17a.636x262x1.png",
+                "id": 5876526,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-illimite-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kaaris-illimite-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 20
+                },
+                "release_date_for_display": "August 20, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 20, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d0bfa5b2330dc5bcd9f12b1b8fc9376d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d0bfa5b2330dc5bcd9f12b1b8fc9376d.362x362x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 20562
+                },
+                "title": "Illimit\u00e9",
+                "title_with_featured": "Illimit\u00e9",
+                "url": "https://genius.com/Kaaris-illimite-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/4093875",
+                "artist_names": "Mac Tyer (Ft. Kaaris & Sofiane)",
+                "full_title": "Il se passe quoi by\u00a0Mac\u00a0Tyer (Ft.\u00a0Kaaris & Sofiane)",
+                "header_image_thumbnail_url": "https://images.genius.com/4424d2d60be9dabb8a0160d344de1ae1.300x157x1.jpg",
+                "header_image_url": "https://images.genius.com/4424d2d60be9dabb8a0160d344de1ae1.600x314x1.jpg",
+                "id": 4093875,
+                "language": "fr",
+                "lyrics_owner_id": 6006007,
+                "lyrics_state": "complete",
+                "path": "/Mac-tyer-il-se-passe-quoi-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Mac-tyer-il-se-passe-quoi-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/50688c0ff0957362151390895c9b26b8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/50688c0ff0957362151390895c9b26b8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 17545
+                },
+                "title": "Il se passe quoi",
+                "title_with_featured": "Il se passe quoi (Ft.\u00a0Kaaris & Sofiane)",
+                "url": "https://genius.com/Mac-tyer-il-se-passe-quoi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14693",
+                        "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                        "id": 14693,
+                        "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaaris",
+                        "url": "https://genius.com/artists/Kaaris",
+                        "iq": 2373
+                    },
+                    {
+                        "api_path": "/artists/12085",
+                        "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                        "id": 12085,
+                        "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sofiane",
+                        "url": "https://genius.com/artists/Sofiane",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2412",
+                    "header_image_url": "https://images.genius.com/5b1993e9cdeb2066a8eb11cc91d1f089.1000x667x1.jpg",
+                    "id": 2412,
+                    "image_url": "https://images.genius.com/a6a79741ab0f8bc6063e7fe82dd90adf.303x395x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Mac Tyer",
+                    "url": "https://genius.com/artists/Mac-tyer",
+                    "iq": 2139
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/5984424",
+                "artist_names": "Gims",
+                "full_title": "IMMORTEL by\u00a0Gims",
+                "header_image_thumbnail_url": "https://images.genius.com/f02447a28368add2fb57af4c48936d22.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/f02447a28368add2fb57af4c48936d22.1000x563x1.jpg",
+                "id": 5984424,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Gims-immortel-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Gims-immortel-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 25
+                },
+                "release_date_for_display": "September 25, 2020",
+                "release_date_with_abbreviated_month_for_display": "Sep. 25, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5b1760a1ab845a4857140926897fd138.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5b1760a1ab845a4857140926897fd138.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 20487
+                },
+                "title": "IMMORTEL",
+                "title_with_featured": "IMMORTEL",
+                "url": "https://genius.com/Gims-immortel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 29,
+                "api_path": "/songs/360988",
+                "artist_names": "Kaaris",
+                "full_title": "Intro by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/54d681f856d2f84ed1feae0f5530d503.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/54d681f856d2f84ed1feae0f5530d503.500x500x1.jpg",
+                "id": 360988,
+                "language": "fr",
+                "lyrics_owner_id": 418575,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-intro-lyrics",
+                "pyongs_count": 16,
+                "relationships_index_url": "https://genius.com/Kaaris-intro-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 3,
+                    "day": 3
+                },
+                "release_date_for_display": "March 3, 2014",
+                "release_date_with_abbreviated_month_for_display": "Mar. 3, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/54d681f856d2f84ed1feae0f5530d503.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/54d681f856d2f84ed1feae0f5530d503.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 82931
+                },
+                "title": "Intro",
+                "title_with_featured": "Intro",
+                "url": "https://genius.com/Kaaris-intro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/75871",
+                "artist_names": "Kaaris",
+                "full_title": "Intro : Ram Muay by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.960x960x1.jpg",
+                "id": 75871,
+                "language": "fr",
+                "lyrics_owner_id": 85109,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-intro-ram-muay-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Kaaris-intro-ram-muay-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 5,
+                    "day": 28
+                },
+                "release_date_for_display": "May 28, 2012",
+                "release_date_with_abbreviated_month_for_display": "May. 28, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2f5a2a73312446cb50fd1ee67b4306c3.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 17818
+                },
+                "title": "Intro : Ram Muay",
+                "title_with_featured": "Intro : Ram Muay",
+                "url": "https://genius.com/Kaaris-intro-ram-muay-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 31,
+                "api_path": "/songs/6054524",
+                "artist_names": "Kaaris (Ft. Freeze Corleone)",
+                "full_title": "IRM by\u00a0Kaaris (Ft.\u00a0Freeze\u00a0Corleone)",
+                "header_image_thumbnail_url": "https://images.genius.com/8523dd840419776047d4e1fac1802212.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/8523dd840419776047d4e1fac1802212.870x489x1.jpg",
+                "id": 6054524,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-irm-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Kaaris-irm-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 23
+                },
+                "release_date_for_display": "October 23, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 23, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c3cba49df63382f8beea67834c6de840.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c3cba49df63382f8beea67834c6de840.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 74702
+                },
+                "title": "IRM",
+                "title_with_featured": "IRM (Ft.\u00a0Freeze\u00a0Corleone)",
+                "url": "https://genius.com/Kaaris-irm-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/63888",
+                        "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                        "id": 63888,
+                        "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Freeze Corleone",
+                        "url": "https://genius.com/artists/Freeze-corleone",
+                        "iq": 16646
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/2880093",
+                "artist_names": "Kaaris",
+                "full_title": "Jack Uzi by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.genius.com/4d7c3232803b1646361daf984ef5d7fa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4d7c3232803b1646361daf984ef5d7fa.1000x1000x1.jpg",
+                "id": 2880093,
+                "language": "fr",
+                "lyrics_owner_id": 2259626,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-jack-uzi-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kaaris-jack-uzi-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 11
+                },
+                "release_date_for_display": "November 11, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4d7c3232803b1646361daf984ef5d7fa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4d7c3232803b1646361daf984ef5d7fa.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 35936
+                },
+                "title": "Jack Uzi",
+                "title_with_featured": "Jack Uzi",
+                "url": "https://genius.com/Kaaris-jack-uzi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            },
+            {
+                "annotation_count": 64,
+                "api_path": "/songs/80580",
+                "artist_names": "Kaaris",
+                "full_title": "Je bibi by\u00a0Kaaris",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/bcc96555fc8e5cd33c6232a7c94fa6fe.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/bcc96555fc8e5cd33c6232a7c94fa6fe.350x350x1.jpg",
+                "id": 80580,
+                "language": "fr",
+                "lyrics_owner_id": 117998,
+                "lyrics_state": "complete",
+                "path": "/Kaaris-je-bibi-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Kaaris-je-bibi-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2013",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2013",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/bcc96555fc8e5cd33c6232a7c94fa6fe.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/bcc96555fc8e5cd33c6232a7c94fa6fe.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 170605
+                },
+                "title": "Je bibi",
+                "title_with_featured": "Je bibi",
+                "url": "https://genius.com/Kaaris-je-bibi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14693",
+                    "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                    "id": 14693,
+                    "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kaaris",
+                    "url": "https://genius.com/artists/Kaaris",
+                    "iq": 2373
+                }
+            }
+        ],
+        "next_page": 9
+    }
+}

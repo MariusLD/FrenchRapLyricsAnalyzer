@@ -1,0 +1,1610 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/109999",
+                "artist_names": "Seth Gueko (Ft. Aka (FRA), Alkpote, Bounia, Mister You, Morsay, N\u00e9oklash, Nourou, Ous D Ous, Seven (FRA), Shird\u00e9, Sidi Omar, Six, Wira, Zek & Zesau)",
+                "full_title": "Tremblement de ter-ter by\u00a0Seth\u00a0Gueko (Ft.\u00a0Aka\u00a0(FRA), Alkpote, Bounia, Mister\u00a0You, Morsay, N\u00e9oklash, Nourou, Ous\u00a0D Ous, Seven\u00a0(FRA), Shird\u00e9, Sidi\u00a0Omar, Six, Wira, Zek & Zesau)",
+                "header_image_thumbnail_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.395x398x1.jpg",
+                "id": 109999,
+                "language": "fr",
+                "lyrics_owner_id": 88700,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-tremblement-de-ter-ter-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-tremblement-de-ter-ter-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 5,
+                    "day": 4
+                },
+                "release_date_for_display": "May 4, 2009",
+                "release_date_with_abbreviated_month_for_display": "May. 4, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.395x398x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Tremblement de ter-ter",
+                "title_with_featured": "Tremblement de ter-ter (Ft.\u00a0Aka\u00a0(FRA), Alkpote, Bounia, Mister\u00a0You, Morsay, N\u00e9oklash, Nourou, Ous\u00a0D Ous, Seven\u00a0(FRA), Shird\u00e9, Sidi\u00a0Omar, Six, Wira, Zek & Zesau)",
+                "url": "https://genius.com/Seth-gueko-tremblement-de-ter-ter-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1696257",
+                        "header_image_url": "https://images.genius.com/8f303b8a106c6083b1615d7311424095.170x170x1.jpg",
+                        "id": 1696257,
+                        "image_url": "https://images.genius.com/8f303b8a106c6083b1615d7311424095.170x170x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Seven (FRA)",
+                        "url": "https://genius.com/artists/Seven-fra"
+                    },
+                    {
+                        "api_path": "/artists/1696292",
+                        "header_image_url": "https://images.genius.com/5b1825df76e16ec8f62ea2edf514dba5.295x295x1.jpg",
+                        "id": 1696292,
+                        "image_url": "https://images.genius.com/5b1825df76e16ec8f62ea2edf514dba5.295x295x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Aka (FRA)",
+                        "url": "https://genius.com/artists/Aka-fra"
+                    },
+                    {
+                        "api_path": "/artists/11649",
+                        "header_image_url": "https://images.genius.com/88d62f1f22081ff1662d3828ce83f8c8.337x336x1.jpg",
+                        "id": 11649,
+                        "image_url": "https://images.genius.com/88d62f1f22081ff1662d3828ce83f8c8.337x336x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zesau",
+                        "url": "https://genius.com/artists/Zesau",
+                        "iq": 339
+                    },
+                    {
+                        "api_path": "/artists/14103",
+                        "header_image_url": "https://images.genius.com/12b89c4ccee540d241a7b9491cba848c.668x668x1.png",
+                        "id": 14103,
+                        "image_url": "https://images.genius.com/01f621b0eabe53884fbbff28be763185.668x668x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zek",
+                        "url": "https://genius.com/artists/Zek",
+                        "iq": 2181
+                    },
+                    {
+                        "api_path": "/artists/25023",
+                        "header_image_url": "https://images.genius.com/64aedd1d530f087324c70798bf89aea2.1000x500x1.jpg",
+                        "id": 25023,
+                        "image_url": "https://images.genius.com/a7fedc14885bee9cce34950e1ed8dd61.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Morsay",
+                        "url": "https://genius.com/artists/Morsay"
+                    },
+                    {
+                        "api_path": "/artists/1375",
+                        "header_image_url": "https://images.genius.com/04a40db284f23a309135e3e1f5dace45.407x407x1.jpg",
+                        "id": 1375,
+                        "image_url": "https://images.genius.com/04a40db284f23a309135e3e1f5dace45.407x407x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mister You",
+                        "url": "https://genius.com/artists/Mister-you",
+                        "iq": 323
+                    },
+                    {
+                        "api_path": "/artists/35225",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 35225,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bounia",
+                        "url": "https://genius.com/artists/Bounia"
+                    },
+                    {
+                        "api_path": "/artists/35224",
+                        "header_image_url": "https://images.genius.com/03bcc338d6d9e021c1da0fb45aa21d42.1000x488x1.jpg",
+                        "id": 35224,
+                        "image_url": "https://images.genius.com/08b95d9ea31f649f14a03a670b351d0b.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "N\u00e9oklash",
+                        "url": "https://genius.com/artists/Neoklash"
+                    },
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    },
+                    {
+                        "api_path": "/artists/35223",
+                        "header_image_url": "https://images.genius.com/546fdf8e566252d6b5af2c3fe833f48b.471x471x1.jpg",
+                        "id": 35223,
+                        "image_url": "https://images.genius.com/546fdf8e566252d6b5af2c3fe833f48b.471x471x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ous D Ous",
+                        "url": "https://genius.com/artists/Ous-d-ous"
+                    },
+                    {
+                        "api_path": "/artists/35222",
+                        "header_image_url": "https://images.genius.com/ac724ded50d0f0ec4e29c61032d8f34e.372x372x1.jpg",
+                        "id": 35222,
+                        "image_url": "https://images.genius.com/ac724ded50d0f0ec4e29c61032d8f34e.372x372x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shird\u00e9",
+                        "url": "https://genius.com/artists/Shirde"
+                    },
+                    {
+                        "api_path": "/artists/16340",
+                        "header_image_url": "https://images.genius.com/f7ecc390ad44963f20ac6c89e052f616.357x357x1.jpg",
+                        "id": 16340,
+                        "image_url": "https://images.genius.com/f7ecc390ad44963f20ac6c89e052f616.357x357x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wira",
+                        "url": "https://genius.com/artists/Wira"
+                    },
+                    {
+                        "api_path": "/artists/35220",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 35220,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nourou",
+                        "url": "https://genius.com/artists/Nourou"
+                    },
+                    {
+                        "api_path": "/artists/35219",
+                        "header_image_url": "https://images.genius.com/d971ad00487e1a599ba6ca948af14ea9.551x551x1.png",
+                        "id": 35219,
+                        "image_url": "https://images.genius.com/d971ad00487e1a599ba6ca948af14ea9.551x551x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sidi Omar",
+                        "url": "https://genius.com/artists/Sidi-omar"
+                    },
+                    {
+                        "api_path": "/artists/325073",
+                        "header_image_url": "https://images.genius.com/e3607c4bc5dace69b3be5989284ea0f9.833x833x1.jpg",
+                        "id": 325073,
+                        "image_url": "https://images.genius.com/e3607c4bc5dace69b3be5989284ea0f9.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Six",
+                        "url": "https://genius.com/artists/Six"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8481839",
+                "artist_names": "Seth Gueko (Ft. Alonzo, D2T, Diego (FRA), Donovan (FRA), El Kid (FRA), Freddy Mchonga, Gino (FRA), Kalash l'Afro, Killam (FRA), Muge Knight, R.E.D.K., Soprano, S.T\u00e9ban & Zino)",
+                "full_title": "Tremblement de ter-ter 13 by\u00a0Seth\u00a0Gueko (Ft.\u00a0Alonzo, D2T, Diego\u00a0(FRA), Donovan\u00a0(FRA), El\u00a0Kid (FRA), Freddy\u00a0Mchonga, Gino\u00a0(FRA), Kalash\u00a0l'Afro, Killam\u00a0(FRA), Muge\u00a0Knight, R.E.D.K., Soprano, S.T\u00e9ban & Zino)",
+                "header_image_thumbnail_url": "https://images.genius.com/63877e92fc540679f3ac21f601888442.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/63877e92fc540679f3ac21f601888442.640x480x1.jpg",
+                "id": 8481839,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "unreleased",
+                "path": "/Seth-gueko-tremblement-de-ter-ter-13-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-tremblement-de-ter-ter-13-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2009",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/63877e92fc540679f3ac21f601888442.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/63877e92fc540679f3ac21f601888442.640x480x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tremblement de ter-ter 13",
+                "title_with_featured": "Tremblement de ter-ter 13 (Ft.\u00a0Alonzo, D2T, Diego\u00a0(FRA), Donovan\u00a0(FRA), El\u00a0Kid (FRA), Freddy\u00a0Mchonga, Gino\u00a0(FRA), Kalash\u00a0l'Afro, Killam\u00a0(FRA), Muge\u00a0Knight, R.E.D.K., Soprano, S.T\u00e9ban & Zino)",
+                "url": "https://genius.com/Seth-gueko-tremblement-de-ter-ter-13-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1431",
+                        "header_image_url": "https://images.genius.com/e7978b0b7620b2e575e6765eb79c9d53.597x183x1.png",
+                        "id": 1431,
+                        "image_url": "https://images.genius.com/d0a0f7b8182f11dafa1d2a554f6e3eab.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soprano",
+                        "url": "https://genius.com/artists/Soprano"
+                    },
+                    {
+                        "api_path": "/artists/18874",
+                        "header_image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "id": 18874,
+                        "image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalash l\u2019Afro",
+                        "url": "https://genius.com/artists/Kalash-lafro"
+                    },
+                    {
+                        "api_path": "/artists/3325514",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3325514,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Killam (FRA)",
+                        "url": "https://genius.com/artists/Killam-fra"
+                    },
+                    {
+                        "api_path": "/artists/25562",
+                        "header_image_url": "https://images.genius.com/084bc61006caba83afb553d39d563397.612x612x1.jpg",
+                        "id": 25562,
+                        "image_url": "https://images.genius.com/084bc61006caba83afb553d39d563397.612x612x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Zino",
+                        "url": "https://genius.com/artists/Zino"
+                    },
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    },
+                    {
+                        "api_path": "/artists/3325515",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3325515,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Freddy Mchonga",
+                        "url": "https://genius.com/artists/Freddy-mchonga"
+                    },
+                    {
+                        "api_path": "/artists/1051192",
+                        "header_image_url": "https://images.genius.com/2b1ef2e360aae05bd51c000de5a18f54.450x450x1.jpg",
+                        "id": 1051192,
+                        "image_url": "https://images.genius.com/2b1ef2e360aae05bd51c000de5a18f54.450x450x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Muge Knight",
+                        "url": "https://genius.com/artists/Muge-knight"
+                    },
+                    {
+                        "api_path": "/artists/2313634",
+                        "header_image_url": "https://images.genius.com/d20e18e507f7b44ce936705c06ab4959.289x289x1.jpg",
+                        "id": 2313634,
+                        "image_url": "https://images.genius.com/d20e18e507f7b44ce936705c06ab4959.289x289x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gino (FRA)",
+                        "url": "https://genius.com/artists/Gino-fra"
+                    },
+                    {
+                        "api_path": "/artists/3325516",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3325516,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Donovan (FRA)",
+                        "url": "https://genius.com/artists/Donovan-fra"
+                    },
+                    {
+                        "api_path": "/artists/14653",
+                        "header_image_url": "https://images.genius.com/b9a96991993244079ed1139dc06cee62.654x250x1.jpg",
+                        "id": 14653,
+                        "image_url": "https://images.genius.com/2f031d6dfce0c2dd65a7de8fb80dcf03.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "R.E.D.K.",
+                        "url": "https://genius.com/artists/Redk"
+                    },
+                    {
+                        "api_path": "/artists/1448966",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1448966,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "D2T",
+                        "url": "https://genius.com/artists/D2t"
+                    },
+                    {
+                        "api_path": "/artists/3325519",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3325519,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "El Kid (FRA)",
+                        "url": "https://genius.com/artists/El-kid-fra"
+                    },
+                    {
+                        "api_path": "/artists/548307",
+                        "header_image_url": "https://images.genius.com/c97004b838e5ce416853b4308f0aa598.474x406x1.png",
+                        "id": 548307,
+                        "image_url": "https://images.genius.com/eb0cf3b1e9b2a213ba84f60baf534f5e.546x546x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "S.T\u00e9ban",
+                        "url": "https://genius.com/artists/Steban"
+                    },
+                    {
+                        "api_path": "/artists/3325517",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3325517,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Diego (FRA)",
+                        "url": "https://genius.com/artists/Diego-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8475493",
+                "artist_names": "Seth Gueko (Ft. 25G, Balastik Dogg, Farage, Larsen (FRA), Mac Kregor, Moubaraka, Poison Mobutu, RR, Samat, Scar Logan, Shone & Smoker)",
+                "full_title": "Tremblement de ter-ter 2 by\u00a0Seth\u00a0Gueko (Ft.\u00a025G, Balastik\u00a0Dogg, Farage, Larsen\u00a0(FRA), Mac\u00a0Kregor, Moubaraka, Poison\u00a0Mobutu, RR, Samat, Scar\u00a0Logan, Shone & Smoker)",
+                "header_image_thumbnail_url": "https://images.genius.com/fb9e3ca74f4f501a862594e3f952dcc5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fb9e3ca74f4f501a862594e3f952dcc5.1000x1000x1.jpg",
+                "id": 8475493,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "unreleased",
+                "path": "/Seth-gueko-tremblement-de-ter-ter-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-tremblement-de-ter-ter-2-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 12,
+                    "day": 11
+                },
+                "release_date_for_display": "December 11, 2009",
+                "release_date_with_abbreviated_month_for_display": "Dec. 11, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fb9e3ca74f4f501a862594e3f952dcc5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fb9e3ca74f4f501a862594e3f952dcc5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tremblement de ter-ter 2",
+                "title_with_featured": "Tremblement de ter-ter 2 (Ft.\u00a025G, Balastik\u00a0Dogg, Farage, Larsen\u00a0(FRA), Mac\u00a0Kregor, Moubaraka, Poison\u00a0Mobutu, RR, Samat, Scar\u00a0Logan, Shone & Smoker)",
+                "url": "https://genius.com/Seth-gueko-tremblement-de-ter-ter-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/48881",
+                        "header_image_url": "https://images.genius.com/205f2364a536f7b3e25c0eaa53869307.960x540x1.jpg",
+                        "id": 48881,
+                        "image_url": "https://images.genius.com/55f27029737e8a7ad188f06cb4330f31.385x385x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "25G",
+                        "url": "https://genius.com/artists/25g"
+                    },
+                    {
+                        "api_path": "/artists/20135",
+                        "header_image_url": "https://images.genius.com/119093861c725265fd4dd7912d522ecd.170x170x1.jpg",
+                        "id": 20135,
+                        "image_url": "https://images.genius.com/119093861c725265fd4dd7912d522ecd.170x170x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Balastik Dogg",
+                        "url": "https://genius.com/artists/Balastik-dogg"
+                    },
+                    {
+                        "api_path": "/artists/15429",
+                        "header_image_url": "https://images.genius.com/3ec5facd5ab4294c0c809d3fa9e86e79.170x170x1.jpg",
+                        "id": 15429,
+                        "image_url": "https://images.genius.com/535ab2e51c29b78b89d39be1a023097a.174x174x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Farage",
+                        "url": "https://genius.com/artists/Farage"
+                    },
+                    {
+                        "api_path": "/artists/3323728",
+                        "header_image_url": "https://images.genius.com/df032ac1fb89f9995fa696d719a6dba6.207x207x1.jpg",
+                        "id": 3323728,
+                        "image_url": "https://images.genius.com/df032ac1fb89f9995fa696d719a6dba6.207x207x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Larsen (FRA)",
+                        "url": "https://genius.com/artists/Larsen-fra"
+                    },
+                    {
+                        "api_path": "/artists/51940",
+                        "header_image_url": "https://images.genius.com/6d6da0cb614f14d5a7f7a37a54eca8b7.387x387x1.jpg",
+                        "id": 51940,
+                        "image_url": "https://images.genius.com/6d6da0cb614f14d5a7f7a37a54eca8b7.387x387x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Scar Logan",
+                        "url": "https://genius.com/artists/Scar-logan"
+                    },
+                    {
+                        "api_path": "/artists/20813",
+                        "header_image_url": "https://images.genius.com/08bc76232b20f48943f56997d97eda40.599x457x1.jpg",
+                        "id": 20813,
+                        "image_url": "https://images.genius.com/08bc76232b20f48943f56997d97eda40.599x457x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mac Kregor",
+                        "url": "https://genius.com/artists/Mac-kregor"
+                    },
+                    {
+                        "api_path": "/artists/2289314",
+                        "header_image_url": "https://images.genius.com/ae9604f3581ff6de52ddb85cc1dab526.300x300x1.jpg",
+                        "id": 2289314,
+                        "image_url": "https://images.genius.com/ae9604f3581ff6de52ddb85cc1dab526.300x300x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Moubaraka",
+                        "url": "https://genius.com/artists/Moubaraka"
+                    },
+                    {
+                        "api_path": "/artists/1713897",
+                        "header_image_url": "https://images.genius.com/14bc4fb04ec9d0c4c38c87471b6bb17e.449x449x1.jpg",
+                        "id": 1713897,
+                        "image_url": "https://images.genius.com/14bc4fb04ec9d0c4c38c87471b6bb17e.449x449x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Poison Mobutu",
+                        "url": "https://genius.com/artists/Poison-mobutu"
+                    },
+                    {
+                        "api_path": "/artists/10832",
+                        "header_image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "id": 10832,
+                        "image_url": "https://images.genius.com/1a6e00c113238b322691aa09a1cef8be.403x604x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RR",
+                        "url": "https://genius.com/artists/Rr"
+                    },
+                    {
+                        "api_path": "/artists/686619",
+                        "header_image_url": "https://images.genius.com/4a0e766b9672e059ed7e6a2a126354b1.1000x563x1.jpg",
+                        "id": 686619,
+                        "image_url": "https://images.genius.com/63111fb1cfb2d2a8bd881d541e02ac14.608x608x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Samat",
+                        "url": "https://genius.com/artists/Samat"
+                    },
+                    {
+                        "api_path": "/artists/18901",
+                        "header_image_url": "https://images.genius.com/eb03d8a67cea650c4dcda8a65aed869b.363x363x1.jpg",
+                        "id": 18901,
+                        "image_url": "https://images.genius.com/3f1c2a39d4880106eddd8ee6aaad0f3f.658x388x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shone",
+                        "url": "https://genius.com/artists/Shone"
+                    },
+                    {
+                        "api_path": "/artists/15230",
+                        "header_image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "id": 15230,
+                        "image_url": "https://images.genius.com/27ace10437ba0cc9ca535de406bf0a00.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Smoker",
+                        "url": "https://genius.com/artists/Smoker"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/6453055",
+                "artist_names": "Seth Gueko & Stos",
+                "full_title": "Trop parler peut tuer by\u00a0Seth\u00a0Gueko & Stos",
+                "header_image_thumbnail_url": "https://images.genius.com/821bf9b75f735a5dfee351c45154e8e0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/821bf9b75f735a5dfee351c45154e8e0.1000x1000x1.jpg",
+                "id": 6453055,
+                "language": "fr",
+                "lyrics_owner_id": 1308270,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-and-stos-trop-parler-peut-tuer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-and-stos-trop-parler-peut-tuer-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/821bf9b75f735a5dfee351c45154e8e0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/821bf9b75f735a5dfee351c45154e8e0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false
+                },
+                "title": "Trop parler peut tuer",
+                "title_with_featured": "Trop parler peut tuer",
+                "url": "https://genius.com/Seth-gueko-and-stos-trop-parler-peut-tuer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2591284",
+                    "header_image_url": "https://images.genius.com/9fb1cb9e01a52c961e8d763285b40b6d.410x410x1.jpg",
+                    "id": 2591284,
+                    "image_url": "https://images.genius.com/9fb1cb9e01a52c961e8d763285b40b6d.410x410x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Seth Gueko & Stos",
+                    "url": "https://genius.com/artists/Seth-gueko-and-stos"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/4174377",
+                "artist_names": "Seth Gueko (Ft. Baek, Dala, D.I.V (FRA) & Gh0ST (CheddarMuzik))",
+                "full_title": "Tu le sais by\u00a0Seth\u00a0Gueko (Ft.\u00a0Baek, Dala, D.I.V\u00a0(FRA) & Gh0ST\u00a0(CheddarMuzik))",
+                "header_image_thumbnail_url": "https://images.genius.com/6ee8b42cbc846ff97865ca950af9d377.300x123x1.jpg",
+                "header_image_url": "https://images.genius.com/6ee8b42cbc846ff97865ca950af9d377.1000x410x1.jpg",
+                "id": 4174377,
+                "language": "fr",
+                "lyrics_owner_id": 6380914,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-tu-le-sais-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Seth-gueko-tu-le-sais-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 25
+                },
+                "release_date_for_display": "January 25, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 25, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9287dee55d7975eb9e2e5010e29a0b36.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9287dee55d7975eb9e2e5010e29a0b36.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Tu le sais",
+                "title_with_featured": "Tu le sais (Ft.\u00a0Baek, Dala, D.I.V\u00a0(FRA) & Gh0ST\u00a0(CheddarMuzik))",
+                "url": "https://genius.com/Seth-gueko-tu-le-sais-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2039779",
+                        "header_image_url": "https://images.genius.com/d92b6fa20ca53bc0b5e4bcaf6cb22b1f.764x764x1.jpg",
+                        "id": 2039779,
+                        "image_url": "https://images.genius.com/d92b6fa20ca53bc0b5e4bcaf6cb22b1f.764x764x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dala",
+                        "url": "https://genius.com/artists/Dala"
+                    },
+                    {
+                        "api_path": "/artists/1222029",
+                        "header_image_url": "https://images.genius.com/75fff39598ac28c9e677fcf942be7047.318x159x1.jpg",
+                        "id": 1222029,
+                        "image_url": "https://images.genius.com/ace8ab7d0784b45813635e2c65a47afb.343x343x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gh0ST (CheddarMuzik)",
+                        "url": "https://genius.com/artists/Gh0st-cheddarmuzik"
+                    },
+                    {
+                        "api_path": "/artists/1641750",
+                        "header_image_url": "https://images.genius.com/b47c4d357a7ae9214ee48c6437ed75dc.1000x166x1.jpg",
+                        "id": 1641750,
+                        "image_url": "https://images.genius.com/ca6379fdda85e44ebbbdffc03b696eb2.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "D.I.V (FRA)",
+                        "url": "https://genius.com/artists/Div-fra"
+                    },
+                    {
+                        "api_path": "/artists/983162",
+                        "header_image_url": "https://images.genius.com/90c4946f69c34c9f091ed0c424eaaa3b.598x598x1.png",
+                        "id": 983162,
+                        "image_url": "https://images.genius.com/93535075b3416fca7cbc2ffbf9b92294.544x544x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Baek",
+                        "url": "https://genius.com/artists/Baek"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/192890",
+                "artist_names": "Seth Gueko",
+                "full_title": "Un couple impair by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.395x398x1.jpg",
+                "id": 192890,
+                "language": "fr",
+                "lyrics_owner_id": 256203,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-un-couple-impair-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Seth-gueko-un-couple-impair-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 5,
+                    "day": 4
+                },
+                "release_date_for_display": "May 4, 2009",
+                "release_date_with_abbreviated_month_for_display": "May. 4, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c719e824aaff7bcc3d288bc9d8882f3a.395x398x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Un couple impair",
+                "title_with_featured": "Un couple impair",
+                "url": "https://genius.com/Seth-gueko-un-couple-impair-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3078354",
+                "artist_names": "Monsieur R (Ft. Alibi Montana, Kery James, Sefyu, Seth Gueko & Youssoupha)",
+                "full_title": "Unissons nos voix by\u00a0Monsieur\u00a0R (Ft.\u00a0Alibi\u00a0Montana, Kery\u00a0James, Sefyu, Seth\u00a0Gueko & Youssoupha)",
+                "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/Monsieur%20R.jpg",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/Monsieur%20R.jpg",
+                "id": 3078354,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Monsieur-r-unissons-nos-voix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Monsieur-r-unissons-nos-voix-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2006",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2006",
+                "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/Monsieur%20R.jpg",
+                "song_art_image_url": "https://s3.amazonaws.com/rapgenius/Monsieur%20R.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Unissons nos voix",
+                "title_with_featured": "Unissons nos voix (Ft.\u00a0Alibi\u00a0Montana, Kery\u00a0James, Sefyu, Seth\u00a0Gueko & Youssoupha)",
+                "url": "https://genius.com/Monsieur-r-unissons-nos-voix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11499",
+                        "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                        "id": 11499,
+                        "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Seth Gueko",
+                        "url": "https://genius.com/artists/Seth-gueko",
+                        "iq": 1271
+                    },
+                    {
+                        "api_path": "/artists/1273",
+                        "header_image_url": "https://images.genius.com/b3e3e1d25f67b271355a4e68bc7b7abf.1000x667x1.jpg",
+                        "id": 1273,
+                        "image_url": "https://images.genius.com/74cf66f613495ab9c902d97245e180d9.588x588x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kery James",
+                        "url": "https://genius.com/artists/Kery-james",
+                        "iq": 2728
+                    },
+                    {
+                        "api_path": "/artists/1684",
+                        "header_image_url": "https://images.genius.com/19aee70ad683dff8782aec43e1909d72.1000x660x1.jpg",
+                        "id": 1684,
+                        "image_url": "https://images.genius.com/c6c3d1e0b137d299ed7bb8e3fa8fae52.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Youssoupha",
+                        "url": "https://genius.com/artists/Youssoupha",
+                        "iq": 1850
+                    },
+                    {
+                        "api_path": "/artists/2398",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "id": 2398,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/img-1270215720-3cd794a286c98577e0088a8519570ee3.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sefyu",
+                        "url": "https://genius.com/artists/Sefyu"
+                    },
+                    {
+                        "api_path": "/artists/2396",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "id": 2396,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/alibi-debout.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alibi Montana",
+                        "url": "https://genius.com/artists/Alibi-montana"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21868",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/Monsieur%20R.jpg",
+                    "id": 21868,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/Monsieur%20R.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Monsieur R",
+                    "url": "https://genius.com/artists/Monsieur-r"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4227304",
+                "artist_names": "Seth Gueko (Ft. Al Peco & Loko)",
+                "full_title": "Universal by\u00a0Seth\u00a0Gueko (Ft.\u00a0Al\u00a0Peco & Loko)",
+                "header_image_thumbnail_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.400x400x1.jpg",
+                "id": 4227304,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-universal-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-universal-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 6,
+                    "day": 14
+                },
+                "release_date_for_display": "June 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Jun. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7f4654bca8dc2c5a41b874f8370f77b0.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Universal",
+                "title_with_featured": "Universal (Ft.\u00a0Al\u00a0Peco & Loko)",
+                "url": "https://genius.com/Seth-gueko-universal-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15408",
+                        "header_image_url": "https://images.genius.com/61ea6e0bf56de4f4245c6cc4a8a3df48.399x399x1.jpg",
+                        "id": 15408,
+                        "image_url": "https://images.genius.com/61ea6e0bf56de4f4245c6cc4a8a3df48.399x399x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Al Peco",
+                        "url": "https://genius.com/artists/Al-peco"
+                    },
+                    {
+                        "api_path": "/artists/6667",
+                        "header_image_url": "https://images.genius.com/ad71782901eeca5f2e1944c7d6e9bd37.580x387x1.jpg",
+                        "id": 6667,
+                        "image_url": "https://images.genius.com/ad71782901eeca5f2e1944c7d6e9bd37.580x387x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Loko",
+                        "url": "https://genius.com/artists/Loko"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3714394",
+                "artist_names": "Veust (Ft. Infinit' & Seth Gueko)",
+                "full_title": "Un jour un billet by\u00a0Veust (Ft.\u00a0Infinit' & Seth\u00a0Gueko)",
+                "header_image_thumbnail_url": "https://images.genius.com/487265aa305519f808d70b029528ed66.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/487265aa305519f808d70b029528ed66.400x400x1.jpg",
+                "id": 3714394,
+                "language": "fr",
+                "lyrics_owner_id": 3200367,
+                "lyrics_state": "complete",
+                "path": "/Veust-un-jour-un-billet-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Veust-un-jour-un-billet-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 6,
+                    "day": 15
+                },
+                "release_date_for_display": "June 15, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jun. 15, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/487265aa305519f808d70b029528ed66.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/487265aa305519f808d70b029528ed66.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un jour un billet",
+                "title_with_featured": "Un jour un billet (Ft.\u00a0Infinit' & Seth\u00a0Gueko)",
+                "url": "https://genius.com/Veust-un-jour-un-billet-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/47260",
+                        "header_image_url": "https://images.genius.com/b47d6e21ea4b5d2123e973a933cfe91f.960x640x1.jpg",
+                        "id": 47260,
+                        "image_url": "https://images.genius.com/c49c03167a34f2e3e8db6b9ff7387f85.657x657x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Infinit\u2019",
+                        "url": "https://genius.com/artists/Infinit"
+                    },
+                    {
+                        "api_path": "/artists/11499",
+                        "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                        "id": 11499,
+                        "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Seth Gueko",
+                        "url": "https://genius.com/artists/Seth-gueko",
+                        "iq": 1271
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/150401",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 150401,
+                    "image_url": "https://images.genius.com/8f416dc1a369d2aada33df0681580f05.271x271x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Veust",
+                    "url": "https://genius.com/artists/Veust"
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/2296145",
+                "artist_names": "Seth Gueko",
+                "full_title": "Val d'Oseille by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/6b335d5420b6a98fc6f97511632f94cb.300x126x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/6b335d5420b6a98fc6f97511632f94cb.720x302x1.jpg",
+                "id": 2296145,
+                "language": "fr",
+                "lyrics_owner_id": 459111,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-val-doseille-lyrics",
+                "pyongs_count": 10,
+                "relationships_index_url": "https://genius.com/Seth-gueko-val-doseille-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 3
+                },
+                "release_date_for_display": "September 3, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 3, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b949ba1e60156ddc9c655dfaa74acb79.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b949ba1e60156ddc9c655dfaa74acb79.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 26627
+                },
+                "title": "Val d\u2019Oseille",
+                "title_with_featured": "Val d'Oseille",
+                "url": "https://genius.com/Seth-gueko-val-doseille-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/192104",
+                "artist_names": "Seth Gueko (Ft. Alkpote, Diomay, Exo.C, Fis.L, Gr\u00f6dash, Jack S, Les Zakariens, Mirage, Nourou, Rapokalyps, Sak\u00e9 (FRA), Scar Logan, Sidi Omar, Wadel Homa & Wira)",
+                "full_title": "Vampire Finest by\u00a0Seth\u00a0Gueko (Ft.\u00a0Alkpote, Diomay, Exo.C, Fis.L, Gr\u00f6dash, Jack\u00a0S, Les\u00a0Zakariens, Mirage, Nourou, Rapokalyps, Sak\u00e9\u00a0(FRA), Scar\u00a0Logan, Sidi\u00a0Omar, Wadel\u00a0Homa & Wira)",
+                "header_image_thumbnail_url": "https://images.genius.com/e0feb7f25e33f7fddfd8b39af5e5259a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e0feb7f25e33f7fddfd8b39af5e5259a.600x600x1.jpg",
+                "id": 192104,
+                "language": "en",
+                "lyrics_owner_id": 173883,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-vampire-finest-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-vampire-finest-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 6,
+                    "day": 14
+                },
+                "release_date_for_display": "June 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Jun. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e0feb7f25e33f7fddfd8b39af5e5259a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e0feb7f25e33f7fddfd8b39af5e5259a.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false
+                },
+                "title": "Vampire Finest",
+                "title_with_featured": "Vampire Finest (Ft.\u00a0Alkpote, Diomay, Exo.C, Fis.L, Gr\u00f6dash, Jack\u00a0S, Les\u00a0Zakariens, Mirage, Nourou, Rapokalyps, Sak\u00e9\u00a0(FRA), Scar\u00a0Logan, Sidi\u00a0Omar, Wadel\u00a0Homa & Wira)",
+                "url": "https://genius.com/Seth-gueko-vampire-finest-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/155106",
+                        "header_image_url": "https://images.genius.com/071fec47c433b383207d11b08b37eecb.1000x563x1.jpg",
+                        "id": 155106,
+                        "image_url": "https://images.genius.com/41e1e36e41b3f41bf3d80b21d804e569.400x378x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Les Zakariens",
+                        "url": "https://genius.com/artists/Les-zakariens"
+                    },
+                    {
+                        "api_path": "/artists/61561",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 61561,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Exo.C",
+                        "url": "https://genius.com/artists/Exoc"
+                    },
+                    {
+                        "api_path": "/artists/61555",
+                        "header_image_url": "https://images.genius.com/ebc480a6a0602feaf4792e0ad25445d7.959x959x1.jpg",
+                        "id": 61555,
+                        "image_url": "https://images.genius.com/ebc480a6a0602feaf4792e0ad25445d7.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Diomay",
+                        "url": "https://genius.com/artists/Diomay"
+                    },
+                    {
+                        "api_path": "/artists/61554",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 61554,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wadel Homa",
+                        "url": "https://genius.com/artists/Wadel-homa"
+                    },
+                    {
+                        "api_path": "/artists/61553",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 61553,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rapokalyps",
+                        "url": "https://genius.com/artists/Rapokalyps"
+                    },
+                    {
+                        "api_path": "/artists/56240",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/8_tq4a7.jpg",
+                        "id": 56240,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/8_tq4a7.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fis.L",
+                        "url": "https://genius.com/artists/Fisl"
+                    },
+                    {
+                        "api_path": "/artists/51940",
+                        "header_image_url": "https://images.genius.com/6d6da0cb614f14d5a7f7a37a54eca8b7.387x387x1.jpg",
+                        "id": 51940,
+                        "image_url": "https://images.genius.com/6d6da0cb614f14d5a7f7a37a54eca8b7.387x387x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Scar Logan",
+                        "url": "https://genius.com/artists/Scar-logan"
+                    },
+                    {
+                        "api_path": "/artists/50312",
+                        "header_image_url": "https://images.genius.com/fe74234ee2c4e96d14cb911a276bc023.600x600x1.jpg",
+                        "id": 50312,
+                        "image_url": "https://images.genius.com/fe74234ee2c4e96d14cb911a276bc023.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jack S",
+                        "url": "https://genius.com/artists/Jack-s"
+                    },
+                    {
+                        "api_path": "/artists/35220",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 35220,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nourou",
+                        "url": "https://genius.com/artists/Nourou"
+                    },
+                    {
+                        "api_path": "/artists/35219",
+                        "header_image_url": "https://images.genius.com/d971ad00487e1a599ba6ca948af14ea9.551x551x1.png",
+                        "id": 35219,
+                        "image_url": "https://images.genius.com/d971ad00487e1a599ba6ca948af14ea9.551x551x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sidi Omar",
+                        "url": "https://genius.com/artists/Sidi-omar"
+                    },
+                    {
+                        "api_path": "/artists/23585",
+                        "header_image_url": "https://images.genius.com/9c5887a6c0101c99422bf06800f354ed.712x1000x1.jpg",
+                        "id": 23585,
+                        "image_url": "https://images.genius.com/8aea93b118bcfcdc2206e55eae13912e.480x480x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mirage",
+                        "url": "https://genius.com/artists/Mirage"
+                    },
+                    {
+                        "api_path": "/artists/15227",
+                        "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "id": 15227,
+                        "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gr\u00f6dash",
+                        "url": "https://genius.com/artists/Grodash"
+                    },
+                    {
+                        "api_path": "/artists/17439",
+                        "header_image_url": "https://i.genius.com/10ca37c9c5a6fa07de107699295091e99a44b64c?url=http%3A%2F%2Fwww.rapghetto.com%2Fuploads%2F120416%2Fsx%2Fbleu-blanc-rouge-feat-grodash-_67793.png",
+                        "id": 17439,
+                        "image_url": "https://i.genius.com/10ca37c9c5a6fa07de107699295091e99a44b64c?url=http%3A%2F%2Fwww.rapghetto.com%2Fuploads%2F120416%2Fsx%2Fbleu-blanc-rouge-feat-grodash-_67793.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sak\u00e9 (FRA)",
+                        "url": "https://genius.com/artists/Sake-fra"
+                    },
+                    {
+                        "api_path": "/artists/16340",
+                        "header_image_url": "https://images.genius.com/f7ecc390ad44963f20ac6c89e052f616.357x357x1.jpg",
+                        "id": 16340,
+                        "image_url": "https://images.genius.com/f7ecc390ad44963f20ac6c89e052f616.357x357x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wira",
+                        "url": "https://genius.com/artists/Wira"
+                    },
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3266419",
+                "artist_names": "Seth Gueko (Ft. Aka (FRA))",
+                "full_title": "Veni Vidi Vici by\u00a0Seth\u00a0Gueko (Ft.\u00a0Aka\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "id": 3266419,
+                "language": "pl",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-veni-vidi-vici-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-veni-vidi-vici-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 1,
+                    "day": 22
+                },
+                "release_date_for_display": "January 22, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jan. 22, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Veni Vidi Vici",
+                "title_with_featured": "Veni Vidi Vici (Ft.\u00a0Aka\u00a0(FRA))",
+                "url": "https://genius.com/Seth-gueko-veni-vidi-vici-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1696292",
+                        "header_image_url": "https://images.genius.com/5b1825df76e16ec8f62ea2edf514dba5.295x295x1.jpg",
+                        "id": 1696292,
+                        "image_url": "https://images.genius.com/5b1825df76e16ec8f62ea2edf514dba5.295x295x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Aka (FRA)",
+                        "url": "https://genius.com/artists/Aka-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/2874734",
+                "artist_names": "Seth Gueko (Ft. Gradur)",
+                "full_title": "Versace Guevara by\u00a0Seth\u00a0Gueko (Ft.\u00a0Gradur)",
+                "header_image_thumbnail_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.960x960x1.jpg",
+                "id": 2874734,
+                "language": "fr",
+                "lyrics_owner_id": 3026682,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-versace-guevara-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Seth-gueko-versace-guevara-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 18
+                },
+                "release_date_for_display": "November 18, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 18, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Versace Guevara",
+                "title_with_featured": "Versace Guevara (Ft.\u00a0Gradur)",
+                "url": "https://genius.com/Seth-gueko-versace-guevara-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/72710",
+                        "header_image_url": "https://images.genius.com/0aaac632045e46d6d217e2a462a26cd4.960x637x1.jpg",
+                        "id": 72710,
+                        "image_url": "https://images.genius.com/2a78dc5b2e4f47c179696405aed27051.539x539x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gradur",
+                        "url": "https://genius.com/artists/Gradur"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/2874735",
+                "artist_names": "Seth Gueko",
+                "full_title": "Vinyl & K7 by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.960x960x1.jpg",
+                "id": 2874735,
+                "language": "fr",
+                "lyrics_owner_id": 1821798,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-vinyl-and-k7-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Seth-gueko-vinyl-and-k7-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 18
+                },
+                "release_date_for_display": "November 18, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 18, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 7125
+                },
+                "title": "Vinyl & K7",
+                "title_with_featured": "Vinyl & K7",
+                "url": "https://genius.com/Seth-gueko-vinyl-and-k7-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/397375",
+                "artist_names": "Seth Gueko",
+                "full_title": "VIP dans le tiekar by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "id": 397375,
+                "language": "fr",
+                "lyrics_owner_id": 186665,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-vip-dans-le-tiekar-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-vip-dans-le-tiekar-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 1,
+                    "day": 22
+                },
+                "release_date_for_display": "January 22, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jan. 22, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "VIP dans le tiekar",
+                "title_with_featured": "VIP dans le tiekar",
+                "url": "https://genius.com/Seth-gueko-vip-dans-le-tiekar-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/2874729",
+                "artist_names": "Seth Gueko",
+                "full_title": "Vodkamagra by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.960x960x1.jpg",
+                "id": 2874729,
+                "language": "fr",
+                "lyrics_owner_id": 3533874,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-vodkamagra-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-vodkamagra-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 18
+                },
+                "release_date_for_display": "November 18, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 18, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7074b9b2fa9e50d5922b97528b3cff3a.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 5949
+                },
+                "title": "Vodkamagra",
+                "title_with_featured": "Vodkamagra",
+                "url": "https://genius.com/Seth-gueko-vodkamagra-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3266396",
+                "artist_names": "Seth Gueko",
+                "full_title": "Vomiturie by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "id": 3266396,
+                "language": "fr",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-vomiturie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-vomiturie-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 1,
+                    "day": 22
+                },
+                "release_date_for_display": "January 22, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jan. 22, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vomiturie",
+                "title_with_featured": "Vomiturie",
+                "url": "https://genius.com/Seth-gueko-vomiturie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/51948",
+                "artist_names": "Seth Gueko",
+                "full_title": "Walou Garou by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.400x400x1.jpg",
+                "id": 51948,
+                "language": null,
+                "lyrics_owner_id": 13497,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-walou-garou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-walou-garou-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 3,
+                    "day": 25
+                },
+                "release_date_for_display": "March 25, 2011",
+                "release_date_with_abbreviated_month_for_display": "Mar. 25, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Walou Garou",
+                "title_with_featured": "Walou Garou",
+                "url": "https://genius.com/Seth-gueko-walou-garou-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5146421",
+                "artist_names": "Gr\u00f6dash (Ft. Seth Gueko)",
+                "full_title": "Wesh alors by\u00a0Gr\u00f6dash (Ft.\u00a0Seth\u00a0Gueko)",
+                "header_image_thumbnail_url": "https://images.genius.com/977c1d9de3f1089457574d383c551837.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/977c1d9de3f1089457574d383c551837.1000x750x1.jpg",
+                "id": 5146421,
+                "language": "en",
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "complete",
+                "path": "/Grodash-wesh-alors-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grodash-wesh-alors-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 4,
+                    "day": 3
+                },
+                "release_date_for_display": "April 3, 2007",
+                "release_date_with_abbreviated_month_for_display": "Apr. 3, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/09b789dc618ccac0cc069af237bbd9b3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/09b789dc618ccac0cc069af237bbd9b3.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Wesh alors",
+                "title_with_featured": "Wesh alors (Ft.\u00a0Seth\u00a0Gueko)",
+                "url": "https://genius.com/Grodash-wesh-alors-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11499",
+                        "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                        "id": 11499,
+                        "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Seth Gueko",
+                        "url": "https://genius.com/artists/Seth-gueko",
+                        "iq": 1271
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15227",
+                    "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "id": 15227,
+                    "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gr\u00f6dash",
+                    "url": "https://genius.com/artists/Grodash"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/94105",
+                "artist_names": "Seth Gueko",
+                "full_title": "W\u00e9 W\u00e9 W\u00e9 by\u00a0Seth\u00a0Gueko",
+                "header_image_thumbnail_url": "https://images.genius.com/40ceb555cd61a48cea986cd6ac3b041d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/40ceb555cd61a48cea986cd6ac3b041d.1000x1000x1.jpg",
+                "id": 94105,
+                "language": "fr",
+                "lyrics_owner_id": 123797,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-we-we-we-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Seth-gueko-we-we-we-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 10
+                },
+                "release_date_for_display": "April 10, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 10, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/40ceb555cd61a48cea986cd6ac3b041d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/40ceb555cd61a48cea986cd6ac3b041d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "W\u00e9 W\u00e9 W\u00e9",
+                "title_with_featured": "W\u00e9 W\u00e9 W\u00e9",
+                "url": "https://genius.com/Seth-gueko-we-we-we-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            }
+        ],
+        "next_page": 22
+    }
+}

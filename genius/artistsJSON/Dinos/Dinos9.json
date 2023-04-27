@@ -1,0 +1,1043 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2866458",
+                "artist_names": "Dinos",
+                "full_title": "L'aurore by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/1005d096f70cee94382188f7eac64093.300x300x1.png",
+                "header_image_url": "https://images.genius.com/1005d096f70cee94382188f7eac64093.767x767x1.png",
+                "id": 2866458,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Dinos-laurore-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-laurore-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 25
+                },
+                "release_date_for_display": "September 25, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 25, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1005d096f70cee94382188f7eac64093.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/1005d096f70cee94382188f7eac64093.767x767x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "L\u2019aurore",
+                "title_with_featured": "L'aurore",
+                "url": "https://genius.com/Dinos-laurore-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 121,
+                "api_path": "/songs/101659",
+                "artist_names": "Rap Contenders (Ft. Dinos, Lunik Grio', Mic Orni & Wildner)",
+                "full_title": "Lawid & Dinos Punchlinovic vs Lunik & Mic Orni by\u00a0Rap\u00a0Contenders (Ft.\u00a0Dinos, Lunik\u00a0Grio', Mic\u00a0Orni & Wildner)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/7220ab59dd6172e39de0a47e0a531b7e.300x200x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/7220ab59dd6172e39de0a47e0a531b7e.800x533x1.jpg",
+                "id": 101659,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Rap-contenders-lawid-and-dinos-punchlinovic-vs-lunik-and-mic-orni-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rap-contenders-lawid-and-dinos-punchlinovic-vs-lunik-and-mic-orni-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 12,
+                    "day": 7
+                },
+                "release_date_for_display": "December 7, 2012",
+                "release_date_with_abbreviated_month_for_display": "Dec. 7, 2012",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/7220ab59dd6172e39de0a47e0a531b7e.300x200x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/7220ab59dd6172e39de0a47e0a531b7e.800x533x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 62844
+                },
+                "title": "Lawid & Dinos Punchlinovic vs Lunik & Mic Orni",
+                "title_with_featured": "Lawid & Dinos Punchlinovic vs Lunik & Mic Orni (Ft.\u00a0Dinos, Lunik\u00a0Grio', Mic\u00a0Orni & Wildner)",
+                "url": "https://genius.com/Rap-contenders-lawid-and-dinos-punchlinovic-vs-lunik-and-mic-orni-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/31053",
+                        "header_image_url": "https://images.genius.com/25f23d51d780903fc76a476d6021ad86.612x612x1.jpg",
+                        "id": 31053,
+                        "image_url": "https://images.genius.com/25f23d51d780903fc76a476d6021ad86.612x612x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mic Orni",
+                        "url": "https://genius.com/artists/Mic-orni"
+                    },
+                    {
+                        "api_path": "/artists/16483",
+                        "header_image_url": "https://images.genius.com/0d67493cf55753a3bef10c21eff019d9.400x400x1.jpg",
+                        "id": 16483,
+                        "image_url": "https://images.genius.com/0d67493cf55753a3bef10c21eff019d9.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lunik Grio\u2019",
+                        "url": "https://genius.com/artists/Lunik-grio"
+                    },
+                    {
+                        "api_path": "/artists/13946",
+                        "header_image_url": "https://images.genius.com/1dd72c2c168102a2e76f7a1a2078d8b4.480x480x1.jpg",
+                        "id": 13946,
+                        "image_url": "https://images.genius.com/1dd72c2c168102a2e76f7a1a2078d8b4.480x480x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wildner",
+                        "url": "https://genius.com/artists/Wildner"
+                    },
+                    {
+                        "api_path": "/artists/14806",
+                        "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                        "id": 14806,
+                        "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dinos",
+                        "url": "https://genius.com/artists/Dinos",
+                        "iq": 791
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13944",
+                    "header_image_url": "https://images.genius.com/f71b7f5e9b9bd6b3be27cfc62d45031e.400x400x1.jpg",
+                    "id": 13944,
+                    "image_url": "https://images.genius.com/93da3dfb5aee28a2968428e9ad92c123.960x576x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rap Contenders",
+                    "url": "https://genius.com/artists/Rap-contenders"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2403878",
+                "artist_names": "Dinos",
+                "full_title": "Le ciel by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/ea57f75764a2c21302e05925927ff3f3.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/ea57f75764a2c21302e05925927ff3f3.1000x563x1.jpg",
+                "id": 2403878,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Dinos-le-ciel-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dinos-le-ciel-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ea57f75764a2c21302e05925927ff3f3.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ea57f75764a2c21302e05925927ff3f3.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Le ciel",
+                "title_with_featured": "Le ciel",
+                "url": "https://genius.com/Dinos-le-ciel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 28,
+                "api_path": "/songs/68551",
+                "artist_names": "Dinos",
+                "full_title": "L\u2019effet papillon (Remix)* by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                "id": 68551,
+                "language": "fr",
+                "lyrics_owner_id": 44422,
+                "lyrics_state": "complete",
+                "path": "/Dinos-leffet-papillon-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-leffet-papillon-remix-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 8,
+                    "day": 28
+                },
+                "release_date_for_display": "August 28, 2017",
+                "release_date_with_abbreviated_month_for_display": "Aug. 28, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "L\u2019effet papillon (Remix)*",
+                "title_with_featured": "L\u2019effet papillon (Remix)*",
+                "url": "https://genius.com/Dinos-leffet-papillon-remix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/6151645",
+                "artist_names": "Dinos (Ft. Leto)",
+                "full_title": "Le nord se souvient by\u00a0Dinos (Ft.\u00a0Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.1000x1000x1.jpg",
+                "id": 6151645,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Dinos-le-nord-se-souvient-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-le-nord-se-souvient-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 19393
+                },
+                "title": "Le nord se souvient",
+                "title_with_featured": "Le nord se souvient (Ft.\u00a0Leto)",
+                "url": "https://genius.com/Dinos-le-nord-se-souvient-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3544511",
+                "artist_names": "Dinos",
+                "full_title": "Le quartier mais pas la rue by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                "id": 3544511,
+                "language": "fr",
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "complete",
+                "path": "/Dinos-le-quartier-mais-pas-la-rue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-le-quartier-mais-pas-la-rue-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 22
+                },
+                "release_date_for_display": "February 22, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 22, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le quartier mais pas la rue",
+                "title_with_featured": "Le quartier mais pas la rue",
+                "url": "https://genius.com/Dinos-le-quartier-mais-pas-la-rue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/5039613",
+                "artist_names": "Dinos (Ft. Manu Dibango)",
+                "full_title": "Les gar\u00e7ons ne pleurent pas by\u00a0Dinos (Ft.\u00a0Manu\u00a0Dibango)",
+                "header_image_thumbnail_url": "https://images.genius.com/b593600ffe4f28b414e85902b0b579f7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b593600ffe4f28b414e85902b0b579f7.1000x1000x1.jpg",
+                "id": 5039613,
+                "language": "fr",
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "complete",
+                "path": "/Dinos-les-garcons-ne-pleurent-pas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-les-garcons-ne-pleurent-pas-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b593600ffe4f28b414e85902b0b579f7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b593600ffe4f28b414e85902b0b579f7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 19371
+                },
+                "title": "Les gar\u00e7ons ne pleurent pas",
+                "title_with_featured": "Les gar\u00e7ons ne pleurent pas (Ft.\u00a0Manu\u00a0Dibango)",
+                "url": "https://genius.com/Dinos-les-garcons-ne-pleurent-pas-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/381087",
+                        "header_image_url": "https://images.genius.com/620f2d6e542a5dce58fb2ac3c2667b09.800x449x1.jpg",
+                        "id": 381087,
+                        "image_url": "https://images.genius.com/ee52f7dff67f3cfcbc9771b9cc886c4b.852x852x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Manu Dibango",
+                        "url": "https://genius.com/artists/Manu-dibango"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/276247",
+                "artist_names": "Dinos",
+                "full_title": "Les partiels de punchline by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                "id": 276247,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Dinos-les-partiels-de-punchline-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Dinos-les-partiels-de-punchline-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 11,
+                    "day": 24
+                },
+                "release_date_for_display": "November 24, 2013",
+                "release_date_with_abbreviated_month_for_display": "Nov. 24, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Les partiels de punchline",
+                "title_with_featured": "Les partiels de punchline",
+                "url": "https://genius.com/Dinos-les-partiels-de-punchline-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 39,
+                "api_path": "/songs/3611799",
+                "artist_names": "Dinos",
+                "full_title": "Les pleurs du mal by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/b11c6e732acee6ec9263608af1156d6f.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/b11c6e732acee6ec9263608af1156d6f.1000x517x1.jpg",
+                "id": 3611799,
+                "language": "fr",
+                "lyrics_owner_id": 5229065,
+                "lyrics_state": "complete",
+                "path": "/Dinos-les-pleurs-du-mal-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Dinos-les-pleurs-du-mal-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 30
+                },
+                "release_date_for_display": "March 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e4e36ca150d17f0ac04e00eae5865cd3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e4e36ca150d17f0ac04e00eae5865cd3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 91241
+                },
+                "title": "Les pleurs du mal",
+                "title_with_featured": "Les pleurs du mal",
+                "url": "https://genius.com/Dinos-les-pleurs-du-mal-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/4936464",
+                "artist_names": "Dinos",
+                "full_title": "Les pleurs du m\u00e2le by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/6d9a782b32e9a8e4bba20785f4856778.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6d9a782b32e9a8e4bba20785f4856778.1000x1000x1.jpg",
+                "id": 4936464,
+                "language": "fr",
+                "lyrics_owner_id": 4489822,
+                "lyrics_state": "complete",
+                "path": "/Dinos-les-pleurs-du-male-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-les-pleurs-du-male-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6d9a782b32e9a8e4bba20785f4856778.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6d9a782b32e9a8e4bba20785f4856778.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 29819
+                },
+                "title": "Les pleurs du m\u00e2le",
+                "title_with_featured": "Les pleurs du m\u00e2le",
+                "url": "https://genius.com/Dinos-les-pleurs-du-male-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/182564",
+                "artist_names": "Dinos",
+                "full_title": "LHOOQ by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/647e2517a3255bf090c571e773cb3af9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/647e2517a3255bf090c571e773cb3af9.600x600x1.jpg",
+                "id": 182564,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Dinos-lhooq-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-lhooq-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 6,
+                    "day": 24
+                },
+                "release_date_for_display": "June 24, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jun. 24, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/647e2517a3255bf090c571e773cb3af9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/647e2517a3255bf090c571e773cb3af9.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "LHOOQ",
+                "title_with_featured": "LHOOQ",
+                "url": "https://genius.com/Dinos-lhooq-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5114873",
+                "artist_names": "Dosseh (Ft. Dinos & Maes)",
+                "full_title": "L\u2019odeur du charbon (Remix) by\u00a0Dosseh (Ft.\u00a0Dinos & Maes)",
+                "header_image_thumbnail_url": "https://images.genius.com/519f9895ecd40029c6233eb228d676df.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/519f9895ecd40029c6233eb228d676df.1000x563x1.jpg",
+                "id": 5114873,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Dosseh-lodeur-du-charbon-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dosseh-lodeur-du-charbon-remix-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 21
+                },
+                "release_date_for_display": "February 21, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 21, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cc91d052a40e39010cd5e3ec60f9f787.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cc91d052a40e39010cd5e3ec60f9f787.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 5801
+                },
+                "title": "L\u2019odeur du charbon (Remix)",
+                "title_with_featured": "L\u2019odeur du charbon (Remix) (Ft.\u00a0Dinos & Maes)",
+                "url": "https://genius.com/Dosseh-lodeur-du-charbon-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/638160",
+                        "header_image_url": "https://images.genius.com/9ab21f61143c95e7efbb7c4b27d78ee3.1000x562x1.jpg",
+                        "id": 638160,
+                        "image_url": "https://images.genius.com/1d80d6dfcd85490aaef60643c3a562c9.532x532x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Maes",
+                        "url": "https://genius.com/artists/Maes",
+                        "iq": 105
+                    },
+                    {
+                        "api_path": "/artists/14806",
+                        "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                        "id": 14806,
+                        "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dinos",
+                        "url": "https://genius.com/artists/Dinos",
+                        "iq": 791
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2223",
+                    "header_image_url": "https://images.genius.com/559c521953ff008a1eca1d304b7abbbc.591x279x1.png",
+                    "id": 2223,
+                    "image_url": "https://images.genius.com/d20e130f4c7d3e8d760650f9ee576662.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dosseh",
+                    "url": "https://genius.com/artists/Dosseh",
+                    "iq": 1692
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6479591",
+                "artist_names": "Dinos",
+                "full_title": "Lol Hip Hop by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/42aa39e88e551ddabc5e075e7ac00c72.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/42aa39e88e551ddabc5e075e7ac00c72.363x363x1.jpg",
+                "id": 6479591,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Dinos-lol-hip-hop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-lol-hip-hop-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 6,
+                    "day": 30
+                },
+                "release_date_for_display": "June 30, 2011",
+                "release_date_with_abbreviated_month_for_display": "Jun. 30, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/42aa39e88e551ddabc5e075e7ac00c72.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/42aa39e88e551ddabc5e075e7ac00c72.363x363x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lol Hip Hop",
+                "title_with_featured": "Lol Hip Hop",
+                "url": "https://genius.com/Dinos-lol-hip-hop-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5965186",
+                "artist_names": "Louane",
+                "full_title": "Love by\u00a0Louane",
+                "header_image_thumbnail_url": "https://images.genius.com/de82fdaae50c7074018195d47ea7afa3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/de82fdaae50c7074018195d47ea7afa3.1000x1000x1.jpg",
+                "id": 5965186,
+                "language": "fr",
+                "lyrics_owner_id": 5322810,
+                "lyrics_state": "complete",
+                "path": "/Louane-love-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Louane-love-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 23
+                },
+                "release_date_for_display": "October 23, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 23, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/de82fdaae50c7074018195d47ea7afa3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/de82fdaae50c7074018195d47ea7afa3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Love",
+                "title_with_featured": "Love",
+                "url": "https://genius.com/Louane-love-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/331073",
+                    "header_image_url": "https://images.genius.com/5187017e9c5f2c78c2d1259fcbce52a9.1000x333x1.jpg",
+                    "id": 331073,
+                    "image_url": "https://images.genius.com/61b2e85eaae0e01a87a8c04bfb1b1376.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Louane",
+                    "url": "https://genius.com/artists/Louane"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/8443390",
+                "artist_names": "Dinos (Ft. Akhenaton)",
+                "full_title": "L\u2019Univers Ne Nous Voit Pas Danser by\u00a0Dinos (Ft.\u00a0Akhenaton)",
+                "header_image_thumbnail_url": "https://images.genius.com/260b74c44dcb9e81533f4dc9fc09567c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/260b74c44dcb9e81533f4dc9fc09567c.1000x1000x1.jpg",
+                "id": 8443390,
+                "language": "fr",
+                "lyrics_owner_id": 498964,
+                "lyrics_state": "complete",
+                "path": "/Dinos-lunivers-ne-nous-voit-pas-danser-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dinos-lunivers-ne-nous-voit-pas-danser-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 4
+                },
+                "release_date_for_display": "November 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/260b74c44dcb9e81533f4dc9fc09567c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/260b74c44dcb9e81533f4dc9fc09567c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 16518
+                },
+                "title": "L\u2019Univers Ne Nous Voit Pas Danser",
+                "title_with_featured": "L\u2019Univers Ne Nous Voit Pas Danser (Ft.\u00a0Akhenaton)",
+                "url": "https://genius.com/Dinos-lunivers-ne-nous-voit-pas-danser-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1961",
+                        "header_image_url": "https://images.genius.com/f9cdfa24b137754ebfe6b940978c15d8.320x298x1.jpg",
+                        "id": 1961,
+                        "image_url": "https://images.genius.com/916828a808bdd54c4ccb8602ebae73fc.855x855x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Akhenaton",
+                        "url": "https://genius.com/artists/Akhenaton"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/8443387",
+                "artist_names": "Dinos (Ft. SCH)",
+                "full_title": "Ma Baby by\u00a0Dinos (Ft.\u00a0SCH)",
+                "header_image_thumbnail_url": "https://images.genius.com/837eacbada7b7c19cf35046b11790e08.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/837eacbada7b7c19cf35046b11790e08.358x358x1.jpg",
+                "id": 8443387,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Dinos-ma-baby-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dinos-ma-baby-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 4
+                },
+                "release_date_for_display": "November 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/837eacbada7b7c19cf35046b11790e08.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/837eacbada7b7c19cf35046b11790e08.358x358x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 9087
+                },
+                "title": "Ma Baby",
+                "title_with_featured": "Ma Baby (Ft.\u00a0SCH)",
+                "url": "https://genius.com/Dinos-ma-baby-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/276476",
+                        "header_image_url": "https://images.genius.com/a7814e87e59e58dab4d2fee4e4af2228.595x204x1.png",
+                        "id": 276476,
+                        "image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "SCH",
+                        "url": "https://genius.com/artists/Sch",
+                        "iq": 12286
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/4983289",
+                "artist_names": "Dinos",
+                "full_title": "Mack Le Bizz Freestyle by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/f16cdd4e3923ebc6f1e4a8ad9dc9651f.300x154x1.jpg",
+                "header_image_url": "https://images.genius.com/f16cdd4e3923ebc6f1e4a8ad9dc9651f.801x410x1.jpg",
+                "id": 4983289,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Dinos-mack-le-bizz-freestyle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-mack-le-bizz-freestyle-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 1
+                },
+                "release_date_for_display": "November 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c0e380af7d85cb28ce00127ae0d6ca5.220x220x1.png",
+                "song_art_image_url": "https://images.genius.com/5c0e380af7d85cb28ce00127ae0d6ca5.220x220x1.png",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 27714
+                },
+                "title": "Mack Le Bizz Freestyle",
+                "title_with_featured": "Mack Le Bizz Freestyle",
+                "url": "https://genius.com/Dinos-mack-le-bizz-freestyle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/6151646",
+                "artist_names": "Dinos",
+                "full_title": "Madone by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.1000x1000x1.jpg",
+                "id": 6151646,
+                "language": "fr",
+                "lyrics_owner_id": 498964,
+                "lyrics_state": "complete",
+                "path": "/Dinos-madone-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dinos-madone-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b7e76279f446bd422f16ee28f54eb72b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 20454
+                },
+                "title": "Madone",
+                "title_with_featured": "Madone",
+                "url": "https://genius.com/Dinos-madone-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 38,
+                "api_path": "/songs/75628",
+                "artist_names": "L'indis (Ft. Deen Burbigo, Dinos, L'Affreux Jojo, Nakk Mendosa & S\u00ebar Lui-M\u00eame)",
+                "full_title": "Ma g\u00e9n\u00e9ration by\u00a0L'indis (Ft.\u00a0Deen\u00a0Burbigo, Dinos, L'Affreux\u00a0Jojo, Nakk\u00a0Mendosa & S\u00ebar\u00a0Lui-M\u00eame)",
+                "header_image_thumbnail_url": "https://images.genius.com/56ee71b6321df78d555d7bb0769d00a3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/56ee71b6321df78d555d7bb0769d00a3.700x700x1.jpg",
+                "id": 75628,
+                "language": "fr",
+                "lyrics_owner_id": 39969,
+                "lyrics_state": "complete",
+                "path": "/Lindis-ma-generation-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lindis-ma-generation-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 7
+                },
+                "release_date_for_display": "November 7, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 7, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/56ee71b6321df78d555d7bb0769d00a3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/56ee71b6321df78d555d7bb0769d00a3.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 6016
+                },
+                "title": "Ma g\u00e9n\u00e9ration",
+                "title_with_featured": "Ma g\u00e9n\u00e9ration (Ft.\u00a0Deen\u00a0Burbigo, Dinos, L'Affreux\u00a0Jojo, Nakk\u00a0Mendosa & S\u00ebar\u00a0Lui-M\u00eame)",
+                "url": "https://genius.com/Lindis-ma-generation-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/40899",
+                        "header_image_url": "https://images.genius.com/9247ac9e3cce2d59ecd4c00083beaa53.667x1000x1.jpg",
+                        "id": 40899,
+                        "image_url": "https://images.genius.com/9247ac9e3cce2d59ecd4c00083beaa53.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Nakk Mendosa",
+                        "url": "https://genius.com/artists/Nakk-mendosa",
+                        "iq": 1696
+                    },
+                    {
+                        "api_path": "/artists/383325",
+                        "header_image_url": "https://images.genius.com/33a88676932e4c59b811b9826a7584e8.640x640x1.jpg",
+                        "id": 383325,
+                        "image_url": "https://images.genius.com/de4266be97ed9f93791abd7e7e1bf5a7.240x240x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "S\u00ebar Lui-M\u00eame",
+                        "url": "https://genius.com/artists/Sear-lui-meme"
+                    },
+                    {
+                        "api_path": "/artists/20817",
+                        "header_image_url": "https://images.genius.com/a88a0d8624ae301b24d5f5c7c9a066eb.808x808x1.jpg",
+                        "id": 20817,
+                        "image_url": "https://images.genius.com/a88a0d8624ae301b24d5f5c7c9a066eb.808x808x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "L\u2019Affreux Jojo",
+                        "url": "https://genius.com/artists/Laffreux-jojo"
+                    },
+                    {
+                        "api_path": "/artists/14806",
+                        "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                        "id": 14806,
+                        "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dinos",
+                        "url": "https://genius.com/artists/Dinos",
+                        "iq": 791
+                    },
+                    {
+                        "api_path": "/artists/14071",
+                        "header_image_url": "https://images.genius.com/1216185ecd95018a30955636d4839506.1000x567x1.jpg",
+                        "id": 14071,
+                        "image_url": "https://images.genius.com/d3c4286717aac089f708d75ba9c339f3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Deen Burbigo",
+                        "url": "https://genius.com/artists/Deen-burbigo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15430",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/164449_137377026319116_5476218_n.jpg",
+                    "id": 15430,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/164449_137377026319116_5476218_n.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "L\u2019indis",
+                    "url": "https://genius.com/artists/Lindis",
+                    "iq": 8589
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/3627136",
+                "artist_names": "Dinos",
+                "full_title": "Magenta by\u00a0Dinos",
+                "header_image_thumbnail_url": "https://images.genius.com/e0f19429c3933c0db899555248ce2026.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e0f19429c3933c0db899555248ce2026.960x960x1.jpg",
+                "id": 3627136,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Dinos-magenta-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dinos-magenta-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 27
+                },
+                "release_date_for_display": "April 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e0f19429c3933c0db899555248ce2026.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e0f19429c3933c0db899555248ce2026.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 11465
+                },
+                "title": "Magenta",
+                "title_with_featured": "Magenta",
+                "url": "https://genius.com/Dinos-magenta-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            }
+        ],
+        "next_page": 10
+    }
+}

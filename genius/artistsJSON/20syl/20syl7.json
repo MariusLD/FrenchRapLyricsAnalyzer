@@ -1,0 +1,943 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/213349",
+                "artist_names": "Dwa S\u0142awy",
+                "full_title": "Mi to ryba! by\u00a0Dwa\u00a0S\u0142awy",
+                "header_image_thumbnail_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.400x400x1.jpg",
+                "id": 213349,
+                "language": "pl",
+                "lyrics_owner_id": 139188,
+                "lyrics_state": "complete",
+                "path": "/Dwa-sawy-mi-to-ryba-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dwa-sawy-mi-to-ryba-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mi to ryba!",
+                "title_with_featured": "Mi to ryba!",
+                "url": "https://genius.com/Dwa-sawy-mi-to-ryba-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/48113",
+                    "header_image_url": "https://images.genius.com/55e0da62c9dc61046a122fae8da64d0c.480x270x33.gif",
+                    "id": 48113,
+                    "image_url": "https://images.genius.com/55e0da62c9dc61046a122fae8da64d0c.480x270x33.gif",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dwa S\u0142awy",
+                    "url": "https://genius.com/artists/Dwa-sawy",
+                    "iq": 1246
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/3259910",
+                "artist_names": "AllttA (Ft. 20Syl & Mr. J. Medeiros)",
+                "full_title": "More Better {fg.II} by\u00a0AllttA (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/f4c28e1faac11361c90a73abbbcff720.300x300x1.png",
+                "header_image_url": "https://images.genius.com/f4c28e1faac11361c90a73abbbcff720.1000x1000x1.png",
+                "id": 3259910,
+                "language": "en",
+                "lyrics_owner_id": 4178023,
+                "lyrics_state": "complete",
+                "path": "/Alltta-more-better-fgii-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Alltta-more-better-fgii-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 4
+                },
+                "release_date_for_display": "October 4, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 4, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f4c28e1faac11361c90a73abbbcff720.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/f4c28e1faac11361c90a73abbbcff720.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 9862
+                },
+                "title": "More Better {fg.II}",
+                "title_with_featured": "More Better {fg.II} (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-more-better-fgii-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    },
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/260153",
+                "artist_names": "Hocus Pocus",
+                "full_title": "Mr tout le monde by\u00a0Hocus\u00a0Pocus",
+                "header_image_thumbnail_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.800x800x1.jpg",
+                "id": 260153,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-mr-tout-le-monde-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-mr-tout-le-monde-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 10,
+                    "day": 1
+                },
+                "release_date_for_display": "October 1, 2007",
+                "release_date_with_abbreviated_month_for_display": "Oct. 1, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mr tout le monde",
+                "title_with_featured": "Mr tout le monde",
+                "url": "https://genius.com/Hocus-pocus-mr-tout-le-monde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3291882",
+                "artist_names": "AllttA (Ft. 20Syl & Mr. J. Medeiros)",
+                "full_title": "Muggsy Bogues {fg. V} by\u00a0AllttA (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "header_image_thumbnail_url": "https://images.genius.com/e6a78a21f6d3cd0aeca64ae97504edbe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e6a78a21f6d3cd0aeca64ae97504edbe.1000x1000x1.jpg",
+                "id": 3291882,
+                "language": "en",
+                "lyrics_owner_id": 3286078,
+                "lyrics_state": "complete",
+                "path": "/Alltta-muggsy-bogues-fg-v-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alltta-muggsy-bogues-fg-v-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 25
+                },
+                "release_date_for_display": "October 25, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 25, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e6a78a21f6d3cd0aeca64ae97504edbe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e6a78a21f6d3cd0aeca64ae97504edbe.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 7140
+                },
+                "title": "Muggsy Bogues {fg. V}",
+                "title_with_featured": "Muggsy Bogues {fg. V} (Ft.\u00a020Syl & Mr.\u00a0J. Medeiros)",
+                "url": "https://genius.com/Alltta-muggsy-bogues-fg-v-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    },
+                    {
+                        "api_path": "/artists/11771",
+                        "header_image_url": "https://images.genius.com/0083d37c8b19fd6dafe396cfc95d7c2e.498x498x1.jpg",
+                        "id": 11771,
+                        "image_url": "https://images.genius.com/18dd51e46fd63fd78bfa9ca4da0f3f37.498x498x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mr. J. Medeiros",
+                        "url": "https://genius.com/artists/Mr-j-medeiros",
+                        "iq": 1928
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671997",
+                    "header_image_url": "https://images.genius.com/7b2ddb8956c8d8fad938f7e0f2d64ada.1000x333x1.jpg",
+                    "id": 671997,
+                    "image_url": "https://images.genius.com/344c4e0d33970a4ed0d68a8e2d51d456.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AllttA",
+                    "url": "https://genius.com/artists/Alltta"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7895373",
+                "artist_names": "Berywam",
+                "full_title": "My Name by\u00a0Berywam",
+                "header_image_thumbnail_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.340x340x1.jpg",
+                "id": 7895373,
+                "language": null,
+                "lyrics_owner_id": 6109156,
+                "lyrics_state": "unreleased",
+                "path": "/Berywam-my-name-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Berywam-my-name-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67805b30a5b287cdcb0a5a622fd3bfdf.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "My Name",
+                "title_with_featured": "My Name",
+                "url": "https://genius.com/Berywam-my-name-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1161868",
+                    "header_image_url": "https://images.genius.com/35181b05908398db1d686d9e27bf5d06.958x650x1.jpg",
+                    "id": 1161868,
+                    "image_url": "https://images.genius.com/ca9dbdb85bff68303c32219a613d5e56.959x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Berywam",
+                    "url": "https://genius.com/artists/Berywam"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/116353",
+                "artist_names": "Nakk Mendosa",
+                "full_title": "N\u00e9gative Attitude by\u00a0Nakk\u00a0Mendosa",
+                "header_image_thumbnail_url": "https://images.genius.com/a81f5db061cc502cef110bf079a08455.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a81f5db061cc502cef110bf079a08455.600x600x1.jpg",
+                "id": 116353,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Nakk-mendosa-negative-attitude-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nakk-mendosa-negative-attitude-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/a81f5db061cc502cef110bf079a08455.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a81f5db061cc502cef110bf079a08455.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "N\u00e9gative Attitude",
+                "title_with_featured": "N\u00e9gative Attitude",
+                "url": "https://genius.com/Nakk-mendosa-negative-attitude-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/40899",
+                    "header_image_url": "https://images.genius.com/9247ac9e3cce2d59ecd4c00083beaa53.667x1000x1.jpg",
+                    "id": 40899,
+                    "image_url": "https://images.genius.com/9247ac9e3cce2d59ecd4c00083beaa53.667x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Nakk Mendosa",
+                    "url": "https://genius.com/artists/Nakk-mendosa",
+                    "iq": 1696
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/477079",
+                "artist_names": "Dwa S\u0142awy",
+                "full_title": "Nie\u015bmiertelna nawijka dwus\u0142awowa by\u00a0Dwa\u00a0S\u0142awy",
+                "header_image_thumbnail_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.400x400x1.jpg",
+                "id": 477079,
+                "language": "pl",
+                "lyrics_owner_id": 325694,
+                "lyrics_state": "complete",
+                "path": "/Dwa-sawy-niesmiertelna-nawijka-dwusawowa-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dwa-sawy-niesmiertelna-nawijka-dwusawowa-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ea3a5c590607d1ca892f12d06543fca7.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nie\u015bmiertelna nawijka dwus\u0142awowa",
+                "title_with_featured": "Nie\u015bmiertelna nawijka dwus\u0142awowa",
+                "url": "https://genius.com/Dwa-sawy-niesmiertelna-nawijka-dwusawowa-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/48113",
+                    "header_image_url": "https://images.genius.com/55e0da62c9dc61046a122fae8da64d0c.480x270x33.gif",
+                    "id": 48113,
+                    "image_url": "https://images.genius.com/55e0da62c9dc61046a122fae8da64d0c.480x270x33.gif",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dwa S\u0142awy",
+                    "url": "https://genius.com/artists/Dwa-sawy",
+                    "iq": 1246
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5479613",
+                "artist_names": "20Syl",
+                "full_title": "Nimble Dimble by\u00a020Syl",
+                "header_image_thumbnail_url": "https://images.genius.com/e036493e0a8f288ab4ebd9415e943465.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e036493e0a8f288ab4ebd9415e943465.640x640x1.jpg",
+                "id": 5479613,
+                "language": "en",
+                "lyrics_owner_id": 5364342,
+                "lyrics_state": "complete",
+                "path": "/20syl-nimble-dimble-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/20syl-nimble-dimble-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 15
+                },
+                "release_date_for_display": "March 15, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 15, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e036493e0a8f288ab4ebd9415e943465.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e036493e0a8f288ab4ebd9415e943465.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nimble Dimble",
+                "title_with_featured": "Nimble Dimble",
+                "url": "https://genius.com/20syl-nimble-dimble-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11774",
+                    "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                    "id": 11774,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "20Syl",
+                    "url": "https://genius.com/artists/20syl"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5479800",
+                "artist_names": "20Syl",
+                "full_title": "Nine Nights by\u00a020Syl",
+                "header_image_thumbnail_url": "https://images.genius.com/aa3b967ec682eacd4df542ab34f107f6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/aa3b967ec682eacd4df542ab34f107f6.640x640x1.jpg",
+                "id": 5479800,
+                "language": "en",
+                "lyrics_owner_id": 5364342,
+                "lyrics_state": "complete",
+                "path": "/20syl-nine-nights-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/20syl-nine-nights-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aa3b967ec682eacd4df542ab34f107f6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/aa3b967ec682eacd4df542ab34f107f6.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nine Nights",
+                "title_with_featured": "Nine Nights",
+                "url": "https://genius.com/20syl-nine-nights-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11774",
+                    "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                    "id": 11774,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "20Syl",
+                    "url": "https://genius.com/artists/20syl"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4667269",
+                "artist_names": "La Fine Equipe (Ft. 20Syl & Grems)",
+                "full_title": "Nobu by\u00a0La\u00a0Fine Equipe (Ft.\u00a020Syl & Grems)",
+                "header_image_thumbnail_url": "https://images.genius.com/ffd174f501e1933a11b5c5014ffcfb37.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ffd174f501e1933a11b5c5014ffcfb37.999x999x1.jpg",
+                "id": 4667269,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/La-fine-equipe-nobu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fine-equipe-nobu-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 19
+                },
+                "release_date_for_display": "April 19, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 19, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ffd174f501e1933a11b5c5014ffcfb37.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ffd174f501e1933a11b5c5014ffcfb37.999x999x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nobu",
+                "title_with_featured": "Nobu (Ft.\u00a020Syl & Grems)",
+                "url": "https://genius.com/La-fine-equipe-nobu-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11774",
+                        "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                        "id": 11774,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "20Syl",
+                        "url": "https://genius.com/artists/20syl"
+                    },
+                    {
+                        "api_path": "/artists/14833",
+                        "header_image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                        "id": 14833,
+                        "image_url": "https://images.genius.com/43324bf0128bf6b76562c6b5d50e8738.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Grems",
+                        "url": "https://genius.com/artists/Grems"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1183264",
+                    "header_image_url": "https://images.genius.com/41228937f787a27283ed175f195478cd.640x640x1.jpg",
+                    "id": 1183264,
+                    "image_url": "https://images.genius.com/41228937f787a27283ed175f195478cd.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fine Equipe",
+                    "url": "https://genius.com/artists/La-fine-equipe"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3286030",
+                "artist_names": "Raashan Ahmad (Ft. Homeboy Sandman)",
+                "full_title": "No No No by\u00a0Raashan\u00a0Ahmad (Ft.\u00a0Homeboy\u00a0Sandman)",
+                "header_image_thumbnail_url": "https://images.genius.com/6e1c4aac381830822e7dcaa79c5a3007.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6e1c4aac381830822e7dcaa79c5a3007.700x700x1.jpg",
+                "id": 3286030,
+                "language": null,
+                "lyrics_owner_id": 21564,
+                "lyrics_state": "incomplete",
+                "path": "/Raashan-ahmad-no-no-no-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Raashan-ahmad-no-no-no-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/6e1c4aac381830822e7dcaa79c5a3007.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6e1c4aac381830822e7dcaa79c5a3007.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "No No No",
+                "title_with_featured": "No No No (Ft.\u00a0Homeboy\u00a0Sandman)",
+                "url": "https://genius.com/Raashan-ahmad-no-no-no-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/6548",
+                        "header_image_url": "https://images.genius.com/rj7i8d1l83pspiyp260cqhin.450x516x1.jpg",
+                        "id": 6548,
+                        "image_url": "https://images.genius.com/6e224fea08af31a762b3497a66b0eb6e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Homeboy Sandman",
+                        "url": "https://genius.com/artists/Homeboy-sandman",
+                        "iq": 1565
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/33980",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/RAASHAN_AHMAD_thewordisbond-960x400.jpg",
+                    "id": 33980,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/RAASHAN_AHMAD_thewordisbond-960x400.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Raashan Ahmad",
+                    "url": "https://genius.com/artists/Raashan-ahmad"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/261324",
+                "artist_names": "Hocus Pocus",
+                "full_title": "Normal by\u00a0Hocus\u00a0Pocus",
+                "header_image_thumbnail_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.800x800x1.jpg",
+                "id": 261324,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-normal-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-normal-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 10,
+                    "day": 1
+                },
+                "release_date_for_display": "October 1, 2007",
+                "release_date_with_abbreviated_month_for_display": "Oct. 1, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef2021547b295e7d6b2336ae68ea561a.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Normal",
+                "title_with_featured": "Normal",
+                "url": "https://genius.com/Hocus-pocus-normal-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/572024",
+                "artist_names": "Lincoln Price",
+                "full_title": "NSFW by\u00a0Lincoln\u00a0Price",
+                "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "id": 572024,
+                "language": "en",
+                "lyrics_owner_id": 1095082,
+                "lyrics_state": "complete",
+                "path": "/Lincoln-price-nsfw-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lincoln-price-nsfw-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "NSFW",
+                "title_with_featured": "NSFW",
+                "url": "https://genius.com/Lincoln-price-nsfw-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/214519",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 214519,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lincoln Price",
+                    "url": "https://genius.com/artists/Lincoln-price"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/354970",
+                "artist_names": "Fixpen Sill",
+                "full_title": "Obsession by\u00a0Fixpen\u00a0Sill",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/66a8b62c9a2f8b0cf5d71bc97740b346.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/66a8b62c9a2f8b0cf5d71bc97740b346.1000x563x1.jpg",
+                "id": 354970,
+                "language": "en",
+                "lyrics_owner_id": 74564,
+                "lyrics_state": "complete",
+                "path": "/Fixpen-sill-obsession-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Fixpen-sill-obsession-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 4
+                },
+                "release_date_for_display": "February 4, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 4, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/5729e9950b25767a519fac34b5d9b583.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/5729e9950b25767a519fac34b5d9b583.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 5134
+                },
+                "title": "Obsession",
+                "title_with_featured": "Obsession",
+                "url": "https://genius.com/Fixpen-sill-obsession-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15706",
+                    "header_image_url": "https://images.genius.com/31b7b4862d6dc2c90a276c457e0b4fe3.991x506x1.png",
+                    "id": 15706,
+                    "image_url": "https://images.genius.com/bcf61c502053205106eee445e576a8de.393x393x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Fixpen Sill",
+                    "url": "https://genius.com/artists/Fixpen-sill",
+                    "iq": 1338
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5479614",
+                "artist_names": "20Syl",
+                "full_title": "Ode to Odd by\u00a020Syl",
+                "header_image_thumbnail_url": "https://images.genius.com/07e60a41c1cb55d0b5f952fd4b8f540a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/07e60a41c1cb55d0b5f952fd4b8f540a.640x640x1.jpg",
+                "id": 5479614,
+                "language": "en",
+                "lyrics_owner_id": 5364342,
+                "lyrics_state": "complete",
+                "path": "/20syl-ode-to-odd-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/20syl-ode-to-odd-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 16
+                },
+                "release_date_for_display": "March 16, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 16, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/07e60a41c1cb55d0b5f952fd4b8f540a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/07e60a41c1cb55d0b5f952fd4b8f540a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ode to Odd",
+                "title_with_featured": "Ode to Odd",
+                "url": "https://genius.com/20syl-ode-to-odd-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11774",
+                    "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                    "id": 11774,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "20Syl",
+                    "url": "https://genius.com/artists/20syl"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/210644",
+                "artist_names": "Hocus Pocus",
+                "full_title": "Onandon by\u00a0Hocus\u00a0Pocus",
+                "header_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "id": 210644,
+                "language": "en",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-onandon-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-onandon-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 12,
+                    "day": 26
+                },
+                "release_date_for_display": "December 26, 2006",
+                "release_date_with_abbreviated_month_for_display": "Dec. 26, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Onandon",
+                "title_with_featured": "Onandon",
+                "url": "https://genius.com/Hocus-pocus-onandon-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/258820",
+                "artist_names": "Hocus Pocus (Ft. Ty (UK))",
+                "full_title": "On and On Pt. 2 by\u00a0Hocus\u00a0Pocus (Ft.\u00a0Ty\u00a0(UK))",
+                "header_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "id": 258820,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-on-and-on-pt-2-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-on-and-on-pt-2-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On and On Pt. 2",
+                "title_with_featured": "On and On Pt. 2 (Ft.\u00a0Ty\u00a0(UK))",
+                "url": "https://genius.com/Hocus-pocus-on-and-on-pt-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/42435",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1363055054_fbdbe1b5527161aeb09c77fb16c29302.jpeg",
+                        "id": 42435,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1363055054_fbdbe1b5527161aeb09c77fb16c29302.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ty (UK)",
+                        "url": "https://genius.com/artists/Ty-uk",
+                        "iq": 163
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5479782",
+                "artist_names": "20Syl",
+                "full_title": "One or Won by\u00a020Syl",
+                "header_image_thumbnail_url": "https://images.genius.com/193ea871cadfedffc59c3190579c6aef.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/193ea871cadfedffc59c3190579c6aef.640x640x1.jpg",
+                "id": 5479782,
+                "language": "en",
+                "lyrics_owner_id": 5364342,
+                "lyrics_state": "complete",
+                "path": "/20syl-one-or-won-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/20syl-one-or-won-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 31
+                },
+                "release_date_for_display": "March 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/193ea871cadfedffc59c3190579c6aef.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/193ea871cadfedffc59c3190579c6aef.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "One or Won",
+                "title_with_featured": "One or Won",
+                "url": "https://genius.com/20syl-one-or-won-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/11774",
+                    "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                    "id": 11774,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "20Syl",
+                    "url": "https://genius.com/artists/20syl"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/448095",
+                "artist_names": "20Syl (Ft. Oddisee)",
+                "full_title": "Ongoing Thing by\u00a020Syl (Ft.\u00a0Oddisee)",
+                "header_image_thumbnail_url": "https://images.genius.com/60e3977ebd6c30825e8f89b659ccc4ef.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/60e3977ebd6c30825e8f89b659ccc4ef.600x600x1.jpg",
+                "id": 448095,
+                "language": "en",
+                "lyrics_owner_id": 7793,
+                "lyrics_state": "complete",
+                "path": "/20syl-ongoing-thing-lyrics",
+                "pyongs_count": 28,
+                "relationships_index_url": "https://genius.com/20syl-ongoing-thing-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 15
+                },
+                "release_date_for_display": "June 15, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 15, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/60e3977ebd6c30825e8f89b659ccc4ef.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/60e3977ebd6c30825e8f89b659ccc4ef.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 89117
+                },
+                "title": "Ongoing Thing",
+                "title_with_featured": "Ongoing Thing (Ft.\u00a0Oddisee)",
+                "url": "https://genius.com/20syl-ongoing-thing-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/7094",
+                        "header_image_url": "https://images.genius.com/11321b548fdca168ebca5187f2337a39.960x639x1.jpg",
+                        "id": 7094,
+                        "image_url": "https://images.genius.com/a04ebb6786a0d04f899c1f5dbe692d6d.590x590x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Oddisee",
+                        "url": "https://genius.com/artists/Oddisee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11774",
+                    "header_image_url": "https://images.genius.com/9889669235f211cee9b54ebe7d4de09b.1000x602x1.jpg",
+                    "id": 11774,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/20syl-Avatar.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "20Syl",
+                    "url": "https://genius.com/artists/20syl"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/1783746",
+                "artist_names": "Ivan Ooze",
+                "full_title": "On & On by\u00a0Ivan\u00a0Ooze",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/4838c2ee055ac1ebf5441f69d9ad51f3.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/4838c2ee055ac1ebf5441f69d9ad51f3.1000x563x1.jpg",
+                "id": 1783746,
+                "language": "en",
+                "lyrics_owner_id": 1711711,
+                "lyrics_state": "complete",
+                "path": "/Ivan-ooze-on-and-on-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ivan-ooze-on-and-on-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 8,
+                    "day": 18
+                },
+                "release_date_for_display": "August 18, 2014",
+                "release_date_with_abbreviated_month_for_display": "Aug. 18, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/6cfa61831863b2c13560d3ee75b148b3.300x200x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/6cfa61831863b2c13560d3ee75b148b3.1000x667x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "On & On",
+                "title_with_featured": "On & On",
+                "url": "https://genius.com/Ivan-ooze-on-and-on-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/206479",
+                    "header_image_url": "https://images.genius.com/9942bbfcc6a1cddad998f6fafd00d6c0.500x500x1.jpg",
+                    "id": 206479,
+                    "image_url": "https://images.genius.com/9942bbfcc6a1cddad998f6fafd00d6c0.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ivan Ooze",
+                    "url": "https://genius.com/artists/Ivan-ooze",
+                    "iq": 252
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

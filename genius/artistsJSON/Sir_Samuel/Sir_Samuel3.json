@@ -1,0 +1,1212 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5609856",
+                "artist_names": "Les Illumin\u00e9s Black Stamp (Ft. Casey (FRA), F\u00e9f\u00e9, Kohndo, Marco Polo (Fra), Mihuma, Oxmo Puccino, Sir Samuel & Soklak)",
+                "full_title": "Freedom by\u00a0Les\u00a0Illumin\u00e9s Black Stamp (Ft.\u00a0Casey\u00a0(FRA), F\u00e9f\u00e9, Kohndo, Marco\u00a0Polo (Fra), Mihuma, Oxmo\u00a0Puccino, Sir\u00a0Samuel & Soklak)",
+                "header_image_thumbnail_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.721x721x1.jpg",
+                "id": 5609856,
+                "language": "en",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Les-illumines-black-stamp-freedom-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-illumines-black-stamp-freedom-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 10,
+                    "day": 12
+                },
+                "release_date_for_display": "October 12, 2009",
+                "release_date_with_abbreviated_month_for_display": "Oct. 12, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.721x721x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Freedom",
+                "title_with_featured": "Freedom (Ft.\u00a0Casey\u00a0(FRA), F\u00e9f\u00e9, Kohndo, Marco\u00a0Polo (Fra), Mihuma, Oxmo\u00a0Puccino, Sir\u00a0Samuel & Soklak)",
+                "url": "https://genius.com/Les-illumines-black-stamp-freedom-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1947",
+                        "header_image_url": "https://images.genius.com/0454668274d229f1ba0d663217a696d2.650x433x1.jpg",
+                        "id": 1947,
+                        "image_url": "https://images.genius.com/68942200ee9dfc4ecaf98ff4270690d2.550x550x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Oxmo Puccino",
+                        "url": "https://genius.com/artists/Oxmo-puccino",
+                        "iq": 525
+                    },
+                    {
+                        "api_path": "/artists/2142708",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2142708,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Marco Polo (Fra)",
+                        "url": "https://genius.com/artists/Marco-polo-fra"
+                    },
+                    {
+                        "api_path": "/artists/2117749",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2117749,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mihuma",
+                        "url": "https://genius.com/artists/Mihuma"
+                    },
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    },
+                    {
+                        "api_path": "/artists/21249",
+                        "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                        "id": 21249,
+                        "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kohndo",
+                        "url": "https://genius.com/artists/Kohndo"
+                    },
+                    {
+                        "api_path": "/artists/17942",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/1354171841_soklak_dj_02.jpg",
+                        "id": 17942,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/1354171841_soklak_dj_02.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soklak",
+                        "url": "https://genius.com/artists/Soklak"
+                    },
+                    {
+                        "api_path": "/artists/1907",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/casey.jpg",
+                        "id": 1907,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/casey.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Casey (FRA)",
+                        "url": "https://genius.com/artists/Casey-fra"
+                    },
+                    {
+                        "api_path": "/artists/30735",
+                        "header_image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                        "id": 30735,
+                        "image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "F\u00e9f\u00e9",
+                        "url": "https://genius.com/artists/Fefe"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/392522",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 392522,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Les Illumin\u00e9s Black Stamp",
+                    "url": "https://genius.com/artists/Les-illumines-black-stamp"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4857598",
+                "artist_names": "Sir Samuel",
+                "full_title": "Fr\u00e9rot by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.300x296x1.jpg",
+                "header_image_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.1000x987x1.jpg",
+                "id": 4857598,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-frerot-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sir-samuel-frerot-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 2,
+                    "day": 12
+                },
+                "release_date_for_display": "February 12, 2007",
+                "release_date_with_abbreviated_month_for_display": "Feb. 12, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.300x296x1.jpg",
+                "song_art_image_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.1000x987x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fr\u00e9rot",
+                "title_with_featured": "Fr\u00e9rot",
+                "url": "https://genius.com/Sir-samuel-frerot-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7345253",
+                "artist_names": "DJ Keshkoon (Ft. 2CheeseMilkShake, Busta Flex, Colonel Maxwell, Dapatch, Davojah, Doctor Shek, Junior Roy, Lamsbread Viking, Magic T, Nuttea, Pato Ranks, Sir Samuel, Sista Moni, Tiwony & VOD (FRA))",
+                "full_title": "FTS BEAT 1 by\u00a0DJ\u00a0Keshkoon (Ft.\u00a02CheeseMilkShake, Busta\u00a0Flex, Colonel\u00a0Maxwell, Dapatch, Davojah, Doctor\u00a0Shek, Junior\u00a0Roy, Lamsbread\u00a0Viking, Magic\u00a0T, Nuttea, Pato\u00a0Ranks, Sir\u00a0Samuel, Sista\u00a0Moni, Tiwony & VOD\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/f8c6befdff402fe3c4312ce23fa3d59a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f8c6befdff402fe3c4312ce23fa3d59a.1000x1000x1.jpg",
+                "id": 7345253,
+                "language": "en",
+                "lyrics_owner_id": 7688384,
+                "lyrics_state": "complete",
+                "path": "/Dj-keshkoon-fts-beat-1-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dj-keshkoon-fts-beat-1-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 1
+                },
+                "release_date_for_display": "September 1, 2021",
+                "release_date_with_abbreviated_month_for_display": "Sep. 1, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f8c6befdff402fe3c4312ce23fa3d59a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f8c6befdff402fe3c4312ce23fa3d59a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "FTS BEAT 1",
+                "title_with_featured": "FTS BEAT 1 (Ft.\u00a02CheeseMilkShake, Busta\u00a0Flex, Colonel\u00a0Maxwell, Dapatch, Davojah, Doctor\u00a0Shek, Junior\u00a0Roy, Lamsbread\u00a0Viking, Magic\u00a0T, Nuttea, Pato\u00a0Ranks, Sir\u00a0Samuel, Sista\u00a0Moni, Tiwony & VOD\u00a0(FRA))",
+                "url": "https://genius.com/Dj-keshkoon-fts-beat-1-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/3147521",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3147521,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pato Ranks",
+                        "url": "https://genius.com/artists/Pato-ranks"
+                    },
+                    {
+                        "api_path": "/artists/2540372",
+                        "header_image_url": "https://images.genius.com/404cbe49b533ef325f193e2e5482270b.900x900x1.jpg",
+                        "id": 2540372,
+                        "image_url": "https://images.genius.com/404cbe49b533ef325f193e2e5482270b.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "VOD (FRA)",
+                        "url": "https://genius.com/artists/Vod-fra"
+                    },
+                    {
+                        "api_path": "/artists/2936071",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2936071,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dapatch",
+                        "url": "https://genius.com/artists/Dapatch"
+                    },
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    },
+                    {
+                        "api_path": "/artists/2936069",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2936069,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Doctor Shek",
+                        "url": "https://genius.com/artists/Doctor-shek"
+                    },
+                    {
+                        "api_path": "/artists/2936068",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2936068,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sista Moni",
+                        "url": "https://genius.com/artists/Sista-moni"
+                    },
+                    {
+                        "api_path": "/artists/14348",
+                        "header_image_url": "https://images.genius.com/40683b90799d7e324c90f64428e92d45.650x250x1.jpg",
+                        "id": 14348,
+                        "image_url": "https://images.genius.com/4fff2a46b9993a490e39019cf336b7b7.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Busta Flex",
+                        "url": "https://genius.com/artists/Busta-flex"
+                    },
+                    {
+                        "api_path": "/artists/2936067",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2936067,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Junior Roy",
+                        "url": "https://genius.com/artists/Junior-roy"
+                    },
+                    {
+                        "api_path": "/artists/2936066",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2936066,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Magic T",
+                        "url": "https://genius.com/artists/Magic-t"
+                    },
+                    {
+                        "api_path": "/artists/91828",
+                        "header_image_url": "https://images.genius.com/f797bcba7baee326cc658f7e55be4d2a.180x180x1.jpg",
+                        "id": 91828,
+                        "image_url": "https://images.genius.com/f797bcba7baee326cc658f7e55be4d2a.180x180x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nuttea",
+                        "url": "https://genius.com/artists/Nuttea"
+                    },
+                    {
+                        "api_path": "/artists/1035605",
+                        "header_image_url": "https://images.genius.com/0d97ba55c93e44f5cc9faa574e5babce.1000x1000x1.jpg",
+                        "id": 1035605,
+                        "image_url": "https://images.genius.com/b58cc7623ae1e751b40421383a07cdb6.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "2CheeseMilkShake",
+                        "url": "https://genius.com/artists/2cheesemilkshake",
+                        "iq": 243
+                    },
+                    {
+                        "api_path": "/artists/2936065",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2936065,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lamsbread Viking",
+                        "url": "https://genius.com/artists/Lamsbread-viking"
+                    },
+                    {
+                        "api_path": "/artists/2050520",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2050520,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Davojah",
+                        "url": "https://genius.com/artists/Davojah"
+                    },
+                    {
+                        "api_path": "/artists/2936064",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2936064,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Colonel Maxwell",
+                        "url": "https://genius.com/artists/Colonel-maxwell"
+                    },
+                    {
+                        "api_path": "/artists/25021",
+                        "header_image_url": "https://images.genius.com/40237b8671d0484b9fdd2028ca51718a.400x400x1.jpg",
+                        "id": 25021,
+                        "image_url": "https://images.genius.com/40237b8671d0484b9fdd2028ca51718a.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tiwony",
+                        "url": "https://genius.com/artists/Tiwony"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1126457",
+                    "header_image_url": "https://images.genius.com/acd6e2ec5c2c344ae1033bb506962885.634x634x1.png",
+                    "id": 1126457,
+                    "image_url": "https://images.genius.com/37d8369136def5caef682cc3ac1edf54.658x658x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "DJ Keshkoon",
+                    "url": "https://genius.com/artists/Dj-keshkoon",
+                    "iq": 3280
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4989041",
+                "artist_names": "Sir Samuel",
+                "full_title": "Funambule by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.960x960x1.jpg",
+                "id": 4989041,
+                "language": null,
+                "lyrics_owner_id": 9141899,
+                "lyrics_state": "unreleased",
+                "path": "/Sir-samuel-funambule-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-funambule-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 1
+                },
+                "release_date_for_display": "November 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Funambule",
+                "title_with_featured": "Funambule",
+                "url": "https://genius.com/Sir-samuel-funambule-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4989050",
+                "artist_names": "Sir Samuel",
+                "full_title": "Go Fast by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.960x960x1.jpg",
+                "id": 4989050,
+                "language": null,
+                "lyrics_owner_id": 9141899,
+                "lyrics_state": "unreleased",
+                "path": "/Sir-samuel-go-fast-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-go-fast-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 1
+                },
+                "release_date_for_display": "November 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Go Fast",
+                "title_with_featured": "Go Fast",
+                "url": "https://genius.com/Sir-samuel-go-fast-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 25,
+                "api_path": "/songs/540380",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "G-Padpo by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "id": 540380,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-g-padpo-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-g-padpo-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1999",
+                "release_date_with_abbreviated_month_for_display": "1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "G-Padpo",
+                "title_with_featured": "G-Padpo",
+                "url": "https://genius.com/Saian-supa-crew-g-padpo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4295880",
+                "artist_names": "Busta Flex (Ft. Sir Samuel)",
+                "full_title": "Grailleurs de graviers by\u00a0Busta\u00a0Flex (Ft.\u00a0Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/c294f1ae444e572d55688263687d18af.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c294f1ae444e572d55688263687d18af.1000x1000x1.jpg",
+                "id": 4295880,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Busta-flex-grailleurs-de-graviers-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Busta-flex-grailleurs-de-graviers-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 4,
+                    "day": 30
+                },
+                "release_date_for_display": "April 30, 2012",
+                "release_date_with_abbreviated_month_for_display": "Apr. 30, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c294f1ae444e572d55688263687d18af.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c294f1ae444e572d55688263687d18af.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Grailleurs de graviers",
+                "title_with_featured": "Grailleurs de graviers (Ft.\u00a0Sir\u00a0Samuel)",
+                "url": "https://genius.com/Busta-flex-grailleurs-de-graviers-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14348",
+                    "header_image_url": "https://images.genius.com/40683b90799d7e324c90f64428e92d45.650x250x1.jpg",
+                    "id": 14348,
+                    "image_url": "https://images.genius.com/4fff2a46b9993a490e39019cf336b7b7.959x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Busta Flex",
+                    "url": "https://genius.com/artists/Busta-flex"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4093122",
+                "artist_names": "Sir Samuel",
+                "full_title": "Harmony by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "id": 4093122,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-harmony-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-harmony-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 10,
+                    "day": 31
+                },
+                "release_date_for_display": "October 31, 2011",
+                "release_date_with_abbreviated_month_for_display": "Oct. 31, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Harmony",
+                "title_with_featured": "Harmony",
+                "url": "https://genius.com/Sir-samuel-harmony-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/96565",
+                "artist_names": "Vicelow (Ft. A2H, Busta Flex, Dandyguel, Jiddy, Kenyon, Kohndo, Radikal MC, Sir Samuel & Zoxea)",
+                "full_title": "Hip Hop Ninja (Remix) by\u00a0Vicelow (Ft.\u00a0A2H, Busta\u00a0Flex, Dandyguel, Jiddy, Kenyon, Kohndo, Radikal\u00a0MC, Sir\u00a0Samuel & Zoxea)",
+                "header_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "id": 96565,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Vicelow-hip-hop-ninja-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-hip-hop-ninja-remix-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 8330
+                },
+                "title": "Hip Hop Ninja (Remix)",
+                "title_with_featured": "Hip Hop Ninja (Remix) (Ft.\u00a0A2H, Busta\u00a0Flex, Dandyguel, Jiddy, Kenyon, Kohndo, Radikal\u00a0MC, Sir\u00a0Samuel & Zoxea)",
+                "url": "https://genius.com/Vicelow-hip-hop-ninja-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11623",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                        "id": 11623,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zoxea",
+                        "url": "https://genius.com/artists/Zoxea",
+                        "iq": 0
+                    },
+                    {
+                        "api_path": "/artists/14348",
+                        "header_image_url": "https://images.genius.com/40683b90799d7e324c90f64428e92d45.650x250x1.jpg",
+                        "id": 14348,
+                        "image_url": "https://images.genius.com/4fff2a46b9993a490e39019cf336b7b7.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Busta Flex",
+                        "url": "https://genius.com/artists/Busta-flex"
+                    },
+                    {
+                        "api_path": "/artists/14415",
+                        "header_image_url": "https://images.genius.com/f8a7138566a0d77550beb4310c26f87c.594x366x1.png",
+                        "id": 14415,
+                        "image_url": "https://images.genius.com/af80bc3992fcf83a6dfb532877d4f24d.531x531x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "A2H",
+                        "url": "https://genius.com/artists/A2h",
+                        "iq": 1166
+                    },
+                    {
+                        "api_path": "/artists/16990",
+                        "header_image_url": "https://images.genius.com/c5c5a9c949073abb58b62c951403c27d.643x1000x1.jpg",
+                        "id": 16990,
+                        "image_url": "https://images.genius.com/c5c5a9c949073abb58b62c951403c27d.643x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jiddy",
+                        "url": "https://genius.com/artists/Jiddy"
+                    },
+                    {
+                        "api_path": "/artists/15018",
+                        "header_image_url": "https://images.genius.com/15005e02446f65e2acc65960811cb5a6.960x640x1.jpg",
+                        "id": 15018,
+                        "image_url": "https://images.genius.com/fc495b109505682db22a3f80e15e7a42.548x548x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kenyon",
+                        "url": "https://genius.com/artists/Kenyon"
+                    },
+                    {
+                        "api_path": "/artists/21249",
+                        "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                        "id": 21249,
+                        "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kohndo",
+                        "url": "https://genius.com/artists/Kohndo"
+                    },
+                    {
+                        "api_path": "/artists/28142",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 28142,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Radikal MC",
+                        "url": "https://genius.com/artists/Radikal-mc"
+                    },
+                    {
+                        "api_path": "/artists/28143",
+                        "header_image_url": "https://images.genius.com/9d0225c4492c011ab83be2fe4e32c7db.1000x369x1.jpg",
+                        "id": 28143,
+                        "image_url": "https://images.genius.com/727a94d51c3f25a12c69653a450f05d8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dandyguel",
+                        "url": "https://genius.com/artists/Dandyguel",
+                        "iq": 318
+                    },
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/970835",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Hold-Up by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "id": 970835,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-hold-up-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-hold-up-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Hold-Up",
+                "title_with_featured": "Hold-Up",
+                "url": "https://genius.com/Saian-supa-crew-hold-up-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/5081485",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Il faut que \u00e7a cesse by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/b928d0433c492c343f5954cd28eb3d75.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b928d0433c492c343f5954cd28eb3d75.400x400x1.jpg",
+                "id": 5081485,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-il-faut-que-ca-cesse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-il-faut-que-ca-cesse-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 3,
+                    "day": 12
+                },
+                "release_date_for_display": "March 12, 2007",
+                "release_date_with_abbreviated_month_for_display": "Mar. 12, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b928d0433c492c343f5954cd28eb3d75.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b928d0433c492c343f5954cd28eb3d75.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Il faut que \u00e7a cesse",
+                "title_with_featured": "Il faut que \u00e7a cesse",
+                "url": "https://genius.com/Saian-supa-crew-il-faut-que-ca-cesse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5057644",
+                "artist_names": "Sir Samuel",
+                "full_title": "Intro Adekwatt, vol. 1 by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "id": 5057644,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Sir-samuel-intro-adekwatt-vol-1-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-intro-adekwatt-vol-1-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Intro Adekwatt, vol. 1",
+                "title_with_featured": "Intro Adekwatt, vol. 1",
+                "url": "https://genius.com/Sir-samuel-intro-adekwatt-vol-1-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/1174625",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Jacko by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "id": 1174625,
+                "language": "sl",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-jacko-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-jacko-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jacko",
+                "title_with_featured": "Jacko",
+                "url": "https://genius.com/Saian-supa-crew-jacko-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4827214",
+                "artist_names": "Sir Samuel",
+                "full_title": "Jamais \u00e7a by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "id": 4827214,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-jamais-ca-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-jamais-ca-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 10,
+                    "day": 31
+                },
+                "release_date_for_display": "October 31, 2011",
+                "release_date_with_abbreviated_month_for_display": "Oct. 31, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jamais \u00e7a",
+                "title_with_featured": "Jamais \u00e7a",
+                "url": "https://genius.com/Sir-samuel-jamais-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5057634",
+                "artist_names": "Sir Samuel (Ft. F\u00e9f\u00e9)",
+                "full_title": "Je Fly by\u00a0Sir\u00a0Samuel (Ft.\u00a0F\u00e9f\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "id": 5057634,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-je-fly-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-je-fly-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2004",
+                "release_date_with_abbreviated_month_for_display": "2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Je Fly",
+                "title_with_featured": "Je Fly (Ft.\u00a0F\u00e9f\u00e9)",
+                "url": "https://genius.com/Sir-samuel-je-fly-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/30735",
+                        "header_image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                        "id": 30735,
+                        "image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "F\u00e9f\u00e9",
+                        "url": "https://genius.com/artists/Fefe"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5057640",
+                "artist_names": "Sir Samuel",
+                "full_title": "Je Fly(Instrumental) by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "id": 5057640,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Sir-samuel-je-flyinstrumental-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-je-flyinstrumental-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Je Fly(Instrumental)",
+                "title_with_featured": "Je Fly(Instrumental)",
+                "url": "https://genius.com/Sir-samuel-je-flyinstrumental-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2068056",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Jungle by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "id": 2068056,
+                "language": "en",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-jungle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-jungle-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jungle",
+                "title_with_featured": "Jungle",
+                "url": "https://genius.com/Saian-supa-crew-jungle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5057643",
+                "artist_names": "Sir Samuel (Ft. Gr\u00f6dash)",
+                "full_title": "Jungle by\u00a0Sir\u00a0Samuel (Ft.\u00a0Gr\u00f6dash)",
+                "header_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "id": 5057643,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "unreleased",
+                "path": "/Sir-samuel-jungle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-jungle-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jungle",
+                "title_with_featured": "Jungle (Ft.\u00a0Gr\u00f6dash)",
+                "url": "https://genius.com/Sir-samuel-jungle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15227",
+                        "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "id": 15227,
+                        "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gr\u00f6dash",
+                        "url": "https://genius.com/artists/Grodash"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5241377",
+                "artist_names": "Gr\u00f6dash (Ft. Sir Samuel)",
+                "full_title": "Jungle Fever by\u00a0Gr\u00f6dash (Ft.\u00a0Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.1000x1000x1.jpg",
+                "id": 5241377,
+                "language": "en",
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "complete",
+                "path": "/Grodash-jungle-fever-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Grodash-jungle-fever-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 3,
+                    "day": 31
+                },
+                "release_date_for_display": "March 31, 2014",
+                "release_date_with_abbreviated_month_for_display": "Mar. 31, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5a497474474bc3f197606cd711acecc1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jungle Fever",
+                "title_with_featured": "Jungle Fever (Ft.\u00a0Sir\u00a0Samuel)",
+                "url": "https://genius.com/Grodash-jungle-fever-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15227",
+                    "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "id": 15227,
+                    "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gr\u00f6dash",
+                    "url": "https://genius.com/artists/Grodash"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5057783",
+                "artist_names": "Sir Samuel",
+                "full_title": "Kaly by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "id": 5057783,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Sir-samuel-kaly-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-kaly-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Kaly",
+                "title_with_featured": "Kaly",
+                "url": "https://genius.com/Sir-samuel-kaly-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

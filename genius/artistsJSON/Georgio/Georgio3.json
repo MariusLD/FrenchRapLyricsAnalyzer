@@ -1,0 +1,964 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7593481",
+                "artist_names": "Monkey D (Ft. Georgio)",
+                "full_title": "Bonne voix by\u00a0Monkey\u00a0D (Ft.\u00a0Georgio)",
+                "header_image_thumbnail_url": "https://images.genius.com/071861db8a4ee6c70538861b55c7a2f1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/071861db8a4ee6c70538861b55c7a2f1.1000x1000x1.jpg",
+                "id": 7593481,
+                "language": null,
+                "lyrics_owner_id": 11292499,
+                "lyrics_state": "incomplete",
+                "path": "/Monkey-d-bonne-voix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Monkey-d-bonne-voix-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 14
+                },
+                "release_date_for_display": "January 14, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 14, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/071861db8a4ee6c70538861b55c7a2f1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/071861db8a4ee6c70538861b55c7a2f1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bonne voix",
+                "title_with_featured": "Bonne voix (Ft.\u00a0Georgio)",
+                "url": "https://genius.com/Monkey-d-bonne-voix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21841",
+                        "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                        "id": 21841,
+                        "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Georgio",
+                        "url": "https://genius.com/artists/Georgio",
+                        "iq": 4877
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2901325",
+                    "header_image_url": "https://images.genius.com/1d53e35128590edcd8e768d61e69fefa.200x200x1.jpg",
+                    "id": 2901325,
+                    "image_url": "https://images.genius.com/1d53e35128590edcd8e768d61e69fefa.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Monkey D",
+                    "url": "https://genius.com/artists/Monkey-d"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2330359",
+                "artist_names": "Georgio",
+                "full_title": "Booska Bleu noir by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/244fca1b34b11204600f95d25b4e3939.300x162x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/244fca1b34b11204600f95d25b4e3939.649x350x1.jpg",
+                "id": 2330359,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Georgio-booska-bleu-noir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-booska-bleu-noir-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 10,
+                    "day": 15
+                },
+                "release_date_for_display": "October 15, 2015",
+                "release_date_with_abbreviated_month_for_display": "Oct. 15, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/244fca1b34b11204600f95d25b4e3939.300x162x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/244fca1b34b11204600f95d25b4e3939.649x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Booska Bleu noir",
+                "title_with_featured": "Booska Bleu noir",
+                "url": "https://genius.com/Georgio-booska-bleu-noir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/382732",
+                "artist_names": "Georgio",
+                "full_title": "Booska PLC by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/840007a96e4d565258a87f3c80fdc5ce.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/840007a96e4d565258a87f3c80fdc5ce.480x360x1.jpg",
+                "id": 382732,
+                "language": "fr",
+                "lyrics_owner_id": 684993,
+                "lyrics_state": "complete",
+                "path": "/Georgio-booska-plc-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-booska-plc-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 5,
+                    "day": 13
+                },
+                "release_date_for_display": "May 13, 2013",
+                "release_date_with_abbreviated_month_for_display": "May. 13, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/840007a96e4d565258a87f3c80fdc5ce.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/840007a96e4d565258a87f3c80fdc5ce.480x360x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Booska PLC",
+                "title_with_featured": "Booska PLC",
+                "url": "https://genius.com/Georgio-booska-plc-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6772498",
+                "artist_names": "Georgio",
+                "full_title": "Booska Sacr\u00e9 by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/22eeea8914f7bc192307cec579a87934.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/22eeea8914f7bc192307cec579a87934.1000x563x1.jpg",
+                "id": 6772498,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Georgio-booska-sacre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-booska-sacre-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 3
+                },
+                "release_date_for_display": "May 3, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 3, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/22eeea8914f7bc192307cec579a87934.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/22eeea8914f7bc192307cec579a87934.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Booska Sacr\u00e9",
+                "title_with_featured": "Booska Sacr\u00e9",
+                "url": "https://genius.com/Georgio-booska-sacre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/352049",
+                "artist_names": "Georgio",
+                "full_title": "Borderline by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/5d2010c95d54afd1fa983badb4780e46.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/5d2010c95d54afd1fa983badb4780e46.1000x563x1.jpg",
+                "id": 352049,
+                "language": "fr",
+                "lyrics_owner_id": 28041,
+                "lyrics_state": "complete",
+                "path": "/Georgio-borderline-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Georgio-borderline-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bd1adcde991a622794045975c3ae310f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bd1adcde991a622794045975c3ae310f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 6764
+                },
+                "title": "Borderline",
+                "title_with_featured": "Borderline",
+                "url": "https://genius.com/Georgio-borderline-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/2848274",
+                "artist_names": "Georgio",
+                "full_title": "Br\u00fble by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/de312e5ed4a9d0fedc8b84ac4f6bd9de.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/de312e5ed4a9d0fedc8b84ac4f6bd9de.960x960x1.jpg",
+                "id": 2848274,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Georgio-brule-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Georgio-brule-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 11,
+                    "day": 4
+                },
+                "release_date_for_display": "November 4, 2016",
+                "release_date_with_abbreviated_month_for_display": "Nov. 4, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/de312e5ed4a9d0fedc8b84ac4f6bd9de.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/de312e5ed4a9d0fedc8b84ac4f6bd9de.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 60511
+                },
+                "title": "Br\u00fble",
+                "title_with_featured": "Br\u00fble",
+                "url": "https://genius.com/Georgio-brule-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/732570",
+                "artist_names": "Bazoo (Ft. Georgio)",
+                "full_title": "Br\u00fble by\u00a0Bazoo (Ft.\u00a0Georgio)",
+                "header_image_thumbnail_url": "https://images.genius.com/89c3408d412317658a6af5d08f693e02.300x305x1.jpg",
+                "header_image_url": "https://images.genius.com/89c3408d412317658a6af5d08f693e02.945x960x1.jpg",
+                "id": 732570,
+                "language": "fr",
+                "lyrics_owner_id": 83343,
+                "lyrics_state": "complete",
+                "path": "/Bazoo-brule-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bazoo-brule-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/89c3408d412317658a6af5d08f693e02.300x305x1.jpg",
+                "song_art_image_url": "https://images.genius.com/89c3408d412317658a6af5d08f693e02.945x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Br\u00fble",
+                "title_with_featured": "Br\u00fble (Ft.\u00a0Georgio)",
+                "url": "https://genius.com/Bazoo-brule-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21841",
+                        "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                        "id": 21841,
+                        "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Georgio",
+                        "url": "https://genius.com/artists/Georgio",
+                        "iq": 4877
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/20652",
+                    "header_image_url": "https://images.genius.com/58502987a11a2070ff06c1c8d54c5fe2.1000x1000x1.png",
+                    "id": 20652,
+                    "image_url": "https://images.genius.com/b54f65894c39e853810cf49390fd0d18.248x248x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Bazoo",
+                    "url": "https://genius.com/artists/Bazoo",
+                    "iq": 1610
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/4037085",
+                "artist_names": "Georgio",
+                "full_title": "\u00c7a bouge pas by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.1000x1000x1.jpg",
+                "id": 4037085,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Georgio-ca-bouge-pas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-ca-bouge-pas-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "\u00c7a bouge pas",
+                "title_with_featured": "\u00c7a bouge pas",
+                "url": "https://genius.com/Georgio-ca-bouge-pas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/122546",
+                "artist_names": "Georgio",
+                "full_title": "Caf\u00e9 froid by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/0ca8165d1c29a0b79a4f41c768625738.300x225x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/0ca8165d1c29a0b79a4f41c768625738.1000x750x1.jpg",
+                "id": 122546,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Georgio-cafe-froid-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Georgio-cafe-froid-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 2,
+                    "day": 13
+                },
+                "release_date_for_display": "February 13, 2013",
+                "release_date_with_abbreviated_month_for_display": "Feb. 13, 2013",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/0ca8165d1c29a0b79a4f41c768625738.300x225x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/0ca8165d1c29a0b79a4f41c768625738.1000x750x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Caf\u00e9 froid",
+                "title_with_featured": "Caf\u00e9 froid",
+                "url": "https://genius.com/Georgio-cafe-froid-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/81459",
+                "artist_names": "Georgio",
+                "full_title": "Carpe diem by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.960x960x1.jpg",
+                "id": 81459,
+                "language": "fr",
+                "lyrics_owner_id": 81742,
+                "lyrics_state": "complete",
+                "path": "/Georgio-carpe-diem-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-carpe-diem-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 10
+                },
+                "release_date_for_display": "July 10, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jul. 10, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/26ddbbf2eb278aad547a075955b33328.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 12969
+                },
+                "title": "Carpe diem",
+                "title_with_featured": "Carpe diem",
+                "url": "https://genius.com/Georgio-carpe-diem-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7370241",
+                "artist_names": "Georgio",
+                "full_title": "C\u00e9l\u00e9brer by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/aa046948fd3705bf63b7e095fa23e036.300x300x1.png",
+                "header_image_url": "https://images.genius.com/aa046948fd3705bf63b7e095fa23e036.1000x1000x1.png",
+                "id": 7370241,
+                "language": "fr",
+                "lyrics_owner_id": 9344770,
+                "lyrics_state": "complete",
+                "path": "/Georgio-celebrer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-celebrer-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 12,
+                    "day": 10
+                },
+                "release_date_for_display": "December 10, 2021",
+                "release_date_with_abbreviated_month_for_display": "Dec. 10, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aa046948fd3705bf63b7e095fa23e036.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/aa046948fd3705bf63b7e095fa23e036.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "C\u00e9l\u00e9brer",
+                "title_with_featured": "C\u00e9l\u00e9brer",
+                "url": "https://genius.com/Georgio-celebrer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3125118",
+                "artist_names": "Georgio",
+                "full_title": "C'est pas fini by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/47e5d37be061faba40b215fd901c2d04.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/47e5d37be061faba40b215fd901c2d04.592x333x1.jpg",
+                "id": 3125118,
+                "language": "fr",
+                "lyrics_owner_id": 4509724,
+                "lyrics_state": "complete",
+                "path": "/Georgio-cest-pas-fini-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Georgio-cest-pas-fini-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 23
+                },
+                "release_date_for_display": "June 23, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 23, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6a398e94214eb48b6862ba459de33013.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6a398e94214eb48b6862ba459de33013.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 6077
+                },
+                "title": "C\u2019est pas fini",
+                "title_with_featured": "C'est pas fini",
+                "url": "https://genius.com/Georgio-cest-pas-fini-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/150541",
+                "artist_names": "Georgio & Hologram Lo'",
+                "full_title": "Chaque jour by\u00a0Georgio\u00a0& Hologram Lo'",
+                "header_image_thumbnail_url": "https://images.genius.com/c81bec8e321e3013bd1fef84aa33b363.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c81bec8e321e3013bd1fef84aa33b363.403x403x1.jpg",
+                "id": 150541,
+                "language": "fr",
+                "lyrics_owner_id": 220195,
+                "lyrics_state": "complete",
+                "path": "/Georgio-and-hologram-lo-chaque-jour-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Georgio-and-hologram-lo-chaque-jour-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 5,
+                    "day": 6
+                },
+                "release_date_for_display": "May 6, 2013",
+                "release_date_with_abbreviated_month_for_display": "May. 6, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c81bec8e321e3013bd1fef84aa33b363.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c81bec8e321e3013bd1fef84aa33b363.403x403x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Chaque jour",
+                "title_with_featured": "Chaque jour",
+                "url": "https://genius.com/Georgio-and-hologram-lo-chaque-jour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3189582",
+                    "header_image_url": "https://images.genius.com/eef3bd4819c4277dd90ae74da97bd416.432x432x1.jpg",
+                    "id": 3189582,
+                    "image_url": "https://images.genius.com/eef3bd4819c4277dd90ae74da97bd416.432x432x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Georgio & Hologram Lo\u2019",
+                    "url": "https://genius.com/artists/Georgio-and-hologram-lo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5612622",
+                "artist_names": "Rabakar (Ft. Bazoo, Georgio, Lorkass & Mecagidem)",
+                "full_title": "Chronicle by\u00a0Rabakar (Ft.\u00a0Bazoo, Georgio, Lorkass & Mecagidem)",
+                "header_image_thumbnail_url": "https://images.genius.com/c553f3cc50379c4edb684d4abf9da6b6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c553f3cc50379c4edb684d4abf9da6b6.500x500x1.jpg",
+                "id": 5612622,
+                "language": null,
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "incomplete",
+                "path": "/Rabakar-chronicle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rabakar-chronicle-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 11,
+                    "day": 12
+                },
+                "release_date_for_display": "November 12, 2013",
+                "release_date_with_abbreviated_month_for_display": "Nov. 12, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c553f3cc50379c4edb684d4abf9da6b6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c553f3cc50379c4edb684d4abf9da6b6.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Chronicle",
+                "title_with_featured": "Chronicle (Ft.\u00a0Bazoo, Georgio, Lorkass & Mecagidem)",
+                "url": "https://genius.com/Rabakar-chronicle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2258252",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2258252,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lorkass",
+                        "url": "https://genius.com/artists/Lorkass"
+                    },
+                    {
+                        "api_path": "/artists/2258251",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2258251,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mecagidem",
+                        "url": "https://genius.com/artists/Mecagidem"
+                    },
+                    {
+                        "api_path": "/artists/20652",
+                        "header_image_url": "https://images.genius.com/58502987a11a2070ff06c1c8d54c5fe2.1000x1000x1.png",
+                        "id": 20652,
+                        "image_url": "https://images.genius.com/b54f65894c39e853810cf49390fd0d18.248x248x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Bazoo",
+                        "url": "https://genius.com/artists/Bazoo",
+                        "iq": 1610
+                    },
+                    {
+                        "api_path": "/artists/21841",
+                        "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                        "id": 21841,
+                        "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Georgio",
+                        "url": "https://genius.com/artists/Georgio",
+                        "iq": 4877
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/42092",
+                    "header_image_url": "https://images.genius.com/5c76b56f22c4f09c2e0f8d4edee5ad92.258x258x1.jpg",
+                    "id": 42092,
+                    "image_url": "https://images.genius.com/5c76b56f22c4f09c2e0f8d4edee5ad92.258x258x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rabakar",
+                    "url": "https://genius.com/artists/Rabakar"
+                }
+            },
+            {
+                "annotation_count": 25,
+                "api_path": "/songs/358168",
+                "artist_names": "Georgio (Ft. Nekfeu)",
+                "full_title": "Comme une balle by\u00a0Georgio (Ft.\u00a0Nekfeu)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/ed1e72b7ec45456933fcbdeeae332ce5.300x115x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/ed1e72b7ec45456933fcbdeeae332ce5.650x250x1.jpg",
+                "id": 358168,
+                "language": "fr",
+                "lyrics_owner_id": 280504,
+                "lyrics_state": "complete",
+                "path": "/Georgio-comme-une-balle-lyrics",
+                "pyongs_count": 21,
+                "relationships_index_url": "https://genius.com/Georgio-comme-une-balle-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 1,
+                    "day": 13
+                },
+                "release_date_for_display": "January 13, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jan. 13, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a2b03477026d949368e576ffd4a36907.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a2b03477026d949368e576ffd4a36907.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 31974
+                },
+                "title": "Comme une balle",
+                "title_with_featured": "Comme une balle (Ft.\u00a0Nekfeu)",
+                "url": "https://genius.com/Georgio-comme-une-balle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13063",
+                        "header_image_url": "https://images.genius.com/e91732adc95c44b16fc3a9d46b89b2da.574x322x1.jpg",
+                        "id": 13063,
+                        "image_url": "https://images.genius.com/02eddce84127a46b459b11c3cea0e17f.749x749x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nekfeu",
+                        "url": "https://genius.com/artists/Nekfeu"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/7370239",
+                "artist_names": "Georgio (Ft. C\u0153ur de Pirate)",
+                "full_title": "Concept flou by\u00a0Georgio (Ft.\u00a0C\u0153ur\u00a0de Pirate)",
+                "header_image_thumbnail_url": "https://images.genius.com/83a83498aff9195595c4cb8d635754dc.300x180x1.jpg",
+                "header_image_url": "https://images.genius.com/83a83498aff9195595c4cb8d635754dc.696x417x1.jpg",
+                "id": 7370239,
+                "language": "fr",
+                "lyrics_owner_id": 6299910,
+                "lyrics_state": "complete",
+                "path": "/Georgio-concept-flou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-concept-flou-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9be2502182c7123d84febbea3fd40a69.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9be2502182c7123d84febbea3fd40a69.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 5836
+                },
+                "title": "Concept flou",
+                "title_with_featured": "Concept flou (Ft.\u00a0C\u0153ur\u00a0de Pirate)",
+                "url": "https://genius.com/Georgio-concept-flou-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/51186",
+                        "header_image_url": "https://images.genius.com/3d36aea8ab53b1f3957f43ff213c587d.975x180x1.png",
+                        "id": 51186,
+                        "image_url": "https://images.genius.com/93c703b016c65feb534a8f302f255dd4.979x979x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "C\u0153ur de Pirate",
+                        "url": "https://genius.com/artists/Cur-de-pirate"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 48,
+                "api_path": "/songs/368159",
+                "artist_names": "Georgio",
+                "full_title": "Conclusion by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/5786cce7e09193d772fa4dfb00c99b5b.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/5786cce7e09193d772fa4dfb00c99b5b.1000x563x1.jpg",
+                "id": 368159,
+                "language": "fr",
+                "lyrics_owner_id": 28041,
+                "lyrics_state": "complete",
+                "path": "/Georgio-conclusion-lyrics",
+                "pyongs_count": 12,
+                "relationships_index_url": "https://genius.com/Georgio-conclusion-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 22
+                },
+                "release_date_for_display": "February 22, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 22, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a2b03477026d949368e576ffd4a36907.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a2b03477026d949368e576ffd4a36907.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 7122
+                },
+                "title": "Conclusion",
+                "title_with_featured": "Conclusion",
+                "url": "https://genius.com/Georgio-conclusion-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/4037080",
+                "artist_names": "Georgio",
+                "full_title": "Coup pour coup by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.1000x1000x1.jpg",
+                "id": 4037080,
+                "language": "fr",
+                "lyrics_owner_id": 4438985,
+                "lyrics_state": "complete",
+                "path": "/Georgio-coup-pour-coup-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-coup-pour-coup-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/96ce6d22a87623a397fa56783fa3fff2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 5097
+                },
+                "title": "Coup pour coup",
+                "title_with_featured": "Coup pour coup",
+                "url": "https://genius.com/Georgio-coup-pour-coup-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/7283847",
+                "artist_names": "Georgio",
+                "full_title": "Couronne by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/8000c291931fe6a6ab04d92711e48183.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/8000c291931fe6a6ab04d92711e48183.1000x563x1.jpg",
+                "id": 7283847,
+                "language": "fr",
+                "lyrics_owner_id": 13457130,
+                "lyrics_state": "complete",
+                "path": "/Georgio-couronne-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Georgio-couronne-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 14
+                },
+                "release_date_for_display": "October 14, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 14, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/faaa697d92991206d20b68517353f40d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/faaa697d92991206d20b68517353f40d.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Couronne",
+                "title_with_featured": "Couronne",
+                "url": "https://genius.com/Georgio-couronne-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8778695",
+                "artist_names": "Georgio",
+                "full_title": "Craquer by\u00a0Georgio",
+                "header_image_thumbnail_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.1000x1000x1.jpg",
+                "id": 8778695,
+                "language": "fr",
+                "lyrics_owner_id": 5374201,
+                "lyrics_state": "complete",
+                "path": "/Georgio-craquer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Georgio-craquer-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 3
+                },
+                "release_date_for_display": "February 3, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 3, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7342fc206658cfc4de712c676f924c3b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Craquer",
+                "title_with_featured": "Craquer",
+                "url": "https://genius.com/Georgio-craquer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21841",
+                    "header_image_url": "https://images.genius.com/bb2e6e07640f774df723859e304b1ce5.787x461x1.png",
+                    "id": 21841,
+                    "image_url": "https://images.genius.com/b7fa89dd7c4e042cfbf5e019380f8430.460x460x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Georgio",
+                    "url": "https://genius.com/artists/Georgio",
+                    "iq": 4877
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

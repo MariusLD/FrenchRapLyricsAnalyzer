@@ -1,0 +1,53 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4858637",
+                "artist_names": "G\u00e9rard Baste",
+                "full_title": "Y'a qui sur ta tape ? by\u00a0G\u00e9rard\u00a0Baste",
+                "header_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "id": 4858637,
+                "language": "fr",
+                "lyrics_owner_id": 8075370,
+                "lyrics_state": "complete",
+                "path": "/Gerard-baste-ya-qui-sur-ta-tape-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gerard-baste-ya-qui-sur-ta-tape-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47464434d506b6c6b0e53f89e47a29b1.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Y\u2019a qui sur ta tape ?",
+                "title_with_featured": "Y'a qui sur ta tape ?",
+                "url": "https://genius.com/Gerard-baste-ya-qui-sur-ta-tape-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/23667",
+                    "header_image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "id": 23667,
+                    "image_url": "https://images.genius.com/67524b635e520f5b26f776986bee5cfb.669x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "G\u00e9rard Baste",
+                    "url": "https://genius.com/artists/Gerard-baste",
+                    "iq": 133
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

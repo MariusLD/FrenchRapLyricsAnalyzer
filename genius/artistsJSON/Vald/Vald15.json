@@ -1,0 +1,1046 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/1868828",
+                "artist_names": "Vald",
+                "full_title": "Quidam by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/1bbbeedb4d00855b6f1fe3c5891c0b72.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1bbbeedb4d00855b6f1fe3c5891c0b72.600x600x1.jpg",
+                "id": 1868828,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Vald-quidam-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Vald-quidam-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 25
+                },
+                "release_date_for_display": "September 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/77dbe255b77f613204b78b9a5ec8093f.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/77dbe255b77f613204b78b9a5ec8093f.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 33239
+                },
+                "title": "Quidam",
+                "title_with_featured": "Quidam",
+                "url": "https://genius.com/Vald-quidam-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/3775195",
+                "artist_names": "Gringe (Ft. OrelSan, Suikon Blaz AD & Vald)",
+                "full_title": "Qui dit mieux by\u00a0Gringe (Ft.\u00a0OrelSan, Suikon\u00a0Blaz AD & Vald)",
+                "header_image_thumbnail_url": "https://images.genius.com/cfecaf8d596a3c14d4b094e449e94b78.300x158x1.jpg",
+                "header_image_url": "https://images.genius.com/cfecaf8d596a3c14d4b094e449e94b78.1000x525x1.jpg",
+                "id": 3775195,
+                "language": "pl",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Gringe-qui-dit-mieux-lyrics",
+                "pyongs_count": 9,
+                "relationships_index_url": "https://genius.com/Gringe-qui-dit-mieux-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2cab30084fd13240123c410d78f03071.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2cab30084fd13240123c410d78f03071.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 26,
+                    "hot": false,
+                    "pageviews": 92731
+                },
+                "title": "Qui dit mieux",
+                "title_with_featured": "Qui dit mieux (Ft.\u00a0OrelSan, Suikon\u00a0Blaz AD & Vald)",
+                "url": "https://genius.com/Gringe-qui-dit-mieux-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    },
+                    {
+                        "api_path": "/artists/249396",
+                        "header_image_url": "https://images.genius.com/f922a9d6f08401c6822a88eedf92e6e8.639x405x1.png",
+                        "id": 249396,
+                        "image_url": "https://images.genius.com/653011b75d01e8de55fdb85b39b96f46.719x719x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suikon Blaz AD",
+                        "url": "https://genius.com/artists/Suikon-blaz-ad"
+                    },
+                    {
+                        "api_path": "/artists/19217",
+                        "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                        "id": 19217,
+                        "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Vald",
+                        "url": "https://genius.com/artists/Vald",
+                        "iq": 10002
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13895",
+                    "header_image_url": "https://images.genius.com/9235ff3ea8ed3265920aa6cb9a830156.1000x558x1.jpg",
+                    "id": 13895,
+                    "image_url": "https://images.genius.com/484b1db7599534cfe66bd47403fe8365.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gringe",
+                    "url": "https://genius.com/artists/Gringe"
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/7582677",
+                "artist_names": "Vald",
+                "full_title": "Qui \u00e9coute ? by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "id": 7582677,
+                "language": "fr",
+                "lyrics_owner_id": 4433741,
+                "lyrics_state": "complete",
+                "path": "/Vald-qui-ecoute-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-qui-ecoute-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 4
+                },
+                "release_date_for_display": "February 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 20,
+                    "hot": false,
+                    "pageviews": 18923
+                },
+                "title": "Qui \u00e9coute ?",
+                "title_with_featured": "Qui \u00e9coute ?",
+                "url": "https://genius.com/Vald-qui-ecoute-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2488827",
+                "artist_names": "I.N.C.H. (Ft. Suikon Blaz AD & Vald)",
+                "full_title": "Quoi d'neuf fr\u00e9ro by\u00a0I.N.C.H. (Ft.\u00a0Suikon\u00a0Blaz AD & Vald)",
+                "header_image_thumbnail_url": "https://images.genius.com/4d2ceb3e1ce6bf9dffb1257185875e2b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4d2ceb3e1ce6bf9dffb1257185875e2b.1000x1000x1.jpg",
+                "id": 2488827,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Inch-quoi-dneuf-frero-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Inch-quoi-dneuf-frero-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 2
+                },
+                "release_date_for_display": "May 2, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 2, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4d2ceb3e1ce6bf9dffb1257185875e2b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4d2ceb3e1ce6bf9dffb1257185875e2b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Quoi d\u2019neuf fr\u00e9ro",
+                "title_with_featured": "Quoi d'neuf fr\u00e9ro (Ft.\u00a0Suikon\u00a0Blaz AD & Vald)",
+                "url": "https://genius.com/Inch-quoi-dneuf-frero-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/249396",
+                        "header_image_url": "https://images.genius.com/f922a9d6f08401c6822a88eedf92e6e8.639x405x1.png",
+                        "id": 249396,
+                        "image_url": "https://images.genius.com/653011b75d01e8de55fdb85b39b96f46.719x719x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suikon Blaz AD",
+                        "url": "https://genius.com/artists/Suikon-blaz-ad"
+                    },
+                    {
+                        "api_path": "/artists/19217",
+                        "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                        "id": 19217,
+                        "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Vald",
+                        "url": "https://genius.com/artists/Vald",
+                        "iq": 10002
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16057",
+                    "header_image_url": "https://images.genius.com/4e4019d70eefb8f35138a51ceb88cbd9.960x709x1.jpg",
+                    "id": 16057,
+                    "image_url": "https://images.genius.com/65dac2e6f9f00c80120442e37400d24b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "I.N.C.H.",
+                    "url": "https://genius.com/artists/Inch",
+                    "iq": 114
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/404922",
+                "artist_names": "Karmen (FRA) (Ft. Suikon Blaz AD & Vald)",
+                "full_title": "Qu'on me sorte de l\u00e0 by\u00a0Karmen\u00a0(FRA) (Ft.\u00a0Suikon\u00a0Blaz AD & Vald)",
+                "header_image_thumbnail_url": "https://images.genius.com/78f78599075ad80362e5e9d900e9676e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/78f78599075ad80362e5e9d900e9676e.500x500x1.jpg",
+                "id": 404922,
+                "language": "en",
+                "lyrics_owner_id": 187746,
+                "lyrics_state": "complete",
+                "path": "/Karmen-fra-quon-me-sorte-de-la-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Karmen-fra-quon-me-sorte-de-la-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 11
+                },
+                "release_date_for_display": "June 11, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 11, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/78f78599075ad80362e5e9d900e9676e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/78f78599075ad80362e5e9d900e9676e.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Qu\u2019on me sorte de l\u00e0",
+                "title_with_featured": "Qu'on me sorte de l\u00e0 (Ft.\u00a0Suikon\u00a0Blaz AD & Vald)",
+                "url": "https://genius.com/Karmen-fra-quon-me-sorte-de-la-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/249396",
+                        "header_image_url": "https://images.genius.com/f922a9d6f08401c6822a88eedf92e6e8.639x405x1.png",
+                        "id": 249396,
+                        "image_url": "https://images.genius.com/653011b75d01e8de55fdb85b39b96f46.719x719x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suikon Blaz AD",
+                        "url": "https://genius.com/artists/Suikon-blaz-ad"
+                    },
+                    {
+                        "api_path": "/artists/19217",
+                        "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                        "id": 19217,
+                        "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Vald",
+                        "url": "https://genius.com/artists/Vald",
+                        "iq": 10002
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/99842",
+                    "header_image_url": "https://images.genius.com/4d6a1cfe67ddb79fa7c58753ba2a1c81.960x640x1.jpg",
+                    "id": 99842,
+                    "image_url": "https://images.genius.com/9da29fa11171a723410044814be9814d.952x952x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Karmen (FRA)",
+                    "url": "https://genius.com/artists/Karmen-fra",
+                    "iq": 150
+                }
+            },
+            {
+                "annotation_count": 31,
+                "api_path": "/songs/4927639",
+                "artist_names": "Vald",
+                "full_title": "Rappel by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/59ff72d7dd5245e6ce874fd6005ccdf4.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/59ff72d7dd5245e6ce874fd6005ccdf4.1000x563x1.jpg",
+                "id": 4927639,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-rappel-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Vald-rappel-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4c5fa463bf0dd122ab2bb4b26c7fa604.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4c5fa463bf0dd122ab2bb4b26c7fa604.649x649x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 21,
+                    "hot": false,
+                    "pageviews": 112484
+                },
+                "title": "Rappel",
+                "title_with_featured": "Rappel",
+                "url": "https://genius.com/Vald-rappel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/7582674",
+                "artist_names": "Vald",
+                "full_title": "Rappeur conscient by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "id": 7582674,
+                "language": "fr",
+                "lyrics_owner_id": 6778666,
+                "lyrics_state": "complete",
+                "path": "/Vald-rappeur-conscient-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-rappeur-conscient-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 4
+                },
+                "release_date_for_display": "February 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 23,
+                    "hot": false,
+                    "pageviews": 21454
+                },
+                "title": "Rappeur conscient",
+                "title_with_featured": "Rappeur conscient",
+                "url": "https://genius.com/Vald-rappeur-conscient-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/3956361",
+                "artist_names": "Vald",
+                "full_title": "Rechute by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.300x300x1.png",
+                "header_image_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.1000x1000x1.png",
+                "id": 3956361,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-rechute-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Vald-rechute-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 25,
+                    "hot": false,
+                    "pageviews": 86140
+                },
+                "title": "Rechute",
+                "title_with_featured": "Rechute",
+                "url": "https://genius.com/Vald-rechute-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 40,
+                "api_path": "/songs/3404744",
+                "artist_names": "Vald",
+                "full_title": "R\u00e9flexions basses by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "id": 3404744,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Vald-reflexions-basses-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Vald-reflexions-basses-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 2
+                },
+                "release_date_for_display": "February 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false,
+                    "pageviews": 150652
+                },
+                "title": "R\u00e9flexions basses",
+                "title_with_featured": "R\u00e9flexions basses",
+                "url": "https://genius.com/Vald-reflexions-basses-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/8554968",
+                "artist_names": "Vald",
+                "full_title": "REFLEXIONS TRES BASSES by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.936x936x1.png",
+                "id": 8554968,
+                "language": "fr",
+                "lyrics_owner_id": 11292499,
+                "lyrics_state": "complete",
+                "path": "/Vald-reflexions-tres-basses-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-reflexions-tres-basses-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 16
+                },
+                "release_date_for_display": "December 16, 2022",
+                "release_date_with_abbreviated_month_for_display": "Dec. 16, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.936x936x1.png",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 8471
+                },
+                "title": "REFLEXIONS TRES BASSES",
+                "title_with_featured": "REFLEXIONS TRES BASSES",
+                "url": "https://genius.com/Vald-reflexions-tres-basses-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/7582676",
+                "artist_names": "Vald",
+                "full_title": "Regarde toi by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "id": 7582676,
+                "language": "fr",
+                "lyrics_owner_id": 12389325,
+                "lyrics_state": "complete",
+                "path": "/Vald-regarde-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-regarde-toi-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 4
+                },
+                "release_date_for_display": "February 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false,
+                    "pageviews": 22963
+                },
+                "title": "Regarde toi",
+                "title_with_featured": "Regarde toi",
+                "url": "https://genius.com/Vald-regarde-toi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2375625",
+                "artist_names": "Vald (Ft. Suikon Blaz AD)",
+                "full_title": "Rendez-moi by\u00a0Vald (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/853214b21f3c4ae1d0e9741e138c1336.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/853214b21f3c4ae1d0e9741e138c1336.320x180x1.jpg",
+                "id": 2375625,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Vald-rendez-moi-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Vald-rendez-moi-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2012",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2012",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/853214b21f3c4ae1d0e9741e138c1336.300x169x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/853214b21f3c4ae1d0e9741e138c1336.320x180x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Rendez-moi",
+                "title_with_featured": "Rendez-moi (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "url": "https://genius.com/Vald-rendez-moi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/249396",
+                        "header_image_url": "https://images.genius.com/f922a9d6f08401c6822a88eedf92e6e8.639x405x1.png",
+                        "id": 249396,
+                        "image_url": "https://images.genius.com/653011b75d01e8de55fdb85b39b96f46.719x719x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suikon Blaz AD",
+                        "url": "https://genius.com/artists/Suikon-blaz-ad"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/3240456",
+                "artist_names": "Rentre dans le Cercle (Ft. Babs (FRA), Cheu-B, Moona, PLK, Vald & Yaro)",
+                "full_title": "Rentre dans le Cercle - \u00c9pisode 2 by\u00a0Rentre\u00a0dans le Cercle (Ft.\u00a0Babs\u00a0(FRA), Cheu-B, Moona, PLK, Vald & Yaro)",
+                "header_image_thumbnail_url": "https://images.genius.com/928057dc14d2e1587b3c01a9a2b0995e.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/928057dc14d2e1587b3c01a9a2b0995e.649x350x1.jpg",
+                "id": 3240456,
+                "language": "fr",
+                "lyrics_owner_id": 936199,
+                "lyrics_state": "complete",
+                "path": "/Rentre-dans-le-cercle-rentre-dans-le-cercle-episode-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rentre-dans-le-cercle-rentre-dans-le-cercle-episode-2-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 18
+                },
+                "release_date_for_display": "September 18, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 18, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2f670614e34451e1f6597eac04b335e7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2f670614e34451e1f6597eac04b335e7.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 12394
+                },
+                "title": "Rentre dans le Cercle - \u00c9pisode 2",
+                "title_with_featured": "Rentre dans le Cercle - \u00c9pisode 2 (Ft.\u00a0Babs\u00a0(FRA), Cheu-B, Moona, PLK, Vald & Yaro)",
+                "url": "https://genius.com/Rentre-dans-le-cercle-rentre-dans-le-cercle-episode-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/19217",
+                        "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                        "id": 19217,
+                        "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Vald",
+                        "url": "https://genius.com/artists/Vald",
+                        "iq": 10002
+                    },
+                    {
+                        "api_path": "/artists/651153",
+                        "header_image_url": "https://images.genius.com/8eff559768ed2397f5bdceb55d11afe9.1000x729x1.jpg",
+                        "id": 651153,
+                        "image_url": "https://images.genius.com/d004615512871005246ed0f54defd7ec.746x746x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cheu-B",
+                        "url": "https://genius.com/artists/Cheu-b"
+                    },
+                    {
+                        "api_path": "/artists/128813",
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1xeUBk7RgkfFJ00Bfrc_Capture%20d%E2%80%99e%CC%81cran%202017-01-15%20a%CC%80%2015.16.48.png",
+                        "id": 128813,
+                        "image_url": "https://images.genius.com/c09cce477e2697170eb13122d3bca07b.648x648x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "PLK",
+                        "url": "https://genius.com/artists/Plk",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/183341",
+                        "header_image_url": "https://images.genius.com/91072949420f8ed2402b9301fceb2f97.1000x1000x1.jpg",
+                        "id": 183341,
+                        "image_url": "https://images.genius.com/4ac49a3e2afefb632cacbf9a6b606e70.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Moona",
+                        "url": "https://genius.com/artists/Moona"
+                    },
+                    {
+                        "api_path": "/artists/141729",
+                        "header_image_url": "https://images.genius.com/f90a6e703dd2506ae42754ec4faf1c6c.1000x563x1.jpg",
+                        "id": 141729,
+                        "image_url": "https://images.genius.com/6fdafa95e559b25d324aeee9a8adc899.318x318x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Yaro",
+                        "url": "https://genius.com/artists/Yaro"
+                    },
+                    {
+                        "api_path": "/artists/3391066",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3391066,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Babs (FRA)",
+                        "url": "https://genius.com/artists/Babs-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1552188",
+                    "header_image_url": "https://images.genius.com/503a6067adf1980e4f6f4dabc7a75a70.671x671x1.jpg",
+                    "id": 1552188,
+                    "image_url": "https://images.genius.com/503a6067adf1980e4f6f4dabc7a75a70.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rentre dans le Cercle",
+                    "url": "https://genius.com/artists/Rentre-dans-le-cercle"
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/3402239",
+                "artist_names": "Vald",
+                "full_title": "R\u00e9sidus by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "id": 3402239,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-residus-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Vald-residus-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 2
+                },
+                "release_date_for_display": "February 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 18,
+                    "hot": false,
+                    "pageviews": 139173
+                },
+                "title": "R\u00e9sidus",
+                "title_with_featured": "R\u00e9sidus",
+                "url": "https://genius.com/Vald-residus-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/1868829",
+                "artist_names": "Vald",
+                "full_title": "Retour by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/1bbbeedb4d00855b6f1fe3c5891c0b72.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1bbbeedb4d00855b6f1fe3c5891c0b72.600x600x1.jpg",
+                "id": 1868829,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Vald-retour-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Vald-retour-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 25
+                },
+                "release_date_for_display": "September 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/77dbe255b77f613204b78b9a5ec8093f.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/77dbe255b77f613204b78b9a5ec8093f.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 24757
+                },
+                "title": "Retour",
+                "title_with_featured": "Retour",
+                "url": "https://genius.com/Vald-retour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/3956351",
+                "artist_names": "Vald",
+                "full_title": "Rhumance by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.300x300x1.png",
+                "header_image_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.1000x1000x1.png",
+                "id": 3956351,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Vald-rhumance-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Vald-rhumance-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/80fb3b8b305b7c795d87269811eb2b4c.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 16035
+                },
+                "title": "Rhumance",
+                "title_with_featured": "Rhumance",
+                "url": "https://genius.com/Vald-rhumance-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/3402242",
+                "artist_names": "Vald (Ft. Sirius)",
+                "full_title": "Rituel by\u00a0Vald (Ft.\u00a0Sirius)",
+                "header_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "id": 3402242,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-rituel-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Vald-rituel-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 2
+                },
+                "release_date_for_display": "February 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 82426
+                },
+                "title": "Rituel",
+                "title_with_featured": "Rituel (Ft.\u00a0Sirius)",
+                "url": "https://genius.com/Vald-rituel-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/25202",
+                        "header_image_url": "https://images.genius.com/edc389c5269524c339167dd3c1527eb5.1000x563x1.png",
+                        "id": 25202,
+                        "image_url": "https://images.genius.com/17a0aa1b56fc4912d70eb916565a7fe7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sirius",
+                        "url": "https://genius.com/artists/Sirius",
+                        "iq": 135
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/3402249",
+                "artist_names": "Vald",
+                "full_title": "Rocking chair by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "id": 3402249,
+                "language": "en",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-rocking-chair-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Vald-rocking-chair-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 2
+                },
+                "release_date_for_display": "February 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 58606
+                },
+                "title": "Rocking chair",
+                "title_with_featured": "Rocking chair",
+                "url": "https://genius.com/Vald-rocking-chair-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/76037",
+                "artist_names": "Vald",
+                "full_title": "Rockstar by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.980x735x1.jpg",
+                "id": 76037,
+                "language": "fr",
+                "lyrics_owner_id": 103166,
+                "lyrics_state": "complete",
+                "path": "/Vald-rockstar-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-rockstar-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 29
+                },
+                "release_date_for_display": "January 29, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 29, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.980x735x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Rockstar",
+                "title_with_featured": "Rockstar",
+                "url": "https://genius.com/Vald-rockstar-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/3060319",
+                "artist_names": "Biffty",
+                "full_title": "Roule un boze (Remix DJ Weedim) by\u00a0Biffty",
+                "header_image_thumbnail_url": "https://images.genius.com/fe9e72de949b7bae8f76414a0580c099.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/fe9e72de949b7bae8f76414a0580c099.960x540x1.jpg",
+                "id": 3060319,
+                "language": "fr",
+                "lyrics_owner_id": 4212741,
+                "lyrics_state": "complete",
+                "path": "/Biffty-roule-un-boze-remix-dj-weedim-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Biffty-roule-un-boze-remix-dj-weedim-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 20
+                },
+                "release_date_for_display": "April 20, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 20, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fe9e72de949b7bae8f76414a0580c099.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fe9e72de949b7bae8f76414a0580c099.960x540x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 28067
+                },
+                "title": "Roule un boze (Remix DJ Weedim)",
+                "title_with_featured": "Roule un boze (Remix DJ Weedim)",
+                "url": "https://genius.com/Biffty-roule-un-boze-remix-dj-weedim-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/542880",
+                    "header_image_url": "https://images.genius.com/4c5cbfe014ce61425279a800f93423d7.960x539x1.jpg",
+                    "id": 542880,
+                    "image_url": "https://images.genius.com/b2e5c650df36eebaca123140939ca7b1.522x522x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Biffty",
+                    "url": "https://genius.com/artists/Biffty",
+                    "iq": 1154
+                }
+            }
+        ],
+        "next_page": 16
+    }
+}

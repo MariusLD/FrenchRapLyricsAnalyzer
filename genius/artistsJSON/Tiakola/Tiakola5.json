@@ -1,0 +1,973 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6912160",
+                "artist_names": "HK La Paille",
+                "full_title": "Hol\u00e0 by\u00a0HK\u00a0La Paille",
+                "header_image_thumbnail_url": "https://images.genius.com/e65876a325f6150040741339c1c61c55.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e65876a325f6150040741339c1c61c55.500x500x1.jpg",
+                "id": 6912160,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hk-la-paille-hola-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hk-la-paille-hola-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 18
+                },
+                "release_date_for_display": "June 18, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 18, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e65876a325f6150040741339c1c61c55.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e65876a325f6150040741339c1c61c55.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Hol\u00e0",
+                "title_with_featured": "Hol\u00e0",
+                "url": "https://genius.com/Hk-la-paille-hola-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1443165",
+                    "header_image_url": "https://images.genius.com/4564a9678dafc8f1d472d99a806bab4e.500x500x1.jpg",
+                    "id": 1443165,
+                    "image_url": "https://images.genius.com/35e23264fbece6eecd2280116ce0e5d2.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "HK La Paille",
+                    "url": "https://genius.com/artists/Hk-la-paille"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5886311",
+                "artist_names": "BR La B",
+                "full_title": "Hol\u00e0 chicas by\u00a0BR\u00a0La B",
+                "header_image_thumbnail_url": "https://images.genius.com/e4a35f1ff5991b051520de00a42760c4.300x301x1.png",
+                "header_image_url": "https://images.genius.com/e4a35f1ff5991b051520de00a42760c4.369x370x1.png",
+                "id": 5886311,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Br-la-b-hola-chicas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Br-la-b-hola-chicas-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 7
+                },
+                "release_date_for_display": "August 7, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 7, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e4a35f1ff5991b051520de00a42760c4.300x301x1.png",
+                "song_art_image_url": "https://images.genius.com/e4a35f1ff5991b051520de00a42760c4.369x370x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Hol\u00e0 chicas",
+                "title_with_featured": "Hol\u00e0 chicas",
+                "url": "https://genius.com/Br-la-b-hola-chicas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2366274",
+                    "header_image_url": "https://images.genius.com/65671bdc978924bc22636ed33bc4f19c.540x540x1.jpg",
+                    "id": 2366274,
+                    "image_url": "https://images.genius.com/65671bdc978924bc22636ed33bc4f19c.540x540x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BR La B",
+                    "url": "https://genius.com/artists/Br-la-b"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3547138",
+                "artist_names": "4Keus (Ft. Leto)",
+                "full_title": "Hood by\u00a04Keus (Ft.\u00a0Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.440x440x1.jpg",
+                "id": 3547138,
+                "language": "fr",
+                "lyrics_owner_id": 4203904,
+                "lyrics_state": "complete",
+                "path": "/4keus-hood-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/4keus-hood-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 16
+                },
+                "release_date_for_display": "March 16, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 16, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 9342
+                },
+                "title": "Hood",
+                "title_with_featured": "Hood (Ft.\u00a0Leto)",
+                "url": "https://genius.com/4keus-hood-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1285728",
+                    "header_image_url": "https://images.genius.com/5218c752ddfa3ca4e08a1113d4fc9421.1000x520x1.jpg",
+                    "id": 1285728,
+                    "image_url": "https://images.genius.com/d69788da3527adbf6d6453ba80bcd1c3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus",
+                    "url": "https://genius.com/artists/4keus"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3325783",
+                "artist_names": "4Keus Gang (Ft. Q.E Favelas)",
+                "full_title": "Hors s\u00e9rie by\u00a04Keus\u00a0Gang (Ft.\u00a0Q.E\u00a0Favelas)",
+                "header_image_thumbnail_url": "https://images.genius.com/cd44d5322be634c0a50c25ca16442de0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cd44d5322be634c0a50c25ca16442de0.600x600x1.jpg",
+                "id": 3325783,
+                "language": "fr",
+                "lyrics_owner_id": 4203904,
+                "lyrics_state": "complete",
+                "path": "/4keus-gang-hors-serie-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/4keus-gang-hors-serie-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cd44d5322be634c0a50c25ca16442de0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cd44d5322be634c0a50c25ca16442de0.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 5722
+                },
+                "title": "Hors s\u00e9rie",
+                "title_with_featured": "Hors s\u00e9rie (Ft.\u00a0Q.E\u00a0Favelas)",
+                "url": "https://genius.com/4keus-gang-hors-serie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/977594",
+                        "header_image_url": "https://images.genius.com/73fcca8ded5e35dffa0f2b730f3db6ba.900x900x1.jpg",
+                        "id": 977594,
+                        "image_url": "https://images.genius.com/b989f6135d835d02d9360b344da39350.760x760x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Q.E Favelas",
+                        "url": "https://genius.com/artists/Qe-favelas"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/653543",
+                    "header_image_url": "https://images.genius.com/7483b8e183407516ae867df2f1a81472.828x315x1.jpg",
+                    "id": 653543,
+                    "image_url": "https://images.genius.com/6b69bab46f9bc7507fd3aa3635b36063.347x347x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus Gang",
+                    "url": "https://genius.com/artists/4keus-gang"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3038882",
+                "artist_names": "4Keus Gang",
+                "full_title": "Inconscient by\u00a04Keus\u00a0Gang",
+                "header_image_thumbnail_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.300x300x1.png",
+                "header_image_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.499x499x1.png",
+                "id": 3038882,
+                "language": "fr",
+                "lyrics_owner_id": 4289701,
+                "lyrics_state": "complete",
+                "path": "/4keus-gang-inconscient-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/4keus-gang-inconscient-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 15
+                },
+                "release_date_for_display": "February 15, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 15, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.499x499x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Inconscient",
+                "title_with_featured": "Inconscient",
+                "url": "https://genius.com/4keus-gang-inconscient-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/653543",
+                    "header_image_url": "https://images.genius.com/7483b8e183407516ae867df2f1a81472.828x315x1.jpg",
+                    "id": 653543,
+                    "image_url": "https://images.genius.com/6b69bab46f9bc7507fd3aa3635b36063.347x347x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus Gang",
+                    "url": "https://genius.com/artists/4keus-gang"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7978164",
+                "artist_names": "Tiakola",
+                "full_title": "Interlude by\u00a0Tiakola",
+                "header_image_thumbnail_url": "https://images.genius.com/aee5e86d73e60705b9e72e003db29b80.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/aee5e86d73e60705b9e72e003db29b80.1000x1000x1.jpg",
+                "id": 7978164,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Tiakola-interlude-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tiakola-interlude-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 27
+                },
+                "release_date_for_display": "May 27, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 27, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aee5e86d73e60705b9e72e003db29b80.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/aee5e86d73e60705b9e72e003db29b80.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 9704
+                },
+                "title": "Interlude",
+                "title_with_featured": "Interlude",
+                "url": "https://genius.com/Tiakola-interlude-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1444864",
+                    "header_image_url": "https://images.genius.com/a8167bf5c01d633cd3cfadb966e17c8d.667x1000x1.jpg",
+                    "id": 1444864,
+                    "image_url": "https://images.genius.com/66c12b098b4dcd5a9fa921fcd88db69e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tiakola",
+                    "url": "https://genius.com/artists/Tiakola"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3264960",
+                "artist_names": "4Keus Gang",
+                "full_title": "Intro by\u00a04Keus\u00a0Gang",
+                "header_image_thumbnail_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.300x300x1.png",
+                "header_image_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.499x499x1.png",
+                "id": 3264960,
+                "language": "fr",
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "complete",
+                "path": "/4keus-gang-intro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/4keus-gang-intro-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 15
+                },
+                "release_date_for_display": "February 15, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 15, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/a98192960aa39fdd5c717238e9067ca4.499x499x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Intro",
+                "title_with_featured": "Intro",
+                "url": "https://genius.com/4keus-gang-intro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/653543",
+                    "header_image_url": "https://images.genius.com/7483b8e183407516ae867df2f1a81472.828x315x1.jpg",
+                    "id": 653543,
+                    "image_url": "https://images.genius.com/6b69bab46f9bc7507fd3aa3635b36063.347x347x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus Gang",
+                    "url": "https://genius.com/artists/4keus-gang"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/3550458",
+                "artist_names": "4Keus",
+                "full_title": "Je pense by\u00a04Keus",
+                "header_image_thumbnail_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.440x440x1.jpg",
+                "id": 3550458,
+                "language": "fr",
+                "lyrics_owner_id": 4773187,
+                "lyrics_state": "complete",
+                "path": "/4keus-je-pense-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/4keus-je-pense-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 16
+                },
+                "release_date_for_display": "March 16, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 16, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a5a42d61cb0c7cefe7ac187a06304589.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 16,
+                    "hot": false,
+                    "pageviews": 28666
+                },
+                "title": "Je pense",
+                "title_with_featured": "Je pense",
+                "url": "https://genius.com/4keus-je-pense-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1285728",
+                    "header_image_url": "https://images.genius.com/5218c752ddfa3ca4e08a1113d4fc9421.1000x520x1.jpg",
+                    "id": 1285728,
+                    "image_url": "https://images.genius.com/d69788da3527adbf6d6453ba80bcd1c3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus",
+                    "url": "https://genius.com/artists/4keus"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/3794692",
+                "artist_names": "DJ Kayz (Ft. 4Keus)",
+                "full_title": "J'm'en vais by\u00a0DJ\u00a0Kayz (Ft.\u00a04Keus)",
+                "header_image_thumbnail_url": "https://images.genius.com/9d6f77a790159c65d560e0097e07271b.300x300x1.png",
+                "header_image_url": "https://images.genius.com/9d6f77a790159c65d560e0097e07271b.313x313x1.png",
+                "id": 3794692,
+                "language": "fr",
+                "lyrics_owner_id": 4773187,
+                "lyrics_state": "complete",
+                "path": "/Dj-kayz-jmen-vais-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dj-kayz-jmen-vais-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 30
+                },
+                "release_date_for_display": "June 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9d6f77a790159c65d560e0097e07271b.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/9d6f77a790159c65d560e0097e07271b.313x313x1.png",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "J\u2019m\u2019en vais",
+                "title_with_featured": "J'm'en vais (Ft.\u00a04Keus)",
+                "url": "https://genius.com/Dj-kayz-jmen-vais-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1285728",
+                        "header_image_url": "https://images.genius.com/5218c752ddfa3ca4e08a1113d4fc9421.1000x520x1.jpg",
+                        "id": 1285728,
+                        "image_url": "https://images.genius.com/d69788da3527adbf6d6453ba80bcd1c3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "4Keus",
+                        "url": "https://genius.com/artists/4keus"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/59247",
+                    "header_image_url": "https://images.genius.com/a4bbe9ad335ac167d3dea33f16d2299a.1000x333x1.jpg",
+                    "id": 59247,
+                    "image_url": "https://images.genius.com/2f194224fee5cd97aff9d21b1b28e273.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DJ Kayz",
+                    "url": "https://genius.com/artists/Dj-kayz"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7343514",
+                "artist_names": "Niska (Ft. Tiakola)",
+                "full_title": "Joe Pesci by\u00a0Niska (Ft.\u00a0Tiakola)",
+                "header_image_thumbnail_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.300x300x1.png",
+                "header_image_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.1000x1000x1.png",
+                "id": 7343514,
+                "language": "fr",
+                "lyrics_owner_id": 9722677,
+                "lyrics_state": "complete",
+                "path": "/Niska-joe-pesci-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niska-joe-pesci-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 29
+                },
+                "release_date_for_display": "October 29, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 29, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 7312
+                },
+                "title": "Joe Pesci",
+                "title_with_featured": "Joe Pesci (Ft.\u00a0Tiakola)",
+                "url": "https://genius.com/Niska-joe-pesci-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1444864",
+                        "header_image_url": "https://images.genius.com/a8167bf5c01d633cd3cfadb966e17c8d.667x1000x1.jpg",
+                        "id": 1444864,
+                        "image_url": "https://images.genius.com/66c12b098b4dcd5a9fa921fcd88db69e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tiakola",
+                        "url": "https://genius.com/artists/Tiakola"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/234413",
+                    "header_image_url": "https://images.genius.com/d0a3b9c30cc5539f50743cc806907492.1000x568x1.jpg",
+                    "id": 234413,
+                    "image_url": "https://images.genius.com/691fb1661dadafe90e6dd457cb02fdbb.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niska",
+                    "url": "https://genius.com/artists/Niska",
+                    "iq": 2319
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7347315",
+                "artist_names": "Niska (Ft. Tiakola)",
+                "full_title": "Journ\u00e9e by\u00a0Niska (Ft.\u00a0Tiakola)",
+                "header_image_thumbnail_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.300x300x1.png",
+                "header_image_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.1000x1000x1.png",
+                "id": 7347315,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Niska-journee-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niska-journee-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 11
+                },
+                "release_date_for_display": "November 11, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 11, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/baba041a1730549df6b3a804efd49478.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 11634
+                },
+                "title": "Journ\u00e9e",
+                "title_with_featured": "Journ\u00e9e (Ft.\u00a0Tiakola)",
+                "url": "https://genius.com/Niska-journee-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1444864",
+                        "header_image_url": "https://images.genius.com/a8167bf5c01d633cd3cfadb966e17c8d.667x1000x1.jpg",
+                        "id": 1444864,
+                        "image_url": "https://images.genius.com/66c12b098b4dcd5a9fa921fcd88db69e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tiakola",
+                        "url": "https://genius.com/artists/Tiakola"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/234413",
+                    "header_image_url": "https://images.genius.com/d0a3b9c30cc5539f50743cc806907492.1000x568x1.jpg",
+                    "id": 234413,
+                    "image_url": "https://images.genius.com/691fb1661dadafe90e6dd457cb02fdbb.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niska",
+                    "url": "https://genius.com/artists/Niska",
+                    "iq": 2319
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6358114",
+                "artist_names": "\u200bThe S (Ft. 4Keus)",
+                "full_title": "J'r\u00e9cup\u00e8re by\u00a0\u200bThe\u00a0S (Ft.\u00a04Keus)",
+                "header_image_thumbnail_url": "https://images.genius.com/ddc5e420b1ddabf2caab49d12c133975.300x300x1.png",
+                "header_image_url": "https://images.genius.com/ddc5e420b1ddabf2caab49d12c133975.519x519x1.png",
+                "id": 6358114,
+                "language": "fr",
+                "lyrics_owner_id": 10230741,
+                "lyrics_state": "complete",
+                "path": "/The-s-jrecupere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/The-s-jrecupere-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 15
+                },
+                "release_date_for_display": "January 15, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 15, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ddc5e420b1ddabf2caab49d12c133975.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/ddc5e420b1ddabf2caab49d12c133975.519x519x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "J\u2019r\u00e9cup\u00e8re",
+                "title_with_featured": "J'r\u00e9cup\u00e8re (Ft.\u00a04Keus)",
+                "url": "https://genius.com/The-s-jrecupere-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1285728",
+                        "header_image_url": "https://images.genius.com/5218c752ddfa3ca4e08a1113d4fc9421.1000x520x1.jpg",
+                        "id": 1285728,
+                        "image_url": "https://images.genius.com/d69788da3527adbf6d6453ba80bcd1c3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "4Keus",
+                        "url": "https://genius.com/artists/4keus"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/479473",
+                    "header_image_url": "https://images.genius.com/4de928bef96e2e3dc9d7f24a96d05fd6.1000x517x1.jpg",
+                    "id": 479473,
+                    "image_url": "https://images.genius.com/5a10a465465caede6c13d93d2c88cb89.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200bThe S",
+                    "url": "https://genius.com/artists/The-s"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5080067",
+                "artist_names": "4Keus",
+                "full_title": "J\u2019te hais by\u00a04Keus",
+                "header_image_thumbnail_url": "https://images.genius.com/9019a7683d61c4271dca867dbd66a266.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9019a7683d61c4271dca867dbd66a266.1000x1000x1.jpg",
+                "id": 5080067,
+                "language": "fr",
+                "lyrics_owner_id": 205837,
+                "lyrics_state": "complete",
+                "path": "/4keus-jte-hais-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/4keus-jte-hais-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 3
+                },
+                "release_date_for_display": "January 3, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 3, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9019a7683d61c4271dca867dbd66a266.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9019a7683d61c4271dca867dbd66a266.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 7506
+                },
+                "title": "J\u2019te hais",
+                "title_with_featured": "J\u2019te hais",
+                "url": "https://genius.com/4keus-jte-hais-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1285728",
+                    "header_image_url": "https://images.genius.com/5218c752ddfa3ca4e08a1113d4fc9421.1000x520x1.jpg",
+                    "id": 1285728,
+                    "image_url": "https://images.genius.com/d69788da3527adbf6d6453ba80bcd1c3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus",
+                    "url": "https://genius.com/artists/4keus"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/5999174",
+                "artist_names": "Gazo (Ft. Tiakola)",
+                "full_title": "KASSAV by\u00a0Gazo (Ft.\u00a0Tiakola)",
+                "header_image_thumbnail_url": "https://images.genius.com/80ac8236ec24483694ba6a12f4a8cf23.300x177x1.png",
+                "header_image_url": "https://images.genius.com/80ac8236ec24483694ba6a12f4a8cf23.1000x591x1.png",
+                "id": 5999174,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Gazo-kassav-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Gazo-kassav-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 14
+                },
+                "release_date_for_display": "January 14, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 14, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47c6fd4cb0661c95c86eb57f76aa94f5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/47c6fd4cb0661c95c86eb57f76aa94f5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 48780
+                },
+                "title": "KASSAV",
+                "title_with_featured": "KASSAV (Ft.\u00a0Tiakola)",
+                "url": "https://genius.com/Gazo-kassav-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1444864",
+                        "header_image_url": "https://images.genius.com/a8167bf5c01d633cd3cfadb966e17c8d.667x1000x1.jpg",
+                        "id": 1444864,
+                        "image_url": "https://images.genius.com/66c12b098b4dcd5a9fa921fcd88db69e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tiakola",
+                        "url": "https://genius.com/artists/Tiakola"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23012",
+                    "header_image_url": "https://images.genius.com/dc841cc69eeeb901697365b700fc4623.1000x666x1.jpg",
+                    "id": 23012,
+                    "image_url": "https://images.genius.com/b168321599dbc27cd13851a5ae090267.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gazo",
+                    "url": "https://genius.com/artists/Gazo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2863274",
+                "artist_names": "4Keus Gang",
+                "full_title": "Keblo Le by\u00a04Keus\u00a0Gang",
+                "header_image_thumbnail_url": "https://images.genius.com/d42b1ff89c7ca9fae5ff0e58d8b5235b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d42b1ff89c7ca9fae5ff0e58d8b5235b.429x429x1.jpg",
+                "id": 2863274,
+                "language": "en",
+                "lyrics_owner_id": 3753668,
+                "lyrics_state": "complete",
+                "path": "/4keus-gang-keblo-le-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/4keus-gang-keblo-le-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 16
+                },
+                "release_date_for_display": "September 16, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 16, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ccacf43e8826397f42d6be299b41cd40.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/ccacf43e8826397f42d6be299b41cd40.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 8769
+                },
+                "title": "Keblo Le",
+                "title_with_featured": "Keblo Le",
+                "url": "https://genius.com/4keus-gang-keblo-le-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/653543",
+                    "header_image_url": "https://images.genius.com/7483b8e183407516ae867df2f1a81472.828x315x1.jpg",
+                    "id": 653543,
+                    "image_url": "https://images.genius.com/6b69bab46f9bc7507fd3aa3635b36063.347x347x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus Gang",
+                    "url": "https://genius.com/artists/4keus-gang"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/4639782",
+                "artist_names": "Leto (Ft. Naza & Tiakola)",
+                "full_title": "Kiffe la mode by\u00a0Leto (Ft.\u00a0Naza & Tiakola)",
+                "header_image_thumbnail_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.600x600x1.jpg",
+                "id": 4639782,
+                "language": "en",
+                "lyrics_owner_id": 4203904,
+                "lyrics_state": "complete",
+                "path": "/Leto-kiffe-la-mode-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Leto-kiffe-la-mode-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 7212
+                },
+                "title": "Kiffe la mode",
+                "title_with_featured": "Kiffe la mode (Ft.\u00a0Naza & Tiakola)",
+                "url": "https://genius.com/Leto-kiffe-la-mode-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/399005",
+                        "header_image_url": "https://images.genius.com/9c18e6f9f9cf0c67f66429138618a0c5.400x268x1.jpg",
+                        "id": 399005,
+                        "image_url": "https://images.genius.com/9ad784628ff9d79029b1e9aa48e6812a.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naza",
+                        "url": "https://genius.com/artists/Naza"
+                    },
+                    {
+                        "api_path": "/artists/1444864",
+                        "header_image_url": "https://images.genius.com/a8167bf5c01d633cd3cfadb966e17c8d.667x1000x1.jpg",
+                        "id": 1444864,
+                        "image_url": "https://images.genius.com/66c12b098b4dcd5a9fa921fcd88db69e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tiakola",
+                        "url": "https://genius.com/artists/Tiakola"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/183940",
+                    "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                    "id": 183940,
+                    "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leto",
+                    "url": "https://genius.com/artists/Leto"
+                }
+            },
+            {
+                "annotation_count": 50,
+                "api_path": "/songs/442756",
+                "artist_names": "Alonzo",
+                "full_title": "La belle vie by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/20e998d86be1f67bc2b099f029f9b54d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/20e998d86be1f67bc2b099f029f9b54d.1000x1000x1.jpg",
+                "id": 442756,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-la-belle-vie-lyrics",
+                "pyongs_count": 29,
+                "relationships_index_url": "https://genius.com/Alonzo-la-belle-vie-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 1
+                },
+                "release_date_for_display": "June 1, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 1, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/20e998d86be1f67bc2b099f029f9b54d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/20e998d86be1f67bc2b099f029f9b54d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 175159
+                },
+                "title": "La belle vie",
+                "title_with_featured": "La belle vie",
+                "url": "https://genius.com/Alonzo-la-belle-vie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7354033",
+                "artist_names": "4Keus",
+                "full_title": "La calle by\u00a04Keus",
+                "header_image_thumbnail_url": "https://images.genius.com/ee621c10dc0f434870d9a09c0ec6db6b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ee621c10dc0f434870d9a09c0ec6db6b.500x500x1.jpg",
+                "id": 7354033,
+                "language": "fr",
+                "lyrics_owner_id": 4331784,
+                "lyrics_state": "complete",
+                "path": "/4keus-la-calle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/4keus-la-calle-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 5
+                },
+                "release_date_for_display": "November 5, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 5, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ee621c10dc0f434870d9a09c0ec6db6b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ee621c10dc0f434870d9a09c0ec6db6b.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La calle",
+                "title_with_featured": "La calle",
+                "url": "https://genius.com/4keus-la-calle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1285728",
+                    "header_image_url": "https://images.genius.com/5218c752ddfa3ca4e08a1113d4fc9421.1000x520x1.jpg",
+                    "id": 1285728,
+                    "image_url": "https://images.genius.com/d69788da3527adbf6d6453ba80bcd1c3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "4Keus",
+                    "url": "https://genius.com/artists/4keus"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/7515482",
+                "artist_names": "Tiakola",
+                "full_title": "La cl\u00e9 by\u00a0Tiakola",
+                "header_image_thumbnail_url": "https://images.genius.com/34af58e6f97f7cb1e3b427d60767c153.300x164x1.jpg",
+                "header_image_url": "https://images.genius.com/34af58e6f97f7cb1e3b427d60767c153.720x393x1.jpg",
+                "id": 7515482,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Tiakola-la-cle-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Tiakola-la-cle-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 12,
+                    "day": 23
+                },
+                "release_date_for_display": "December 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Dec. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/edb928c3f23c88f6ec3831baf676a2b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/edb928c3f23c88f6ec3831baf676a2b7.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 15472
+                },
+                "title": "La cl\u00e9",
+                "title_with_featured": "La cl\u00e9",
+                "url": "https://genius.com/Tiakola-la-cle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1444864",
+                    "header_image_url": "https://images.genius.com/a8167bf5c01d633cd3cfadb966e17c8d.667x1000x1.jpg",
+                    "id": 1444864,
+                    "image_url": "https://images.genius.com/66c12b098b4dcd5a9fa921fcd88db69e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tiakola",
+                    "url": "https://genius.com/artists/Tiakola"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5220748",
+                "artist_names": "Yaro (Ft. 4Keus)",
+                "full_title": "La gal\u00e8re by\u00a0Yaro (Ft.\u00a04Keus)",
+                "header_image_thumbnail_url": "https://images.genius.com/a656aaa2abc33b13ad87f2e2e920fe26.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/a656aaa2abc33b13ad87f2e2e920fe26.480x360x1.jpg",
+                "id": 5220748,
+                "language": "en",
+                "lyrics_owner_id": 4619745,
+                "lyrics_state": "complete",
+                "path": "/Yaro-la-galere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Yaro-la-galere-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 14
+                },
+                "release_date_for_display": "February 14, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 14, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b74ba02c5ebecde16990477b2a341d7f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b74ba02c5ebecde16990477b2a341d7f.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La gal\u00e8re",
+                "title_with_featured": "La gal\u00e8re (Ft.\u00a04Keus)",
+                "url": "https://genius.com/Yaro-la-galere-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1285728",
+                        "header_image_url": "https://images.genius.com/5218c752ddfa3ca4e08a1113d4fc9421.1000x520x1.jpg",
+                        "id": 1285728,
+                        "image_url": "https://images.genius.com/d69788da3527adbf6d6453ba80bcd1c3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "4Keus",
+                        "url": "https://genius.com/artists/4keus"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/141729",
+                    "header_image_url": "https://images.genius.com/f90a6e703dd2506ae42754ec4faf1c6c.1000x563x1.jpg",
+                    "id": 141729,
+                    "image_url": "https://images.genius.com/6fdafa95e559b25d324aeee9a8adc899.318x318x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Yaro",
+                    "url": "https://genius.com/artists/Yaro"
+                }
+            }
+        ],
+        "next_page": 6
+    }
+}

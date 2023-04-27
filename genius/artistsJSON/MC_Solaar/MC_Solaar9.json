@@ -1,0 +1,941 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3037903",
+                "artist_names": "MC Solaar (Ft. Black Jack (D\u00e9mocrate D), MC Carlos, Melopheelo & Willy Roots)",
+                "full_title": "Represent (in\u00e9dit) by\u00a0MC\u00a0Solaar (Ft.\u00a0Black\u00a0Jack (D\u00e9mocrate D), MC\u00a0Carlos, Melopheelo & Willy\u00a0Roots)",
+                "header_image_thumbnail_url": "https://images.genius.com/87cb4681c4f03f4442eb95777661514a.300x265x1.jpg",
+                "header_image_url": "https://images.genius.com/87cb4681c4f03f4442eb95777661514a.600x530x1.jpg",
+                "id": 3037903,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-represent-inedit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-represent-inedit-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 1995",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 1995",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87cb4681c4f03f4442eb95777661514a.300x265x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87cb4681c4f03f4442eb95777661514a.600x530x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Represent (in\u00e9dit)",
+                "title_with_featured": "Represent (in\u00e9dit) (Ft.\u00a0Black\u00a0Jack (D\u00e9mocrate D), MC\u00a0Carlos, Melopheelo & Willy\u00a0Roots)",
+                "url": "https://genius.com/Mc-solaar-represent-inedit-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1040457",
+                        "header_image_url": "https://images.genius.com/30290549945735dfd1bbd021b04cf7a8.514x514x1.jpg",
+                        "id": 1040457,
+                        "image_url": "https://images.genius.com/30290549945735dfd1bbd021b04cf7a8.514x514x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Black Jack (D\u00e9mocrate D)",
+                        "url": "https://genius.com/artists/Black-jack-democrate-d"
+                    },
+                    {
+                        "api_path": "/artists/1040275",
+                        "header_image_url": "https://images.genius.com/93367dde838ef8da5e7acbb8d4b44457.214x214x1.jpg",
+                        "id": 1040275,
+                        "image_url": "https://images.genius.com/93367dde838ef8da5e7acbb8d4b44457.214x214x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Carlos",
+                        "url": "https://genius.com/artists/Mc-carlos"
+                    },
+                    {
+                        "api_path": "/artists/1109676",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1109676,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Willy Roots",
+                        "url": "https://genius.com/artists/Willy-roots"
+                    },
+                    {
+                        "api_path": "/artists/18441",
+                        "header_image_url": "https://images.genius.com/64a3e16524ca6e8e186a7ec7726a1798.1000x405x1.jpg",
+                        "id": 18441,
+                        "image_url": "https://images.genius.com/e104ab4b7db7726a24fd13b4e002b77c.297x297x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Melopheelo",
+                        "url": "https://genius.com/artists/Melopheelo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/61857",
+                "artist_names": "MC Solaar",
+                "full_title": "RMI by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "id": 61857,
+                "language": "fr",
+                "lyrics_owner_id": 58507,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-rmi-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Mc-solaar-rmi-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 10,
+                    "day": 30
+                },
+                "release_date_for_display": "October 30, 2001",
+                "release_date_with_abbreviated_month_for_display": "Oct. 30, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 51890
+                },
+                "title": "RMI",
+                "title_with_featured": "RMI",
+                "url": "https://genius.com/Mc-solaar-rmi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/6280583",
+                "artist_names": "Ashh (Ft. MC Solaar)",
+                "full_title": "ROUGE by\u00a0Ashh (Ft.\u00a0MC\u00a0Solaar)",
+                "header_image_thumbnail_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.1000x1000x1.jpg",
+                "id": 6280583,
+                "language": "fr",
+                "lyrics_owner_id": 4781092,
+                "lyrics_state": "complete",
+                "path": "/Ashh-rouge-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ashh-rouge-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 29
+                },
+                "release_date_for_display": "January 29, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 29, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "ROUGE",
+                "title_with_featured": "ROUGE (Ft.\u00a0MC\u00a0Solaar)",
+                "url": "https://genius.com/Ashh-rouge-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1310",
+                        "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                        "id": 1310,
+                        "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Solaar",
+                        "url": "https://genius.com/artists/Mc-solaar"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/340886",
+                    "header_image_url": "https://images.genius.com/9aa0a61540b67da896c074e6938998b3.500x331x1.jpg",
+                    "id": 340886,
+                    "image_url": "https://images.genius.com/7022a0ec74d98d8686ca78643a572bb8.478x478x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ashh",
+                    "url": "https://genius.com/artists/Ashh"
+                }
+            },
+            {
+                "annotation_count": 31,
+                "api_path": "/songs/64878",
+                "artist_names": "MC Solaar",
+                "full_title": "Samedi Soir (sur un banc) by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "id": 64878,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-samedi-soir-sur-un-banc-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-samedi-soir-sur-un-banc-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2001",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Samedi Soir (sur un banc)",
+                "title_with_featured": "Samedi Soir (sur un banc)",
+                "url": "https://genius.com/Mc-solaar-samedi-soir-sur-un-banc-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/379305",
+                "artist_names": "MC Solaar",
+                "full_title": "Sauvez le monde by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.700x700x1.jpg",
+                "id": 379305,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-sauvez-le-monde-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-sauvez-le-monde-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2003",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false,
+                    "pageviews": 5195
+                },
+                "title": "Sauvez le monde",
+                "title_with_featured": "Sauvez le monde",
+                "url": "https://genius.com/Mc-solaar-sauvez-le-monde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/2996189",
+                "artist_names": "MC Solaar",
+                "full_title": "Sentinel Nord by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/9939a5d83c9cfd11e7a247145e08a1ff.300x261x1.png",
+                "header_image_url": "https://images.genius.com/9939a5d83c9cfd11e7a247145e08a1ff.1000x871x1.png",
+                "id": 2996189,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-sentinel-nord-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-sentinel-nord-sample",
+                "release_date_components": {
+                    "year": 1994,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1994",
+                "release_date_with_abbreviated_month_for_display": "1994",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9939a5d83c9cfd11e7a247145e08a1ff.300x261x1.png",
+                "song_art_image_url": "https://images.genius.com/9939a5d83c9cfd11e7a247145e08a1ff.1000x871x1.png",
+                "stats": {
+                    "unreviewed_annotations": 23,
+                    "hot": false
+                },
+                "title": "Sentinel Nord",
+                "title_with_featured": "Sentinel Nord",
+                "url": "https://genius.com/Mc-solaar-sentinel-nord-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/59687",
+                "artist_names": "MC Solaar",
+                "full_title": "Sequelles by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/fc6dac5797cf50062ee091a6314d5945.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fc6dac5797cf50062ee091a6314d5945.600x600x1.jpg",
+                "id": 59687,
+                "language": "fr",
+                "lyrics_owner_id": 50438,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-sequelles-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Mc-solaar-sequelles-sample",
+                "release_date_components": {
+                    "year": 1994,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 1994",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 1994",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fc6dac5797cf50062ee091a6314d5945.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fc6dac5797cf50062ee091a6314d5945.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 15900
+                },
+                "title": "Sequelles",
+                "title_with_featured": "Sequelles",
+                "url": "https://genius.com/Mc-solaar-sequelles-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/85944",
+                "artist_names": "MC Solaar (Ft. Black Jack (D\u00e9mocrate D))",
+                "full_title": "Si je meurs ce soir by\u00a0MC\u00a0Solaar (Ft.\u00a0Black\u00a0Jack (D\u00e9mocrate D))",
+                "header_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "id": 85944,
+                "language": "fr",
+                "lyrics_owner_id": 72797,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-si-je-meurs-ce-soir-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Mc-solaar-si-je-meurs-ce-soir-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2001",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 6918
+                },
+                "title": "Si je meurs ce soir",
+                "title_with_featured": "Si je meurs ce soir (Ft.\u00a0Black\u00a0Jack (D\u00e9mocrate D))",
+                "url": "https://genius.com/Mc-solaar-si-je-meurs-ce-soir-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1040457",
+                        "header_image_url": "https://images.genius.com/30290549945735dfd1bbd021b04cf7a8.514x514x1.jpg",
+                        "id": 1040457,
+                        "image_url": "https://images.genius.com/30290549945735dfd1bbd021b04cf7a8.514x514x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Black Jack (D\u00e9mocrate D)",
+                        "url": "https://genius.com/artists/Black-jack-democrate-d"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/87680",
+                "artist_names": "MC Solaar (Ft. Bambi Cruz)",
+                "full_title": "Si on t'demande by\u00a0MC\u00a0Solaar (Ft.\u00a0Bambi\u00a0Cruz)",
+                "header_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "id": 87680,
+                "language": "fr",
+                "lyrics_owner_id": 85492,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-si-on-tdemande-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-si-on-tdemande-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Si on t\u2019demande",
+                "title_with_featured": "Si on t'demande (Ft.\u00a0Bambi\u00a0Cruz)",
+                "url": "https://genius.com/Mc-solaar-si-on-tdemande-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/28788",
+                        "header_image_url": "https://images.genius.com/80aa5418a6323e46961c959f9a3fadec.506x506x1.jpg",
+                        "id": 28788,
+                        "image_url": "https://images.genius.com/80aa5418a6323e46961c959f9a3fadec.506x506x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bambi Cruz",
+                        "url": "https://genius.com/artists/Bambi-cruz"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 58,
+                "api_path": "/songs/53998",
+                "artist_names": "MC Solaar",
+                "full_title": "Solaar pleure by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/2ea6d090d8afd531384da722828b0417.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2ea6d090d8afd531384da722828b0417.300x300x1.jpg",
+                "id": 53998,
+                "language": "fr",
+                "lyrics_owner_id": 15951,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-solaar-pleure-lyrics",
+                "pyongs_count": 15,
+                "relationships_index_url": "https://genius.com/Mc-solaar-solaar-pleure-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 1,
+                    "day": 16
+                },
+                "release_date_for_display": "January 16, 2001",
+                "release_date_with_abbreviated_month_for_display": "Jan. 16, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2ea6d090d8afd531384da722828b0417.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2ea6d090d8afd531384da722828b0417.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 19,
+                    "hot": false,
+                    "pageviews": 164987
+                },
+                "title": "Solaar pleure",
+                "title_with_featured": "Solaar pleure",
+                "url": "https://genius.com/Mc-solaar-solaar-pleure-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/289884",
+                "artist_names": "MC Solaar",
+                "full_title": "Solaar Pleure II by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                "id": 289884,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-solaar-pleure-ii-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Mc-solaar-solaar-pleure-ii-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2011",
+                "release_date_with_abbreviated_month_for_display": "2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 8675
+                },
+                "title": "Solaar Pleure II",
+                "title_with_featured": "Solaar Pleure II",
+                "url": "https://genius.com/Mc-solaar-solaar-pleure-ii-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2001066",
+                "artist_names": "MC Solaar",
+                "full_title": "Solaar pleure - version symphonique by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/1822ea52be3609a432b3111b7b6ca656.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1822ea52be3609a432b3111b7b6ca656.499x499x1.jpg",
+                "id": 2001066,
+                "language": "fr",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-solaar-pleure-version-symphonique-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-solaar-pleure-version-symphonique-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1822ea52be3609a432b3111b7b6ca656.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1822ea52be3609a432b3111b7b6ca656.499x499x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Solaar pleure - version symphonique",
+                "title_with_featured": "Solaar pleure - version symphonique",
+                "url": "https://genius.com/Mc-solaar-solaar-pleure-version-symphonique-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3022789",
+                "artist_names": "MC Solaar",
+                "full_title": "Solaar Power by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/974bec8ef5418e17b9dbcb2ae0e073a2.300x303x1.jpg",
+                "header_image_url": "https://images.genius.com/974bec8ef5418e17b9dbcb2ae0e073a2.400x404x1.jpg",
+                "id": 3022789,
+                "language": "en",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-solaar-power-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-solaar-power-sample",
+                "release_date_components": {
+                    "year": 1994,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 1994",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 1994",
+                "song_art_image_thumbnail_url": "https://images.genius.com/974bec8ef5418e17b9dbcb2ae0e073a2.300x303x1.jpg",
+                "song_art_image_url": "https://images.genius.com/974bec8ef5418e17b9dbcb2ae0e073a2.400x404x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Solaar Power",
+                "title_with_featured": "Solaar Power",
+                "url": "https://genius.com/Mc-solaar-solaar-power-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 44,
+                "api_path": "/songs/3219566",
+                "artist_names": "MC Solaar",
+                "full_title": "Sonotone by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/2a613dd922460f3ebbf097be0ae6b624.300x299x1.jpg",
+                "header_image_url": "https://images.genius.com/2a613dd922460f3ebbf097be0ae6b624.1000x996x1.jpg",
+                "id": 3219566,
+                "language": "fr",
+                "lyrics_owner_id": 1788367,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-sonotone-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Mc-solaar-sonotone-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 1
+                },
+                "release_date_for_display": "September 1, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 1, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2a613dd922460f3ebbf097be0ae6b624.300x299x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2a613dd922460f3ebbf097be0ae6b624.1000x996x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 28136
+                },
+                "title": "Sonotone",
+                "title_with_featured": "Sonotone",
+                "url": "https://genius.com/Mc-solaar-sonotone-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/89519",
+                "artist_names": "MC Solaar (Ft. Black Jack (D\u00e9mocrate D))",
+                "full_title": "Sous les palmiers by\u00a0MC\u00a0Solaar (Ft.\u00a0Black\u00a0Jack (D\u00e9mocrate D))",
+                "header_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "id": 89519,
+                "language": "fr",
+                "lyrics_owner_id": 85492,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-sous-les-palmiers-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-sous-les-palmiers-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Sous les palmiers",
+                "title_with_featured": "Sous les palmiers (Ft.\u00a0Black\u00a0Jack (D\u00e9mocrate D))",
+                "url": "https://genius.com/Mc-solaar-sous-les-palmiers-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1040457",
+                        "header_image_url": "https://images.genius.com/30290549945735dfd1bbd021b04cf7a8.514x514x1.jpg",
+                        "id": 1040457,
+                        "image_url": "https://images.genius.com/30290549945735dfd1bbd021b04cf7a8.514x514x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Black Jack (D\u00e9mocrate D)",
+                        "url": "https://genius.com/artists/Black-jack-democrate-d"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/379303",
+                "artist_names": "MC Solaar",
+                "full_title": "Souvenir by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.700x700x1.jpg",
+                "id": 379303,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-souvenir-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-souvenir-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2003",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Souvenir",
+                "title_with_featured": "Souvenir",
+                "url": "https://genius.com/Mc-solaar-souvenir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6280581",
+                "artist_names": "Ashh",
+                "full_title": "STELAR by\u00a0Ashh",
+                "header_image_thumbnail_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.1000x1000x1.jpg",
+                "id": 6280581,
+                "language": "fr",
+                "lyrics_owner_id": 4489822,
+                "lyrics_state": "complete",
+                "path": "/Ashh-stelar-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ashh-stelar-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 29
+                },
+                "release_date_for_display": "January 29, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 29, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fcf9bfd1f907a96a51b7a3eec1a883fb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "STELAR",
+                "title_with_featured": "STELAR",
+                "url": "https://genius.com/Ashh-stelar-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/340886",
+                    "header_image_url": "https://images.genius.com/9aa0a61540b67da896c074e6938998b3.500x331x1.jpg",
+                    "id": 340886,
+                    "image_url": "https://images.genius.com/7022a0ec74d98d8686ca78643a572bb8.478x478x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ashh",
+                    "url": "https://genius.com/artists/Ashh"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/3219611",
+                "artist_names": "MC Solaar (Ft. Maureen Angot)",
+                "full_title": "Super Gainsbarre by\u00a0MC\u00a0Solaar (Ft.\u00a0Maureen\u00a0Angot)",
+                "header_image_thumbnail_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.960x960x1.jpg",
+                "id": 3219611,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-super-gainsbarre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-super-gainsbarre-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 3
+                },
+                "release_date_for_display": "November 3, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 3, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Super Gainsbarre",
+                "title_with_featured": "Super Gainsbarre (Ft.\u00a0Maureen\u00a0Angot)",
+                "url": "https://genius.com/Mc-solaar-super-gainsbarre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1208177",
+                        "header_image_url": "https://images.genius.com/626d32a9a170954df297709e1f8245e8.425x425x1.jpg",
+                        "id": 1208177,
+                        "image_url": "https://images.genius.com/626d32a9a170954df297709e1f8245e8.425x425x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Maureen Angot",
+                        "url": "https://genius.com/artists/Maureen-angot"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/31138",
+                "artist_names": "MC Solaar",
+                "full_title": "Superstarr by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "id": 31138,
+                "language": "fr",
+                "lyrics_owner_id": 50,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-superstarr-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-superstarr-sample",
+                "release_date_components": {
+                    "year": 1994,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 1994",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 1994",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Superstarr",
+                "title_with_featured": "Superstarr",
+                "url": "https://genius.com/Mc-solaar-superstarr-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/137039",
+                "artist_names": "MC Solaar",
+                "full_title": "Temps Mort by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "id": 137039,
+                "language": "fr",
+                "lyrics_owner_id": 173883,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-temps-mort-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-temps-mort-sample",
+                "release_date_components": {
+                    "year": 1994,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 1994",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 1994",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Temps Mort",
+                "title_with_featured": "Temps Mort",
+                "url": "https://genius.com/Mc-solaar-temps-mort-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            }
+        ],
+        "next_page": 10
+    }
+}

@@ -1,0 +1,979 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/455546",
+                "artist_names": "Pi\u00e8ge de Freestyle (Ft. A2H, Cheeko, DAZ INI, El Deterr, Kohndo & MC Kombo)",
+                "full_title": "#16 \"Clashback\" by\u00a0Pi\u00e8ge\u00a0de Freestyle (Ft.\u00a0A2H, Cheeko, DAZ\u00a0INI, El\u00a0Deterr, Kohndo & MC\u00a0Kombo)",
+                "header_image_thumbnail_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.300x235x1.jpg",
+                "header_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                "id": 455546,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Piege-de-freestyle-16-clashback-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Piege-de-freestyle-16-clashback-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 3,
+                    "day": 19
+                },
+                "release_date_for_display": "March 19, 2013",
+                "release_date_with_abbreviated_month_for_display": "Mar. 19, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.300x235x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "#16 \u201cClashback\u201d",
+                "title_with_featured": "#16 \"Clashback\" (Ft.\u00a0A2H, Cheeko, DAZ\u00a0INI, El\u00a0Deterr, Kohndo & MC\u00a0Kombo)",
+                "url": "https://genius.com/Piege-de-freestyle-16-clashback-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/172187",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 172187,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "El Deterr",
+                        "url": "https://genius.com/artists/El-deterr"
+                    },
+                    {
+                        "api_path": "/artists/21249",
+                        "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                        "id": 21249,
+                        "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kohndo",
+                        "url": "https://genius.com/artists/Kohndo"
+                    },
+                    {
+                        "api_path": "/artists/36368",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 36368,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DAZ INI",
+                        "url": "https://genius.com/artists/Daz-ini"
+                    },
+                    {
+                        "api_path": "/artists/53889",
+                        "header_image_url": "https://images.genius.com/321927601f53bc8bec84fead59a897fe.960x960x1.png",
+                        "id": 53889,
+                        "image_url": "https://images.genius.com/321927601f53bc8bec84fead59a897fe.960x960x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cheeko",
+                        "url": "https://genius.com/artists/Cheeko"
+                    },
+                    {
+                        "api_path": "/artists/14415",
+                        "header_image_url": "https://images.genius.com/f8a7138566a0d77550beb4310c26f87c.594x366x1.png",
+                        "id": 14415,
+                        "image_url": "https://images.genius.com/af80bc3992fcf83a6dfb532877d4f24d.531x531x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "A2H",
+                        "url": "https://genius.com/artists/A2h",
+                        "iq": 1166
+                    },
+                    {
+                        "api_path": "/artists/3436816",
+                        "header_image_url": "https://images.genius.com/183dbc795b8e4d1cc5e1c170c031c812.639x639x1.jpg",
+                        "id": 3436816,
+                        "image_url": "https://images.genius.com/183dbc795b8e4d1cc5e1c170c031c812.639x639x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Kombo",
+                        "url": "https://genius.com/artists/Mc-kombo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/17713",
+                    "header_image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                    "id": 17713,
+                    "image_url": "https://images.genius.com/e4f6c7b8f43a690c3f24e741ddd1cfd4.583x456x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pi\u00e8ge de Freestyle",
+                    "url": "https://genius.com/artists/Piege-de-freestyle"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8430509",
+                "artist_names": "Kohndo",
+                "full_title": "17 \u00e2mes \u00e0 la d\u00e9rive by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/5be66c1d18c5776284a460242f85ea85.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5be66c1d18c5776284a460242f85ea85.1000x1000x1.jpg",
+                "id": 8430509,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-17-ames-a-la-derive-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-17-ames-a-la-derive-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5be66c1d18c5776284a460242f85ea85.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5be66c1d18c5776284a460242f85ea85.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "17 \u00e2mes \u00e0 la d\u00e9rive",
+                "title_with_featured": "17 \u00e2mes \u00e0 la d\u00e9rive",
+                "url": "https://genius.com/Kohndo-17-ames-a-la-derive-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2414004",
+                "artist_names": "Kohndo",
+                "full_title": "9m2 by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "id": 2414004,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-9m2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-9m2-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 12
+                },
+                "release_date_for_display": "January 12, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 12, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "9m2",
+                "title_with_featured": "9m2",
+                "url": "https://genius.com/Kohndo-9m2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6546154",
+                "artist_names": "Kohndo",
+                "full_title": "Amours et peines by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.1000x1000x1.jpg",
+                "id": 6546154,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-amours-et-peines-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-amours-et-peines-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2003",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Amours et peines",
+                "title_with_featured": "Amours et peines",
+                "url": "https://genius.com/Kohndo-amours-et-peines-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6546151",
+                "artist_names": "Kohndo",
+                "full_title": "Atmosph\u00e8re by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.1000x1000x1.jpg",
+                "id": 6546151,
+                "language": null,
+                "lyrics_owner_id": 2580227,
+                "lyrics_state": "incomplete",
+                "path": "/Kohndo-atmosphere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-atmosphere-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2003",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Atmosph\u00e8re",
+                "title_with_featured": "Atmosph\u00e8re",
+                "url": "https://genius.com/Kohndo-atmosphere-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/104067",
+                "artist_names": "N.A.P. (Ft. Kohndo)",
+                "full_title": "Au sommet de Paris by\u00a0N.A.P. (Ft.\u00a0Kohndo)",
+                "header_image_thumbnail_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.500x500x1.jpg",
+                "id": 104067,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Nap-au-sommet-de-paris-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nap-au-sommet-de-paris-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1998",
+                "release_date_with_abbreviated_month_for_display": "1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f3bf99edfc9b0351309b68f6ca24791.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Au sommet de Paris",
+                "title_with_featured": "Au sommet de Paris (Ft.\u00a0Kohndo)",
+                "url": "https://genius.com/Nap-au-sommet-de-paris-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21249",
+                        "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                        "id": 21249,
+                        "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kohndo",
+                        "url": "https://genius.com/artists/Kohndo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13693",
+                    "header_image_url": "https://images.genius.com/24d02e345afbf6843c518ec086738d0f.400x286x1.jpg",
+                    "id": 13693,
+                    "image_url": "https://images.genius.com/24d02e345afbf6843c518ec086738d0f.400x286x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "N.A.P.",
+                    "url": "https://genius.com/artists/Nap"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2797583",
+                "artist_names": "Kohndo",
+                "full_title": "Bad Trip by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "id": 2797583,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-bad-trip-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-bad-trip-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 4,
+                    "day": 15
+                },
+                "release_date_for_display": "April 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "Apr. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bad Trip",
+                "title_with_featured": "Bad Trip",
+                "url": "https://genius.com/Kohndo-bad-trip-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5494087",
+                "artist_names": "Kohndo",
+                "full_title": "Bordel by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.901x901x1.jpg",
+                "id": 5494087,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-bordel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-bordel-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 5,
+                    "day": 17
+                },
+                "release_date_for_display": "May 17, 2011",
+                "release_date_with_abbreviated_month_for_display": "May. 17, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.901x901x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bordel",
+                "title_with_featured": "Bordel",
+                "url": "https://genius.com/Kohndo-bordel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2423684",
+                "artist_names": "Kohndo",
+                "full_title": "Comme des particules by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "id": 2423684,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-comme-des-particules-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-comme-des-particules-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2016",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Comme des particules",
+                "title_with_featured": "Comme des particules",
+                "url": "https://genius.com/Kohndo-comme-des-particules-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5438311",
+                "artist_names": "Kohndo",
+                "full_title": "Comme toi by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.901x901x1.jpg",
+                "id": 5438311,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-comme-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-comme-toi-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 5,
+                    "day": 17
+                },
+                "release_date_for_display": "May 17, 2011",
+                "release_date_with_abbreviated_month_for_display": "May. 17, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7b802d04d308b976eb01cbfd35b732e3.901x901x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Comme toi",
+                "title_with_featured": "Comme toi",
+                "url": "https://genius.com/Kohndo-comme-toi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/361627",
+                "artist_names": "La Cliqua (Ft. Lyon S (3 Coups))",
+                "full_title": "Con\u00e7u pour durer by\u00a0La\u00a0Cliqua (Ft.\u00a0Lyon\u00a0S (3 Coups))",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/9785594611a0ecc09bdf7baf62ae1d5b.300x306x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/9785594611a0ecc09bdf7baf62ae1d5b.952x971x1.jpg",
+                "id": 361627,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/La-cliqua-concu-pour-durer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-cliqua-concu-pour-durer-sample",
+                "release_date_components": {
+                    "year": 1995,
+                    "month": 6,
+                    "day": 14
+                },
+                "release_date_for_display": "June 14, 1995",
+                "release_date_with_abbreviated_month_for_display": "Jun. 14, 1995",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/9785594611a0ecc09bdf7baf62ae1d5b.300x306x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/9785594611a0ecc09bdf7baf62ae1d5b.952x971x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Con\u00e7u pour durer",
+                "title_with_featured": "Con\u00e7u pour durer (Ft.\u00a0Lyon\u00a0S (3 Coups))",
+                "url": "https://genius.com/La-cliqua-concu-pour-durer-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1998831",
+                        "header_image_url": "https://images.genius.com/3a482456b97c6e645fe790b8b635f8c2.750x750x1.png",
+                        "id": 1998831,
+                        "image_url": "https://images.genius.com/3a482456b97c6e645fe790b8b635f8c2.750x750x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lyon S (3 Coups)",
+                        "url": "https://genius.com/artists/Lyon-s-3-coups"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2061",
+                    "header_image_url": "https://images.genius.com/2916811e58239282339698986edc0f03.1000x563x1.jpg",
+                    "id": 2061,
+                    "image_url": "https://images.genius.com/2199a4bcee949ade918186b87f2f6eda.350x372x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Cliqua",
+                    "url": "https://genius.com/artists/La-cliqua"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6546153",
+                "artist_names": "Kohndo",
+                "full_title": "D\u00e9dicaces by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.1000x1000x1.jpg",
+                "id": 6546153,
+                "language": null,
+                "lyrics_owner_id": 2580227,
+                "lyrics_state": "incomplete",
+                "path": "/Kohndo-dedicaces-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-dedicaces-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2003",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5bed9e440fbca051730b3162273ad074.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "D\u00e9dicaces",
+                "title_with_featured": "D\u00e9dicaces",
+                "url": "https://genius.com/Kohndo-dedicaces-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2423696",
+                "artist_names": "Kohndo",
+                "full_title": "Demain, le jour by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "id": 2423696,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-demain-le-jour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-demain-le-jour-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2016",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Demain, le jour",
+                "title_with_featured": "Demain, le jour",
+                "url": "https://genius.com/Kohndo-demain-le-jour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2421767",
+                "artist_names": "Kohndo",
+                "full_title": "Des voix dans ma t\u00eate by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "id": 2421767,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-des-voix-dans-ma-tete-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-des-voix-dans-ma-tete-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2016",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/51fce8adca14b21fc6ed40d6d36aa44b.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Des voix dans ma t\u00eate",
+                "title_with_featured": "Des voix dans ma t\u00eate",
+                "url": "https://genius.com/Kohndo-des-voix-dans-ma-tete-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2797576",
+                "artist_names": "Kohndo (Ft. Insight)",
+                "full_title": "Deux pieds sur Terre / Stick to ground by\u00a0Kohndo (Ft.\u00a0Insight)",
+                "header_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "id": 2797576,
+                "language": "en",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-deux-pieds-sur-terre-stick-to-ground-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-deux-pieds-sur-terre-stick-to-ground-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 4,
+                    "day": 15
+                },
+                "release_date_for_display": "April 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "Apr. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Deux pieds sur Terre / Stick to ground",
+                "title_with_featured": "Deux pieds sur Terre / Stick to ground (Ft.\u00a0Insight)",
+                "url": "https://genius.com/Kohndo-deux-pieds-sur-terre-stick-to-ground-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/6665",
+                        "header_image_url": "https://images.genius.com/98606b93fbb35190f11d286af7127399.378x355x1.jpg",
+                        "id": 6665,
+                        "image_url": "https://images.genius.com/98606b93fbb35190f11d286af7127399.378x355x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Insight",
+                        "url": "https://genius.com/artists/Insight"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2576732",
+                "artist_names": "Kohndo (Ft. Slum Village)",
+                "full_title": "Dis-moi ce qu'elles veulent by\u00a0Kohndo (Ft.\u00a0Slum\u00a0Village)",
+                "header_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "id": 2576732,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-dis-moi-ce-quelles-veulent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-dis-moi-ce-quelles-veulent-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 4,
+                    "day": 15
+                },
+                "release_date_for_display": "April 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "Apr. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dis-moi ce qu\u2019elles veulent",
+                "title_with_featured": "Dis-moi ce qu'elles veulent (Ft.\u00a0Slum\u00a0Village)",
+                "url": "https://genius.com/Kohndo-dis-moi-ce-quelles-veulent-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/688",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/slum_village.jpg",
+                        "id": 688,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/slum_village.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Slum Village",
+                        "url": "https://genius.com/artists/Slum-village",
+                        "iq": 624
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5437436",
+                "artist_names": "Kohndo (Ft. Brian \"JR Ewing\" Lucas)",
+                "full_title": "Don't let me down by\u00a0Kohndo (Ft.\u00a0Brian\u00a0\"JR Ewing\" Lucas)",
+                "header_image_thumbnail_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.721x721x1.jpg",
+                "id": 5437436,
+                "language": "en",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-dont-let-me-down-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-dont-let-me-down-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 10,
+                    "day": 12
+                },
+                "release_date_for_display": "October 12, 2009",
+                "release_date_with_abbreviated_month_for_display": "Oct. 12, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/599d085ac2c296766f976a4d85479c31.721x721x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Don\u2019t let me down",
+                "title_with_featured": "Don't let me down (Ft.\u00a0Brian\u00a0\"JR Ewing\" Lucas)",
+                "url": "https://genius.com/Kohndo-dont-let-me-down-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2905340",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2905340,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Brian \u201cJR Ewing\u201d Lucas",
+                        "url": "https://genius.com/artists/Brian-jr-ewing-lucas"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2576728",
+                "artist_names": "Kohndo",
+                "full_title": "D'un mot \u00e0 l'autre by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "id": 2576728,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-dun-mot-a-lautre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-dun-mot-a-lautre-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 4,
+                    "day": 15
+                },
+                "release_date_for_display": "April 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "Apr. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ce5a46d1a20bcd3682b08d9acc6b6a35.400x401x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "D\u2019un mot \u00e0 l\u2019autre",
+                "title_with_featured": "D'un mot \u00e0 l'autre",
+                "url": "https://genius.com/Kohndo-dun-mot-a-lautre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/8546025",
+                "artist_names": "Kohndo",
+                "full_title": "Du rire aux larmes by\u00a0Kohndo",
+                "header_image_thumbnail_url": "https://images.genius.com/5fb057b580009149a94bbf4d61f60ffd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5fb057b580009149a94bbf4d61f60ffd.1000x1000x1.jpg",
+                "id": 8546025,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Kohndo-du-rire-aux-larmes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kohndo-du-rire-aux-larmes-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2022",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fb057b580009149a94bbf4d61f60ffd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fb057b580009149a94bbf4d61f60ffd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Du rire aux larmes",
+                "title_with_featured": "Du rire aux larmes",
+                "url": "https://genius.com/Kohndo-du-rire-aux-larmes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/21249",
+                    "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                    "id": 21249,
+                    "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kohndo",
+                    "url": "https://genius.com/artists/Kohndo"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/258869",
+                "artist_names": "Hocus Pocus (Ft. Kohndo)",
+                "full_title": "Du sable sur les paupi\u00e8res by\u00a0Hocus\u00a0Pocus (Ft.\u00a0Kohndo)",
+                "header_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "id": 258869,
+                "language": null,
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Hocus-pocus-du-sable-sur-les-paupieres-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hocus-pocus-du-sable-sur-les-paupieres-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 12,
+                    "day": 26
+                },
+                "release_date_for_display": "December 26, 2006",
+                "release_date_with_abbreviated_month_for_display": "Dec. 26, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ca633aa775bce5d77e727651354bbfbc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Du sable sur les paupi\u00e8res",
+                "title_with_featured": "Du sable sur les paupi\u00e8res (Ft.\u00a0Kohndo)",
+                "url": "https://genius.com/Hocus-pocus-du-sable-sur-les-paupieres-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21249",
+                        "header_image_url": "https://images.genius.com/0a8da8f77dfdd2bfaab1e02d159f6a50.630x420x1.jpg",
+                        "id": 21249,
+                        "image_url": "https://images.genius.com/91c89b403b0ca05c19b1e93c2bda558d.403x403x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kohndo",
+                        "url": "https://genius.com/artists/Kohndo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1938",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "id": 1938,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/hp2.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hocus Pocus",
+                    "url": "https://genius.com/artists/Hocus-pocus"
+                }
+            }
+        ],
+        "next_page": 2
+    }
+}

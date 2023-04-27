@@ -1,0 +1,967 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4459747",
+                "artist_names": "OFX (Ft. Sir Samuel)",
+                "full_title": "L\u00e0 O\u00f9 by\u00a0OFX (Ft.\u00a0Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/bc3e7b3d203f389198f9c2a80a931cc9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bc3e7b3d203f389198f9c2a80a931cc9.592x592x1.jpg",
+                "id": 4459747,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Ofx-la-ou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ofx-la-ou-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 2004",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bc3e7b3d203f389198f9c2a80a931cc9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bc3e7b3d203f389198f9c2a80a931cc9.592x592x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u00e0 O\u00f9",
+                "title_with_featured": "L\u00e0 O\u00f9 (Ft.\u00a0Sir\u00a0Samuel)",
+                "url": "https://genius.com/Ofx-la-ou-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/23707",
+                    "header_image_url": "https://images.genius.com/650f2d61b04f0b76200e912aeffb3567.389x389x1.jpg",
+                    "id": 23707,
+                    "image_url": "https://images.genius.com/650f2d61b04f0b76200e912aeffb3567.389x389x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OFX",
+                    "url": "https://genius.com/artists/Ofx"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1535467",
+                "artist_names": "Sa\u00efan Supa Crew (Ft. \u200bwill.i.am)",
+                "full_title": "La Patte by\u00a0Sa\u00efan\u00a0Supa Crew (Ft.\u00a0\u200bwill.i.am)",
+                "header_image_thumbnail_url": "https://images.genius.com/6ad026ddfda91188deca5fcff743258d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6ad026ddfda91188deca5fcff743258d.600x600x1.jpg",
+                "id": 1535467,
+                "language": "en",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-la-patte-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-la-patte-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6ad026ddfda91188deca5fcff743258d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6ad026ddfda91188deca5fcff743258d.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La Patte",
+                "title_with_featured": "La Patte (Ft.\u00a0\u200bwill.i.am)",
+                "url": "https://genius.com/Saian-supa-crew-la-patte-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/713",
+                        "header_image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
+                        "id": 713,
+                        "image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "\u200bwill.i.am",
+                        "url": "https://genius.com/artists/William",
+                        "iq": 1400
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 45,
+                "api_path": "/songs/63916",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "La preuve par 3 by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "id": 63916,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-la-preuve-par-3-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-la-preuve-par-3-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1999",
+                "release_date_with_abbreviated_month_for_display": "1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 29824
+                },
+                "title": "La preuve par 3",
+                "title_with_featured": "La preuve par 3",
+                "url": "https://genius.com/Saian-supa-crew-la-preuve-par-3-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2386259",
+                "artist_names": "Com'X (Ft. Sa\u00efan Supa Crew)",
+                "full_title": "La solution by\u00a0Com'X (Ft.\u00a0Sa\u00efan\u00a0Supa Crew)",
+                "header_image_thumbnail_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "header_image_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "id": 2386259,
+                "language": "en",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Comx-la-solution-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Comx-la-solution-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 1998",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La solution",
+                "title_with_featured": "La solution (Ft.\u00a0Sa\u00efan\u00a0Supa Crew)",
+                "url": "https://genius.com/Comx-la-solution-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16640",
+                        "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                        "id": 16640,
+                        "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sa\u00efan Supa Crew",
+                        "url": "https://genius.com/artists/Saian-supa-crew"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/617988",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 617988,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Com\u2019X",
+                    "url": "https://genius.com/artists/Comx"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/252312",
+                "artist_names": "Vicelow",
+                "full_title": "Lieutenant by\u00a0Vicelow",
+                "header_image_thumbnail_url": "https://images.genius.com/ebyeknx665jyrnfdb06n8fpe6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ebyeknx665jyrnfdb06n8fpe6.400x400x1.jpg",
+                "id": 252312,
+                "language": "fr",
+                "lyrics_owner_id": 149034,
+                "lyrics_state": "complete",
+                "path": "/Vicelow-lieutenant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-lieutenant-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 7,
+                    "day": 7
+                },
+                "release_date_for_display": "July 7, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jul. 7, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ebyeknx665jyrnfdb06n8fpe6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ebyeknx665jyrnfdb06n8fpe6.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Lieutenant",
+                "title_with_featured": "Lieutenant",
+                "url": "https://genius.com/Vicelow-lieutenant-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/656814",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Malgr\u00e9 les gal\u00e8res by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "id": 656814,
+                "language": "fr",
+                "lyrics_owner_id": 277699,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-malgre-les-galeres-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-malgre-les-galeres-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Malgr\u00e9 les gal\u00e8res",
+                "title_with_featured": "Malgr\u00e9 les gal\u00e8res",
+                "url": "https://genius.com/Saian-supa-crew-malgre-les-galeres-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1236341",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Mama by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "id": 1236341,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-mama-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-mama-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mama",
+                "title_with_featured": "Mama",
+                "url": "https://genius.com/Saian-supa-crew-mama-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3644621",
+                "artist_names": "Vicelow",
+                "full_title": "MBB by\u00a0Vicelow",
+                "header_image_thumbnail_url": "https://images.genius.com/2be961296ef1f7f228ddf5dc952d0b4e.300x300x1.png",
+                "header_image_url": "https://images.genius.com/2be961296ef1f7f228ddf5dc952d0b4e.999x1000x1.png",
+                "id": 3644621,
+                "language": "fr",
+                "lyrics_owner_id": 4343428,
+                "lyrics_state": "complete",
+                "path": "/Vicelow-mbb-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-mbb-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 11
+                },
+                "release_date_for_display": "April 11, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 11, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2be961296ef1f7f228ddf5dc952d0b4e.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/2be961296ef1f7f228ddf5dc952d0b4e.999x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "MBB",
+                "title_with_featured": "MBB",
+                "url": "https://genius.com/Vicelow-mbb-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3668330",
+                "artist_names": "Vicelow (Ft. SoFLY)",
+                "full_title": "MBB (Outro) by\u00a0Vicelow (Ft.\u00a0SoFLY)",
+                "header_image_thumbnail_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.1000x1000x1.jpg",
+                "id": 3668330,
+                "language": null,
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "incomplete",
+                "path": "/Vicelow-mbb-outro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-mbb-outro-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "MBB (Outro)",
+                "title_with_featured": "MBB (Outro) (Ft.\u00a0SoFLY)",
+                "url": "https://genius.com/Vicelow-mbb-outro-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/26551",
+                        "header_image_url": "https://images.genius.com/86f48f810b7a98520bc4dd1c07ad809c.296x296x1.jpg",
+                        "id": 26551,
+                        "image_url": "https://images.genius.com/86f48f810b7a98520bc4dd1c07ad809c.296x296x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SoFLY",
+                        "url": "https://genius.com/artists/Sofly"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4469001",
+                "artist_names": "Vicelow (Ft. Tony C)",
+                "full_title": "Mets \u00c7a Haut by\u00a0Vicelow (Ft.\u00a0Tony\u00a0C)",
+                "header_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "id": 4469001,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Vicelow-mets-ca-haut-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-mets-ca-haut-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mets \u00c7a Haut",
+                "title_with_featured": "Mets \u00c7a Haut (Ft.\u00a0Tony\u00a0C)",
+                "url": "https://genius.com/Vicelow-mets-ca-haut-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/78461",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 78461,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tony C",
+                        "url": "https://genius.com/artists/Tony-c"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/5048116",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Mets les gaz by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.300x296x1.jpg",
+                "header_image_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.1000x987x1.jpg",
+                "id": 5048116,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-mets-les-gaz-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-mets-les-gaz-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 2,
+                    "day": 12
+                },
+                "release_date_for_display": "February 12, 2007",
+                "release_date_with_abbreviated_month_for_display": "Feb. 12, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.300x296x1.jpg",
+                "song_art_image_url": "https://images.genius.com/98e6b4d88a74bb76a3ed2e2c2ffd32dc.1000x987x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mets les gaz",
+                "title_with_featured": "Mets les gaz",
+                "url": "https://genius.com/Saian-supa-crew-mets-les-gaz-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3668327",
+                "artist_names": "Vicelow",
+                "full_title": "Midnight by\u00a0Vicelow",
+                "header_image_thumbnail_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.1000x1000x1.jpg",
+                "id": 3668327,
+                "language": null,
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "incomplete",
+                "path": "/Vicelow-midnight-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-midnight-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Midnight",
+                "title_with_featured": "Midnight",
+                "url": "https://genius.com/Vicelow-midnight-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3668329",
+                "artist_names": "Vicelow",
+                "full_title": "Midnight (Evil Needle Version) by\u00a0Vicelow",
+                "header_image_thumbnail_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.1000x1000x1.jpg",
+                "id": 3668329,
+                "language": null,
+                "lyrics_owner_id": 1235485,
+                "lyrics_state": "incomplete",
+                "path": "/Vicelow-midnight-evil-needle-version-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-midnight-evil-needle-version-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6c67f0bae640ee8d58b44ae9280fc801.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Midnight (Evil Needle Version)",
+                "title_with_featured": "Midnight (Evil Needle Version)",
+                "url": "https://genius.com/Vicelow-midnight-evil-needle-version-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4469006",
+                "artist_names": "Vicelow (Ft. Tony C)",
+                "full_title": "N.A.L (Noir \u00c0 Lunettes) by\u00a0Vicelow (Ft.\u00a0Tony\u00a0C)",
+                "header_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "id": 4469006,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Vicelow-nal-noir-a-lunettes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-nal-noir-a-lunettes-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "N.A.L (Noir \u00c0 Lunettes)",
+                "title_with_featured": "N.A.L (Noir \u00c0 Lunettes) (Ft.\u00a0Tony\u00a0C)",
+                "url": "https://genius.com/Vicelow-nal-noir-a-lunettes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/78461",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 78461,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tony C",
+                        "url": "https://genius.com/artists/Tony-c"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4455962",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Nouveau panorama by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/d54aa4da2e49320dc2bd2f742689a04e.200x200x1.jpg",
+                "header_image_url": "https://images.genius.com/d54aa4da2e49320dc2bd2f742689a04e.200x200x1.jpg",
+                "id": 4455962,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Saian-supa-crew-nouveau-panorama-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-nouveau-panorama-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1999",
+                "release_date_with_abbreviated_month_for_display": "1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d54aa4da2e49320dc2bd2f742689a04e.200x200x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d54aa4da2e49320dc2bd2f742689a04e.200x200x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nouveau panorama",
+                "title_with_featured": "Nouveau panorama",
+                "url": "https://genius.com/Saian-supa-crew-nouveau-panorama-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/74272",
+                "artist_names": "Vicelow (Ft. Deen Burbigo, Nemir & Rachel Claudio)",
+                "full_title": "Nouvel Automne by\u00a0Vicelow (Ft.\u00a0Deen\u00a0Burbigo, Nemir & Rachel\u00a0Claudio)",
+                "header_image_thumbnail_url": "https://images.genius.com/c215ee00d320a5c60bd8f27041d7c1f7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c215ee00d320a5c60bd8f27041d7c1f7.1000x1000x1.jpg",
+                "id": 74272,
+                "language": "en",
+                "lyrics_owner_id": 70464,
+                "lyrics_state": "complete",
+                "path": "/Vicelow-nouvel-automne-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-nouvel-automne-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 5
+                },
+                "release_date_for_display": "November 5, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 5, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c215ee00d320a5c60bd8f27041d7c1f7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c215ee00d320a5c60bd8f27041d7c1f7.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Nouvel Automne",
+                "title_with_featured": "Nouvel Automne (Ft.\u00a0Deen\u00a0Burbigo, Nemir & Rachel\u00a0Claudio)",
+                "url": "https://genius.com/Vicelow-nouvel-automne-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14071",
+                        "header_image_url": "https://images.genius.com/1216185ecd95018a30955636d4839506.1000x567x1.jpg",
+                        "id": 14071,
+                        "image_url": "https://images.genius.com/d3c4286717aac089f708d75ba9c339f3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Deen Burbigo",
+                        "url": "https://genius.com/artists/Deen-burbigo"
+                    },
+                    {
+                        "api_path": "/artists/14877",
+                        "header_image_url": "https://images.genius.com/acfb10f0575d83fb09123b1cfc92212c.1000x667x1.jpg",
+                        "id": 14877,
+                        "image_url": "https://images.genius.com/17b4582830354f216471f0b27a0fba57.288x288x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nemir",
+                        "url": "https://genius.com/artists/Nemir"
+                    },
+                    {
+                        "api_path": "/artists/20664",
+                        "header_image_url": "https://images.genius.com/8b047b7ad5f480e8ab8b67e282b94ce1.800x800x1.jpg",
+                        "id": 20664,
+                        "image_url": "https://images.genius.com/8b047b7ad5f480e8ab8b67e282b94ce1.800x800x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rachel Claudio",
+                        "url": "https://genius.com/artists/Rachel-claudio"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/94109",
+                "artist_names": "Vicelow (Ft. Akhenaton, Rachel Claudio & Sako)",
+                "full_title": "Nouvel Automne (remix) by\u00a0Vicelow (Ft.\u00a0Akhenaton, Rachel\u00a0Claudio & Sako)",
+                "header_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "id": 94109,
+                "language": "en",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Vicelow-nouvel-automne-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vicelow-nouvel-automne-remix-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ed04174d9971d043b9ba85e136ffb654.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Nouvel Automne (remix)",
+                "title_with_featured": "Nouvel Automne (remix) (Ft.\u00a0Akhenaton, Rachel\u00a0Claudio & Sako)",
+                "url": "https://genius.com/Vicelow-nouvel-automne-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20664",
+                        "header_image_url": "https://images.genius.com/8b047b7ad5f480e8ab8b67e282b94ce1.800x800x1.jpg",
+                        "id": 20664,
+                        "image_url": "https://images.genius.com/8b047b7ad5f480e8ab8b67e282b94ce1.800x800x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rachel Claudio",
+                        "url": "https://genius.com/artists/Rachel-claudio"
+                    },
+                    {
+                        "api_path": "/artists/13962",
+                        "header_image_url": "https://images.genius.com/82c6bfe5023abfe2b088c3383f9d0259.1000x425x1.jpg",
+                        "id": 13962,
+                        "image_url": "https://images.genius.com/2992ff761869be507b587fe4450e8d67.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sako",
+                        "url": "https://genius.com/artists/Sako"
+                    },
+                    {
+                        "api_path": "/artists/1961",
+                        "header_image_url": "https://images.genius.com/f9cdfa24b137754ebfe6b940978c15d8.320x298x1.jpg",
+                        "id": 1961,
+                        "image_url": "https://images.genius.com/916828a808bdd54c4ccb8602ebae73fc.855x855x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Akhenaton",
+                        "url": "https://genius.com/artists/Akhenaton"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18960",
+                    "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "id": 18960,
+                    "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicelow",
+                    "url": "https://genius.com/artists/Vicelow"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/1353682",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Objectif by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "id": 1353682,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-objectif-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-objectif-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1999",
+                "release_date_with_abbreviated_month_for_display": "1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Objectif",
+                "title_with_featured": "Objectif",
+                "url": "https://genius.com/Saian-supa-crew-objectif-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4459790",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Originales by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "id": 4459790,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-originales-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-originales-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 10,
+                    "day": 31
+                },
+                "release_date_for_display": "October 31, 2005",
+                "release_date_with_abbreviated_month_for_display": "Oct. 31, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Originales",
+                "title_with_featured": "Originales",
+                "url": "https://genius.com/Saian-supa-crew-originales-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3067202",
+                "artist_names": "Skreally Boy (Ft. Vicelow)",
+                "full_title": "O.U by\u00a0Skreally\u00a0Boy (Ft.\u00a0Vicelow)",
+                "header_image_thumbnail_url": "https://images.genius.com/3066b9e2d02f24686394929c994935e3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3066b9e2d02f24686394929c994935e3.500x500x1.jpg",
+                "id": 3067202,
+                "language": "fr",
+                "lyrics_owner_id": 2542540,
+                "lyrics_state": "complete",
+                "path": "/Skreally-boy-ou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Skreally-boy-ou-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 3,
+                    "day": 1
+                },
+                "release_date_for_display": "March 1, 2017",
+                "release_date_with_abbreviated_month_for_display": "Mar. 1, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3066b9e2d02f24686394929c994935e3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3066b9e2d02f24686394929c994935e3.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "O.U",
+                "title_with_featured": "O.U (Ft.\u00a0Vicelow)",
+                "url": "https://genius.com/Skreally-boy-ou-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18960",
+                        "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                        "id": 18960,
+                        "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vicelow",
+                        "url": "https://genius.com/artists/Vicelow"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/137466",
+                    "header_image_url": "https://images.genius.com/cb2f958bab9bef017ca3886984f353c6.1000x427x1.jpg",
+                    "id": 137466,
+                    "image_url": "https://images.genius.com/80f8d9af8e783f523cb00918a50cfa9a.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Skreally Boy",
+                    "url": "https://genius.com/artists/Skreally-boy"
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

@@ -1,0 +1,972 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5304100",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Cowboy by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.300x300x1.png",
+                "header_image_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.768x768x1.png",
+                "id": 5304100,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-cowboy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-cowboy-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 21
+                },
+                "release_date_for_display": "March 21, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 21, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/3d043eef221be497d9fde15867ea20bf.768x768x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Cowboy",
+                "title_with_featured": "Cowboy",
+                "url": "https://genius.com/Hornet-la-frappe-cowboy-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5294031",
+                "artist_names": "Soso Maness (Ft. Hornet La Frappe)",
+                "full_title": "DDD by\u00a0Soso\u00a0Maness (Ft.\u00a0Hornet\u00a0La Frappe)",
+                "header_image_thumbnail_url": "https://images.genius.com/0d4799b71ed38d826efb0a828802857b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0d4799b71ed38d826efb0a828802857b.1000x999x1.jpg",
+                "id": 5294031,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Soso-maness-ddd-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Soso-maness-ddd-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 26
+                },
+                "release_date_for_display": "February 26, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 26, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0d4799b71ed38d826efb0a828802857b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0d4799b71ed38d826efb0a828802857b.1000x999x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "DDD",
+                "title_with_featured": "DDD (Ft.\u00a0Hornet\u00a0La Frappe)",
+                "url": "https://genius.com/Soso-maness-ddd-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/221964",
+                        "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                        "id": 221964,
+                        "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hornet La Frappe",
+                        "url": "https://genius.com/artists/Hornet-la-frappe",
+                        "iq": 206
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/147487",
+                    "header_image_url": "https://images.genius.com/87ec22191e8eedbf245dea6a04652504.838x445x1.jpg",
+                    "id": 147487,
+                    "image_url": "https://images.genius.com/9e0c59e5e8a785617697ef5df25f4341.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Soso Maness",
+                    "url": "https://genius.com/artists/Soso-maness"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/3245983",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Dead \u00e7a by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/deca86f58f428c54db2026ef31e7bb69.300x300x1.png",
+                "header_image_url": "https://images.genius.com/deca86f58f428c54db2026ef31e7bb69.644x644x1.png",
+                "id": 3245983,
+                "language": "fr",
+                "lyrics_owner_id": 4125825,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-dead-ca-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-dead-ca-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/deca86f58f428c54db2026ef31e7bb69.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/deca86f58f428c54db2026ef31e7bb69.644x644x1.png",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 41441
+                },
+                "title": "Dead \u00e7a",
+                "title_with_featured": "Dead \u00e7a",
+                "url": "https://genius.com/Hornet-la-frappe-dead-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3389448",
+                "artist_names": "Genius English Translations",
+                "full_title": "Dead \u00e7a [English translation] by\u00a0Genius\u00a0English Translations",
+                "header_image_thumbnail_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                "header_image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                "id": 3389448,
+                "language": "en",
+                "lyrics_owner_id": 5661671,
+                "lyrics_state": "complete",
+                "path": "/Genius-english-translations-dead-ca-english-translation-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Genius-english-translations-dead-ca-english-translation-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                "song_art_image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Dead \u00e7a [English translation]",
+                "title_with_featured": "Dead \u00e7a [English translation]",
+                "url": "https://genius.com/Genius-english-translations-dead-ca-english-translation-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/196943",
+                    "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+                    "id": 196943,
+                    "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Genius English Translations",
+                    "url": "https://genius.com/artists/Genius-english-translations"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5157518",
+                "artist_names": "Hornet La Frappe (Ft. \u200bDA Uzi)",
+                "full_title": "Des ann\u00e9es by\u00a0Hornet\u00a0La Frappe (Ft.\u00a0\u200bDA\u00a0Uzi)",
+                "header_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "id": 5157518,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-des-annees-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-des-annees-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 8029
+                },
+                "title": "Des ann\u00e9es",
+                "title_with_featured": "Des ann\u00e9es (Ft.\u00a0\u200bDA\u00a0Uzi)",
+                "url": "https://genius.com/Hornet-la-frappe-des-annees-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1212452",
+                        "header_image_url": "https://images.genius.com/5052661837a1c3890e048a082f56ef80.320x320x1.jpg",
+                        "id": 1212452,
+                        "image_url": "https://images.genius.com/3d50fdf7b7769a8570a412b20d3b514e.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bDA Uzi",
+                        "url": "https://genius.com/artists/Da-uzi"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5157520",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Deux secondes by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "id": 5157520,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-deux-secondes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-deux-secondes-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Deux secondes",
+                "title_with_featured": "Deux secondes",
+                "url": "https://genius.com/Hornet-la-frappe-deux-secondes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8357635",
+                "artist_names": "DJ Quick (Ft. Hornet La Frappe)",
+                "full_title": "Diva by\u00a0DJ\u00a0Quick (Ft.\u00a0Hornet\u00a0La Frappe)",
+                "header_image_thumbnail_url": "https://images.genius.com/1d82efcee04c2cb1356b568195053106.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d82efcee04c2cb1356b568195053106.800x800x1.jpg",
+                "id": 8357635,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Dj-quick-diva-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dj-quick-diva-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 9
+                },
+                "release_date_for_display": "September 9, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 9, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d82efcee04c2cb1356b568195053106.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d82efcee04c2cb1356b568195053106.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Diva",
+                "title_with_featured": "Diva (Ft.\u00a0Hornet\u00a0La Frappe)",
+                "url": "https://genius.com/Dj-quick-diva-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/221964",
+                        "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                        "id": 221964,
+                        "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hornet La Frappe",
+                        "url": "https://genius.com/artists/Hornet-la-frappe",
+                        "iq": 206
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/83365",
+                    "header_image_url": "https://images.genius.com/fd458f4c15bb3ae11fd9fd6b0e41db70.1000x347x1.jpg",
+                    "id": 83365,
+                    "image_url": "https://images.genius.com/a0cd1ffb8364a727370d0b575b07fa09.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DJ Quick",
+                    "url": "https://genius.com/artists/Dj-quick"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5157523",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Divorce by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "id": 5157523,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-divorce-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-divorce-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Divorce",
+                "title_with_featured": "Divorce",
+                "url": "https://genius.com/Hornet-la-frappe-divorce-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/2975817",
+                "artist_names": "Hornet La Frappe (Ft. Hooss)",
+                "full_title": "Double H by\u00a0Hornet\u00a0La Frappe (Ft.\u00a0Hooss)",
+                "header_image_thumbnail_url": "https://images.genius.com/73b8ee7d721e4bf16c04c10c89401b50.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/73b8ee7d721e4bf16c04c10c89401b50.960x960x1.jpg",
+                "id": 2975817,
+                "language": "fr",
+                "lyrics_owner_id": 3087762,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-double-h-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-double-h-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/73b8ee7d721e4bf16c04c10c89401b50.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/73b8ee7d721e4bf16c04c10c89401b50.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 40346
+                },
+                "title": "Double H",
+                "title_with_featured": "Double H (Ft.\u00a0Hooss)",
+                "url": "https://genius.com/Hornet-la-frappe-double-h-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/265169",
+                        "header_image_url": "https://images.genius.com/068315866bed13b6cf26d684e713603a.667x1000x1.jpg",
+                        "id": 265169,
+                        "image_url": "https://images.genius.com/068315866bed13b6cf26d684e713603a.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hooss",
+                        "url": "https://genius.com/artists/Hooss",
+                        "iq": 2432
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7062071",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "D'un trait by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/03173fc580886147c67e48650cc61f73.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/03173fc580886147c67e48650cc61f73.1000x1000x1.jpg",
+                "id": 7062071,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-dun-trait-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-dun-trait-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 27
+                },
+                "release_date_for_display": "August 27, 2021",
+                "release_date_with_abbreviated_month_for_display": "Aug. 27, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/03173fc580886147c67e48650cc61f73.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/03173fc580886147c67e48650cc61f73.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "D\u2019un trait",
+                "title_with_featured": "D'un trait",
+                "url": "https://genius.com/Hornet-la-frappe-dun-trait-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3943087",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "\u00c9chographie by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.639x639x1.png",
+                "id": 3943087,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-echographie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-echographie-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 21
+                },
+                "release_date_for_display": "September 21, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 21, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.639x639x1.png",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 9588
+                },
+                "title": "\u00c9chographie",
+                "title_with_featured": "\u00c9chographie",
+                "url": "https://genius.com/Hornet-la-frappe-echographie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/3972554",
+                "artist_names": "Sofiane (Ft. Kaaris)",
+                "full_title": "Empire by\u00a0Sofiane (Ft.\u00a0Kaaris)",
+                "header_image_thumbnail_url": "https://images.genius.com/0acf8a60c20c9c20d899798e99896ffc.300x200x1.jpg",
+                "header_image_url": "https://images.genius.com/0acf8a60c20c9c20d899798e99896ffc.1000x667x1.jpg",
+                "id": 3972554,
+                "language": "fr",
+                "lyrics_owner_id": 1648570,
+                "lyrics_state": "complete",
+                "path": "/Sofiane-empire-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Sofiane-empire-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a0749b5fab474051fe8305d65f9aed47.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a0749b5fab474051fe8305d65f9aed47.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 16,
+                    "hot": false,
+                    "pageviews": 52127
+                },
+                "title": "Empire",
+                "title_with_featured": "Empire (Ft.\u00a0Kaaris)",
+                "url": "https://genius.com/Sofiane-empire-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14693",
+                        "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                        "id": 14693,
+                        "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaaris",
+                        "url": "https://genius.com/artists/Kaaris",
+                        "iq": 2373
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12085",
+                    "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                    "id": 12085,
+                    "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sofiane",
+                    "url": "https://genius.com/artists/Sofiane",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3056197",
+                "artist_names": "Coolax (Ft. Blaxo & Hornet La Frappe)",
+                "full_title": "En Mieux by\u00a0Coolax (Ft.\u00a0Blaxo & Hornet\u00a0La Frappe)",
+                "header_image_thumbnail_url": "https://images.genius.com/45a07d2c91c5cc48ea821a70b6c33c92.300x300x1.png",
+                "header_image_url": "https://images.genius.com/45a07d2c91c5cc48ea821a70b6c33c92.600x600x1.png",
+                "id": 3056197,
+                "language": "fr",
+                "lyrics_owner_id": 3290396,
+                "lyrics_state": "complete",
+                "path": "/Coolax-en-mieux-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Coolax-en-mieux-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/45a07d2c91c5cc48ea821a70b6c33c92.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/45a07d2c91c5cc48ea821a70b6c33c92.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "En Mieux",
+                "title_with_featured": "En Mieux (Ft.\u00a0Blaxo & Hornet\u00a0La Frappe)",
+                "url": "https://genius.com/Coolax-en-mieux-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/140532",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 140532,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Blaxo",
+                        "url": "https://genius.com/artists/Blaxo"
+                    },
+                    {
+                        "api_path": "/artists/221964",
+                        "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                        "id": 221964,
+                        "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hornet La Frappe",
+                        "url": "https://genius.com/artists/Hornet-la-frappe",
+                        "iq": 206
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/313122",
+                    "header_image_url": "https://images.genius.com/142924485b5aae8a63f8aab2aac3109f.1000x1000x1.jpg",
+                    "id": 313122,
+                    "image_url": "https://images.genius.com/c386bdeb208027e81830c5461338f151.602x602x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Coolax",
+                    "url": "https://genius.com/artists/Coolax",
+                    "iq": 381
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3220381",
+                "artist_names": "RK",
+                "full_title": "Fais beleck by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/5e8ff9549e8d442d2270e6c1c0e0ee45.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/5e8ff9549e8d442d2270e6c1c0e0ee45.1000x563x1.jpg",
+                "id": 3220381,
+                "language": "fr",
+                "lyrics_owner_id": 4548486,
+                "lyrics_state": "complete",
+                "path": "/Rk-fais-beleck-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-fais-beleck-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 1
+                },
+                "release_date_for_display": "September 1, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 1, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e8ff9549e8d442d2270e6c1c0e0ee45.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5e8ff9549e8d442d2270e6c1c0e0ee45.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 28364
+                },
+                "title": "Fais beleck",
+                "title_with_featured": "Fais beleck",
+                "url": "https://genius.com/Rk-fais-beleck-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/7073774",
+                "artist_names": "Hornet La Frappe (Ft. Busta Flex)",
+                "full_title": "Fenek by\u00a0Hornet\u00a0La Frappe (Ft.\u00a0Busta\u00a0Flex)",
+                "header_image_thumbnail_url": "https://images.genius.com/f5aef3b0b2046653232a09c517888b79.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f5aef3b0b2046653232a09c517888b79.440x440x1.jpg",
+                "id": 7073774,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-fenek-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-fenek-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 4,
+                    "day": 30
+                },
+                "release_date_for_display": "April 30, 2012",
+                "release_date_with_abbreviated_month_for_display": "Apr. 30, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f5aef3b0b2046653232a09c517888b79.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f5aef3b0b2046653232a09c517888b79.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fenek",
+                "title_with_featured": "Fenek (Ft.\u00a0Busta\u00a0Flex)",
+                "url": "https://genius.com/Hornet-la-frappe-fenek-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14348",
+                        "header_image_url": "https://images.genius.com/40683b90799d7e324c90f64428e92d45.650x250x1.jpg",
+                        "id": 14348,
+                        "image_url": "https://images.genius.com/4fff2a46b9993a490e39019cf336b7b7.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Busta Flex",
+                        "url": "https://genius.com/artists/Busta-flex"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3943090",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Flash \u00e0 la main by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.639x639x1.png",
+                "id": 3943090,
+                "language": "fr",
+                "lyrics_owner_id": 491862,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-flash-a-la-main-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-flash-a-la-main-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 21
+                },
+                "release_date_for_display": "September 21, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 21, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e9d9ed0cb589b147ecb5d84751758e28.639x639x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 10035
+                },
+                "title": "Flash \u00e0 la main",
+                "title_with_featured": "Flash \u00e0 la main",
+                "url": "https://genius.com/Hornet-la-frappe-flash-a-la-main-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/663637",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Foduzeyo by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/5337601bcfe0583e384d94605d6a8d96.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/5337601bcfe0583e384d94605d6a8d96.1000x563x1.jpg",
+                "id": 663637,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-foduzeyo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-foduzeyo-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2014",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6c1b7201062be7c9f0bcbb28d8b46519.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6c1b7201062be7c9f0bcbb28d8b46519.939x939x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Foduzeyo",
+                "title_with_featured": "Foduzeyo",
+                "url": "https://genius.com/Hornet-la-frappe-foduzeyo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5157525",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Fou by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "id": 5157525,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-fou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-fou-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fou",
+                "title_with_featured": "Fou",
+                "url": "https://genius.com/Hornet-la-frappe-fou-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5157522",
+                "artist_names": "Hornet La Frappe (Ft. Soolking)",
+                "full_title": "Gal\u00e8re apr\u00e8s gal\u00e8re by\u00a0Hornet\u00a0La Frappe (Ft.\u00a0Soolking)",
+                "header_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "id": 5157522,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-galere-apres-galere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-galere-apres-galere-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Gal\u00e8re apr\u00e8s gal\u00e8re",
+                "title_with_featured": "Gal\u00e8re apr\u00e8s gal\u00e8re (Ft.\u00a0Soolking)",
+                "url": "https://genius.com/Hornet-la-frappe-galere-apres-galere-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/693078",
+                        "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                        "id": 693078,
+                        "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soolking",
+                        "url": "https://genius.com/artists/Soolking"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5157527",
+                "artist_names": "Hornet La Frappe",
+                "full_title": "Gardav by\u00a0Hornet\u00a0La Frappe",
+                "header_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "id": 5157527,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Hornet-la-frappe-gardav-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Hornet-la-frappe-gardav-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2e7676ac0fef8f476092758bad9c715a.473x473x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Gardav",
+                "title_with_featured": "Gardav",
+                "url": "https://genius.com/Hornet-la-frappe-gardav-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/221964",
+                    "header_image_url": "https://images.genius.com/30e36da59616a76e98ae4021975d654f.1000x1000x1.jpg",
+                    "id": 221964,
+                    "image_url": "https://images.genius.com/edf79503e0d218d10fc6271edf229017.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hornet La Frappe",
+                    "url": "https://genius.com/artists/Hornet-la-frappe",
+                    "iq": 206
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

@@ -1,0 +1,987 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3698533",
+                "artist_names": "La Cliqua (Ft. Esprit d'Eb\u00e8ne & Mam's Maniolo)",
+                "full_title": "3 Rounds by\u00a0La\u00a0Cliqua (Ft.\u00a0Esprit\u00a0d'Eb\u00e8ne & Mam's\u00a0Maniolo)",
+                "header_image_thumbnail_url": "https://images.genius.com/c0595662f98981e6760fb03617fd8953.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c0595662f98981e6760fb03617fd8953.640x640x1.jpg",
+                "id": 3698533,
+                "language": "fr",
+                "lyrics_owner_id": 4863535,
+                "lyrics_state": "complete",
+                "path": "/La-cliqua-3-rounds-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-cliqua-3-rounds-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 1999",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c0595662f98981e6760fb03617fd8953.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c0595662f98981e6760fb03617fd8953.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "3 Rounds",
+                "title_with_featured": "3 Rounds (Ft.\u00a0Esprit\u00a0d'Eb\u00e8ne & Mam's\u00a0Maniolo)",
+                "url": "https://genius.com/La-cliqua-3-rounds-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2205872",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2205872,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Esprit d\u2019Eb\u00e8ne",
+                        "url": "https://genius.com/artists/Esprit-debene"
+                    },
+                    {
+                        "api_path": "/artists/2052880",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2052880,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mam\u2019s Maniolo",
+                        "url": "https://genius.com/artists/Mams-maniolo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2061",
+                    "header_image_url": "https://images.genius.com/2916811e58239282339698986edc0f03.1000x563x1.jpg",
+                    "id": 2061,
+                    "image_url": "https://images.genius.com/2199a4bcee949ade918186b87f2f6eda.350x372x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Cliqua",
+                    "url": "https://genius.com/artists/La-cliqua"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/358725",
+                "artist_names": "Rocca (Ft. P4 (FRA))",
+                "full_title": "Affaire personnelle by\u00a0Rocca (Ft.\u00a0P4\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "id": 358725,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Rocca-affaire-personnelle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-affaire-personnelle-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Affaire personnelle",
+                "title_with_featured": "Affaire personnelle (Ft.\u00a0P4\u00a0(FRA))",
+                "url": "https://genius.com/Rocca-affaire-personnelle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/140824",
+                        "header_image_url": "https://images.genius.com/643a68bc6be963fb62f87d1d2abcabda.186x186x1.jpg",
+                        "id": 140824,
+                        "image_url": "https://images.genius.com/643a68bc6be963fb62f87d1d2abcabda.186x186x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "P4 (FRA)",
+                        "url": "https://genius.com/artists/P4-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/992176",
+                "artist_names": "Tres Coronas",
+                "full_title": "Ahora o Nunca by\u00a0Tres\u00a0Coronas",
+                "header_image_thumbnail_url": "https://images.genius.com/4ec62c467416b833b85e5f18960576ec.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4ec62c467416b833b85e5f18960576ec.1000x1000x1.jpg",
+                "id": 992176,
+                "language": "es",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Tres-coronas-ahora-o-nunca-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tres-coronas-ahora-o-nunca-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4ec62c467416b833b85e5f18960576ec.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4ec62c467416b833b85e5f18960576ec.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ahora o Nunca",
+                "title_with_featured": "Ahora o Nunca",
+                "url": "https://genius.com/Tres-coronas-ahora-o-nunca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/358312",
+                    "header_image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "id": 358312,
+                    "image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tres Coronas",
+                    "url": "https://genius.com/artists/Tres-coronas"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7475624",
+                "artist_names": "Tres Coronas (Ft. Akapellah)",
+                "full_title": "Ajisosos by\u00a0Tres\u00a0Coronas (Ft.\u00a0Akapellah)",
+                "header_image_thumbnail_url": "https://images.genius.com/7ce44d069454db417919f733e63c5041.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7ce44d069454db417919f733e63c5041.1000x1000x1.jpg",
+                "id": 7475624,
+                "language": "es",
+                "lyrics_owner_id": 274130,
+                "lyrics_state": "complete",
+                "path": "/Tres-coronas-ajisosos-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tres-coronas-ajisosos-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2020",
+                "release_date_with_abbreviated_month_for_display": "2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7ce44d069454db417919f733e63c5041.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7ce44d069454db417919f733e63c5041.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ajisosos",
+                "title_with_featured": "Ajisosos (Ft.\u00a0Akapellah)",
+                "url": "https://genius.com/Tres-coronas-ajisosos-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/149408",
+                        "header_image_url": "https://images.genius.com/30f3b1733e8598927045e736f641c275.1000x383x1.jpg",
+                        "id": 149408,
+                        "image_url": "https://images.genius.com/cb92f3b2ae3e360c8c23f19740465c77.620x620x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Akapellah",
+                        "url": "https://genius.com/artists/Akapellah"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/358312",
+                    "header_image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "id": 358312,
+                    "image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tres Coronas",
+                    "url": "https://genius.com/artists/Tres-coronas"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2156036",
+                "artist_names": "Rocca (Ft. Daddy Lord C)",
+                "full_title": "\u00c0 l'ancienne by\u00a0Rocca (Ft.\u00a0Daddy\u00a0Lord C)",
+                "header_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "header_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "id": 2156036,
+                "language": "fr",
+                "lyrics_owner_id": 274130,
+                "lyrics_state": "complete",
+                "path": "/Rocca-a-lancienne-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rocca-a-lancienne-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2015",
+                "release_date_with_abbreviated_month_for_display": "2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "song_art_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u00c0 l\u2019ancienne",
+                "title_with_featured": "\u00c0 l'ancienne (Ft.\u00a0Daddy\u00a0Lord C)",
+                "url": "https://genius.com/Rocca-a-lancienne-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1987",
+                        "header_image_url": "https://images.genius.com/65a372c1623156b3475df42586748f5c.984x1000x1.jpg",
+                        "id": 1987,
+                        "image_url": "https://images.genius.com/2afecfa7a231b2b38e310ffea062d31c.409x409x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Daddy Lord C",
+                        "url": "https://genius.com/artists/Daddy-lord-c"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7475621",
+                "artist_names": "Tres Coronas",
+                "full_title": "Amor y Odio by\u00a0Tres\u00a0Coronas",
+                "header_image_thumbnail_url": "https://images.genius.com/7a12c237a4b0e930343d4ca22c5c108b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7a12c237a4b0e930343d4ca22c5c108b.1000x1000x1.jpg",
+                "id": 7475621,
+                "language": "es",
+                "lyrics_owner_id": 274130,
+                "lyrics_state": "complete",
+                "path": "/Tres-coronas-amor-y-odio-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tres-coronas-amor-y-odio-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2020",
+                "release_date_with_abbreviated_month_for_display": "2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7a12c237a4b0e930343d4ca22c5c108b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7a12c237a4b0e930343d4ca22c5c108b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Amor y Odio",
+                "title_with_featured": "Amor y Odio",
+                "url": "https://genius.com/Tres-coronas-amor-y-odio-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/358312",
+                    "header_image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "id": 358312,
+                    "image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tres Coronas",
+                    "url": "https://genius.com/artists/Tres-coronas"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3698479",
+                "artist_names": "Rocca (Ft. Jayhem)",
+                "full_title": "Amour Supr\u00eame by\u00a0Rocca (Ft.\u00a0Jayhem)",
+                "header_image_thumbnail_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.600x600x1.jpg",
+                "id": 3698479,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Rocca-amour-supreme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-amour-supreme-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 6,
+                    "day": 11
+                },
+                "release_date_for_display": "June 11, 2003",
+                "release_date_with_abbreviated_month_for_display": "Jun. 11, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Amour Supr\u00eame",
+                "title_with_featured": "Amour Supr\u00eame (Ft.\u00a0Jayhem)",
+                "url": "https://genius.com/Rocca-amour-supreme-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/129154",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 129154,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jayhem",
+                        "url": "https://genius.com/artists/Jayhem"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/212896",
+                "artist_names": "Kery James (Ft. Hamed D\u00e4ye, Rocca & Shurik'n)",
+                "full_title": "Animalement v\u00f4tre by\u00a0Kery\u00a0James (Ft.\u00a0Hamed\u00a0D\u00e4ye, Rocca & Shurik'n)",
+                "header_image_thumbnail_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.895x900x1.jpg",
+                "id": 212896,
+                "language": "fr",
+                "lyrics_owner_id": 72031,
+                "lyrics_state": "complete",
+                "path": "/Kery-james-animalement-votre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kery-james-animalement-votre-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": 3,
+                    "day": 18
+                },
+                "release_date_for_display": "March 18, 1999",
+                "release_date_with_abbreviated_month_for_display": "Mar. 18, 1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.895x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Animalement v\u00f4tre",
+                "title_with_featured": "Animalement v\u00f4tre (Ft.\u00a0Hamed\u00a0D\u00e4ye, Rocca & Shurik'n)",
+                "url": "https://genius.com/Kery-james-animalement-votre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/43765",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/1367157479_hamed.jpg",
+                        "id": 43765,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/1367157479_hamed.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Hamed D\u00e4ye",
+                        "url": "https://genius.com/artists/Hamed-daye"
+                    },
+                    {
+                        "api_path": "/artists/2020",
+                        "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                        "id": 2020,
+                        "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rocca",
+                        "url": "https://genius.com/artists/Rocca"
+                    },
+                    {
+                        "api_path": "/artists/1967",
+                        "header_image_url": "https://images.genius.com/ef1619e97cdd319ac8cc737f25071816.1000x666x1.jpg",
+                        "id": 1967,
+                        "image_url": "https://images.genius.com/92e4c7e0ffead2479f1ab7298bc46df1.967x967x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shurik\u2019n",
+                        "url": "https://genius.com/artists/Shurikn"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1273",
+                    "header_image_url": "https://images.genius.com/b3e3e1d25f67b271355a4e68bc7b7abf.1000x667x1.jpg",
+                    "id": 1273,
+                    "image_url": "https://images.genius.com/74cf66f613495ab9c902d97245e180d9.588x588x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kery James",
+                    "url": "https://genius.com/artists/Kery-james",
+                    "iq": 2728
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3698478",
+                "artist_names": "Rocca (Ft. P38 (FRA))",
+                "full_title": "Apprendre A Vivre by\u00a0Rocca (Ft.\u00a0P38\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.600x600x1.jpg",
+                "id": 3698478,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Rocca-apprendre-a-vivre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-apprendre-a-vivre-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2003",
+                "release_date_with_abbreviated_month_for_display": "2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Apprendre A Vivre",
+                "title_with_featured": "Apprendre A Vivre (Ft.\u00a0P38\u00a0(FRA))",
+                "url": "https://genius.com/Rocca-apprendre-a-vivre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/3198685",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3198685,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "P38 (FRA)",
+                        "url": "https://genius.com/artists/P38-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3427528",
+                "artist_names": "Tres Coronas",
+                "full_title": "Aqui Llegamos by\u00a0Tres\u00a0Coronas",
+                "header_image_thumbnail_url": "https://images.genius.com/935aca859de2b7e2fcd4044a13d5cc52.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/935aca859de2b7e2fcd4044a13d5cc52.400x400x1.jpg",
+                "id": 3427528,
+                "language": "es",
+                "lyrics_owner_id": 1562487,
+                "lyrics_state": "complete",
+                "path": "/Tres-coronas-aqui-llegamos-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tres-coronas-aqui-llegamos-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/935aca859de2b7e2fcd4044a13d5cc52.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/935aca859de2b7e2fcd4044a13d5cc52.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Aqui Llegamos",
+                "title_with_featured": "Aqui Llegamos",
+                "url": "https://genius.com/Tres-coronas-aqui-llegamos-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/358312",
+                    "header_image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "id": 358312,
+                    "image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tres Coronas",
+                    "url": "https://genius.com/artists/Tres-coronas"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3683106",
+                "artist_names": "Tres Coronas (Ft. Toteking)",
+                "full_title": "Arte by\u00a0Tres\u00a0Coronas (Ft.\u00a0Toteking)",
+                "header_image_thumbnail_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.953x953x1.jpg",
+                "id": 3683106,
+                "language": "es",
+                "lyrics_owner_id": 4863535,
+                "lyrics_state": "complete",
+                "path": "/Tres-coronas-arte-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tres-coronas-arte-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2007",
+                "release_date_with_abbreviated_month_for_display": "2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.953x953x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Arte",
+                "title_with_featured": "Arte (Ft.\u00a0Toteking)",
+                "url": "https://genius.com/Tres-coronas-arte-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15589",
+                        "header_image_url": "https://images.genius.com/e92195484d2824414814846fff73025e.495x333x43.gif",
+                        "id": 15589,
+                        "image_url": "https://images.genius.com/dfde5cc88e5e5e1d4f2699a23183d80c.640x639x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Toteking",
+                        "url": "https://genius.com/artists/Toteking"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/358312",
+                    "header_image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "id": 358312,
+                    "image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tres Coronas",
+                    "url": "https://genius.com/artists/Tres-coronas"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1566373",
+                "artist_names": "Tres Coronas",
+                "full_title": "Arte Callejero by\u00a0Tres\u00a0Coronas",
+                "header_image_thumbnail_url": "https://images.genius.com/44b7168337046da85b5df96695782194.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/44b7168337046da85b5df96695782194.600x600x1.jpg",
+                "id": 1566373,
+                "language": "en",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Tres-coronas-arte-callejero-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tres-coronas-arte-callejero-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2001",
+                "release_date_with_abbreviated_month_for_display": "2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/44b7168337046da85b5df96695782194.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/44b7168337046da85b5df96695782194.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Arte Callejero",
+                "title_with_featured": "Arte Callejero",
+                "url": "https://genius.com/Tres-coronas-arte-callejero-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/358312",
+                    "header_image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "id": 358312,
+                    "image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tres Coronas",
+                    "url": "https://genius.com/artists/Tres-coronas"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/358697",
+                "artist_names": "Rocca",
+                "full_title": "Artifice by\u00a0Rocca",
+                "header_image_thumbnail_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.600x600x1.jpg",
+                "id": 358697,
+                "language": null,
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Rocca-artifice-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-artifice-sample",
+                "release_date_components": {
+                    "year": 1997,
+                    "month": 4,
+                    "day": 9
+                },
+                "release_date_for_display": "April 9, 1997",
+                "release_date_with_abbreviated_month_for_display": "Apr. 9, 1997",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Artifice",
+                "title_with_featured": "Artifice",
+                "url": "https://genius.com/Rocca-artifice-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3683116",
+                "artist_names": "Rocca",
+                "full_title": "Asalto by\u00a0Rocca",
+                "header_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "header_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "id": 3683116,
+                "language": null,
+                "lyrics_owner_id": 4863535,
+                "lyrics_state": "incomplete",
+                "path": "/Rocca-asalto-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-asalto-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 4
+                },
+                "release_date_for_display": "September 4, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 4, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "song_art_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Asalto",
+                "title_with_featured": "Asalto",
+                "url": "https://genius.com/Rocca-asalto-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/358714",
+                "artist_names": "Rocca",
+                "full_title": "Au lieu de se faire la guerre by\u00a0Rocca",
+                "header_image_thumbnail_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "id": 358714,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Rocca-au-lieu-de-se-faire-la-guerre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-au-lieu-de-se-faire-la-guerre-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/eabe91fe30a75aaf50edcbcf849bfac6.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Au lieu de se faire la guerre",
+                "title_with_featured": "Au lieu de se faire la guerre",
+                "url": "https://genius.com/Rocca-au-lieu-de-se-faire-la-guerre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/664000",
+                "artist_names": "Rocca",
+                "full_title": "Aux fronti\u00e8res du r\u00e9el by\u00a0Rocca",
+                "header_image_thumbnail_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.600x600x1.jpg",
+                "id": 664000,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Rocca-aux-frontieres-du-reel-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rocca-aux-frontieres-du-reel-sample",
+                "release_date_components": {
+                    "year": 1997,
+                    "month": 4,
+                    "day": 9
+                },
+                "release_date_for_display": "April 9, 1997",
+                "release_date_with_abbreviated_month_for_display": "Apr. 9, 1997",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d47cf6e29a18ee71662e47fea04a9bca.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Aux fronti\u00e8res du r\u00e9el",
+                "title_with_featured": "Aux fronti\u00e8res du r\u00e9el",
+                "url": "https://genius.com/Rocca-aux-frontieres-du-reel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2307266",
+                "artist_names": "Rocca (Ft. DJ Nelson)",
+                "full_title": "Avec la lune by\u00a0Rocca (Ft.\u00a0DJ\u00a0Nelson)",
+                "header_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "header_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "id": 2307266,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Rocca-avec-la-lune-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rocca-avec-la-lune-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2015",
+                "release_date_with_abbreviated_month_for_display": "2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "song_art_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Avec la lune",
+                "title_with_featured": "Avec la lune (Ft.\u00a0DJ\u00a0Nelson)",
+                "url": "https://genius.com/Rocca-avec-la-lune-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/101683",
+                        "header_image_url": "https://images.genius.com/dee267b0d606280e4cb13efd06dac868.1000x667x1.jpg",
+                        "id": 101683,
+                        "image_url": "https://images.genius.com/ad13545a02032692dc741f5a7a822ccd.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "DJ Nelson",
+                        "url": "https://genius.com/artists/Dj-nelson",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1870662",
+                "artist_names": "Rocca",
+                "full_title": "Avril 1975 by\u00a0Rocca",
+                "header_image_thumbnail_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.600x600x1.jpg",
+                "id": 1870662,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Rocca-avril-1975-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-avril-1975-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 6,
+                    "day": 17
+                },
+                "release_date_for_display": "June 17, 2003",
+                "release_date_with_abbreviated_month_for_display": "Jun. 17, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c0e2974c5a919ac53266dbed19eb67f.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Avril 1975",
+                "title_with_featured": "Avril 1975",
+                "url": "https://genius.com/Rocca-avril-1975-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3160538",
+                "artist_names": "Rocca (Ft. Nelson Palacios)",
+                "full_title": "Baby Face (Version fran\u00e7aise) by\u00a0Rocca (Ft.\u00a0Nelson\u00a0Palacios)",
+                "header_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "header_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "id": 3160538,
+                "language": "fr",
+                "lyrics_owner_id": 4863535,
+                "lyrics_state": "complete",
+                "path": "/Rocca-baby-face-version-francaise-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rocca-baby-face-version-francaise-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 9
+                },
+                "release_date_for_display": "September 9, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 9, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.300x301x1.png",
+                "song_art_image_url": "https://images.genius.com/528ed8ab26c8057f47cc1005fd16a640.720x722x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Baby Face (Version fran\u00e7aise)",
+                "title_with_featured": "Baby Face (Version fran\u00e7aise) (Ft.\u00a0Nelson\u00a0Palacios)",
+                "url": "https://genius.com/Rocca-baby-face-version-francaise-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1177198",
+                        "header_image_url": "https://images.genius.com/71b34a94ed6216f6abf10999c7fad590.720x480x1.jpg",
+                        "id": 1177198,
+                        "image_url": "https://images.genius.com/a5291e08ea398780a68492978524a491.388x388x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nelson Palacios",
+                        "url": "https://genius.com/artists/Nelson-palacios"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2020",
+                    "header_image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "id": 2020,
+                    "image_url": "https://images.genius.com/8f7e8e568506c8f362332115331ce172.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rocca",
+                    "url": "https://genius.com/artists/Rocca"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1108391",
+                "artist_names": "Tres Coronas (Ft. Nancy Sinatra)",
+                "full_title": "Bang Bang by\u00a0Tres\u00a0Coronas (Ft.\u00a0Nancy\u00a0Sinatra)",
+                "header_image_thumbnail_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.953x953x1.jpg",
+                "id": 1108391,
+                "language": null,
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Tres-coronas-bang-bang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tres-coronas-bang-bang-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9477a9b040b4c147c82035367b5a249c.953x953x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bang Bang",
+                "title_with_featured": "Bang Bang (Ft.\u00a0Nancy\u00a0Sinatra)",
+                "url": "https://genius.com/Tres-coronas-bang-bang-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/29229",
+                        "header_image_url": "https://images.genius.com/1d93136ec5ff6deb7625f4b0bcee826c.960x540x1.jpg",
+                        "id": 29229,
+                        "image_url": "https://images.genius.com/8ef8758e10465f8949a0b2b693593729.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nancy Sinatra",
+                        "url": "https://genius.com/artists/Nancy-sinatra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/358312",
+                    "header_image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "id": 358312,
+                    "image_url": "https://images.genius.com/48adc8cfa2db0ab5fbf010308af550e1.933x933x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tres Coronas",
+                    "url": "https://genius.com/artists/Tres-coronas"
+                }
+            }
+        ],
+        "next_page": 2
+    }
+}

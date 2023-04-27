@@ -1,0 +1,980 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5333043",
+                "artist_names": "Frenna",
+                "full_title": "Money Deh Yah by\u00a0Frenna",
+                "header_image_thumbnail_url": "https://images.genius.com/c9ad2ac5d0ec216ecfec789574fcfd7e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c9ad2ac5d0ec216ecfec789574fcfd7e.720x720x1.jpg",
+                "id": 5333043,
+                "language": "en",
+                "lyrics_owner_id": 1947267,
+                "lyrics_state": "complete",
+                "path": "/Frenna-money-deh-yah-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Frenna-money-deh-yah-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 9
+                },
+                "release_date_for_display": "March 9, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 9, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c9ad2ac5d0ec216ecfec789574fcfd7e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c9ad2ac5d0ec216ecfec789574fcfd7e.720x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 6746
+                },
+                "title": "Money Deh Yah",
+                "title_with_featured": "Money Deh Yah",
+                "url": "https://genius.com/Frenna-money-deh-yah-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/254304",
+                    "header_image_url": "https://images.genius.com/d4605e207eb9afbcf2ef61ea8c07826e.1000x999x1.png",
+                    "id": 254304,
+                    "image_url": "https://images.genius.com/f058e6cc48f6d7fee45f6e11c3c756aa.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Frenna",
+                    "url": "https://genius.com/artists/Frenna",
+                    "iq": 104
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5407796",
+                "artist_names": "Frenna (Ft. Vegedream)",
+                "full_title": "Money Deh Yah (Remix) by\u00a0Frenna (Ft.\u00a0Vegedream)",
+                "header_image_thumbnail_url": "https://images.genius.com/94cf08514cc8a5b2fcea80b0ba4efbd8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/94cf08514cc8a5b2fcea80b0ba4efbd8.1000x1000x1.jpg",
+                "id": 5407796,
+                "language": "en",
+                "lyrics_owner_id": 1947267,
+                "lyrics_state": "complete",
+                "path": "/Frenna-money-deh-yah-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Frenna-money-deh-yah-remix-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 31
+                },
+                "release_date_for_display": "March 31, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 31, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/94cf08514cc8a5b2fcea80b0ba4efbd8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/94cf08514cc8a5b2fcea80b0ba4efbd8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Money Deh Yah (Remix)",
+                "title_with_featured": "Money Deh Yah (Remix) (Ft.\u00a0Vegedream)",
+                "url": "https://genius.com/Frenna-money-deh-yah-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1206608",
+                        "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "id": 1206608,
+                        "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vegedream",
+                        "url": "https://genius.com/artists/Vegedream"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/254304",
+                    "header_image_url": "https://images.genius.com/d4605e207eb9afbcf2ef61ea8c07826e.1000x999x1.png",
+                    "id": 254304,
+                    "image_url": "https://images.genius.com/f058e6cc48f6d7fee45f6e11c3c756aa.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Frenna",
+                    "url": "https://genius.com/artists/Frenna",
+                    "iq": 104
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4660357",
+                "artist_names": "DJ Babs Jordan (Ft. Caroliina & Vegedream)",
+                "full_title": "Morena by\u00a0DJ\u00a0Babs Jordan (Ft.\u00a0Caroliina & Vegedream)",
+                "header_image_thumbnail_url": "https://images.genius.com/5fb315362cb997e2552f11d5ffec08ad.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5fb315362cb997e2552f11d5ffec08ad.1000x1000x1.jpg",
+                "id": 4660357,
+                "language": null,
+                "lyrics_owner_id": 4212581,
+                "lyrics_state": "complete",
+                "path": "/Dj-babs-jordan-morena-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dj-babs-jordan-morena-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5fb315362cb997e2552f11d5ffec08ad.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5fb315362cb997e2552f11d5ffec08ad.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Morena",
+                "title_with_featured": "Morena (Ft.\u00a0Caroliina & Vegedream)",
+                "url": "https://genius.com/Dj-babs-jordan-morena-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1313402",
+                        "header_image_url": "https://images.genius.com/808ddca4efa6960114117ea44c3b43f9.960x960x1.jpg",
+                        "id": 1313402,
+                        "image_url": "https://images.genius.com/808ddca4efa6960114117ea44c3b43f9.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Caroliina",
+                        "url": "https://genius.com/artists/Caroliina"
+                    },
+                    {
+                        "api_path": "/artists/1206608",
+                        "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "id": 1206608,
+                        "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vegedream",
+                        "url": "https://genius.com/artists/Vegedream"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1120637",
+                    "header_image_url": "https://images.genius.com/cabb7fc01b10552c802d7a2fb63ee791.426x426x1.jpg",
+                    "id": 1120637,
+                    "image_url": "https://images.genius.com/cabb7fc01b10552c802d7a2fb63ee791.426x426x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DJ Babs Jordan",
+                    "url": "https://genius.com/artists/Dj-babs-jordan"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3216264",
+                "artist_names": "Vegedream",
+                "full_title": "Obscure by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/b5a338aeaa248ff325b835ed26b68e9c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5a338aeaa248ff325b835ed26b68e9c.600x600x1.jpg",
+                "id": 3216264,
+                "language": "fr",
+                "lyrics_owner_id": 4012249,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-obscure-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-obscure-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 9
+                },
+                "release_date_for_display": "November 9, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 9, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5a338aeaa248ff325b835ed26b68e9c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5a338aeaa248ff325b835ed26b68e9c.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 28435
+                },
+                "title": "Obscure",
+                "title_with_featured": "Obscure",
+                "url": "https://genius.com/Vegedream-obscure-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4663981",
+                "artist_names": "Vegedream",
+                "full_title": "Obscure 2 by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.600x600x1.jpg",
+                "id": 4663981,
+                "language": "fr",
+                "lyrics_owner_id": 5812084,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-obscure-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-obscure-2-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 8065
+                },
+                "title": "Obscure 2",
+                "title_with_featured": "Obscure 2",
+                "url": "https://genius.com/Vegedream-obscure-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7883040",
+                "artist_names": "Vegedream",
+                "full_title": "Obscure 3 by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "id": 7883040,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-obscure-3-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-obscure-3-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Obscure 3",
+                "title_with_featured": "Obscure 3",
+                "url": "https://genius.com/Vegedream-obscure-3-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3727106",
+                "artist_names": "Vegedream",
+                "full_title": "Obscure (Remix) by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "id": 3727106,
+                "language": null,
+                "lyrics_owner_id": 4773187,
+                "lyrics_state": "incomplete",
+                "path": "/Vegedream-obscure-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-obscure-remix-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Obscure (Remix)",
+                "title_with_featured": "Obscure (Remix)",
+                "url": "https://genius.com/Vegedream-obscure-remix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4108210",
+                "artist_names": "Vegedream",
+                "full_title": "OMG by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "id": 4108210,
+                "language": "fr",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-omg-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-omg-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "OMG",
+                "title_with_featured": "OMG",
+                "url": "https://genius.com/Vegedream-omg-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7635505",
+                "artist_names": "Vegedream (Ft. Naps)",
+                "full_title": "On a l'habitude (Ok Many) by\u00a0Vegedream (Ft.\u00a0Naps)",
+                "header_image_thumbnail_url": "https://images.genius.com/1aae9bb0d1d7cf85906e869ed6450ac3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1aae9bb0d1d7cf85906e869ed6450ac3.1000x1000x1.jpg",
+                "id": 7635505,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-on-a-lhabitude-ok-many-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-on-a-lhabitude-ok-many-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 25
+                },
+                "release_date_for_display": "February 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1aae9bb0d1d7cf85906e869ed6450ac3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1aae9bb0d1d7cf85906e869ed6450ac3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On a l\u2019habitude (Ok Many)",
+                "title_with_featured": "On a l'habitude (Ok Many) (Ft.\u00a0Naps)",
+                "url": "https://genius.com/Vegedream-on-a-lhabitude-ok-many-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4108212",
+                "artist_names": "Vegedream",
+                "full_title": "On y va by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "id": 4108212,
+                "language": "fr",
+                "lyrics_owner_id": 3843805,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-on-y-va-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-on-y-va-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On y va",
+                "title_with_featured": "On y va",
+                "url": "https://genius.com/Vegedream-on-y-va-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7635508",
+                "artist_names": "Vegedream (Ft. Negrito)",
+                "full_title": "Pand\u00e9mie by\u00a0Vegedream (Ft.\u00a0Negrito)",
+                "header_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "id": 7635508,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-pandemie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-pandemie-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pand\u00e9mie",
+                "title_with_featured": "Pand\u00e9mie (Ft.\u00a0Negrito)",
+                "url": "https://genius.com/Vegedream-pandemie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1136776",
+                        "header_image_url": "https://images.genius.com/e6be0d42b2a10df3a604de86a5595f31.500x500x1.jpg",
+                        "id": 1136776,
+                        "image_url": "https://images.genius.com/e6be0d42b2a10df3a604de86a5595f31.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Negrito",
+                        "url": "https://genius.com/artists/Negrito"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7635510",
+                "artist_names": "Vegedream (Ft. Nej')",
+                "full_title": "Pansement by\u00a0Vegedream (Ft.\u00a0Nej')",
+                "header_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "id": 7635510,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-pansement-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-pansement-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pansement",
+                "title_with_featured": "Pansement (Ft.\u00a0Nej')",
+                "url": "https://genius.com/Vegedream-pansement-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/64330",
+                        "header_image_url": "https://images.genius.com/96d366e9090fac578cb30f39b02a9bf2.288x288x1.jpg",
+                        "id": 64330,
+                        "image_url": "https://images.genius.com/6e8d122659a6891310b92e452ce5f3c6.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nej\u2019",
+                        "url": "https://genius.com/artists/Nej"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4108213",
+                "artist_names": "Vegedream",
+                "full_title": "Pas comme \u00e7a by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "id": 4108213,
+                "language": "fr",
+                "lyrics_owner_id": 3950478,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-pas-comme-ca-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Vegedream-pas-comme-ca-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/68730cc2bb2346ea6e579cc9338d7c5d.352x352x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pas comme \u00e7a",
+                "title_with_featured": "Pas comme \u00e7a",
+                "url": "https://genius.com/Vegedream-pas-comme-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/4661659",
+                "artist_names": "Vegedream (Ft. Damso)",
+                "full_title": "Personne by\u00a0Vegedream (Ft.\u00a0Damso)",
+                "header_image_thumbnail_url": "https://images.genius.com/bcd007aaaef90cd072d374fc7eb0a085.300x169x1.png",
+                "header_image_url": "https://images.genius.com/bcd007aaaef90cd072d374fc7eb0a085.1000x562x1.png",
+                "id": 4661659,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-personne-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-personne-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/de4c1866e8793d4eda1e9cbd01e0bae7.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/de4c1866e8793d4eda1e9cbd01e0bae7.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 41081
+                },
+                "title": "Personne",
+                "title_with_featured": "Personne (Ft.\u00a0Damso)",
+                "url": "https://genius.com/Vegedream-personne-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/45855",
+                        "header_image_url": "https://images.genius.com/b2581d587cc672b6cbb4930135795e2a.667x1000x1.jpg",
+                        "id": 45855,
+                        "image_url": "https://images.genius.com/57aa49f445bb856c82f4a8e6e5bffe55.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Damso",
+                        "url": "https://genius.com/artists/Damso",
+                        "iq": 33420
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7635506",
+                "artist_names": "Vegedream (Ft. M. Pokora)",
+                "full_title": "Plus jamais by\u00a0Vegedream (Ft.\u00a0M.\u00a0Pokora)",
+                "header_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "id": 7635506,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-plus-jamais-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-plus-jamais-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus jamais",
+                "title_with_featured": "Plus jamais (Ft.\u00a0M.\u00a0Pokora)",
+                "url": "https://genius.com/Vegedream-plus-jamais-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/8433",
+                        "header_image_url": "https://images.genius.com/253ca6d518845b0740d3d49eeacb8752.1000x429x1.png",
+                        "id": 8433,
+                        "image_url": "https://images.genius.com/b9acd897698fcf0ae8afc72c740bb380.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "M. Pokora",
+                        "url": "https://genius.com/artists/M-pokora"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5981702",
+                "artist_names": "Vegedream (Ft. Tayc)",
+                "full_title": "Pour nous by\u00a0Vegedream (Ft.\u00a0Tayc)",
+                "header_image_thumbnail_url": "https://images.genius.com/37e90acd47edc05481bf63fcc6767164.300x300x1.png",
+                "header_image_url": "https://images.genius.com/37e90acd47edc05481bf63fcc6767164.800x800x1.png",
+                "id": 5981702,
+                "language": "fr",
+                "lyrics_owner_id": 498964,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-pour-nous-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Vegedream-pour-nous-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 25
+                },
+                "release_date_for_display": "September 25, 2020",
+                "release_date_with_abbreviated_month_for_display": "Sep. 25, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/37e90acd47edc05481bf63fcc6767164.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/37e90acd47edc05481bf63fcc6767164.800x800x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 22768
+                },
+                "title": "Pour nous",
+                "title_with_featured": "Pour nous (Ft.\u00a0Tayc)",
+                "url": "https://genius.com/Vegedream-pour-nous-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1181301",
+                        "header_image_url": "https://images.genius.com/c869fcfe8fd5c1a0adc47e035c8bef3f.1000x602x1.jpg",
+                        "id": 1181301,
+                        "image_url": "https://images.genius.com/874a6b4f57b16cb8bff9c4ad8c85feff.538x538x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tayc",
+                        "url": "https://genius.com/artists/Tayc"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4663986",
+                "artist_names": "Vegedream",
+                "full_title": "Pourquoi tu fais \u00e7a by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.600x600x1.jpg",
+                "id": 4663986,
+                "language": "fr",
+                "lyrics_owner_id": 4619745,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-pourquoi-tu-fais-ca-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-pourquoi-tu-fais-ca-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pourquoi tu fais \u00e7a",
+                "title_with_featured": "Pourquoi tu fais \u00e7a",
+                "url": "https://genius.com/Vegedream-pourquoi-tu-fais-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7883035",
+                "artist_names": "Vegedream",
+                "full_title": "Prie pour moi by\u00a0Vegedream",
+                "header_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "id": 7883035,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-prie-pour-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-prie-pour-moi-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e19bd432080e5c468e7d01f49df00f26.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Prie pour moi",
+                "title_with_featured": "Prie pour moi",
+                "url": "https://genius.com/Vegedream-prie-pour-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/3795650",
+                "artist_names": "Dosseh (Ft. Vegedream)",
+                "full_title": "Princes de la ville by\u00a0Dosseh (Ft.\u00a0Vegedream)",
+                "header_image_thumbnail_url": "https://images.genius.com/e5211f297f1602c9f5d9284ab43368e6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e5211f297f1602c9f5d9284ab43368e6.1000x1000x1.jpg",
+                "id": 3795650,
+                "language": "fr",
+                "lyrics_owner_id": 6469865,
+                "lyrics_state": "complete",
+                "path": "/Dosseh-princes-de-la-ville-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dosseh-princes-de-la-ville-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e5211f297f1602c9f5d9284ab43368e6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e5211f297f1602c9f5d9284ab43368e6.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 9158
+                },
+                "title": "Princes de la ville",
+                "title_with_featured": "Princes de la ville (Ft.\u00a0Vegedream)",
+                "url": "https://genius.com/Dosseh-princes-de-la-ville-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1206608",
+                        "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "id": 1206608,
+                        "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vegedream",
+                        "url": "https://genius.com/artists/Vegedream"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2223",
+                    "header_image_url": "https://images.genius.com/559c521953ff008a1eca1d304b7abbbc.591x279x1.png",
+                    "id": 2223,
+                    "image_url": "https://images.genius.com/d20e130f4c7d3e8d760650f9ee576662.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dosseh",
+                    "url": "https://genius.com/artists/Dosseh",
+                    "iq": 1692
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4353824",
+                "artist_names": "Shy\u2019m (Ft. Vegedream)",
+                "full_title": "Puerto Rico by\u00a0Shy\u2019m (Ft.\u00a0Vegedream)",
+                "header_image_thumbnail_url": "https://images.genius.com/872f7c298ef5fe58ec2be286048a60c7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/872f7c298ef5fe58ec2be286048a60c7.600x600x1.jpg",
+                "id": 4353824,
+                "language": "fr",
+                "lyrics_owner_id": 6006007,
+                "lyrics_state": "complete",
+                "path": "/Shym-puerto-rico-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Shym-puerto-rico-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 1
+                },
+                "release_date_for_display": "March 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/872f7c298ef5fe58ec2be286048a60c7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/872f7c298ef5fe58ec2be286048a60c7.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Puerto Rico",
+                "title_with_featured": "Puerto Rico (Ft.\u00a0Vegedream)",
+                "url": "https://genius.com/Shym-puerto-rico-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1206608",
+                        "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "id": 1206608,
+                        "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vegedream",
+                        "url": "https://genius.com/artists/Vegedream"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/328732",
+                    "header_image_url": "https://images.genius.com/b907163a8b3c27b63f8e66f500ef6aab.851x315x1.png",
+                    "id": 328732,
+                    "image_url": "https://images.genius.com/87c29c5d0961a228d59780301666a9b2.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shy\u2019m",
+                    "url": "https://genius.com/artists/Shym"
+                }
+            }
+        ],
+        "next_page": 6
+    }
+}

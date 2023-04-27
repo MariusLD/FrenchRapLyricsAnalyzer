@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/65461",
+                "artist_names": "\u00c4rsenik (Group) (Ft. MC Janik)",
+                "full_title": "Un monde parfait by\u00a0\u00c4rsenik\u00a0(Group) (Ft.\u00a0MC\u00a0Janik)",
+                "header_image_thumbnail_url": "https://images.genius.com/b86400f0c5a9a65b6bca9397861a07e3.300x300x1.png",
+                "header_image_url": "https://images.genius.com/b86400f0c5a9a65b6bca9397861a07e3.1000x1000x1.png",
+                "id": 65461,
+                "language": "fr",
+                "lyrics_owner_id": 13497,
+                "lyrics_state": "complete",
+                "path": "/Arsenik-group-un-monde-parfait-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Arsenik-group-un-monde-parfait-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 1998",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b86400f0c5a9a65b6bca9397861a07e3.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/b86400f0c5a9a65b6bca9397861a07e3.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 10797
+                },
+                "title": "Un monde parfait",
+                "title_with_featured": "Un monde parfait (Ft.\u00a0MC\u00a0Janik)",
+                "url": "https://genius.com/Arsenik-group-un-monde-parfait-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/275287",
+                        "header_image_url": "https://images.genius.com/67e73c84773fb061f21d5cb35046ce96.292x292x1.jpg",
+                        "id": 275287,
+                        "image_url": "https://images.genius.com/67e73c84773fb061f21d5cb35046ce96.292x292x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Janik",
+                        "url": "https://genius.com/artists/Mc-janik"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13280",
+                    "header_image_url": "https://images.genius.com/169e894375e74c4ded97ee13fb8991a2.640x350x1.jpg",
+                    "id": 13280,
+                    "image_url": "https://images.genius.com/376af781ddda9d6887a790dada585d1f.649x649x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u00c4rsenik (Group)",
+                    "url": "https://genius.com/artists/Arsenik-group"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

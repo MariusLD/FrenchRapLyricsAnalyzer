@@ -1,0 +1,578 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5583193",
+                "artist_names": "Kamelancien (Ft. Kara (FRA) & Koma Daddy)",
+                "full_title": "Tu sais comment \u00e7a se passe by\u00a0Kamelancien (Ft.\u00a0Kara\u00a0(FRA) & Koma\u00a0Daddy)",
+                "header_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "id": 5583193,
+                "language": "fr",
+                "lyrics_owner_id": 580547,
+                "lyrics_state": "complete",
+                "path": "/Kamelancien-tu-sais-comment-ca-se-passe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamelancien-tu-sais-comment-ca-se-passe-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2007",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tu sais comment \u00e7a se passe",
+                "title_with_featured": "Tu sais comment \u00e7a se passe (Ft.\u00a0Kara\u00a0(FRA) & Koma\u00a0Daddy)",
+                "url": "https://genius.com/Kamelancien-tu-sais-comment-ca-se-passe-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2245196",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2245196,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kara (FRA)",
+                        "url": "https://genius.com/artists/Kara-fra"
+                    },
+                    {
+                        "api_path": "/artists/2245195",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2245195,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koma Daddy",
+                        "url": "https://genius.com/artists/Koma-daddy"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/99125",
+                "artist_names": "Kamelancien",
+                "full_title": "Un jour ou l\u2019autre tu verras by\u00a0Kamelancien",
+                "header_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "id": 99125,
+                "language": "fr",
+                "lyrics_owner_id": 155024,
+                "lyrics_state": "complete",
+                "path": "/Kamelancien-un-jour-ou-lautre-tu-verras-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Kamelancien-un-jour-ou-lautre-tu-verras-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2007",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 35346
+                },
+                "title": "Un jour ou l\u2019autre tu verras",
+                "title_with_featured": "Un jour ou l\u2019autre tu verras",
+                "url": "https://genius.com/Kamelancien-un-jour-ou-lautre-tu-verras-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2067325",
+                "artist_names": "Kamelancien",
+                "full_title": "Un jour ou l'autre, tu verras - 2067325 by\u00a0Kamelancien",
+                "header_image_thumbnail_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                "id": 2067325,
+                "language": "fr",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Kamelancien-un-jour-ou-lautre-tu-verras-2067325-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamelancien-un-jour-ou-lautre-tu-verras-2067325-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un jour ou l\u2019autre, tu verras - 2067325",
+                "title_with_featured": "Un jour ou l'autre, tu verras - 2067325",
+                "url": "https://genius.com/Kamelancien-un-jour-ou-lautre-tu-verras-2067325-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/99115",
+                "artist_names": "Kamelancien",
+                "full_title": "Un mec bien by\u00a0Kamelancien",
+                "header_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "id": 99115,
+                "language": "fr",
+                "lyrics_owner_id": 155024,
+                "lyrics_state": "complete",
+                "path": "/Kamelancien-un-mec-bien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamelancien-un-mec-bien-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2007",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 8930
+                },
+                "title": "Un mec bien",
+                "title_with_featured": "Un mec bien",
+                "url": "https://genius.com/Kamelancien-un-mec-bien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5248865",
+                "artist_names": "Kofs (Ft. Kamelancien)",
+                "full_title": "Un mec plein by\u00a0Kofs (Ft.\u00a0Kamelancien)",
+                "header_image_thumbnail_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.1000x1000x1.jpg",
+                "id": 5248865,
+                "language": "fr",
+                "lyrics_owner_id": 9141899,
+                "lyrics_state": "complete",
+                "path": "/Kofs-un-mec-plein-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kofs-un-mec-plein-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 21
+                },
+                "release_date_for_display": "February 21, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 21, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/05454cbca41b564cab924383214bfccc.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un mec plein",
+                "title_with_featured": "Un mec plein (Ft.\u00a0Kamelancien)",
+                "url": "https://genius.com/Kofs-un-mec-plein-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13898",
+                        "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                        "id": 13898,
+                        "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kamelancien",
+                        "url": "https://genius.com/artists/Kamelancien",
+                        "iq": 1335
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/566498",
+                    "header_image_url": "https://images.genius.com/9b005bd9785fd694387f6ae024b9a8b6.600x600x1.jpg",
+                    "id": 566498,
+                    "image_url": "https://images.genius.com/d4619f2a579e9c3cd6e60348312202a9.593x593x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kofs",
+                    "url": "https://genius.com/artists/Kofs"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8923578",
+                "artist_names": "Kamelancien",
+                "full_title": "Vas t'faire foutre by\u00a0Kamelancien",
+                "header_image_thumbnail_url": "https://images.genius.com/101bd8cc931189024d9dc496be13c447.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/101bd8cc931189024d9dc496be13c447.393x393x1.jpg",
+                "id": 8923578,
+                "language": "fr",
+                "lyrics_owner_id": 15818668,
+                "lyrics_state": "unreleased",
+                "path": "/Kamelancien-vas-tfaire-foutre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamelancien-vas-tfaire-foutre-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/101bd8cc931189024d9dc496be13c447.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/101bd8cc931189024d9dc496be13c447.393x393x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vas t\u2019faire foutre",
+                "title_with_featured": "Vas t'faire foutre",
+                "url": "https://genius.com/Kamelancien-vas-tfaire-foutre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            },
+            {
+                "annotation_count": 42,
+                "api_path": "/songs/56523",
+                "artist_names": "La Fouine (Ft. Kamelancien)",
+                "full_title": "V\u00e9cu by\u00a0La\u00a0Fouine (Ft.\u00a0Kamelancien)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/5cb1421228831577c7f7d5cd0554c14c.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/5cb1421228831577c7f7d5cd0554c14c.709x709x1.jpg",
+                "id": 56523,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-vecu-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/La-fouine-vecu-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2011",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2011",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/5cb1421228831577c7f7d5cd0554c14c.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/5cb1421228831577c7f7d5cd0554c14c.709x709x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 75440
+                },
+                "title": "V\u00e9cu",
+                "title_with_featured": "V\u00e9cu (Ft.\u00a0Kamelancien)",
+                "url": "https://genius.com/La-fouine-vecu-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13898",
+                        "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                        "id": 13898,
+                        "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kamelancien",
+                        "url": "https://genius.com/artists/Kamelancien",
+                        "iq": 1335
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/451751",
+                "artist_names": "MLC (Ft. Kamelancien)",
+                "full_title": "Vendetta by\u00a0MLC (Ft.\u00a0Kamelancien)",
+                "header_image_thumbnail_url": "https://images.genius.com/dd1b70627c2b966bdab07ca5cee4d078.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dd1b70627c2b966bdab07ca5cee4d078.600x600x1.jpg",
+                "id": 451751,
+                "language": "fr",
+                "lyrics_owner_id": 228495,
+                "lyrics_state": "complete",
+                "path": "/Mlc-vendetta-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mlc-vendetta-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 7
+                },
+                "release_date_for_display": "February 7, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 7, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dd1b70627c2b966bdab07ca5cee4d078.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dd1b70627c2b966bdab07ca5cee4d078.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vendetta",
+                "title_with_featured": "Vendetta (Ft.\u00a0Kamelancien)",
+                "url": "https://genius.com/Mlc-vendetta-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13898",
+                        "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                        "id": 13898,
+                        "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kamelancien",
+                        "url": "https://genius.com/artists/Kamelancien",
+                        "iq": 1335
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/27744",
+                    "header_image_url": "https://images.genius.com/913526fdd05d37f77203d06d3b726e1e.636x960x1.jpg",
+                    "id": 27744,
+                    "image_url": "https://images.genius.com/913526fdd05d37f77203d06d3b726e1e.636x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MLC",
+                    "url": "https://genius.com/artists/Mlc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5586102",
+                "artist_names": "Kamelancien (Ft. Koma Daddy & Moha Le Vagabond)",
+                "full_title": "Wanted by\u00a0Kamelancien (Ft.\u00a0Koma\u00a0Daddy & Moha\u00a0Le Vagabond)",
+                "header_image_thumbnail_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.300x305x1.jpg",
+                "header_image_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.492x500x1.jpg",
+                "id": 5586102,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Kamelancien-wanted-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamelancien-wanted-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.300x305x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.492x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Wanted",
+                "title_with_featured": "Wanted (Ft.\u00a0Koma\u00a0Daddy & Moha\u00a0Le Vagabond)",
+                "url": "https://genius.com/Kamelancien-wanted-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2245195",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2245195,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koma Daddy",
+                        "url": "https://genius.com/artists/Koma-daddy"
+                    },
+                    {
+                        "api_path": "/artists/297664",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 297664,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Moha Le Vagabond",
+                        "url": "https://genius.com/artists/Moha-le-vagabond"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5586101",
+                "artist_names": "Kamelancien",
+                "full_title": "Y'a que la v\u00e9rit\u00e9 qui blesse by\u00a0Kamelancien",
+                "header_image_thumbnail_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.300x305x1.jpg",
+                "header_image_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.492x500x1.jpg",
+                "id": 5586101,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Kamelancien-ya-que-la-verite-qui-blesse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamelancien-ya-que-la-verite-qui-blesse-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2008",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.300x305x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c317be9eb98d28ac7908dcd457402994.492x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Y\u2019a que la v\u00e9rit\u00e9 qui blesse",
+                "title_with_featured": "Y'a que la v\u00e9rit\u00e9 qui blesse",
+                "url": "https://genius.com/Kamelancien-ya-que-la-verite-qui-blesse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5585290",
+                "artist_names": "Kamelancien (Ft. Flow-B & Papis Eries)",
+                "full_title": "Yesa\u00ef by\u00a0Kamelancien (Ft.\u00a0Flow-B & Papis\u00a0Eries)",
+                "header_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "id": 5585290,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Kamelancien-yesai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamelancien-yesai-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 2,
+                    "day": 5
+                },
+                "release_date_for_display": "February 5, 2007",
+                "release_date_with_abbreviated_month_for_display": "Feb. 5, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/13dedf87238882501c5c76b073146c00.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Yesa\u00ef",
+                "title_with_featured": "Yesa\u00ef (Ft.\u00a0Flow-B & Papis\u00a0Eries)",
+                "url": "https://genius.com/Kamelancien-yesai-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2245200",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2245200,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Flow-B",
+                        "url": "https://genius.com/artists/Flow-b"
+                    },
+                    {
+                        "api_path": "/artists/2245183",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2245183,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Papis Eries",
+                        "url": "https://genius.com/artists/Papis-eries"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13898",
+                    "header_image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "id": 13898,
+                    "image_url": "https://images.genius.com/7cdfe54d60daa7b9522511b8db83ef1e.480x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kamelancien",
+                    "url": "https://genius.com/artists/Kamelancien",
+                    "iq": 1335
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

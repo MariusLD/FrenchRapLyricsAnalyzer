@@ -1,0 +1,923 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/114710",
+                "artist_names": "113 (Ft. Jeap 12 & Roc\u00e9 (FRA))",
+                "full_title": "La v\u00e9rit\u00e9 blesse by\u00a0113 (Ft.\u00a0Jeap\u00a012 & Roc\u00e9\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.895x900x1.jpg",
+                "id": 114710,
+                "language": "fr",
+                "lyrics_owner_id": 108158,
+                "lyrics_state": "complete",
+                "path": "/113-la-verite-blesse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/113-la-verite-blesse-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": 3,
+                    "day": 18
+                },
+                "release_date_for_display": "March 18, 1999",
+                "release_date_with_abbreviated_month_for_display": "Mar. 18, 1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c59b0a083a7ca9b59d34e81d92d75e26.895x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La v\u00e9rit\u00e9 blesse",
+                "title_with_featured": "La v\u00e9rit\u00e9 blesse (Ft.\u00a0Jeap\u00a012 & Roc\u00e9\u00a0(FRA))",
+                "url": "https://genius.com/113-la-verite-blesse-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2639788",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2639788,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jeap 12",
+                        "url": "https://genius.com/artists/Jeap-12"
+                    },
+                    {
+                        "api_path": "/artists/12191",
+                        "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                        "id": 12191,
+                        "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Roc\u00e9 (FRA)",
+                        "url": "https://genius.com/artists/Roce-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11574",
+                    "header_image_url": "https://images.genius.com/5c4c6cd559f507faab66178bafdc2da9.800x532x1.jpg",
+                    "id": 11574,
+                    "image_url": "https://images.genius.com/e2836db190e1d35eb770a894b0fe6ca6.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "113",
+                    "url": "https://genius.com/artists/113"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/126799",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "La vitesse m'emp\u00eache d'avancer by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "id": 126799,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-la-vitesse-mempeche-davancer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-la-vitesse-mempeche-davancer-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "La vitesse m\u2019emp\u00eache d\u2019avancer",
+                "title_with_featured": "La vitesse m'emp\u00eache d'avancer",
+                "url": "https://genius.com/Roce-fra-la-vitesse-mempeche-davancer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2980557",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Le cartable renvers\u00e9 by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "header_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "id": 2980557,
+                "language": "fr",
+                "lyrics_owner_id": 4257453,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-le-cartable-renverse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-le-cartable-renverse-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le cartable renvers\u00e9",
+                "title_with_featured": "Le cartable renvers\u00e9",
+                "url": "https://genius.com/Roce-fra-le-cartable-renverse-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/202704",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Le dernier des derniers by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.1000x1000x1.jpg",
+                "id": 202704,
+                "language": "fr",
+                "lyrics_owner_id": 259935,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-le-dernier-des-derniers-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-le-dernier-des-derniers-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le dernier des derniers",
+                "title_with_featured": "Le dernier des derniers",
+                "url": "https://genius.com/Roce-fra-le-dernier-des-derniers-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/49764",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Le m\u00e9t\u00e8que by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "id": 49764,
+                "language": "fr",
+                "lyrics_owner_id": 6383,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-le-meteque-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-le-meteque-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 5,
+                    "day": 15
+                },
+                "release_date_for_display": "May 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "May. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Le m\u00e9t\u00e8que",
+                "title_with_featured": "Le m\u00e9t\u00e8que",
+                "url": "https://genius.com/Roce-fra-le-meteque-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/666539",
+                "artist_names": "Roc\u00e9 (FRA) (Ft. Sil Matadin)",
+                "full_title": "Le savoir en Kimono by\u00a0Roc\u00e9\u00a0(FRA) (Ft.\u00a0Sil\u00a0Matadin)",
+                "header_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "header_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "id": 666539,
+                "language": "fr",
+                "lyrics_owner_id": 1259360,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-le-savoir-en-kimono-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-le-savoir-en-kimono-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le savoir en Kimono",
+                "title_with_featured": "Le savoir en Kimono (Ft.\u00a0Sil\u00a0Matadin)",
+                "url": "https://genius.com/Roce-fra-le-savoir-en-kimono-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/44954",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 44954,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sil Matadin",
+                        "url": "https://genius.com/artists/Sil-matadin"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/136984",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Les fouliens by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "id": 136984,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-les-fouliens-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-les-fouliens-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 5,
+                    "day": 15
+                },
+                "release_date_for_display": "May 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "May. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Les fouliens",
+                "title_with_featured": "Les fouliens",
+                "url": "https://genius.com/Roce-fra-les-fouliens-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/365919",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Les gens parlent by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.1000x1000x1.jpg",
+                "id": 365919,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-les-gens-parlent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-les-gens-parlent-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Les gens parlent",
+                "title_with_featured": "Les gens parlent",
+                "url": "https://genius.com/Roce-fra-les-gens-parlent-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/128599",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Le sourire des villes by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "id": 128599,
+                "language": "fr",
+                "lyrics_owner_id": 6383,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-le-sourire-des-villes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-le-sourire-des-villes-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Le sourire des villes",
+                "title_with_featured": "Le sourire des villes",
+                "url": "https://genius.com/Roce-fra-le-sourire-des-villes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/90568",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Les singes by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "header_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "id": 90568,
+                "language": "fr",
+                "lyrics_owner_id": 39649,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-les-singes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-les-singes-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Les singes",
+                "title_with_featured": "Les singes",
+                "url": "https://genius.com/Roce-fra-les-singes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/86029",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "L'\u00eatre Humain et le R\u00e9verb\u00e8re by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "header_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "id": 86029,
+                "language": "fr",
+                "lyrics_owner_id": 509809,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-letre-humain-et-le-reverbere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-letre-humain-et-le-reverbere-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019\u00eatre Humain et le R\u00e9verb\u00e8re",
+                "title_with_featured": "L'\u00eatre Humain et le R\u00e9verb\u00e8re",
+                "url": "https://genius.com/Roce-fra-letre-humain-et-le-reverbere-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/136976",
+                "artist_names": "Roc\u00e9 (FRA) (Ft. Hayet)",
+                "full_title": "L'objectif by\u00a0Roc\u00e9\u00a0(FRA) (Ft.\u00a0Hayet)",
+                "header_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "header_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "id": 136976,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-lobjectif-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-lobjectif-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019objectif",
+                "title_with_featured": "L'objectif (Ft.\u00a0Hayet)",
+                "url": "https://genius.com/Roce-fra-lobjectif-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/44955",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 44955,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Hayet",
+                        "url": "https://genius.com/artists/Hayet"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/136980",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "L'un et le multiple by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "id": 136980,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-lun-et-le-multiple-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-lun-et-le-multiple-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 5,
+                    "day": 15
+                },
+                "release_date_for_display": "May 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "May. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019un et le multiple",
+                "title_with_featured": "L'un et le multiple",
+                "url": "https://genius.com/Roce-fra-lun-et-le-multiple-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/5046351",
+                "artist_names": "Demi Portion (Ft. Roc\u00e9 (FRA))",
+                "full_title": "Lyricistes by\u00a0Demi\u00a0Portion (Ft.\u00a0Roc\u00e9\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/d7dc167d257147ed870c5d511d66d513.300x300x1.png",
+                "header_image_url": "https://images.genius.com/d7dc167d257147ed870c5d511d66d513.599x599x1.png",
+                "id": 5046351,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Demi-portion-lyricistes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Demi-portion-lyricistes-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 17
+                },
+                "release_date_for_display": "January 17, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 17, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d7dc167d257147ed870c5d511d66d513.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/d7dc167d257147ed870c5d511d66d513.599x599x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lyricistes",
+                "title_with_featured": "Lyricistes (Ft.\u00a0Roc\u00e9\u00a0(FRA))",
+                "url": "https://genius.com/Demi-portion-lyricistes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12191",
+                        "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                        "id": 12191,
+                        "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Roc\u00e9 (FRA)",
+                        "url": "https://genius.com/artists/Roce-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14366",
+                    "header_image_url": "https://images.genius.com/3611c451c2c1148b33a3867e385dc77b.685x255x1.png",
+                    "id": 14366,
+                    "image_url": "https://images.genius.com/315e09d89ec8a332caac61de724885f5.612x612x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Demi Portion",
+                    "url": "https://genius.com/artists/Demi-portion",
+                    "iq": 114
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/296035",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Ma face en premi\u00e8re page by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.1000x1000x1.jpg",
+                "id": 296035,
+                "language": "fr",
+                "lyrics_owner_id": 303747,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-ma-face-en-premiere-page-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-ma-face-en-premiere-page-sample",
+                "release_date_components": {
+                    "year": 1997,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 1997",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 1997",
+                "song_art_image_thumbnail_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/41c6ce0069d621e65327935e07730dd1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false
+                },
+                "title": "Ma face en premi\u00e8re page",
+                "title_with_featured": "Ma face en premi\u00e8re page",
+                "url": "https://genius.com/Roce-fra-ma-face-en-premiere-page-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/166176",
+                "artist_names": "Roc\u00e9 (FRA) (Ft. Manu Key)",
+                "full_title": "Magic by\u00a0Roc\u00e9\u00a0(FRA) (Ft.\u00a0Manu\u00a0Key)",
+                "header_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "id": 166176,
+                "language": "fr",
+                "lyrics_owner_id": 231477,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-magic-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Roce-fra-magic-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Magic",
+                "title_with_featured": "Magic (Ft.\u00a0Manu\u00a0Key)",
+                "url": "https://genius.com/Roce-fra-magic-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/30970",
+                        "header_image_url": "https://images.genius.com/bw376221aiatv70m201slm2zc.400x395x1.jpg",
+                        "id": 30970,
+                        "image_url": "https://images.genius.com/bw376221aiatv70m201slm2zc.400x395x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Manu Key",
+                        "url": "https://genius.com/artists/Manu-key"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/136983",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Ma salet\u00e9 d'esp\u00e9rance by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "id": 136983,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-ma-salete-desperance-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Roce-fra-ma-salete-desperance-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 5,
+                    "day": 15
+                },
+                "release_date_for_display": "May 15, 2006",
+                "release_date_with_abbreviated_month_for_display": "May. 15, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5411ffe360bdc20ab54a3b0b5ec84740.900x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ma salet\u00e9 d\u2019esp\u00e9rance",
+                "title_with_featured": "Ma salet\u00e9 d'esp\u00e9rance",
+                "url": "https://genius.com/Roce-fra-ma-salete-desperance-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/135908",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Mon cr\u00e2ne sur le paillason by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "header_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "id": 135908,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-mon-crane-sur-le-paillason-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-mon-crane-sur-le-paillason-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2010",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/24d25c09da40e1970124bc40a8f30af7.224x225x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Mon cr\u00e2ne sur le paillason",
+                "title_with_featured": "Mon cr\u00e2ne sur le paillason",
+                "url": "https://genius.com/Roce-fra-mon-crane-sur-le-paillason-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/128595",
+                "artist_names": "Roc\u00e9 (FRA)",
+                "full_title": "Mon Rap ne tient qu'\u00e0 un fil by\u00a0Roc\u00e9\u00a0(FRA)",
+                "header_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "id": 128595,
+                "language": "fr",
+                "lyrics_owner_id": 6383,
+                "lyrics_state": "complete",
+                "path": "/Roce-fra-mon-rap-ne-tient-qua-un-fil-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Roce-fra-mon-rap-ne-tient-qua-un-fil-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f1dd02f4e6cf3110c816b630f4aec26e.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Mon Rap ne tient qu\u2019\u00e0 un fil",
+                "title_with_featured": "Mon Rap ne tient qu'\u00e0 un fil",
+                "url": "https://genius.com/Roce-fra-mon-rap-ne-tient-qua-un-fil-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12191",
+                    "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "id": 12191,
+                    "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roc\u00e9 (FRA)",
+                    "url": "https://genius.com/artists/Roce-fra"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/355749",
+                "artist_names": "Charly Waits (Ft. Buzz (FRA), Kazkami & Roc\u00e9 (FRA))",
+                "full_title": "Na\u00eetre pour mourir by\u00a0Charly\u00a0Waits (Ft.\u00a0Buzz\u00a0(FRA), Kazkami & Roc\u00e9\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/695fedf598b8885e8f6583598577158d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/695fedf598b8885e8f6583598577158d.400x400x1.jpg",
+                "id": 355749,
+                "language": "fr",
+                "lyrics_owner_id": 410944,
+                "lyrics_state": "complete",
+                "path": "/Charly-waits-naitre-pour-mourir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Charly-waits-naitre-pour-mourir-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2003",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/695fedf598b8885e8f6583598577158d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/695fedf598b8885e8f6583598577158d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Na\u00eetre pour mourir",
+                "title_with_featured": "Na\u00eetre pour mourir (Ft.\u00a0Buzz\u00a0(FRA), Kazkami & Roc\u00e9\u00a0(FRA))",
+                "url": "https://genius.com/Charly-waits-naitre-pour-mourir-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2583795",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2583795,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Buzz (FRA)",
+                        "url": "https://genius.com/artists/Buzz-fra"
+                    },
+                    {
+                        "api_path": "/artists/12191",
+                        "header_image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                        "id": 12191,
+                        "image_url": "https://images.genius.com/cedd35bc2196601a8e13490c94f206ec.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Roc\u00e9 (FRA)",
+                        "url": "https://genius.com/artists/Roce-fra"
+                    },
+                    {
+                        "api_path": "/artists/20319",
+                        "header_image_url": "https://images.genius.com/35a1a11961049eb46777656e23f3448f.288x288x1.jpg",
+                        "id": 20319,
+                        "image_url": "https://images.genius.com/35a1a11961049eb46777656e23f3448f.288x288x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kazkami",
+                        "url": "https://genius.com/artists/Kazkami"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/139384",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 139384,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Charly Waits",
+                    "url": "https://genius.com/artists/Charly-waits"
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

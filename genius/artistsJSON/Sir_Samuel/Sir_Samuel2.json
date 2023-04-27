@@ -1,0 +1,970 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4459792",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Blow by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "id": 4459792,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-blow-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-blow-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2005",
+                "release_date_with_abbreviated_month_for_display": "2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e02c29e416877f9059ce9423d10f0e16.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Blow",
+                "title_with_featured": "Blow",
+                "url": "https://genius.com/Saian-supa-crew-blow-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5249379",
+                "artist_names": "Daddy Mory (Ft. F\u00e9f\u00e9 & Sir Samuel)",
+                "full_title": "Bonne vibration by\u00a0Daddy\u00a0Mory (Ft.\u00a0F\u00e9f\u00e9 & Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/84479ee16ce8b3d2fba0c8bf2888600e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/84479ee16ce8b3d2fba0c8bf2888600e.800x800x1.jpg",
+                "id": 5249379,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Daddy-mory-bonne-vibration-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Daddy-mory-bonne-vibration-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 6,
+                    "day": 3
+                },
+                "release_date_for_display": "June 3, 2003",
+                "release_date_with_abbreviated_month_for_display": "Jun. 3, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/84479ee16ce8b3d2fba0c8bf2888600e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/84479ee16ce8b3d2fba0c8bf2888600e.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bonne vibration",
+                "title_with_featured": "Bonne vibration (Ft.\u00a0F\u00e9f\u00e9 & Sir\u00a0Samuel)",
+                "url": "https://genius.com/Daddy-mory-bonne-vibration-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    },
+                    {
+                        "api_path": "/artists/30735",
+                        "header_image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                        "id": 30735,
+                        "image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "F\u00e9f\u00e9",
+                        "url": "https://genius.com/artists/Fefe"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16029",
+                    "header_image_url": "https://images.genius.com/b245291b7a3bec864a6b36597b11abe4.374x374x1.jpg",
+                    "id": 16029,
+                    "image_url": "https://images.genius.com/b245291b7a3bec864a6b36597b11abe4.374x374x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daddy Mory",
+                    "url": "https://genius.com/artists/Daddy-mory"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6219667",
+                "artist_names": "MC Janik (Ft. Sir Samuel)",
+                "full_title": "Bouge ton body by\u00a0MC\u00a0Janik (Ft.\u00a0Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/935a6da0ead6ae4332a9cedf5af1602a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/935a6da0ead6ae4332a9cedf5af1602a.598x598x1.jpg",
+                "id": 6219667,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Mc-janik-bouge-ton-body-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-janik-bouge-ton-body-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 6,
+                    "day": 22
+                },
+                "release_date_for_display": "June 22, 2004",
+                "release_date_with_abbreviated_month_for_display": "Jun. 22, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/935a6da0ead6ae4332a9cedf5af1602a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/935a6da0ead6ae4332a9cedf5af1602a.598x598x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bouge ton body",
+                "title_with_featured": "Bouge ton body (Ft.\u00a0Sir\u00a0Samuel)",
+                "url": "https://genius.com/Mc-janik-bouge-ton-body-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/275287",
+                    "header_image_url": "https://images.genius.com/67e73c84773fb061f21d5cb35046ce96.292x292x1.jpg",
+                    "id": 275287,
+                    "image_url": "https://images.genius.com/67e73c84773fb061f21d5cb35046ce96.292x292x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Janik",
+                    "url": "https://genius.com/artists/Mc-janik"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5057623",
+                "artist_names": "Sir Samuel",
+                "full_title": "Calme Et Temp\u00eate by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "id": 5057623,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-calme-et-tempete-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-calme-et-tempete-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Calme Et Temp\u00eate",
+                "title_with_featured": "Calme Et Temp\u00eate",
+                "url": "https://genius.com/Sir-samuel-calme-et-tempete-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/189809",
+                "artist_names": "Sir Samuel (Ft. Busta Flex)",
+                "full_title": "Carnaval by\u00a0Sir\u00a0Samuel (Ft.\u00a0Busta\u00a0Flex)",
+                "header_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "id": 189809,
+                "language": "fr",
+                "lyrics_owner_id": 64332,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-carnaval-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-carnaval-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2011",
+                "release_date_with_abbreviated_month_for_display": "2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Carnaval",
+                "title_with_featured": "Carnaval (Ft.\u00a0Busta\u00a0Flex)",
+                "url": "https://genius.com/Sir-samuel-carnaval-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14348",
+                        "header_image_url": "https://images.genius.com/40683b90799d7e324c90f64428e92d45.650x250x1.jpg",
+                        "id": 14348,
+                        "image_url": "https://images.genius.com/4fff2a46b9993a490e39019cf336b7b7.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Busta Flex",
+                        "url": "https://genius.com/artists/Busta-flex"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5057635",
+                "artist_names": "Sir Samuel",
+                "full_title": "Ce Pays by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "id": 5057635,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-ce-pays-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-ce-pays-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ce Pays",
+                "title_with_featured": "Ce Pays",
+                "url": "https://genius.com/Sir-samuel-ce-pays-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2427853",
+                "artist_names": "Ta\u00efro (Ft. Sir Samuel)",
+                "full_title": "C'est la vie qui veut \u00e7a by\u00a0Ta\u00efro (Ft.\u00a0Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/b1087381c5d564bd6fb8e8a7497bee95.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b1087381c5d564bd6fb8e8a7497bee95.400x400x1.jpg",
+                "id": 2427853,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Tairo-cest-la-vie-qui-veut-ca-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tairo-cest-la-vie-qui-veut-ca-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2011",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b1087381c5d564bd6fb8e8a7497bee95.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b1087381c5d564bd6fb8e8a7497bee95.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est la vie qui veut \u00e7a",
+                "title_with_featured": "C'est la vie qui veut \u00e7a (Ft.\u00a0Sir\u00a0Samuel)",
+                "url": "https://genius.com/Tairo-cest-la-vie-qui-veut-ca-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16030",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/tairo1.jpg",
+                    "id": 16030,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/tairo1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ta\u00efro",
+                    "url": "https://genius.com/artists/Tairo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1965323",
+                "artist_names": "F\u00e9f\u00e9 (Ft. Sir Samuel)",
+                "full_title": "Cherche by\u00a0F\u00e9f\u00e9 (Ft.\u00a0Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/32e98e729bc4abb83c02bdce011043fc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/32e98e729bc4abb83c02bdce011043fc.500x500x1.jpg",
+                "id": 1965323,
+                "language": "fr",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Fefe-cherche-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fefe-cherche-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/32e98e729bc4abb83c02bdce011043fc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/32e98e729bc4abb83c02bdce011043fc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Cherche",
+                "title_with_featured": "Cherche (Ft.\u00a0Sir\u00a0Samuel)",
+                "url": "https://genius.com/Fefe-cherche-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/30735",
+                    "header_image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                    "id": 30735,
+                    "image_url": "https://images.genius.com/1fa0f145e2e5798249b2d8e2bba69edd.429x429x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "F\u00e9f\u00e9",
+                    "url": "https://genius.com/artists/Fefe"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5057625",
+                "artist_names": "Sir Samuel",
+                "full_title": "Coconuts by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "id": 5057625,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Sir-samuel-coconuts-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-coconuts-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Coconuts",
+                "title_with_featured": "Coconuts",
+                "url": "https://genius.com/Sir-samuel-coconuts-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/1334207",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Darkness by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "id": 1334207,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-darkness-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-darkness-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1999",
+                "release_date_with_abbreviated_month_for_display": "1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bvvkzopfetu1p11tobh1ioxoc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Darkness",
+                "title_with_featured": "Darkness",
+                "url": "https://genius.com/Saian-supa-crew-darkness-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/4461934",
+                "artist_names": "Sa\u00efan Supa Crew",
+                "full_title": "Demande Toi by\u00a0Sa\u00efan\u00a0Supa Crew",
+                "header_image_thumbnail_url": "https://images.genius.com/9a1265548aea4770e7cbc0b8aa63c36f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9a1265548aea4770e7cbc0b8aa63c36f.400x400x1.jpg",
+                "id": 4461934,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Saian-supa-crew-demande-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Saian-supa-crew-demande-toi-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 10,
+                    "day": 30
+                },
+                "release_date_for_display": "October 30, 2006",
+                "release_date_with_abbreviated_month_for_display": "Oct. 30, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9a1265548aea4770e7cbc0b8aa63c36f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9a1265548aea4770e7cbc0b8aa63c36f.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Demande Toi",
+                "title_with_featured": "Demande Toi",
+                "url": "https://genius.com/Saian-supa-crew-demande-toi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16640",
+                    "header_image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "id": 16640,
+                    "image_url": "https://images.genius.com/0c2417ff048f94067c7a8bac43a0090a.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sa\u00efan Supa Crew",
+                    "url": "https://genius.com/artists/Saian-supa-crew"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5180505",
+                "artist_names": "Enigmatik (Ft. Diam's & Sir Samuel)",
+                "full_title": "De m\u00eame niveau by\u00a0Enigmatik (Ft.\u00a0Diam's & Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/49efad0d166b8268678471f477878123.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/49efad0d166b8268678471f477878123.640x640x1.jpg",
+                "id": 5180505,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Enigmatik-de-meme-niveau-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Enigmatik-de-meme-niveau-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/49efad0d166b8268678471f477878123.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/49efad0d166b8268678471f477878123.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "De m\u00eame niveau",
+                "title_with_featured": "De m\u00eame niveau (Ft.\u00a0Diam's & Sir\u00a0Samuel)",
+                "url": "https://genius.com/Enigmatik-de-meme-niveau-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    },
+                    {
+                        "api_path": "/artists/12061",
+                        "header_image_url": "https://images.genius.com/c2c8b1da7f5130e4ec51da1aff8cdf49.853x853x1.jpg",
+                        "id": 12061,
+                        "image_url": "https://images.genius.com/c2c8b1da7f5130e4ec51da1aff8cdf49.853x853x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Diam\u2019s",
+                        "url": "https://genius.com/artists/Diams"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/391729",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 391729,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Enigmatik",
+                    "url": "https://genius.com/artists/Enigmatik"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4928008",
+                "artist_names": "Sir Samuel (Ft. Little Dan)",
+                "full_title": "Dire je t'aime by\u00a0Sir\u00a0Samuel (Ft.\u00a0Little\u00a0Dan)",
+                "header_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "id": 4928008,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-dire-je-taime-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-dire-je-taime-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 10,
+                    "day": 31
+                },
+                "release_date_for_display": "October 31, 2011",
+                "release_date_with_abbreviated_month_for_display": "Oct. 31, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ee326655b90dc79aa043598ab694a608.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dire je t\u2019aime",
+                "title_with_featured": "Dire je t'aime (Ft.\u00a0Little\u00a0Dan)",
+                "url": "https://genius.com/Sir-samuel-dire-je-taime-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1972888",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1972888,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Little Dan",
+                        "url": "https://genius.com/artists/Little-dan"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5057785",
+                "artist_names": "Sir Samuel",
+                "full_title": "Du mal \u00e0 respirer by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "id": 5057785,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Sir-samuel-du-mal-a-respirer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-du-mal-a-respirer-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Du mal \u00e0 respirer",
+                "title_with_featured": "Du mal \u00e0 respirer",
+                "url": "https://genius.com/Sir-samuel-du-mal-a-respirer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2946277",
+                "artist_names": "Simple Spirit",
+                "full_title": "\u00c9ponyme by\u00a0Simple\u00a0Spirit",
+                "header_image_thumbnail_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "header_image_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "id": 2946277,
+                "language": null,
+                "lyrics_owner_id": 2749047,
+                "lyrics_state": "complete",
+                "path": "/Simple-spirit-eponyme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Simple-spirit-eponyme-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 1998",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5ed673b55ae178d96b91a77fbe1f1296.198x200x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u00c9ponyme",
+                "title_with_featured": "\u00c9ponyme",
+                "url": "https://genius.com/Simple-spirit-eponyme-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1053680",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1053680,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Simple Spirit",
+                    "url": "https://genius.com/artists/Simple-spirit"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/404104",
+                "artist_names": "Dany Dan (Ft. Sir Samuel)",
+                "full_title": "Et Alors ? by\u00a0Dany\u00a0Dan (Ft.\u00a0Sir\u00a0Samuel)",
+                "header_image_thumbnail_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.1000x1000x1.jpg",
+                "id": 404104,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Dany-dan-et-alors-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dany-dan-et-alors-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": 10,
+                    "day": 3
+                },
+                "release_date_for_display": "October 3, 2006",
+                "release_date_with_abbreviated_month_for_display": "Oct. 3, 2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c1ee098a0ab74a7eb15d706008a1af8d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Et Alors ?",
+                "title_with_featured": "Et Alors ? (Ft.\u00a0Sir\u00a0Samuel)",
+                "url": "https://genius.com/Dany-dan-et-alors-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1986",
+                    "header_image_url": "https://images.genius.com/dfe50e3901ef38b9e3b75510abd6cf40.1000x563x1.jpg",
+                    "id": 1986,
+                    "image_url": "https://images.genius.com/b05f7c971542346971ac168cced4e1a3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dany Dan",
+                    "url": "https://genius.com/artists/Dany-dan",
+                    "iq": 345
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5418516",
+                "artist_names": "Movimiento Original (Ft. Sir Samuel, Specta & Vicelow)",
+                "full_title": "Etc... by\u00a0Movimiento\u00a0Original (Ft.\u00a0Sir\u00a0Samuel, Specta & Vicelow)",
+                "header_image_thumbnail_url": "https://images.genius.com/c75c1bb2324b217be523b2c0a2e5c045.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c75c1bb2324b217be523b2c0a2e5c045.1000x1000x1.jpg",
+                "id": 5418516,
+                "language": null,
+                "lyrics_owner_id": 5529082,
+                "lyrics_state": "unreleased",
+                "path": "/Movimiento-original-etc-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Movimiento-original-etc-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 3
+                },
+                "release_date_for_display": "April 3, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 3, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c75c1bb2324b217be523b2c0a2e5c045.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c75c1bb2324b217be523b2c0a2e5c045.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Etc...",
+                "title_with_featured": "Etc... (Ft.\u00a0Sir\u00a0Samuel, Specta & Vicelow)",
+                "url": "https://genius.com/Movimiento-original-etc-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18960",
+                        "header_image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                        "id": 18960,
+                        "image_url": "https://images.genius.com/8zs97vak5i22vc4a7rgn46th.720x478x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vicelow",
+                        "url": "https://genius.com/artists/Vicelow"
+                    },
+                    {
+                        "api_path": "/artists/165628",
+                        "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "id": 165628,
+                        "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Samuel",
+                        "url": "https://genius.com/artists/Sir-samuel"
+                    },
+                    {
+                        "api_path": "/artists/66047",
+                        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+                        "id": 66047,
+                        "image_url": "https://images.genius.com/2c52c8f8ba296eb81b7b28715303f706.286x286x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Specta",
+                        "url": "https://genius.com/artists/Specta"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/329176",
+                    "header_image_url": "https://images.genius.com/2f921a6026c58abee240be0081a4fd5b.960x590x1.jpg",
+                    "id": 329176,
+                    "image_url": "https://images.genius.com/490032f8b16a7607056a2068fc54e402.400x400x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Movimiento Original",
+                    "url": "https://genius.com/artists/Movimiento-original"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5057646",
+                "artist_names": "Sir Samuel",
+                "full_title": "Fais moi signe by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "id": 5057646,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Sir-samuel-fais-moi-signe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-fais-moi-signe-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c2b7df5522abdff730c6de759ccdbafd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fais moi signe",
+                "title_with_featured": "Fais moi signe",
+                "url": "https://genius.com/Sir-samuel-fais-moi-signe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4989042",
+                "artist_names": "Sir Samuel",
+                "full_title": "Follow Me by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.960x960x1.jpg",
+                "id": 4989042,
+                "language": null,
+                "lyrics_owner_id": 9141899,
+                "lyrics_state": "unreleased",
+                "path": "/Sir-samuel-follow-me-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-follow-me-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 1
+                },
+                "release_date_for_display": "November 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1f12c0f3a61523b614e03de098fb22de.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Follow Me",
+                "title_with_featured": "Follow Me",
+                "url": "https://genius.com/Sir-samuel-follow-me-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5057626",
+                "artist_names": "Sir Samuel",
+                "full_title": "Fou D'Elles by\u00a0Sir\u00a0Samuel",
+                "header_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "id": 5057626,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sir-samuel-fou-delles-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sir-samuel-fou-delles-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 4,
+                    "day": 14
+                },
+                "release_date_for_display": "April 14, 2005",
+                "release_date_with_abbreviated_month_for_display": "Apr. 14, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/106b70a720588d631b897c8527595826.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/106b70a720588d631b897c8527595826.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fou D\u2019Elles",
+                "title_with_featured": "Fou D'Elles",
+                "url": "https://genius.com/Sir-samuel-fou-delles-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/165628",
+                    "header_image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "id": 165628,
+                    "image_url": "https://images.genius.com/759786838cdbe8033e28e3f0b09f4eab.985x985x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sir Samuel",
+                    "url": "https://genius.com/artists/Sir-samuel"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

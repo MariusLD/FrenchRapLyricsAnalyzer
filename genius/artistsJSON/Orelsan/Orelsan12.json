@@ -1,0 +1,531 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 51,
+                "api_path": "/songs/59863",
+                "artist_names": "La Fouine (Ft. OrelSan)",
+                "full_title": "Tu vas prendre cher by\u00a0La\u00a0Fouine (Ft.\u00a0OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "id": 59863,
+                "language": "fr",
+                "lyrics_owner_id": 15586,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tu-vas-prendre-cher-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/La-fouine-tu-vas-prendre-cher-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false,
+                    "pageviews": 23431
+                },
+                "title": "Tu vas prendre cher",
+                "title_with_featured": "Tu vas prendre cher (Ft.\u00a0OrelSan)",
+                "url": "https://genius.com/La-fouine-tu-vas-prendre-cher-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/4613770",
+                "artist_names": "Dabs (Ft. OrelSan)",
+                "full_title": "Vapormax by\u00a0Dabs (Ft.\u00a0OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/17c3a08b74640b3565e20c2a7b3a5c21.300x300x1.png",
+                "header_image_url": "https://images.genius.com/17c3a08b74640b3565e20c2a7b3a5c21.632x632x1.png",
+                "id": 4613770,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Dabs-vapormax-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dabs-vapormax-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17c3a08b74640b3565e20c2a7b3a5c21.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/17c3a08b74640b3565e20c2a7b3a5c21.632x632x1.png",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false
+                },
+                "title": "Vapormax",
+                "title_with_featured": "Vapormax (Ft.\u00a0OrelSan)",
+                "url": "https://genius.com/Dabs-vapormax-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/674763",
+                    "header_image_url": "https://images.genius.com/6b731aa9c25f8d5be6e6998504cf5c0e.1000x565x1.jpg",
+                    "id": 674763,
+                    "image_url": "https://images.genius.com/6dfa404b74a37417edc246f76de3478a.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dabs",
+                    "url": "https://genius.com/artists/Dabs"
+                }
+            },
+            {
+                "annotation_count": 38,
+                "api_path": "/songs/73587",
+                "artist_names": "Casseurs Flowters",
+                "full_title": "Venu pour flowter by\u00a0Casseurs\u00a0Flowters",
+                "header_image_thumbnail_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.500x500x1.jpg",
+                "id": 73587,
+                "language": "fr",
+                "lyrics_owner_id": 72287,
+                "lyrics_state": "complete",
+                "path": "/Casseurs-flowters-venu-pour-flowter-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Casseurs-flowters-venu-pour-flowter-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2004",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 7872
+                },
+                "title": "Venu pour flowter",
+                "title_with_featured": "Venu pour flowter",
+                "url": "https://genius.com/Casseurs-flowters-venu-pour-flowter-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/20190",
+                    "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+                    "id": 20190,
+                    "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Casseurs Flowters",
+                    "url": "https://genius.com/artists/Casseurs-flowters"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/249878",
+                "artist_names": "OrelSan (Ft. Sidi Omar)",
+                "full_title": "Viens chez moi, j'habite chez une copine by\u00a0OrelSan (Ft.\u00a0Sidi\u00a0Omar)",
+                "header_image_thumbnail_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.480x480x1.jpg",
+                "id": 249878,
+                "language": "fr",
+                "lyrics_owner_id": 170495,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-viens-chez-moi-jhabite-chez-une-copine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Orelsan-viens-chez-moi-jhabite-chez-une-copine-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2013",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.480x480x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Viens chez moi, j\u2019habite chez une copine",
+                "title_with_featured": "Viens chez moi, j'habite chez une copine (Ft.\u00a0Sidi\u00a0Omar)",
+                "url": "https://genius.com/Orelsan-viens-chez-moi-jhabite-chez-une-copine-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/35219",
+                        "header_image_url": "https://images.genius.com/d971ad00487e1a599ba6ca948af14ea9.551x551x1.png",
+                        "id": 35219,
+                        "image_url": "https://images.genius.com/d971ad00487e1a599ba6ca948af14ea9.551x551x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sidi Omar",
+                        "url": "https://genius.com/artists/Sidi-omar"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 61,
+                "api_path": "/songs/266816",
+                "artist_names": "Casseurs Flowters",
+                "full_title": "Vizioz by\u00a0Casseurs\u00a0Flowters",
+                "header_image_thumbnail_url": "https://images.genius.com/ayld8whq4kjx0o36gtp9hedso.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ayld8whq4kjx0o36gtp9hedso.1000x1000x1.jpg",
+                "id": 266816,
+                "language": "fr",
+                "lyrics_owner_id": 96446,
+                "lyrics_state": "complete",
+                "path": "/Casseurs-flowters-vizioz-lyrics",
+                "pyongs_count": 16,
+                "relationships_index_url": "https://genius.com/Casseurs-flowters-vizioz-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 11,
+                    "day": 18
+                },
+                "release_date_for_display": "November 18, 2013",
+                "release_date_with_abbreviated_month_for_display": "Nov. 18, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ayld8whq4kjx0o36gtp9hedso.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ayld8whq4kjx0o36gtp9hedso.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 71115
+                },
+                "title": "Vizioz",
+                "title_with_featured": "Vizioz",
+                "url": "https://genius.com/Casseurs-flowters-vizioz-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/20190",
+                    "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+                    "id": 20190,
+                    "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Casseurs Flowters",
+                    "url": "https://genius.com/artists/Casseurs-flowters"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3604284",
+                "artist_names": "Diversidad (Ft. Marcus Price, Nach, OrelSan & Pitcho)",
+                "full_title": "We Don\u2019t Sleep by\u00a0Diversidad (Ft.\u00a0Marcus\u00a0Price, Nach, OrelSan & Pitcho)",
+                "header_image_thumbnail_url": "https://images.genius.com/615a36b1549f98cc053923e2a52c1a51.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/615a36b1549f98cc053923e2a52c1a51.400x400x1.jpg",
+                "id": 3604284,
+                "language": "fr",
+                "lyrics_owner_id": 383358,
+                "lyrics_state": "complete",
+                "path": "/Diversidad-we-dont-sleep-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Diversidad-we-dont-sleep-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 2,
+                    "day": 14
+                },
+                "release_date_for_display": "February 14, 2011",
+                "release_date_with_abbreviated_month_for_display": "Feb. 14, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/615a36b1549f98cc053923e2a52c1a51.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/615a36b1549f98cc053923e2a52c1a51.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "We Don\u2019t Sleep",
+                "title_with_featured": "We Don\u2019t Sleep (Ft.\u00a0Marcus\u00a0Price, Nach, OrelSan & Pitcho)",
+                "url": "https://genius.com/Diversidad-we-dont-sleep-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    },
+                    {
+                        "api_path": "/artists/11871",
+                        "header_image_url": "https://images.genius.com/e9cbd19c5f94217cbc2ad2030e9c19a2.1000x562x1.jpg",
+                        "id": 11871,
+                        "image_url": "https://images.genius.com/99ebd1789e384e3b69f2db7189a48789.634x634x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nach",
+                        "url": "https://genius.com/artists/Nach"
+                    },
+                    {
+                        "api_path": "/artists/318099",
+                        "header_image_url": "https://images.genius.com/9a5b57e263f446ea531d15ce6e3d14b5.400x400x1.jpg",
+                        "id": 318099,
+                        "image_url": "https://images.genius.com/9a5b57e263f446ea531d15ce6e3d14b5.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pitcho",
+                        "url": "https://genius.com/artists/Pitcho"
+                    },
+                    {
+                        "api_path": "/artists/72966",
+                        "header_image_url": "https://images.genius.com/5f877f6cd0555734ca0dd9035c5cc1e8.200x200x1.jpg",
+                        "id": 72966,
+                        "image_url": "https://images.genius.com/5f877f6cd0555734ca0dd9035c5cc1e8.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Marcus Price",
+                        "url": "https://genius.com/artists/Marcus-price"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/22334",
+                    "header_image_url": "https://images.genius.com/19fab9184365ac3b975be8476c1651e7.467x359x1.jpg",
+                    "id": 22334,
+                    "image_url": "https://images.genius.com/19fab9184365ac3b975be8476c1651e7.467x359x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Diversidad",
+                    "url": "https://genius.com/artists/Diversidad"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/4310365",
+                "artist_names": "OrelSan",
+                "full_title": "White Snake Freestyle by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/8ba06da8b50e51e9a59f25e1c37fdddd.300x214x1.jpg",
+                "header_image_url": "https://images.genius.com/8ba06da8b50e51e9a59f25e1c37fdddd.1000x713x1.jpg",
+                "id": 4310365,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-white-snake-freestyle-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Orelsan-white-snake-freestyle-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 2,
+                    "day": 15
+                },
+                "release_date_for_display": "February 15, 2019",
+                "release_date_with_abbreviated_month_for_display": "Feb. 15, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c55c9d65131fba5d3b83c211729d7bc.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c55c9d65131fba5d3b83c211729d7bc.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "White Snake Freestyle",
+                "title_with_featured": "White Snake Freestyle",
+                "url": "https://genius.com/Orelsan-white-snake-freestyle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/2387936",
+                "artist_names": "Casseurs Flowters",
+                "full_title": "Wondercash by\u00a0Casseurs\u00a0Flowters",
+                "header_image_thumbnail_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.500x500x1.jpg",
+                "id": 2387936,
+                "language": "fr",
+                "lyrics_owner_id": 2590015,
+                "lyrics_state": "complete",
+                "path": "/Casseurs-flowters-wondercash-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Casseurs-flowters-wondercash-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 15957
+                },
+                "title": "Wondercash",
+                "title_with_featured": "Wondercash",
+                "url": "https://genius.com/Casseurs-flowters-wondercash-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/20190",
+                    "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+                    "id": 20190,
+                    "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Casseurs Flowters",
+                    "url": "https://genius.com/artists/Casseurs-flowters"
+                }
+            },
+            {
+                "annotation_count": 36,
+                "api_path": "/songs/2387161",
+                "artist_names": "Diamond Deuklo",
+                "full_title": "Xavier by\u00a0Diamond\u00a0Deuklo",
+                "header_image_thumbnail_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.500x500x1.jpg",
+                "id": 2387161,
+                "language": "fr",
+                "lyrics_owner_id": 351061,
+                "lyrics_state": "complete",
+                "path": "/Diamond-deuklo-xavier-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Diamond-deuklo-xavier-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 28347
+                },
+                "title": "Xavier",
+                "title_with_featured": "Xavier",
+                "url": "https://genius.com/Diamond-deuklo-xavier-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/618575",
+                    "header_image_url": "https://images.genius.com/c7d99b12c1b05f96cf108dfdd1a1b468.600x336x1.jpg",
+                    "id": 618575,
+                    "image_url": "https://images.genius.com/c7d99b12c1b05f96cf108dfdd1a1b468.600x336x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Diamond Deuklo",
+                    "url": "https://genius.com/artists/Diamond-deuklo"
+                }
+            },
+            {
+                "annotation_count": 45,
+                "api_path": "/songs/3266712",
+                "artist_names": "OrelSan (Ft. Dizzee Rascal & Nekfeu)",
+                "full_title": "Zone by\u00a0OrelSan (Ft.\u00a0Dizzee\u00a0Rascal & Nekfeu)",
+                "header_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+                "header_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+                "id": 3266712,
+                "language": "fr",
+                "lyrics_owner_id": 3247088,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-zone-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Orelsan-zone-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 211088
+                },
+                "title": "Zone",
+                "title_with_featured": "Zone (Ft.\u00a0Dizzee\u00a0Rascal & Nekfeu)",
+                "url": "https://genius.com/Orelsan-zone-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13063",
+                        "header_image_url": "https://images.genius.com/e91732adc95c44b16fc3a9d46b89b2da.574x322x1.jpg",
+                        "id": 13063,
+                        "image_url": "https://images.genius.com/02eddce84127a46b459b11c3cea0e17f.749x749x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nekfeu",
+                        "url": "https://genius.com/artists/Nekfeu"
+                    },
+                    {
+                        "api_path": "/artists/1393",
+                        "header_image_url": "https://images.genius.com/9f34002b35f30ae2738f8e49bab8cd96.1000x667x1.jpg",
+                        "id": 1393,
+                        "image_url": "https://images.genius.com/e43a40bb7ed604552b572bc8d8969802.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dizzee Rascal",
+                        "url": "https://genius.com/artists/Dizzee-rascal"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

@@ -1,0 +1,653 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6801052",
+                "artist_names": "Squidji (Ft. Josman)",
+                "full_title": "SUBARU by\u00a0Squidji (Ft.\u00a0Josman)",
+                "header_image_thumbnail_url": "https://images.genius.com/ea374c79d962581c6b8c98ccb9b0e046.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ea374c79d962581c6b8c98ccb9b0e046.1000x1000x1.jpg",
+                "id": 6801052,
+                "language": "en",
+                "lyrics_owner_id": 12546119,
+                "lyrics_state": "complete",
+                "path": "/Squidji-subaru-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Squidji-subaru-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 28
+                },
+                "release_date_for_display": "May 28, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 28, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ea374c79d962581c6b8c98ccb9b0e046.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ea374c79d962581c6b8c98ccb9b0e046.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "SUBARU",
+                "title_with_featured": "SUBARU (Ft.\u00a0Josman)",
+                "url": "https://genius.com/Squidji-subaru-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/153477",
+                        "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                        "id": 153477,
+                        "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Josman",
+                        "url": "https://genius.com/artists/Josman",
+                        "iq": 893
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1098200",
+                    "header_image_url": "https://images.genius.com/70137b4564ff961848e866d0c0a8e196.1000x333x1.jpg",
+                    "id": 1098200,
+                    "image_url": "https://images.genius.com/2af596bb7fe93c08d9306f72522ef4f3.502x502x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Squidji",
+                    "url": "https://genius.com/artists/Squidji"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/3765616",
+                "artist_names": "Josman",
+                "full_title": "TIM\u20ac by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/aeca26cd5845251c48a007f5146eedf5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/aeca26cd5845251c48a007f5146eedf5.960x960x1.jpg",
+                "id": 3765616,
+                "language": "fr",
+                "lyrics_owner_id": 5229065,
+                "lyrics_state": "complete",
+                "path": "/Josman-tim-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Josman-tim-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/aeca26cd5845251c48a007f5146eedf5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/aeca26cd5845251c48a007f5146eedf5.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 10236
+                },
+                "title": "TIM\u20ac",
+                "title_with_featured": "TIM\u20ac",
+                "url": "https://genius.com/Josman-tim-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7910394",
+                "artist_names": "Josman",
+                "full_title": "Tous Les Jours by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/1e963ec19e9746f462154ac73f7ad1d2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1e963ec19e9746f462154ac73f7ad1d2.807x807x1.jpg",
+                "id": 7910394,
+                "language": null,
+                "lyrics_owner_id": 11424617,
+                "lyrics_state": "incomplete",
+                "path": "/Josman-tous-les-jours-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Josman-tous-les-jours-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 22
+                },
+                "release_date_for_display": "August 22, 2015",
+                "release_date_with_abbreviated_month_for_display": "Aug. 22, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1e963ec19e9746f462154ac73f7ad1d2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1e963ec19e9746f462154ac73f7ad1d2.807x807x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tous Les Jours",
+                "title_with_featured": "Tous Les Jours",
+                "url": "https://genius.com/Josman-tous-les-jours-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6930541",
+                "artist_names": "Josman",
+                "full_title": "Toxxxic by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/a6dc003fd3fd1d2c593097a4960991b3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a6dc003fd3fd1d2c593097a4960991b3.1000x1000x1.jpg",
+                "id": 6930541,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Josman-toxxxic-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Josman-toxxxic-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 21
+                },
+                "release_date_for_display": "June 21, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 21, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a6dc003fd3fd1d2c593097a4960991b3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a6dc003fd3fd1d2c593097a4960991b3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 12243
+                },
+                "title": "Toxxxic",
+                "title_with_featured": "Toxxxic",
+                "url": "https://genius.com/Josman-toxxxic-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/8927024",
+                "artist_names": "Benjamin Epps (Ft. Josman)",
+                "full_title": "\u200b\u200b\u200b\u200btr\u00e8s tard le soir by\u00a0Benjamin\u00a0Epps (Ft.\u00a0Josman)",
+                "header_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "id": 8927024,
+                "language": "fr",
+                "lyrics_owner_id": 4080399,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-tres-tard-le-soir-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-tres-tard-le-soir-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "\u200b\u200b\u200b\u200btr\u00e8s tard le soir",
+                "title_with_featured": "\u200b\u200b\u200b\u200btr\u00e8s tard le soir (Ft.\u00a0Josman)",
+                "url": "https://genius.com/Benjamin-epps-tres-tard-le-soir-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/153477",
+                        "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                        "id": 153477,
+                        "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Josman",
+                        "url": "https://genius.com/artists/Josman",
+                        "iq": 893
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/8856881",
+                "artist_names": "Josman & Sofiane Pamart",
+                "full_title": "Tulum, M\u00e9xico by\u00a0Josman\u00a0& Sofiane Pamart",
+                "header_image_thumbnail_url": "https://images.genius.com/030a2600e867d31e53a168077eb7e6c7.300x300x1.png",
+                "header_image_url": "https://images.genius.com/030a2600e867d31e53a168077eb7e6c7.1000x1000x1.png",
+                "id": 8856881,
+                "language": "fr",
+                "lyrics_owner_id": 498964,
+                "lyrics_state": "complete",
+                "path": "/Josman-and-sofiane-pamart-tulum-mexico-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Josman-and-sofiane-pamart-tulum-mexico-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/030a2600e867d31e53a168077eb7e6c7.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/030a2600e867d31e53a168077eb7e6c7.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false
+                },
+                "title": "Tulum, M\u00e9xico",
+                "title_with_featured": "Tulum, M\u00e9xico",
+                "url": "https://genius.com/Josman-and-sofiane-pamart-tulum-mexico-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3451775",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 3451775,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josman & Sofiane Pamart",
+                    "url": "https://genius.com/artists/Josman-and-sofiane-pamart"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/3765619",
+                "artist_names": "Josman",
+                "full_title": "Un Zder, Un Th\u00e9 by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/61df10bd6ecc1488bdaf458f74333a37.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/61df10bd6ecc1488bdaf458f74333a37.649x350x1.jpg",
+                "id": 3765619,
+                "language": "fr",
+                "lyrics_owner_id": 4080399,
+                "lyrics_state": "complete",
+                "path": "/Josman-un-zder-un-the-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Josman-un-zder-un-the-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6d92d30a4ca6a62c0879d3dbd9e6ebed.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6d92d30a4ca6a62c0879d3dbd9e6ebed.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 16,
+                    "hot": false,
+                    "pageviews": 35482
+                },
+                "title": "Un Zder, Un Th\u00e9",
+                "title_with_featured": "Un Zder, Un Th\u00e9",
+                "url": "https://genius.com/Josman-un-zder-un-the-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/7741776",
+                "artist_names": "Josman (Ft. Sofiane Pamart)",
+                "full_title": "Vaccin by\u00a0Josman (Ft.\u00a0Sofiane\u00a0Pamart)",
+                "header_image_thumbnail_url": "https://images.genius.com/4de796e11c3930eda2972240195071cd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4de796e11c3930eda2972240195071cd.1000x1000x1.jpg",
+                "id": 7741776,
+                "language": "en",
+                "lyrics_owner_id": 6778666,
+                "lyrics_state": "complete",
+                "path": "/Josman-vaccin-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Josman-vaccin-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 18
+                },
+                "release_date_for_display": "March 18, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 18, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4de796e11c3930eda2972240195071cd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4de796e11c3930eda2972240195071cd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 5249
+                },
+                "title": "Vaccin",
+                "title_with_featured": "Vaccin (Ft.\u00a0Sofiane\u00a0Pamart)",
+                "url": "https://genius.com/Josman-vaccin-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/324313",
+                        "header_image_url": "https://images.genius.com/ad3cdbaebf297f56d3aea077312bdc39.600x306x1.jpg",
+                        "id": 324313,
+                        "image_url": "https://images.genius.com/0fa34e02ac9228ca9155c8f9e25aa8e4.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sofiane Pamart",
+                        "url": "https://genius.com/artists/Sofiane-pamart",
+                        "iq": 124
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/3087143",
+                "artist_names": "Josman",
+                "full_title": "Vanille by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/a128d0cba2330073e3ca0a6e944ef894.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/a128d0cba2330073e3ca0a6e944ef894.1000x563x1.jpg",
+                "id": 3087143,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Josman-vanille-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Josman-vanille-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 9
+                },
+                "release_date_for_display": "June 9, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 9, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3361d376ce8674e6192917b6f007e0d1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3361d376ce8674e6192917b6f007e0d1.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 35796
+                },
+                "title": "Vanille",
+                "title_with_featured": "Vanille",
+                "url": "https://genius.com/Josman-vanille-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2289871",
+                "artist_names": "Josman",
+                "full_title": "Vrai by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/5d7fcda4032fbc9e42fc134218bee29d.300x300x1.png",
+                "header_image_url": "https://images.rapgenius.com/5d7fcda4032fbc9e42fc134218bee29d.499x499x1.png",
+                "id": 2289871,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Josman-vrai-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Josman-vrai-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 22
+                },
+                "release_date_for_display": "August 22, 2015",
+                "release_date_with_abbreviated_month_for_display": "Aug. 22, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/5d7fcda4032fbc9e42fc134218bee29d.300x300x1.png",
+                "song_art_image_url": "https://images.rapgenius.com/5d7fcda4032fbc9e42fc134218bee29d.499x499x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vrai",
+                "title_with_featured": "Vrai",
+                "url": "https://genius.com/Josman-vrai-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/3765615",
+                "artist_names": "Josman",
+                "full_title": "V&V by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/01506fe13150a6355ef25180a5cddb3a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/01506fe13150a6355ef25180a5cddb3a.1000x1000x1.jpg",
+                "id": 3765615,
+                "language": "en",
+                "lyrics_owner_id": 4489822,
+                "lyrics_state": "complete",
+                "path": "/Josman-v-v-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Josman-v-v-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 22
+                },
+                "release_date_for_display": "August 22, 2018",
+                "release_date_with_abbreviated_month_for_display": "Aug. 22, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/01506fe13150a6355ef25180a5cddb3a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/01506fe13150a6355ef25180a5cddb3a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 24827
+                },
+                "title": "V&V",
+                "title_with_featured": "V&V",
+                "url": "https://genius.com/Josman-v-v-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/656508",
+                "artist_names": "Josman",
+                "full_title": "Whisper by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/c9516837282c86f0ffbec3029d4ea3d1.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/c9516837282c86f0ffbec3029d4ea3d1.512x512x1.jpg",
+                "id": 656508,
+                "language": "fr",
+                "lyrics_owner_id": 81742,
+                "lyrics_state": "complete",
+                "path": "/Josman-whisper-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Josman-whisper-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 12,
+                    "day": 2
+                },
+                "release_date_for_display": "December 2, 2014",
+                "release_date_with_abbreviated_month_for_display": "Dec. 2, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ed19757598972321a4e4e5758a0d9137.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ed19757598972321a4e4e5758a0d9137.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Whisper",
+                "title_with_featured": "Whisper",
+                "url": "https://genius.com/Josman-whisper-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/3765620",
+                "artist_names": "Josman",
+                "full_title": "WOW by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/dd638237f4ca47fc3398b798721cbeb6.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/dd638237f4ca47fc3398b798721cbeb6.1000x563x1.jpg",
+                "id": 3765620,
+                "language": "fr",
+                "lyrics_owner_id": 4489822,
+                "lyrics_state": "complete",
+                "path": "/Josman-wow-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Josman-wow-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 20
+                },
+                "release_date_for_display": "June 20, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 20, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9090e405ef8475fd759e0ac6b51c4d4c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9090e405ef8475fd759e0ac6b51c4d4c.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 13775
+                },
+                "title": "WOW",
+                "title_with_featured": "WOW",
+                "url": "https://genius.com/Josman-wow-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/3765621",
+                "artist_names": "Josman",
+                "full_title": "XS by\u00a0Josman",
+                "header_image_thumbnail_url": "https://images.genius.com/2a378d3987907ef9af269df1f8714e3e.300x114x1.jpg",
+                "header_image_url": "https://images.genius.com/2a378d3987907ef9af269df1f8714e3e.1000x379x1.jpg",
+                "id": 3765621,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Josman-xs-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Josman-xs-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 14
+                },
+                "release_date_for_display": "September 14, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6d92d30a4ca6a62c0879d3dbd9e6ebed.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6d92d30a4ca6a62c0879d3dbd9e6ebed.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 50426
+                },
+                "title": "XS",
+                "title_with_featured": "XS",
+                "url": "https://genius.com/Josman-xs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/153477",
+                    "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                    "id": 153477,
+                    "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Josman",
+                    "url": "https://genius.com/artists/Josman",
+                    "iq": 893
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

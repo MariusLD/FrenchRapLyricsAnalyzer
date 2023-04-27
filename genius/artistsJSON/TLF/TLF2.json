@@ -1,0 +1,960 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2017519",
+                "artist_names": "TLF",
+                "full_title": "#CMV by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/85f8648141ab4766c74e9153fc3647d0.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/85f8648141ab4766c74e9153fc3647d0.350x350x1.jpg",
+                "id": 2017519,
+                "language": "fr",
+                "lyrics_owner_id": 1563483,
+                "lyrics_state": "complete",
+                "path": "/Tlf-cmv-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-cmv-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 25
+                },
+                "release_date_for_display": "May 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "May. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/85f8648141ab4766c74e9153fc3647d0.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/85f8648141ab4766c74e9153fc3647d0.350x350x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "#CMV",
+                "title_with_featured": "#CMV",
+                "url": "https://genius.com/Tlf-cmv-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/192509",
+                "artist_names": "TLF (Ft. Niro)",
+                "full_title": "Couper D\u00e9tailler by\u00a0TLF (Ft.\u00a0Niro)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/c77abaf2023f273dea96d61a21ca610d.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/c77abaf2023f273dea96d61a21ca610d.960x960x1.jpg",
+                "id": 192509,
+                "language": "fr",
+                "lyrics_owner_id": 196265,
+                "lyrics_state": "complete",
+                "path": "/Tlf-couper-detailler-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-couper-detailler-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 6,
+                    "day": 10
+                },
+                "release_date_for_display": "June 10, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jun. 10, 2013",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/c77abaf2023f273dea96d61a21ca610d.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/c77abaf2023f273dea96d61a21ca610d.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Couper D\u00e9tailler",
+                "title_with_featured": "Couper D\u00e9tailler (Ft.\u00a0Niro)",
+                "url": "https://genius.com/Tlf-couper-detailler-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14724",
+                        "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "id": 14724,
+                        "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niro",
+                        "url": "https://genius.com/artists/Niro",
+                        "iq": 3778
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/140613",
+                "artist_names": "TLF (Ft. Indila)",
+                "full_title": "Criminel by\u00a0TLF (Ft.\u00a0Indila)",
+                "header_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "id": 140613,
+                "language": null,
+                "lyrics_owner_id": 123797,
+                "lyrics_state": "complete",
+                "path": "/Tlf-criminel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-criminel-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 7,
+                    "day": 7
+                },
+                "release_date_for_display": "July 7, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jul. 7, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 14924
+                },
+                "title": "Criminel",
+                "title_with_featured": "Criminel (Ft.\u00a0Indila)",
+                "url": "https://genius.com/Tlf-criminel-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1430",
+                        "header_image_url": "https://images.genius.com/629992cc5c7edda5f68004a379d601dc.600x198x1.jpg",
+                        "id": 1430,
+                        "image_url": "https://images.genius.com/65024347b2770656779278772653e85e.605x605x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Indila",
+                        "url": "https://genius.com/artists/Indila"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6128029",
+                "artist_names": "TLF (Ft. Mac Tyer & Soprano)",
+                "full_title": "Criminel De Luxe by\u00a0TLF (Ft.\u00a0Mac\u00a0Tyer & Soprano)",
+                "header_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "id": 6128029,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Tlf-criminel-de-luxe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-criminel-de-luxe-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Criminel De Luxe",
+                "title_with_featured": "Criminel De Luxe (Ft.\u00a0Mac\u00a0Tyer & Soprano)",
+                "url": "https://genius.com/Tlf-criminel-de-luxe-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1431",
+                        "header_image_url": "https://images.genius.com/e7978b0b7620b2e575e6765eb79c9d53.597x183x1.png",
+                        "id": 1431,
+                        "image_url": "https://images.genius.com/d0a0f7b8182f11dafa1d2a554f6e3eab.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soprano",
+                        "url": "https://genius.com/artists/Soprano"
+                    },
+                    {
+                        "api_path": "/artists/2412",
+                        "header_image_url": "https://images.genius.com/5b1993e9cdeb2066a8eb11cc91d1f089.1000x667x1.jpg",
+                        "id": 2412,
+                        "image_url": "https://images.genius.com/a6a79741ab0f8bc6063e7fe82dd90adf.303x395x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mac Tyer",
+                        "url": "https://genius.com/artists/Mac-tyer",
+                        "iq": 2139
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/312205",
+                "artist_names": "TLF (Ft. Le Rat Luciano & Sinik)",
+                "full_title": "Cruel by\u00a0TLF (Ft.\u00a0Le\u00a0Rat Luciano & Sinik)",
+                "header_image_thumbnail_url": "https://images.genius.com/507996ae0166e4f4a734afe58b78cb0e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/507996ae0166e4f4a734afe58b78cb0e.720x720x1.jpg",
+                "id": 312205,
+                "language": "fr",
+                "lyrics_owner_id": 196265,
+                "lyrics_state": "complete",
+                "path": "/Tlf-cruel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-cruel-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 6,
+                    "day": 10
+                },
+                "release_date_for_display": "June 10, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jun. 10, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/507996ae0166e4f4a734afe58b78cb0e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/507996ae0166e4f4a734afe58b78cb0e.720x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Cruel",
+                "title_with_featured": "Cruel (Ft.\u00a0Le\u00a0Rat Luciano & Sinik)",
+                "url": "https://genius.com/Tlf-cruel-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1877",
+                        "header_image_url": "https://images.genius.com/3c7de30d41a362a2ed52018b27e6036b.640x630x1.jpg",
+                        "id": 1877,
+                        "image_url": "https://images.genius.com/002566c1d0279e72c67e1548575bdce3.771x771x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sinik",
+                        "url": "https://genius.com/artists/Sinik"
+                    },
+                    {
+                        "api_path": "/artists/1964",
+                        "header_image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "id": 1964,
+                        "image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Le Rat Luciano",
+                        "url": "https://genius.com/artists/Le-rat-luciano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5520481",
+                "artist_names": "TLF",
+                "full_title": "Dans l'1000 by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.1000x1000x1.jpg",
+                "id": 5520481,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Tlf-dans-l1000-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-dans-l1000-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dans l\u20191000",
+                "title_with_featured": "Dans l'1000",
+                "url": "https://genius.com/Tlf-dans-l1000-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6128033",
+                "artist_names": "TLF",
+                "full_title": "Dans L'Game by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "id": 6128033,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Tlf-dans-lgame-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-dans-lgame-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dans L\u2019Game",
+                "title_with_featured": "Dans L'Game",
+                "url": "https://genius.com/Tlf-dans-lgame-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4965516",
+                "artist_names": "TLF",
+                "full_title": "Dans Nos Erreurs by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/fb3355019dab342f3c15ff775d45c741.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fb3355019dab342f3c15ff775d45c741.400x400x1.jpg",
+                "id": 4965516,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Tlf-dans-nos-erreurs-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-dans-nos-erreurs-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 9,
+                    "day": 3
+                },
+                "release_date_for_display": "September 3, 2012",
+                "release_date_with_abbreviated_month_for_display": "Sep. 3, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fb3355019dab342f3c15ff775d45c741.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fb3355019dab342f3c15ff775d45c741.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dans Nos Erreurs",
+                "title_with_featured": "Dans Nos Erreurs",
+                "url": "https://genius.com/Tlf-dans-nos-erreurs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 29,
+                "api_path": "/songs/192117",
+                "artist_names": "Rohff (Ft. TLF)",
+                "full_title": "Embrouille by\u00a0Rohff (Ft.\u00a0TLF)",
+                "header_image_thumbnail_url": "https://images.genius.com/b6559e53273b38084c7e568591ff10dc.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/b6559e53273b38084c7e568591ff10dc.960x951x1.jpg",
+                "id": 192117,
+                "language": "fr",
+                "lyrics_owner_id": 136223,
+                "lyrics_state": "complete",
+                "path": "/Rohff-embrouille-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Rohff-embrouille-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 9,
+                    "day": 23
+                },
+                "release_date_for_display": "September 23, 2013",
+                "release_date_with_abbreviated_month_for_display": "Sep. 23, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b6559e53273b38084c7e568591ff10dc.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b6559e53273b38084c7e568591ff10dc.960x951x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 34364
+                },
+                "title": "Embrouille",
+                "title_with_featured": "Embrouille (Ft.\u00a0TLF)",
+                "url": "https://genius.com/Rohff-embrouille-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12437",
+                        "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                        "id": 12437,
+                        "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "TLF",
+                        "url": "https://genius.com/artists/Tlf",
+                        "iq": 2168
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1908",
+                    "header_image_url": "https://images.genius.com/958deb9e98a1777def29f11dd2b2b8cb.1000x523x1.png",
+                    "id": 1908,
+                    "image_url": "https://images.genius.com/b5ba714ed6fa419ebb72ee4a11b01cc5.563x563x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rohff",
+                    "url": "https://genius.com/artists/Rohff"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5520482",
+                "artist_names": "TLF (Ft. Lartiste)",
+                "full_title": "Galaxie by\u00a0TLF (Ft.\u00a0Lartiste)",
+                "header_image_thumbnail_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.1000x1000x1.jpg",
+                "id": 5520482,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Tlf-galaxie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-galaxie-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Galaxie",
+                "title_with_featured": "Galaxie (Ft.\u00a0Lartiste)",
+                "url": "https://genius.com/Tlf-galaxie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/62687",
+                        "header_image_url": "https://images.genius.com/b1b7c8a6eda08120a297e2dd0f53775b.599x433x1.png",
+                        "id": 62687,
+                        "image_url": "https://images.genius.com/5eea14118626e933a39418c43fe0b241.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lartiste",
+                        "url": "https://genius.com/artists/Lartiste",
+                        "iq": 2591
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/325526",
+                "artist_names": "Rohff (Ft. TLF)",
+                "full_title": "G\u00e9n\u00e9ration Mac Gyver : La D\u00e9brouille by\u00a0Rohff (Ft.\u00a0TLF)",
+                "header_image_thumbnail_url": "https://images.genius.com/04ac665048fa0afbda31929fa3d8509c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/04ac665048fa0afbda31929fa3d8509c.500x500x1.jpg",
+                "id": 325526,
+                "language": "fr",
+                "lyrics_owner_id": 45814,
+                "lyrics_state": "complete",
+                "path": "/Rohff-generation-mac-gyver-la-debrouille-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rohff-generation-mac-gyver-la-debrouille-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2005",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/04ac665048fa0afbda31929fa3d8509c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/04ac665048fa0afbda31929fa3d8509c.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "G\u00e9n\u00e9ration Mac Gyver : La D\u00e9brouille",
+                "title_with_featured": "G\u00e9n\u00e9ration Mac Gyver : La D\u00e9brouille (Ft.\u00a0TLF)",
+                "url": "https://genius.com/Rohff-generation-mac-gyver-la-debrouille-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12437",
+                        "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                        "id": 12437,
+                        "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "TLF",
+                        "url": "https://genius.com/artists/Tlf",
+                        "iq": 2168
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1908",
+                    "header_image_url": "https://images.genius.com/958deb9e98a1777def29f11dd2b2b8cb.1000x523x1.png",
+                    "id": 1908,
+                    "image_url": "https://images.genius.com/b5ba714ed6fa419ebb72ee4a11b01cc5.563x563x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rohff",
+                    "url": "https://genius.com/artists/Rohff"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/163565",
+                "artist_names": "TLF",
+                "full_title": "Ghetto Drame by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/dad75ce3185eccf9e6e3fbc490d0f029.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dad75ce3185eccf9e6e3fbc490d0f029.400x400x1.jpg",
+                "id": 163565,
+                "language": "fr",
+                "lyrics_owner_id": 141070,
+                "lyrics_state": "complete",
+                "path": "/Tlf-ghetto-drame-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-ghetto-drame-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/dad75ce3185eccf9e6e3fbc490d0f029.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dad75ce3185eccf9e6e3fbc490d0f029.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ghetto Drame",
+                "title_with_featured": "Ghetto Drame",
+                "url": "https://genius.com/Tlf-ghetto-drame-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/167499",
+                "artist_names": "TLF",
+                "full_title": "Ghetto Drame 2 by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.1000x1000x1.jpg",
+                "id": 167499,
+                "language": null,
+                "lyrics_owner_id": 133353,
+                "lyrics_state": "complete",
+                "path": "/Tlf-ghetto-drame-2-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Tlf-ghetto-drame-2-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a162accbd2033d57ca9bc72b1ba1f0c2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false
+                },
+                "title": "Ghetto Drame 2",
+                "title_with_featured": "Ghetto Drame 2",
+                "url": "https://genius.com/Tlf-ghetto-drame-2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/621770",
+                "artist_names": "TLF",
+                "full_title": "Godzilla by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/37a54990db0ba07a4a02627c7b999b64.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/37a54990db0ba07a4a02627c7b999b64.960x960x1.jpg",
+                "id": 621770,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Tlf-godzilla-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-godzilla-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 12,
+                    "day": 10
+                },
+                "release_date_for_display": "December 10, 2014",
+                "release_date_with_abbreviated_month_for_display": "Dec. 10, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/37a54990db0ba07a4a02627c7b999b64.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/37a54990db0ba07a4a02627c7b999b64.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Godzilla",
+                "title_with_featured": "Godzilla",
+                "url": "https://genius.com/Tlf-godzilla-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/2429611",
+                "artist_names": "TLF (Ft. Zayra)",
+                "full_title": "Grand Fr\u00e8re by\u00a0TLF (Ft.\u00a0Zayra)",
+                "header_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "id": 2429611,
+                "language": "fr",
+                "lyrics_owner_id": 738483,
+                "lyrics_state": "complete",
+                "path": "/Tlf-grand-frere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-grand-frere-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 1
+                },
+                "release_date_for_display": "April 1, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 1, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 7388
+                },
+                "title": "Grand Fr\u00e8re",
+                "title_with_featured": "Grand Fr\u00e8re (Ft.\u00a0Zayra)",
+                "url": "https://genius.com/Tlf-grand-frere-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/636521",
+                        "header_image_url": "https://images.genius.com/e8e06f1c3d1d960f3b67b12d3e14456a.800x774x1.jpg",
+                        "id": 636521,
+                        "image_url": "https://images.genius.com/8487f2d22b3c2e8e8ac506cbe3c9b7ae.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Zayra",
+                        "url": "https://genius.com/artists/Zayra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/127859",
+                "artist_names": "TLF",
+                "full_title": "GTA by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/91c6340f1af40b5ca451e9df26c474fe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/91c6340f1af40b5ca451e9df26c474fe.400x400x1.jpg",
+                "id": 127859,
+                "language": "fr",
+                "lyrics_owner_id": 196265,
+                "lyrics_state": "complete",
+                "path": "/Tlf-gta-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-gta-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 11,
+                    "day": 19
+                },
+                "release_date_for_display": "November 19, 2007",
+                "release_date_with_abbreviated_month_for_display": "Nov. 19, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/91c6340f1af40b5ca451e9df26c474fe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/91c6340f1af40b5ca451e9df26c474fe.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "GTA",
+                "title_with_featured": "GTA",
+                "url": "https://genius.com/Tlf-gta-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2452483",
+                "artist_names": "TLF",
+                "full_title": "GTA 2.0 by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "id": 2452483,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Tlf-gta-20-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-gta-20-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 1
+                },
+                "release_date_for_display": "April 1, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 1, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "GTA 2.0",
+                "title_with_featured": "GTA 2.0",
+                "url": "https://genius.com/Tlf-gta-20-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6128034",
+                "artist_names": "TLF",
+                "full_title": "I.K by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "id": 6128034,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Tlf-ik-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-ik-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/220f4f699b2b7ca63d6c0dfdbbdc2a78.340x340x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "I.K",
+                "title_with_featured": "I.K",
+                "url": "https://genius.com/Tlf-ik-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2451745",
+                "artist_names": "TLF",
+                "full_title": "Inconditionnel luv' by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "id": 2451745,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Tlf-inconditionnel-luv-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-inconditionnel-luv-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 1
+                },
+                "release_date_for_display": "April 1, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 1, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Inconditionnel luv\u2019",
+                "title_with_featured": "Inconditionnel luv'",
+                "url": "https://genius.com/Tlf-inconditionnel-luv-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2452166",
+                "artist_names": "TLF",
+                "full_title": "Jacter by\u00a0TLF",
+                "header_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "id": 2452166,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Tlf-jacter-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tlf-jacter-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 1
+                },
+                "release_date_for_display": "April 1, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 1, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f373d7035d5c2286eed03fccc3bee692.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jacter",
+                "title_with_featured": "Jacter",
+                "url": "https://genius.com/Tlf-jacter-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12437",
+                    "header_image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "id": 12437,
+                    "image_url": "https://images.genius.com/b0d3f257d041b7a4b76068f27a627d42.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TLF",
+                    "url": "https://genius.com/artists/Tlf",
+                    "iq": 2168
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

@@ -1,0 +1,505 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5129921",
+                "artist_names": "Sofiane (Ft. Jah Mason & Salif)",
+                "full_title": "United by\u00a0Sofiane (Ft.\u00a0Jah\u00a0Mason & Salif)",
+                "header_image_thumbnail_url": "https://images.genius.com/790bab425b56423b5d6db7f24776a649.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/790bab425b56423b5d6db7f24776a649.1000x1000x1.jpg",
+                "id": 5129921,
+                "language": null,
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "unreleased",
+                "path": "/Sofiane-united-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sofiane-united-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 26
+                },
+                "release_date_for_display": "December 26, 2019",
+                "release_date_with_abbreviated_month_for_display": "Dec. 26, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/790bab425b56423b5d6db7f24776a649.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/790bab425b56423b5d6db7f24776a649.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "United",
+                "title_with_featured": "United (Ft.\u00a0Jah\u00a0Mason & Salif)",
+                "url": "https://genius.com/Sofiane-united-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/26910",
+                        "header_image_url": "https://images.genius.com/faedb02d2cce1ca1d1e9ec6ed3eecc73.850x567x1.jpg",
+                        "id": 26910,
+                        "image_url": "https://images.genius.com/2483c6c35df030dcb755502c0a486dbb.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jah Mason",
+                        "url": "https://genius.com/artists/Jah-mason"
+                    },
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12085",
+                    "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                    "id": 12085,
+                    "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sofiane",
+                    "url": "https://genius.com/artists/Sofiane",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3177438",
+                "artist_names": "Zoxea (Ft. Arafat (FR), Don Choa, LIM, Mala & Nysay)",
+                "full_title": "Vengeance by\u00a0Zoxea (Ft.\u00a0Arafat\u00a0(FR), Don\u00a0Choa, LIM, Mala & Nysay)",
+                "header_image_thumbnail_url": "https://images.genius.com/b32c003a3da3fb5f2d00fbbba8ea3073.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b32c003a3da3fb5f2d00fbbba8ea3073.857x857x1.jpg",
+                "id": 3177438,
+                "language": "fr",
+                "lyrics_owner_id": 2031404,
+                "lyrics_state": "complete",
+                "path": "/Zoxea-vengeance-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zoxea-vengeance-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1999",
+                "release_date_with_abbreviated_month_for_display": "1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/55d287ef4b0d9933b09b34689c8be5b0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/55d287ef4b0d9933b09b34689c8be5b0.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vengeance",
+                "title_with_featured": "Vengeance (Ft.\u00a0Arafat\u00a0(FR), Don\u00a0Choa, LIM, Mala & Nysay)",
+                "url": "https://genius.com/Zoxea-vengeance-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11628",
+                        "header_image_url": "https://images.genius.com/3e1e90b453b3661509c0b3cc0251078a.1000x655x1.jpg",
+                        "id": 11628,
+                        "image_url": "https://images.genius.com/1dcba2ab320fb4782bd1f95b5c5bf945.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mala",
+                        "url": "https://genius.com/artists/Mala"
+                    },
+                    {
+                        "api_path": "/artists/1781256",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1781256,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Arafat (FR)",
+                        "url": "https://genius.com/artists/Arafat-fr"
+                    },
+                    {
+                        "api_path": "/artists/1963",
+                        "header_image_url": "https://images.genius.com/9a407c06f504d56d6ab6cc6b830824c7.238x260x1.jpg",
+                        "id": 1963,
+                        "image_url": "https://images.genius.com/77ca885d88f57bdafe25fac177e0a86c.300x300x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Don Choa",
+                        "url": "https://genius.com/artists/Don-choa"
+                    },
+                    {
+                        "api_path": "/artists/13319",
+                        "header_image_url": "https://images.genius.com/9a1be147a5f50510d4657a805f7323c6.1000x764x1.jpg",
+                        "id": 13319,
+                        "image_url": "https://images.genius.com/af5ade8a15b3519111d261443b7be993.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "LIM",
+                        "url": "https://genius.com/artists/Lim"
+                    },
+                    {
+                        "api_path": "/artists/29701",
+                        "header_image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                        "id": 29701,
+                        "image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nysay",
+                        "url": "https://genius.com/artists/Nysay"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11623",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                    "id": 11623,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/2268708063_small_1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zoxea",
+                    "url": "https://genius.com/artists/Zoxea",
+                    "iq": 0
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/118131",
+                "artist_names": "Salif",
+                "full_title": "Veridik by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "id": 118131,
+                "language": "fr",
+                "lyrics_owner_id": 186665,
+                "lyrics_state": "complete",
+                "path": "/Salif-veridik-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-veridik-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 9,
+                    "day": 28
+                },
+                "release_date_for_display": "September 28, 2009",
+                "release_date_with_abbreviated_month_for_display": "Sep. 28, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Veridik",
+                "title_with_featured": "Veridik",
+                "url": "https://genius.com/Salif-veridik-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3374033",
+                "artist_names": "Salif",
+                "full_title": "Viens dans mon monde by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.500x500x1.jpg",
+                "id": 3374033,
+                "language": "fr",
+                "lyrics_owner_id": 140478,
+                "lyrics_state": "complete",
+                "path": "/Salif-viens-dans-mon-monde-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-viens-dans-mon-monde-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2001",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Viens dans mon monde",
+                "title_with_featured": "Viens dans mon monde",
+                "url": "https://genius.com/Salif-viens-dans-mon-monde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3176123",
+                "artist_names": "Nysay (Ft. Supa Lexx)",
+                "full_title": "Vivre autrement by\u00a0Nysay (Ft.\u00a0Supa\u00a0Lexx)",
+                "header_image_thumbnail_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.300x309x1.jpg",
+                "header_image_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.350x361x1.jpg",
+                "id": 3176123,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Nysay-vivre-autrement-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nysay-vivre-autrement-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.300x309x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8ac34875465dc18eaac1cddf12bd69e6.350x361x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vivre autrement",
+                "title_with_featured": "Vivre autrement (Ft.\u00a0Supa\u00a0Lexx)",
+                "url": "https://genius.com/Nysay-vivre-autrement-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/146093",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 146093,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Supa Lexx",
+                        "url": "https://genius.com/artists/Supa-lexx"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/29701",
+                    "header_image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "id": 29701,
+                    "image_url": "https://images.genius.com/c138ddc74884f555c8387c64e4bb76eb.353x353x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nysay",
+                    "url": "https://genius.com/artists/Nysay"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/374496",
+                "artist_names": "Salif",
+                "full_title": "Warriors by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "id": 374496,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Salif-warriors-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-warriors-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 9,
+                    "day": 28
+                },
+                "release_date_for_display": "September 28, 2009",
+                "release_date_with_abbreviated_month_for_display": "Sep. 28, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5c198f069e86a5e31f408d95bad08050.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Warriors",
+                "title_with_featured": "Warriors",
+                "url": "https://genius.com/Salif-warriors-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2499941",
+                "artist_names": "Salif (Ft. Sofy (FRA))",
+                "full_title": "Why by\u00a0Salif (Ft.\u00a0Sofy\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.500x500x1.jpg",
+                "id": 2499941,
+                "language": "fr",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Salif-why-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-why-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2001",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/95c5b8c5ded38f91c0b7780260cb1003.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Why",
+                "title_with_featured": "Why (Ft.\u00a0Sofy\u00a0(FRA))",
+                "url": "https://genius.com/Salif-why-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/3076578",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3076578,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sofy (FRA)",
+                        "url": "https://genius.com/artists/Sofy-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5547673",
+                "artist_names": "Salif (Ft. Shone & Six)",
+                "full_title": "Y'a quoi by\u00a0Salif (Ft.\u00a0Shone & Six)",
+                "header_image_thumbnail_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.398x400x1.jpg",
+                "id": 5547673,
+                "language": "en",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Salif-ya-quoi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-ya-quoi-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2010",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b6b41bfa4db9a491f841415485104c11.398x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Y\u2019a quoi",
+                "title_with_featured": "Y'a quoi (Ft.\u00a0Shone & Six)",
+                "url": "https://genius.com/Salif-ya-quoi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18901",
+                        "header_image_url": "https://images.genius.com/eb03d8a67cea650c4dcda8a65aed869b.363x363x1.jpg",
+                        "id": 18901,
+                        "image_url": "https://images.genius.com/3f1c2a39d4880106eddd8ee6aaad0f3f.658x388x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shone",
+                        "url": "https://genius.com/artists/Shone"
+                    },
+                    {
+                        "api_path": "/artists/325073",
+                        "header_image_url": "https://images.genius.com/e3607c4bc5dace69b3be5989284ea0f9.833x833x1.jpg",
+                        "id": 325073,
+                        "image_url": "https://images.genius.com/e3607c4bc5dace69b3be5989284ea0f9.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Six",
+                        "url": "https://genius.com/artists/Six"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/74293",
+                "artist_names": "Salif",
+                "full_title": "Yoyo by\u00a0Salif",
+                "header_image_thumbnail_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.400x400x1.jpg",
+                "id": 74293,
+                "language": "fr",
+                "lyrics_owner_id": 83917,
+                "lyrics_state": "complete",
+                "path": "/Salif-yoyo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Salif-yoyo-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 4,
+                    "day": 30
+                },
+                "release_date_for_display": "April 30, 2007",
+                "release_date_with_abbreviated_month_for_display": "Apr. 30, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/21e00a08ab3f3289b11c7c5796305044.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Yoyo",
+                "title_with_featured": "Yoyo",
+                "url": "https://genius.com/Salif-yoyo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1846",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "id": 1846,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Salif",
+                    "url": "https://genius.com/artists/Salif"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

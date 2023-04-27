@@ -1,0 +1,978 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2817771",
+                "artist_names": "Sadek (Ft. Leto & Ninho)",
+                "full_title": "C'est trop by\u00a0Sadek (Ft.\u00a0Leto & Ninho)",
+                "header_image_thumbnail_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.300x299x1.png",
+                "header_image_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.601x598x1.png",
+                "id": 2817771,
+                "language": "fr",
+                "lyrics_owner_id": 2080018,
+                "lyrics_state": "complete",
+                "path": "/Sadek-cest-trop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-cest-trop-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 7,
+                    "day": 8
+                },
+                "release_date_for_display": "July 8, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jul. 8, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.601x598x1.png",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 12713
+                },
+                "title": "C\u2019est trop",
+                "title_with_featured": "C'est trop (Ft.\u00a0Leto & Ninho)",
+                "url": "https://genius.com/Sadek-cest-trop-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    },
+                    {
+                        "api_path": "/artists/71286",
+                        "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                        "id": 71286,
+                        "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ninho",
+                        "url": "https://genius.com/artists/Ninho"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5327376",
+                "artist_names": "Ninho",
+                "full_title": "C'\u00e9tait le rap by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/6bf8af39f7861f7ddfcecafaa2634bbf.300x300x1.png",
+                "header_image_url": "https://images.genius.com/6bf8af39f7861f7ddfcecafaa2634bbf.1000x1000x1.png",
+                "id": 5327376,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Ninho-cetait-le-rap-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ninho-cetait-le-rap-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 7
+                },
+                "release_date_for_display": "March 7, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 7, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6bf8af39f7861f7ddfcecafaa2634bbf.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/6bf8af39f7861f7ddfcecafaa2634bbf.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 37843
+                },
+                "title": "C\u2019\u00e9tait le rap",
+                "title_with_featured": "C'\u00e9tait le rap",
+                "url": "https://genius.com/Ninho-cetait-le-rap-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/3612124",
+                "artist_names": "Ninho",
+                "full_title": "Chacun son tour by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/81e6343681cdaa4fb957ad41981570ef.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/81e6343681cdaa4fb957ad41981570ef.450x450x1.jpg",
+                "id": 3612124,
+                "language": "fr",
+                "lyrics_owner_id": 1094887,
+                "lyrics_state": "complete",
+                "path": "/Ninho-chacun-son-tour-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Ninho-chacun-son-tour-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 30
+                },
+                "release_date_for_display": "March 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/81e6343681cdaa4fb957ad41981570ef.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/81e6343681cdaa4fb957ad41981570ef.450x450x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 63668
+                },
+                "title": "Chacun son tour",
+                "title_with_featured": "Chacun son tour",
+                "url": "https://genius.com/Ninho-chacun-son-tour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3618932",
+                "artist_names": "Ninho",
+                "full_title": "Chamak by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/4054588ecdc580a8e2a6ff9a07aca7de.300x300x1.png",
+                "header_image_url": "https://images.genius.com/4054588ecdc580a8e2a6ff9a07aca7de.450x450x1.png",
+                "id": 3618932,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Ninho-chamak-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ninho-chamak-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 9,
+                    "day": 15
+                },
+                "release_date_for_display": "September 15, 2014",
+                "release_date_with_abbreviated_month_for_display": "Sep. 15, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/acfc3ad6fa8b921164d72377a1af4f39.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/acfc3ad6fa8b921164d72377a1af4f39.640x480x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Chamak",
+                "title_with_featured": "Chamak",
+                "url": "https://genius.com/Ninho-chamak-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6521427",
+                "artist_names": "Serge Ibaka (Ft. Ninho)",
+                "full_title": "Champion by\u00a0Serge\u00a0Ibaka (Ft.\u00a0Ninho)",
+                "header_image_thumbnail_url": "https://images.genius.com/f62793b29cc74d46b368dfcda643140e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f62793b29cc74d46b368dfcda643140e.500x500x1.jpg",
+                "id": 6521427,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Serge-ibaka-champion-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Serge-ibaka-champion-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 26
+                },
+                "release_date_for_display": "February 26, 2021",
+                "release_date_with_abbreviated_month_for_display": "Feb. 26, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f62793b29cc74d46b368dfcda643140e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f62793b29cc74d46b368dfcda643140e.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 11646
+                },
+                "title": "Champion",
+                "title_with_featured": "Champion (Ft.\u00a0Ninho)",
+                "url": "https://genius.com/Serge-ibaka-champion-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/71286",
+                        "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                        "id": 71286,
+                        "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ninho",
+                        "url": "https://genius.com/artists/Ninho"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2620770",
+                    "header_image_url": "https://images.genius.com/2432ae2d2f9722f8407d24a1403df159.999x999x1.jpg",
+                    "id": 2620770,
+                    "image_url": "https://images.genius.com/2432ae2d2f9722f8407d24a1403df159.999x999x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Serge Ibaka",
+                    "url": "https://genius.com/artists/Serge-ibaka"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4079451",
+                "artist_names": "GLK (Ft. Koba LaD & RK)",
+                "full_title": "Charg\u00e9 by\u00a0GLK (Ft.\u00a0Koba\u00a0LaD & RK)",
+                "header_image_thumbnail_url": "https://images.genius.com/cb92568fb741eee15f7326aa6e8e1293.300x169x1.png",
+                "header_image_url": "https://images.genius.com/cb92568fb741eee15f7326aa6e8e1293.1000x562x1.png",
+                "id": 4079451,
+                "language": "en",
+                "lyrics_owner_id": 1810091,
+                "lyrics_state": "complete",
+                "path": "/Glk-charge-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Glk-charge-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 30
+                },
+                "release_date_for_display": "November 30, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b3736d89ac42dc6c53ac704612f6b016.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b3736d89ac42dc6c53ac704612f6b016.750x750x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 14040
+                },
+                "title": "Charg\u00e9",
+                "title_with_featured": "Charg\u00e9 (Ft.\u00a0Koba\u00a0LaD & RK)",
+                "url": "https://genius.com/Glk-charge-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1415345",
+                        "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                        "id": 1415345,
+                        "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RK",
+                        "url": "https://genius.com/artists/Rk"
+                    },
+                    {
+                        "api_path": "/artists/1247832",
+                        "header_image_url": "https://images.genius.com/c11572841c66776b446a184970264935.1000x563x1.jpg",
+                        "id": 1247832,
+                        "image_url": "https://images.genius.com/9a77212f8d6053fab4fb89628a50073e.686x686x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Koba LaD",
+                        "url": "https://genius.com/artists/Koba-lad"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/563979",
+                    "header_image_url": "https://images.genius.com/7d53b483be43c95724ec605ee1dbad56.1000x733x1.jpg",
+                    "id": 563979,
+                    "image_url": "https://images.genius.com/ac7125e3ce4e48497b79b9cd469b3bf9.659x659x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "GLK",
+                    "url": "https://genius.com/artists/Glk"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/2410210",
+                "artist_names": "Ninho",
+                "full_title": "Charly Delta (Remix) by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.450x450x1.jpg",
+                "id": 2410210,
+                "language": "en",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Ninho-charly-delta-remix-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ninho-charly-delta-remix-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 6,
+                    "day": 10
+                },
+                "release_date_for_display": "June 10, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jun. 10, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/862fb27b3e756aebb9df7101efcf910f.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/862fb27b3e756aebb9df7101efcf910f.640x480x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 12840
+                },
+                "title": "Charly Delta (Remix)",
+                "title_with_featured": "Charly Delta (Remix)",
+                "url": "https://genius.com/Ninho-charly-delta-remix-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/3196552",
+                "artist_names": "Ninho",
+                "full_title": "Chino by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/c00231c696169532e37c0a174e9eecbe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c00231c696169532e37c0a174e9eecbe.600x600x1.jpg",
+                "id": 3196552,
+                "language": "fr",
+                "lyrics_owner_id": 133353,
+                "lyrics_state": "complete",
+                "path": "/Ninho-chino-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Ninho-chino-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 8,
+                    "day": 18
+                },
+                "release_date_for_display": "August 18, 2017",
+                "release_date_with_abbreviated_month_for_display": "Aug. 18, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c00231c696169532e37c0a174e9eecbe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c00231c696169532e37c0a174e9eecbe.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 111921
+                },
+                "title": "Chino",
+                "title_with_featured": "Chino",
+                "url": "https://genius.com/Ninho-chino-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2451273",
+                "artist_names": "Ninho",
+                "full_title": "Chose \u00e0 faire by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.450x450x1.jpg",
+                "id": 2451273,
+                "language": "fr",
+                "lyrics_owner_id": 133353,
+                "lyrics_state": "complete",
+                "path": "/Ninho-chose-a-faire-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ninho-chose-a-faire-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 18
+                },
+                "release_date_for_display": "January 18, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 18, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.450x450x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Chose \u00e0 faire",
+                "title_with_featured": "Chose \u00e0 faire",
+                "url": "https://genius.com/Ninho-chose-a-faire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8846202",
+                "artist_names": "Werenoi (Ft. Ninho)",
+                "full_title": "Ciao by\u00a0Werenoi (Ft.\u00a0Ninho)",
+                "header_image_thumbnail_url": "https://images.genius.com/7118c61001e6925df3bde4db2991085c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7118c61001e6925df3bde4db2991085c.1000x1000x1.jpg",
+                "id": 8846202,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Werenoi-ciao-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Werenoi-ciao-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 10
+                },
+                "release_date_for_display": "March 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7118c61001e6925df3bde4db2991085c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7118c61001e6925df3bde4db2991085c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 7399
+                },
+                "title": "Ciao",
+                "title_with_featured": "Ciao (Ft.\u00a0Ninho)",
+                "url": "https://genius.com/Werenoi-ciao-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/71286",
+                        "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                        "id": 71286,
+                        "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ninho",
+                        "url": "https://genius.com/artists/Ninho"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2591697",
+                    "header_image_url": "https://images.genius.com/9df9fa1b5482d2fc00248a7e364d74ed.994x1000x1.png",
+                    "id": 2591697,
+                    "image_url": "https://images.genius.com/095b71f2216ffffd4103c390550a5e3c.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Werenoi",
+                    "url": "https://genius.com/artists/Werenoi"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/218085",
+                "artist_names": "Ninho (Ft. Sadek)",
+                "full_title": "Clan des loups by\u00a0Ninho (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/2636e293da69c101dd25d9efa6b3270e.300x300x1.png",
+                "header_image_url": "https://images.genius.com/2636e293da69c101dd25d9efa6b3270e.450x450x1.png",
+                "id": 218085,
+                "language": "fr",
+                "lyrics_owner_id": 103274,
+                "lyrics_state": "complete",
+                "path": "/Ninho-clan-des-loups-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ninho-clan-des-loups-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 2,
+                    "day": 17
+                },
+                "release_date_for_display": "February 17, 2014",
+                "release_date_with_abbreviated_month_for_display": "Feb. 17, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ce8a68993b5e6f4fcea7ddfc7e9ad3fe.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/ce8a68993b5e6f4fcea7ddfc7e9ad3fe.450x450x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Clan des loups",
+                "title_with_featured": "Clan des loups (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Ninho-clan-des-loups-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/3611869",
+                "artist_names": "Ninho",
+                "full_title": "Coffrer by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/76c70c22a6c60fa20b0da42df89cac6c.300x206x1.jpg",
+                "header_image_url": "https://images.genius.com/76c70c22a6c60fa20b0da42df89cac6c.800x550x1.jpg",
+                "id": 3611869,
+                "language": "fr",
+                "lyrics_owner_id": 5478076,
+                "lyrics_state": "complete",
+                "path": "/Ninho-coffrer-lyrics",
+                "pyongs_count": 19,
+                "relationships_index_url": "https://genius.com/Ninho-coffrer-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 28
+                },
+                "release_date_for_display": "March 28, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 28, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d49370a2bccbbb29ab1e5e36e776372b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d49370a2bccbbb29ab1e5e36e776372b.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 84724
+                },
+                "title": "Coffrer",
+                "title_with_featured": "Coffrer",
+                "url": "https://genius.com/Ninho-coffrer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/3220850",
+                "artist_names": "Ninho",
+                "full_title": "Comme pr\u00e9vu by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/1eb041f417640d0c5cfe7407ecb6097b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1eb041f417640d0c5cfe7407ecb6097b.746x746x1.jpg",
+                "id": 3220850,
+                "language": "fr",
+                "lyrics_owner_id": 133353,
+                "lyrics_state": "complete",
+                "path": "/Ninho-comme-prevu-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Ninho-comme-prevu-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 8
+                },
+                "release_date_for_display": "September 8, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 8, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1eb041f417640d0c5cfe7407ecb6097b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1eb041f417640d0c5cfe7407ecb6097b.746x746x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 128868
+                },
+                "title": "Comme pr\u00e9vu",
+                "title_with_featured": "Comme pr\u00e9vu",
+                "url": "https://genius.com/Ninho-comme-prevu-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3404978",
+                "artist_names": "Ninho",
+                "full_title": "Corleone* by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/789071270530e67c6cab36681968ad03.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/789071270530e67c6cab36681968ad03.427x240x1.jpg",
+                "id": 3404978,
+                "language": "fr",
+                "lyrics_owner_id": 4247375,
+                "lyrics_state": "complete",
+                "path": "/Ninho-corleone-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ninho-corleone-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/789071270530e67c6cab36681968ad03.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/789071270530e67c6cab36681968ad03.427x240x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 26735
+                },
+                "title": "Corleone*",
+                "title_with_featured": "Corleone*",
+                "url": "https://genius.com/Ninho-corleone-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8501675",
+                "artist_names": "Graya (Ft. Ninho)",
+                "full_title": "Coucou by\u00a0Graya (Ft.\u00a0Ninho)",
+                "header_image_thumbnail_url": "https://images.genius.com/1d58542c47b2cbcab05731e14973ac64.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d58542c47b2cbcab05731e14973ac64.1000x1000x1.jpg",
+                "id": 8501675,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Graya-coucou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Graya-coucou-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 18
+                },
+                "release_date_for_display": "November 18, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 18, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d58542c47b2cbcab05731e14973ac64.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d58542c47b2cbcab05731e14973ac64.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Coucou",
+                "title_with_featured": "Coucou (Ft.\u00a0Ninho)",
+                "url": "https://genius.com/Graya-coucou-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/71286",
+                        "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                        "id": 71286,
+                        "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ninho",
+                        "url": "https://genius.com/artists/Ninho"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/297016",
+                    "header_image_url": "https://images.genius.com/be896e5d9df1ac66594dbdad64aecf62.960x540x1.jpg",
+                    "id": 297016,
+                    "image_url": "https://images.genius.com/c3db964c3bccdb17cbb7307a851e0d0c.565x565x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Graya",
+                    "url": "https://genius.com/artists/Graya"
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/2823883",
+                "artist_names": "Ninho (Ft. Leto)",
+                "full_title": "Cr\u00e9sus by\u00a0Ninho (Ft.\u00a0Leto)",
+                "header_image_thumbnail_url": "https://images.genius.com/6b67c41ff917cc2272275897ad065662.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/6b67c41ff917cc2272275897ad065662.649x350x1.jpg",
+                "id": 2823883,
+                "language": "en",
+                "lyrics_owner_id": 142424,
+                "lyrics_state": "complete",
+                "path": "/Ninho-cresus-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Ninho-cresus-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 7,
+                    "day": 21
+                },
+                "release_date_for_display": "July 21, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jul. 21, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ad240f90b1d1469e7ed552ab050cef65.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ad240f90b1d1469e7ed552ab050cef65.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 37527
+                },
+                "title": "Cr\u00e9sus",
+                "title_with_featured": "Cr\u00e9sus (Ft.\u00a0Leto)",
+                "url": "https://genius.com/Ninho-cresus-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/183940",
+                        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+                        "id": 183940,
+                        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Leto",
+                        "url": "https://genius.com/artists/Leto"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2947088",
+                "artist_names": "Ninho",
+                "full_title": "Criminelle tour by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.450x450x1.jpg",
+                "id": 2947088,
+                "language": "en",
+                "lyrics_owner_id": 4129137,
+                "lyrics_state": "complete",
+                "path": "/Ninho-criminelle-tour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ninho-criminelle-tour-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 18
+                },
+                "release_date_for_display": "January 18, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 18, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d8b85a3a7590abfa4b0b3a68dd9802bc.450x450x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Criminelle tour",
+                "title_with_featured": "Criminelle tour",
+                "url": "https://genius.com/Ninho-criminelle-tour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/5337926",
+                "artist_names": "\u200bDA Uzi (Ft. Ninho)",
+                "full_title": "Crois-moi by\u00a0\u200bDA\u00a0Uzi (Ft.\u00a0Ninho)",
+                "header_image_thumbnail_url": "https://images.genius.com/4f4bb870555d841cb8cccf5c30fe1e3a.300x121x1.png",
+                "header_image_url": "https://images.genius.com/4f4bb870555d841cb8cccf5c30fe1e3a.845x342x1.png",
+                "id": 5337926,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Da-uzi-crois-moi-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Da-uzi-crois-moi-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 3
+                },
+                "release_date_for_display": "April 3, 2020",
+                "release_date_with_abbreviated_month_for_display": "Apr. 3, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f052e8fe2a25870647a500349bf5de34.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f052e8fe2a25870647a500349bf5de34.345x345x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 51005
+                },
+                "title": "Crois-moi",
+                "title_with_featured": "Crois-moi (Ft.\u00a0Ninho)",
+                "url": "https://genius.com/Da-uzi-crois-moi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/71286",
+                        "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                        "id": 71286,
+                        "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ninho",
+                        "url": "https://genius.com/artists/Ninho"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1212452",
+                    "header_image_url": "https://images.genius.com/5052661837a1c3890e048a082f56ef80.320x320x1.jpg",
+                    "id": 1212452,
+                    "image_url": "https://images.genius.com/3d50fdf7b7769a8570a412b20d3b514e.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200bDA Uzi",
+                    "url": "https://genius.com/artists/Da-uzi"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/6011784",
+                "artist_names": "Lacrim (Ft. Ninho)",
+                "full_title": "Dadinho by\u00a0Lacrim (Ft.\u00a0Ninho)",
+                "header_image_thumbnail_url": "https://images.genius.com/1aa5f6307b7674a09dd78c730638fe6f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1aa5f6307b7674a09dd78c730638fe6f.1000x1000x1.jpg",
+                "id": 6011784,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Lacrim-dadinho-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Lacrim-dadinho-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 16
+                },
+                "release_date_for_display": "October 16, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 16, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1aa5f6307b7674a09dd78c730638fe6f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1aa5f6307b7674a09dd78c730638fe6f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 17537
+                },
+                "title": "Dadinho",
+                "title_with_featured": "Dadinho (Ft.\u00a0Ninho)",
+                "url": "https://genius.com/Lacrim-dadinho-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/71286",
+                        "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                        "id": 71286,
+                        "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ninho",
+                        "url": "https://genius.com/artists/Ninho"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11650",
+                    "header_image_url": "https://images.genius.com/a56bea02c03bf2cdf1312931415097c1.1000x667x1.jpg",
+                    "id": 11650,
+                    "image_url": "https://images.genius.com/c3d2691daa3d67cd58031bc4096496e6.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lacrim",
+                    "url": "https://genius.com/artists/Lacrim"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/3542377",
+                "artist_names": "Ninho",
+                "full_title": "Dans le club* by\u00a0Ninho",
+                "header_image_thumbnail_url": "https://images.genius.com/43cd44cb7de451911c2fd8191a4ec6a0.200x200x1.png",
+                "header_image_url": "https://images.genius.com/43cd44cb7de451911c2fd8191a4ec6a0.200x200x1.png",
+                "id": 3542377,
+                "language": "fr",
+                "lyrics_owner_id": 5723352,
+                "lyrics_state": "complete",
+                "path": "/Ninho-dans-le-club-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ninho-dans-le-club-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/43cd44cb7de451911c2fd8191a4ec6a0.200x200x1.png",
+                "song_art_image_url": "https://images.genius.com/43cd44cb7de451911c2fd8191a4ec6a0.200x200x1.png",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 12484
+                },
+                "title": "Dans le club*",
+                "title_with_featured": "Dans le club*",
+                "url": "https://genius.com/Ninho-dans-le-club-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/71286",
+                    "header_image_url": "https://images.genius.com/1b467532128eee01dcaf85907d79589b.1000x563x1.jpg",
+                    "id": 71286,
+                    "image_url": "https://images.genius.com/c93f68a86573829de59818c252e4429a.271x271x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ninho",
+                    "url": "https://genius.com/artists/Ninho"
+                }
+            }
+        ],
+        "next_page": 5
+    }
+}

@@ -1,0 +1,995 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8985471",
+                "artist_names": "JNR Slice (Ft. Zkr)",
+                "full_title": "C'EST RIEN by\u00a0JNR\u00a0Slice (Ft.\u00a0Zkr)",
+                "header_image_thumbnail_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.1000x1000x1.jpg",
+                "id": 8985471,
+                "language": "fr",
+                "lyrics_owner_id": 12516492,
+                "lyrics_state": "complete",
+                "path": "/Jnr-slice-cest-rien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jnr-slice-cest-rien-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6db49cd400b1a825af51c790fd9b95ea.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019EST RIEN",
+                "title_with_featured": "C'EST RIEN (Ft.\u00a0Zkr)",
+                "url": "https://genius.com/Jnr-slice-cest-rien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/217822",
+                        "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                        "id": 217822,
+                        "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zkr",
+                        "url": "https://genius.com/artists/Zkr",
+                        "iq": 975
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2338694",
+                    "header_image_url": "https://images.genius.com/3edcb9bd46e8ceaf2791bf898259a06a.1000x333x1.jpg",
+                    "id": 2338694,
+                    "image_url": "https://images.genius.com/0f77babc0ad67874a0aef0e34fe770d3.486x486x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JNR Slice",
+                    "url": "https://genius.com/artists/Jnr-slice"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4854406",
+                "artist_names": "Zkr",
+                "full_title": "Champion by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/59a8b31fed92c25a1aa27bdcb998b3ef.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/59a8b31fed92c25a1aa27bdcb998b3ef.1000x539x1.jpg",
+                "id": 4854406,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Zkr-champion-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-champion-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 13
+                },
+                "release_date_for_display": "September 13, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 13, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1fab6b0f71838fadb118d439638c37ef.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1fab6b0f71838fadb118d439638c37ef.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Champion",
+                "title_with_featured": "Champion",
+                "url": "https://genius.com/Zkr-champion-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/6870747",
+                "artist_names": "Koba LaD (Ft. Landy & Zkr)",
+                "full_title": "Chercher l\u2019or by\u00a0Koba\u00a0LaD (Ft.\u00a0Landy & Zkr)",
+                "header_image_thumbnail_url": "https://images.genius.com/60a945af7ea793ad488e24665b73f5a5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/60a945af7ea793ad488e24665b73f5a5.1000x1000x1.jpg",
+                "id": 6870747,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Koba-lad-chercher-lor-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Koba-lad-chercher-lor-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 18
+                },
+                "release_date_for_display": "June 18, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 18, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/60a945af7ea793ad488e24665b73f5a5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/60a945af7ea793ad488e24665b73f5a5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Chercher l\u2019or",
+                "title_with_featured": "Chercher l\u2019or (Ft.\u00a0Landy & Zkr)",
+                "url": "https://genius.com/Koba-lad-chercher-lor-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/666286",
+                        "header_image_url": "https://images.genius.com/c8ec22b4cef50c787958825269535bcb.601x550x1.png",
+                        "id": 666286,
+                        "image_url": "https://images.genius.com/a9e30a658a4df91c08a05912ce60fa3b.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Landy",
+                        "url": "https://genius.com/artists/Landy"
+                    },
+                    {
+                        "api_path": "/artists/217822",
+                        "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                        "id": 217822,
+                        "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zkr",
+                        "url": "https://genius.com/artists/Zkr",
+                        "iq": 975
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1247832",
+                    "header_image_url": "https://images.genius.com/c11572841c66776b446a184970264935.1000x563x1.jpg",
+                    "id": 1247832,
+                    "image_url": "https://images.genius.com/9a77212f8d6053fab4fb89628a50073e.686x686x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Koba LaD",
+                    "url": "https://genius.com/artists/Koba-lad"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/8740407",
+                "artist_names": "Zkr",
+                "full_title": "Comme toi by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.1000x1000x1.jpg",
+                "id": 8740407,
+                "language": "fr",
+                "lyrics_owner_id": 5226754,
+                "lyrics_state": "complete",
+                "path": "/Zkr-comme-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-comme-toi-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 1,
+                    "day": 20
+                },
+                "release_date_for_display": "January 20, 2023",
+                "release_date_with_abbreviated_month_for_display": "Jan. 20, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Comme toi",
+                "title_with_featured": "Comme toi",
+                "url": "https://genius.com/Zkr-comme-toi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/6257284",
+                "artist_names": "Zkr",
+                "full_title": "Comme un junkie by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/453a40faf99843537bc751e9bf3bb51d.300x300x1.png",
+                "header_image_url": "https://images.genius.com/453a40faf99843537bc751e9bf3bb51d.600x600x1.png",
+                "id": 6257284,
+                "language": "fr",
+                "lyrics_owner_id": 10876758,
+                "lyrics_state": "complete",
+                "path": "/Zkr-comme-un-junkie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-comme-un-junkie-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/453a40faf99843537bc751e9bf3bb51d.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/453a40faf99843537bc751e9bf3bb51d.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 7008
+                },
+                "title": "Comme un junkie",
+                "title_with_featured": "Comme un junkie",
+                "url": "https://genius.com/Zkr-comme-un-junkie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6349842",
+                "artist_names": "Zkr",
+                "full_title": "CR7 by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/bb41e1a1d00020398877d5d8feb62c36.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/bb41e1a1d00020398877d5d8feb62c36.1000x563x1.jpg",
+                "id": 6349842,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Zkr-cr7-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-cr7-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 6
+                },
+                "release_date_for_display": "January 6, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 6, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bb41e1a1d00020398877d5d8feb62c36.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bb41e1a1d00020398877d5d8feb62c36.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "CR7",
+                "title_with_featured": "CR7",
+                "url": "https://genius.com/Zkr-cr7-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6407787",
+                "artist_names": "SeezyMac (Ft. SeezyMac)",
+                "full_title": "Crazy by\u00a0SeezyMac (Ft.\u00a0SeezyMac)",
+                "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "id": 6407787,
+                "language": "en",
+                "lyrics_owner_id": 12783454,
+                "lyrics_state": "complete",
+                "path": "/Seezymac-crazy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seezymac-crazy-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 10
+                },
+                "release_date_for_display": "January 10, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 10, 2021",
+                "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Crazy",
+                "title_with_featured": "Crazy (Ft.\u00a0SeezyMac)",
+                "url": "https://genius.com/Seezymac-crazy-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2572298",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2572298,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SeezyMac",
+                        "url": "https://genius.com/artists/Seezymac"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2572298",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2572298,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SeezyMac",
+                    "url": "https://genius.com/artists/Seezymac"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8064044",
+                "artist_names": "AM La Scampia (Ft. Zkr)",
+                "full_title": "Dans la l\u00e9gende by\u00a0AM\u00a0La Scampia (Ft.\u00a0Zkr)",
+                "header_image_thumbnail_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.1000x1000x1.jpg",
+                "id": 8064044,
+                "language": "en",
+                "lyrics_owner_id": 15248999,
+                "lyrics_state": "complete",
+                "path": "/Am-la-scampia-dans-la-legende-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Am-la-scampia-dans-la-legende-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3213d042ecb49547914248fa095bb28c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dans la l\u00e9gende",
+                "title_with_featured": "Dans la l\u00e9gende (Ft.\u00a0Zkr)",
+                "url": "https://genius.com/Am-la-scampia-dans-la-legende-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/217822",
+                        "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                        "id": 217822,
+                        "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zkr",
+                        "url": "https://genius.com/artists/Zkr",
+                        "iq": 975
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1165897",
+                    "header_image_url": "https://images.genius.com/8845bad2c89d96ba52701398ecfe4e98.960x960x1.jpg",
+                    "id": 1165897,
+                    "image_url": "https://images.genius.com/9cf3ae728d0b5c4c1958fdc4c676de22.358x358x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AM La Scampia",
+                    "url": "https://genius.com/artists/Am-la-scampia"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5857611",
+                "artist_names": "Zkr",
+                "full_title": "Dans la tess by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/f8a61d43060fb4b795e6aacdf71e9f4e.300x150x1.png",
+                "header_image_url": "https://images.genius.com/f8a61d43060fb4b795e6aacdf71e9f4e.606x303x1.png",
+                "id": 5857611,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Zkr-dans-la-tess-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Zkr-dans-la-tess-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 14
+                },
+                "release_date_for_display": "August 14, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 14, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b430cbb16d411d782f511b1d261b3b6.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b430cbb16d411d782f511b1d261b3b6.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dans la tess",
+                "title_with_featured": "Dans la tess",
+                "url": "https://genius.com/Zkr-dans-la-tess-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4063470",
+                "artist_names": "Zkr",
+                "full_title": "Demain by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/4f3bd580a74c78e04a17886dae0a2fdc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4f3bd580a74c78e04a17886dae0a2fdc.500x500x1.jpg",
+                "id": 4063470,
+                "language": "fr",
+                "lyrics_owner_id": 4415714,
+                "lyrics_state": "complete",
+                "path": "/Zkr-demain-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Zkr-demain-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 31
+                },
+                "release_date_for_display": "October 31, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 31, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f3bd580a74c78e04a17886dae0a2fdc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4f3bd580a74c78e04a17886dae0a2fdc.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 17720
+                },
+                "title": "Demain",
+                "title_with_featured": "Demain",
+                "url": "https://genius.com/Zkr-demain-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8814339",
+                "artist_names": "Imen Es (Ft. Zkr)",
+                "full_title": "Derri\u00e8re toi by\u00a0Imen\u00a0Es (Ft.\u00a0Zkr)",
+                "header_image_thumbnail_url": "https://images.genius.com/8cb2ac88e6524054f76d641370ae2a52.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8cb2ac88e6524054f76d641370ae2a52.1000x1000x1.jpg",
+                "id": 8814339,
+                "language": "fr",
+                "lyrics_owner_id": 19323581,
+                "lyrics_state": "complete",
+                "path": "/Imen-es-derriere-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Imen-es-derriere-toi-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 10
+                },
+                "release_date_for_display": "February 10, 2023",
+                "release_date_with_abbreviated_month_for_display": "Feb. 10, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8cb2ac88e6524054f76d641370ae2a52.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8cb2ac88e6524054f76d641370ae2a52.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Derri\u00e8re toi",
+                "title_with_featured": "Derri\u00e8re toi (Ft.\u00a0Zkr)",
+                "url": "https://genius.com/Imen-es-derriere-toi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/217822",
+                        "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                        "id": 217822,
+                        "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zkr",
+                        "url": "https://genius.com/artists/Zkr",
+                        "iq": 975
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1548756",
+                    "header_image_url": "https://images.genius.com/fb2a3bbb90d18ef08591c18ae3339671.1000x563x1.jpg",
+                    "id": 1548756,
+                    "image_url": "https://images.genius.com/6781d9494bedef40d59d925d1f758a69.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Imen Es",
+                    "url": "https://genius.com/artists/Imen-es"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7688911",
+                "artist_names": "Zkr",
+                "full_title": "Douce France by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.1000x1000x1.png",
+                "id": 7688911,
+                "language": "da",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Zkr-douce-france-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-douce-france-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Douce France",
+                "title_with_featured": "Douce France",
+                "url": "https://genius.com/Zkr-douce-france-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/6981641",
+                "artist_names": "\u200bDA Uzi (Ft. Soso Maness & Zkr)",
+                "full_title": "Du nord au sud by\u00a0\u200bDA\u00a0Uzi (Ft.\u00a0Soso\u00a0Maness & Zkr)",
+                "header_image_thumbnail_url": "https://images.genius.com/88bf5eb31aaca5242171dd6ee69b2df3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/88bf5eb31aaca5242171dd6ee69b2df3.1000x1000x1.jpg",
+                "id": 6981641,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Da-uzi-du-nord-au-sud-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Da-uzi-du-nord-au-sud-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 23
+                },
+                "release_date_for_display": "July 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/88bf5eb31aaca5242171dd6ee69b2df3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/88bf5eb31aaca5242171dd6ee69b2df3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 5469
+                },
+                "title": "Du nord au sud",
+                "title_with_featured": "Du nord au sud (Ft.\u00a0Soso\u00a0Maness & Zkr)",
+                "url": "https://genius.com/Da-uzi-du-nord-au-sud-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/147487",
+                        "header_image_url": "https://images.genius.com/87ec22191e8eedbf245dea6a04652504.838x445x1.jpg",
+                        "id": 147487,
+                        "image_url": "https://images.genius.com/9e0c59e5e8a785617697ef5df25f4341.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soso Maness",
+                        "url": "https://genius.com/artists/Soso-maness"
+                    },
+                    {
+                        "api_path": "/artists/217822",
+                        "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                        "id": 217822,
+                        "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zkr",
+                        "url": "https://genius.com/artists/Zkr",
+                        "iq": 975
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1212452",
+                    "header_image_url": "https://images.genius.com/5052661837a1c3890e048a082f56ef80.320x320x1.jpg",
+                    "id": 1212452,
+                    "image_url": "https://images.genius.com/3d50fdf7b7769a8570a412b20d3b514e.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200bDA Uzi",
+                    "url": "https://genius.com/artists/Da-uzi"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8145459",
+                "artist_names": "Zkr",
+                "full_title": "Elle et moi by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/e4d9c30ac06ea34dd4185e31630990f6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e4d9c30ac06ea34dd4185e31630990f6.651x651x1.jpg",
+                "id": 8145459,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Zkr-elle-et-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-elle-et-moi-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e4d9c30ac06ea34dd4185e31630990f6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e4d9c30ac06ea34dd4185e31630990f6.651x651x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Elle et moi",
+                "title_with_featured": "Elle et moi",
+                "url": "https://genius.com/Zkr-elle-et-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7485226",
+                "artist_names": "Zkr",
+                "full_title": "En attente by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/53094bd764c5a22fe6b353bf6f65b8ff.300x300x1.png",
+                "header_image_url": "https://images.genius.com/53094bd764c5a22fe6b353bf6f65b8ff.1000x1000x1.png",
+                "id": 7485226,
+                "language": "fr",
+                "lyrics_owner_id": 5589371,
+                "lyrics_state": "complete",
+                "path": "/Zkr-en-attente-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-en-attente-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 12,
+                    "day": 13
+                },
+                "release_date_for_display": "December 13, 2021",
+                "release_date_with_abbreviated_month_for_display": "Dec. 13, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53094bd764c5a22fe6b353bf6f65b8ff.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/53094bd764c5a22fe6b353bf6f65b8ff.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "En attente",
+                "title_with_featured": "En attente",
+                "url": "https://genius.com/Zkr-en-attente-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/6896512",
+                "artist_names": "Frenetik (BEL) (Ft. Zkr)",
+                "full_title": "Encore by\u00a0Frenetik\u00a0(BEL) (Ft.\u00a0Zkr)",
+                "header_image_thumbnail_url": "https://images.genius.com/2e1d1b7689ea4ce52d3d65fe9cb643df.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/2e1d1b7689ea4ce52d3d65fe9cb643df.1000x517x1.jpg",
+                "id": 6896512,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Frenetik-bel-encore-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Frenetik-bel-encore-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 25
+                },
+                "release_date_for_display": "June 25, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 25, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d44dda9049c264806dd6786c153fafe6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d44dda9049c264806dd6786c153fafe6.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 5425
+                },
+                "title": "Encore",
+                "title_with_featured": "Encore (Ft.\u00a0Zkr)",
+                "url": "https://genius.com/Frenetik-bel-encore-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/217822",
+                        "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                        "id": 217822,
+                        "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zkr",
+                        "url": "https://genius.com/artists/Zkr",
+                        "iq": 975
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2025407",
+                    "header_image_url": "https://images.genius.com/c467cbcbbdd29350a762da268a8b56a4.960x960x1.jpg",
+                    "id": 2025407,
+                    "image_url": "https://images.genius.com/3383e7315bd185b5d093bb6cf925607f.539x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Frenetik (BEL)",
+                    "url": "https://genius.com/artists/Frenetik-bel",
+                    "iq": 966
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7762499",
+                "artist_names": "Zkr",
+                "full_title": "\u00c9nergie du d\u00e9sespoir by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/fc5f57e0597698a5c6821bebd5aeddff.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fc5f57e0597698a5c6821bebd5aeddff.1000x1000x1.jpg",
+                "id": 7762499,
+                "language": null,
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "unreleased",
+                "path": "/Zkr-energie-du-desespoir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-energie-du-desespoir-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 3
+                },
+                "release_date_for_display": "March 3, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 3, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fc5f57e0597698a5c6821bebd5aeddff.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fc5f57e0597698a5c6821bebd5aeddff.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u00c9nergie du d\u00e9sespoir",
+                "title_with_featured": "\u00c9nergie du d\u00e9sespoir",
+                "url": "https://genius.com/Zkr-energie-du-desespoir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8008676",
+                "artist_names": "Nessbeal (Ft. Zkr)",
+                "full_title": "Exc\u00e8s de vitesse by\u00a0Nessbeal (Ft.\u00a0Zkr)",
+                "header_image_thumbnail_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.322x322x1.jpg",
+                "id": 8008676,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Nessbeal-exces-de-vitesse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nessbeal-exces-de-vitesse-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 14
+                },
+                "release_date_for_display": "May 14, 2022",
+                "release_date_with_abbreviated_month_for_display": "May. 14, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.322x322x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Exc\u00e8s de vitesse",
+                "title_with_featured": "Exc\u00e8s de vitesse (Ft.\u00a0Zkr)",
+                "url": "https://genius.com/Nessbeal-exces-de-vitesse-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/217822",
+                        "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                        "id": 217822,
+                        "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Zkr",
+                        "url": "https://genius.com/artists/Zkr",
+                        "iq": 975
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1508",
+                    "header_image_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.322x322x1.jpg",
+                    "id": 1508,
+                    "image_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.322x322x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nessbeal",
+                    "url": "https://genius.com/artists/Nessbeal"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8736901",
+                "artist_names": "Zkr (Ft. Hamza)",
+                "full_title": "Ferragamo by\u00a0Zkr (Ft.\u00a0Hamza)",
+                "header_image_thumbnail_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.1000x1000x1.jpg",
+                "id": 8736901,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Zkr-ferragamo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-ferragamo-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 1,
+                    "day": 20
+                },
+                "release_date_for_display": "January 20, 2023",
+                "release_date_with_abbreviated_month_for_display": "Jan. 20, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5f3aa2b7524e9ea439c8556ba9b985d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ferragamo",
+                "title_with_featured": "Ferragamo (Ft.\u00a0Hamza)",
+                "url": "https://genius.com/Zkr-ferragamo-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/74111",
+                        "header_image_url": "https://images.genius.com/c9f1bb44e13872a3d948437a3b86e4e9.649x960x1.jpg",
+                        "id": 74111,
+                        "image_url": "https://images.genius.com/4e999f4c4332ed7339dcd3c6a909a0bb.521x521x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hamza",
+                        "url": "https://genius.com/artists/Hamza",
+                        "iq": 521
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7688900",
+                "artist_names": "Zkr",
+                "full_title": "Focus by\u00a0Zkr",
+                "header_image_thumbnail_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.1000x1000x1.png",
+                "id": 7688900,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Zkr-focus-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Zkr-focus-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 21
+                },
+                "release_date_for_display": "February 21, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 21, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c937ab9c023459b2e4b0d9cfc0bebc77.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 13619
+                },
+                "title": "Focus",
+                "title_with_featured": "Focus",
+                "url": "https://genius.com/Zkr-focus-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/217822",
+                    "header_image_url": "https://images.genius.com/93a3963e79ec81ccd647fad2356918cf.1000x562x1.jpg",
+                    "id": 217822,
+                    "image_url": "https://images.genius.com/58a3abdbf5c3e0d35361415d617aac3b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zkr",
+                    "url": "https://genius.com/artists/Zkr",
+                    "iq": 975
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

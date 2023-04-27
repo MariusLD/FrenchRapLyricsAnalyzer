@@ -1,0 +1,355 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 81,
+                "api_path": "/songs/102749",
+                "artist_names": "Lacrim (Ft. Hayce Lemsi, Kalash l'Afro, Kamelenouvo, Le Rat Luciano, Niro, Still Fresh & Wanis)",
+                "full_title": "Wild Boy (Remix) by\u00a0Lacrim (Ft.\u00a0Hayce\u00a0Lemsi, Kalash\u00a0l'Afro, Kamelenouvo, Le\u00a0Rat Luciano, Niro, Still\u00a0Fresh & Wanis)",
+                "header_image_thumbnail_url": "https://images.genius.com/3c9f8cb00fa9c4c881e692d3ca234fd5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3c9f8cb00fa9c4c881e692d3ca234fd5.620x620x1.jpg",
+                "id": 102749,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Lacrim-wild-boy-remix-lyrics",
+                "pyongs_count": 21,
+                "relationships_index_url": "https://genius.com/Lacrim-wild-boy-remix-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 12,
+                    "day": 17
+                },
+                "release_date_for_display": "December 17, 2012",
+                "release_date_with_abbreviated_month_for_display": "Dec. 17, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3c9f8cb00fa9c4c881e692d3ca234fd5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3c9f8cb00fa9c4c881e692d3ca234fd5.620x620x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 40,
+                    "hot": false,
+                    "pageviews": 211540
+                },
+                "title": "Wild Boy (Remix)",
+                "title_with_featured": "Wild Boy (Remix) (Ft.\u00a0Hayce\u00a0Lemsi, Kalash\u00a0l'Afro, Kamelenouvo, Le\u00a0Rat Luciano, Niro, Still\u00a0Fresh & Wanis)",
+                "url": "https://genius.com/Lacrim-wild-boy-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/32730",
+                        "header_image_url": "https://images.genius.com/fff75766ecd0a0f1bcf59ed9e69b280a.250x250x1.png",
+                        "id": 32730,
+                        "image_url": "https://images.genius.com/fff75766ecd0a0f1bcf59ed9e69b280a.250x250x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kamelenouvo",
+                        "url": "https://genius.com/artists/Kamelenouvo"
+                    },
+                    {
+                        "api_path": "/artists/31625",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 31625,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wanis",
+                        "url": "https://genius.com/artists/Wanis"
+                    },
+                    {
+                        "api_path": "/artists/20065",
+                        "header_image_url": "https://images.genius.com/c4f5394b0e2986e6cbc3d3df6cd5d2f0.667x1000x1.jpg",
+                        "id": 20065,
+                        "image_url": "https://images.genius.com/fc3c5ac207b810bbfabe4cace34bc549.480x480x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hayce Lemsi",
+                        "url": "https://genius.com/artists/Hayce-lemsi",
+                        "iq": 2330
+                    },
+                    {
+                        "api_path": "/artists/18874",
+                        "header_image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "id": 18874,
+                        "image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalash l\u2019Afro",
+                        "url": "https://genius.com/artists/Kalash-lafro"
+                    },
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    },
+                    {
+                        "api_path": "/artists/14724",
+                        "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "id": 14724,
+                        "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niro",
+                        "url": "https://genius.com/artists/Niro",
+                        "iq": 3778
+                    },
+                    {
+                        "api_path": "/artists/1964",
+                        "header_image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "id": 1964,
+                        "image_url": "https://images.genius.com/bcbf03bedaa037237f51d89e5e22675c.385x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Le Rat Luciano",
+                        "url": "https://genius.com/artists/Le-rat-luciano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11650",
+                    "header_image_url": "https://images.genius.com/a56bea02c03bf2cdf1312931415097c1.1000x667x1.jpg",
+                    "id": 11650,
+                    "image_url": "https://images.genius.com/c3d2691daa3d67cd58031bc4096496e6.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lacrim",
+                    "url": "https://genius.com/artists/Lacrim"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2347501",
+                "artist_names": "Niro",
+                "full_title": "Y'a Pas D'l\u00e9zard by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.640x640x1.jpg",
+                "id": 2347501,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Niro-ya-pas-dlezard-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Niro-ya-pas-dlezard-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 6
+                },
+                "release_date_for_display": "November 6, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 6, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4f90aa979dba1b04c4a785efe1b29b77.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 15674
+                },
+                "title": "Y\u2019a Pas D\u2019l\u00e9zard",
+                "title_with_featured": "Y'a Pas D'l\u00e9zard",
+                "url": "https://genius.com/Niro-ya-pas-dlezard-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/150917",
+                "artist_names": "Kery James (Ft. Niro)",
+                "full_title": "Y a rien by\u00a0Kery\u00a0James (Ft.\u00a0Niro)",
+                "header_image_thumbnail_url": "https://images.genius.com/2fd1ebe7daa0566a97b4ef76a9411b03.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2fd1ebe7daa0566a97b4ef76a9411b03.620x620x1.jpg",
+                "id": 150917,
+                "language": "fr",
+                "lyrics_owner_id": 183406,
+                "lyrics_state": "complete",
+                "path": "/Kery-james-y-a-rien-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kery-james-y-a-rien-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 5,
+                    "day": 13
+                },
+                "release_date_for_display": "May 13, 2013",
+                "release_date_with_abbreviated_month_for_display": "May. 13, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2fd1ebe7daa0566a97b4ef76a9411b03.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2fd1ebe7daa0566a97b4ef76a9411b03.620x620x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 35956
+                },
+                "title": "Y a rien",
+                "title_with_featured": "Y a rien (Ft.\u00a0Niro)",
+                "url": "https://genius.com/Kery-james-y-a-rien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14724",
+                        "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "id": 14724,
+                        "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niro",
+                        "url": "https://genius.com/artists/Niro",
+                        "iq": 3778
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1273",
+                    "header_image_url": "https://images.genius.com/b3e3e1d25f67b271355a4e68bc7b7abf.1000x667x1.jpg",
+                    "id": 1273,
+                    "image_url": "https://images.genius.com/74cf66f613495ab9c902d97245e180d9.588x588x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kery James",
+                    "url": "https://genius.com/artists/Kery-james",
+                    "iq": 2728
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5747245",
+                "artist_names": "Bracash",
+                "full_title": "Ya rien de marrant by\u00a0Bracash",
+                "header_image_thumbnail_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.1000x1000x1.jpg",
+                "id": 5747245,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bracash-ya-rien-de-marrant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bracash-ya-rien-de-marrant-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 9
+                },
+                "release_date_for_display": "July 9, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 9, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ya rien de marrant",
+                "title_with_featured": "Ya rien de marrant",
+                "url": "https://genius.com/Bracash-ya-rien-de-marrant-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2297226",
+                    "header_image_url": "https://images.genius.com/6a04a1987341a860082c5ed69f0563fb.400x400x1.jpg",
+                    "id": 2297226,
+                    "image_url": "https://images.genius.com/6a04a1987341a860082c5ed69f0563fb.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bracash",
+                    "url": "https://genius.com/artists/Bracash"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5707263",
+                "artist_names": "Bracash",
+                "full_title": "Yes BB by\u00a0Bracash",
+                "header_image_thumbnail_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.1000x1000x1.jpg",
+                "id": 5707263,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Bracash-yes-bb-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bracash-yes-bb-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 9
+                },
+                "release_date_for_display": "July 9, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 9, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef01135710ac8af28cf41884bdff0928.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Yes BB",
+                "title_with_featured": "Yes BB",
+                "url": "https://genius.com/Bracash-yes-bb-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2297226",
+                    "header_image_url": "https://images.genius.com/6a04a1987341a860082c5ed69f0563fb.400x400x1.jpg",
+                    "id": 2297226,
+                    "image_url": "https://images.genius.com/6a04a1987341a860082c5ed69f0563fb.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bracash",
+                    "url": "https://genius.com/artists/Bracash"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4935283",
+                "artist_names": "Niro",
+                "full_title": "Yomb de toi by\u00a0Niro",
+                "header_image_thumbnail_url": "https://images.genius.com/da26f656c86d8f7ec1c4f277a6beb79f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/da26f656c86d8f7ec1c4f277a6beb79f.1000x1000x1.jpg",
+                "id": 4935283,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Niro-yomb-de-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Niro-yomb-de-toi-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/da26f656c86d8f7ec1c4f277a6beb79f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/da26f656c86d8f7ec1c4f277a6beb79f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 23977
+                },
+                "title": "Yomb de toi",
+                "title_with_featured": "Yomb de toi",
+                "url": "https://genius.com/Niro-yomb-de-toi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/14724",
+                    "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "id": 14724,
+                    "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Niro",
+                    "url": "https://genius.com/artists/Niro",
+                    "iq": 3778
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

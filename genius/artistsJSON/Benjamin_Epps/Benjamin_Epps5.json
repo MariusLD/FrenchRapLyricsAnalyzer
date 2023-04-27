@@ -1,0 +1,575 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/7051877",
+                "artist_names": "Sam's (Ft. Benjamin Epps)",
+                "full_title": "T\u2019as pas la r\u00e9f by\u00a0Sam's (Ft.\u00a0Benjamin\u00a0Epps)",
+                "header_image_thumbnail_url": "https://images.genius.com/adedaf00882dd3c72e738310a781b83f.300x171x1.jpg",
+                "header_image_url": "https://images.genius.com/adedaf00882dd3c72e738310a781b83f.1000x570x1.jpg",
+                "id": 7051877,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Sams-tas-pas-la-ref-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sams-tas-pas-la-ref-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 30
+                },
+                "release_date_for_display": "July 30, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 30, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f13a64dcfebe48372d0e875736f2ed5b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f13a64dcfebe48372d0e875736f2ed5b.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "T\u2019as pas la r\u00e9f",
+                "title_with_featured": "T\u2019as pas la r\u00e9f (Ft.\u00a0Benjamin\u00a0Epps)",
+                "url": "https://genius.com/Sams-tas-pas-la-ref-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11854",
+                    "header_image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                    "id": 11854,
+                    "image_url": "https://images.genius.com/a1b55055901632066b8cd1312d2a8ed8.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sam\u2019s",
+                    "url": "https://genius.com/artists/Sams",
+                    "iq": 862
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8131751",
+                "artist_names": "Di-Meh (Ft. Benjamin Epps)",
+                "full_title": "Top Tweet by\u00a0Di-Meh (Ft.\u00a0Benjamin\u00a0Epps)",
+                "header_image_thumbnail_url": "https://images.genius.com/9903df00be64be2e42235ae4c75653b9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9903df00be64be2e42235ae4c75653b9.1000x1000x1.jpg",
+                "id": 8131751,
+                "language": "fr",
+                "lyrics_owner_id": 10604024,
+                "lyrics_state": "complete",
+                "path": "/Di-meh-top-tweet-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Di-meh-top-tweet-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 30
+                },
+                "release_date_for_display": "June 30, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 30, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9903df00be64be2e42235ae4c75653b9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9903df00be64be2e42235ae4c75653b9.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Top Tweet",
+                "title_with_featured": "Top Tweet (Ft.\u00a0Benjamin\u00a0Epps)",
+                "url": "https://genius.com/Di-meh-top-tweet-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/60891",
+                    "header_image_url": "https://images.genius.com/c9d4f0c0c4b218e3679685874612fb21.1000x563x1.jpg",
+                    "id": 60891,
+                    "image_url": "https://images.genius.com/c618e1678656012159ad761a6872e539.374x374x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Di-Meh",
+                    "url": "https://genius.com/artists/Di-meh"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6701232",
+                "artist_names": "Benjamin Epps",
+                "full_title": "Tous les n\u00e9gros ont le bras long by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/683bb29f9fd684aa7a6584709a36ed0d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/683bb29f9fd684aa7a6584709a36ed0d.600x600x1.jpg",
+                "id": 6701232,
+                "language": "fr",
+                "lyrics_owner_id": 9358040,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-tous-les-negros-ont-le-bras-long-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-tous-les-negros-ont-le-bras-long-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/683bb29f9fd684aa7a6584709a36ed0d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/683bb29f9fd684aa7a6584709a36ed0d.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tous les n\u00e9gros ont le bras long",
+                "title_with_featured": "Tous les n\u00e9gros ont le bras long",
+                "url": "https://genius.com/Benjamin-epps-tous-les-negros-ont-le-bras-long-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/7639878",
+                "artist_names": "Benjamin Epps",
+                "full_title": "TOUT DROIT DE LA BANQUE by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "id": 7639878,
+                "language": "fr",
+                "lyrics_owner_id": 6756009,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-tout-droit-de-la-banque-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-tout-droit-de-la-banque-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 28
+                },
+                "release_date_for_display": "January 28, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "TOUT DROIT DE LA BANQUE",
+                "title_with_featured": "TOUT DROIT DE LA BANQUE",
+                "url": "https://genius.com/Benjamin-epps-tout-droit-de-la-banque-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763410",
+                "artist_names": "Benjamin Epps",
+                "full_title": "Trappeur de l'ann\u00e9e by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.500x500x1.jpg",
+                "id": 6763410,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-trappeur-de-lannee-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-trappeur-de-lannee-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2018",
+                "release_date_with_abbreviated_month_for_display": "2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Trappeur de l\u2019ann\u00e9e",
+                "title_with_featured": "Trappeur de l'ann\u00e9e",
+                "url": "https://genius.com/Benjamin-epps-trappeur-de-lannee-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/8927024",
+                "artist_names": "Benjamin Epps (Ft. Josman)",
+                "full_title": "\u200b\u200b\u200b\u200btr\u00e8s tard le soir by\u00a0Benjamin\u00a0Epps (Ft.\u00a0Josman)",
+                "header_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "id": 8927024,
+                "language": "fr",
+                "lyrics_owner_id": 4080399,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-tres-tard-le-soir-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-tres-tard-le-soir-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "\u200b\u200b\u200b\u200btr\u00e8s tard le soir",
+                "title_with_featured": "\u200b\u200b\u200b\u200btr\u00e8s tard le soir (Ft.\u00a0Josman)",
+                "url": "https://genius.com/Benjamin-epps-tres-tard-le-soir-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/153477",
+                        "header_image_url": "https://images.genius.com/b9fd5f3d0919454fe3ebd3fc659772ed.720x960x1.jpg",
+                        "id": 153477,
+                        "image_url": "https://images.genius.com/21b73238cc2ca15bc233ad31b3873792.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Josman",
+                        "url": "https://genius.com/artists/Josman",
+                        "iq": 893
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7771439",
+                "artist_names": "Ron Brice (Ft. Benjamin Epps)",
+                "full_title": "Tyrone by\u00a0Ron\u00a0Brice (Ft.\u00a0Benjamin\u00a0Epps)",
+                "header_image_thumbnail_url": "https://images.genius.com/170531100e8a706f1144332618f5e3d0.300x300x1.png",
+                "header_image_url": "https://images.genius.com/170531100e8a706f1144332618f5e3d0.1000x1000x1.png",
+                "id": 7771439,
+                "language": null,
+                "lyrics_owner_id": 4018686,
+                "lyrics_state": "unreleased",
+                "path": "/Ron-brice-tyrone-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ron-brice-tyrone-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/170531100e8a706f1144332618f5e3d0.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/170531100e8a706f1144332618f5e3d0.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tyrone",
+                "title_with_featured": "Tyrone (Ft.\u00a0Benjamin\u00a0Epps)",
+                "url": "https://genius.com/Ron-brice-tyrone-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/194339",
+                    "header_image_url": "https://images.genius.com/310a7cfe7805de9dc9f421ef645916ed.1000x563x1.jpg",
+                    "id": 194339,
+                    "image_url": "https://images.genius.com/a4683e8ae09a2963b585d0e336cde69b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ron Brice",
+                    "url": "https://genius.com/artists/Ron-brice"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763412",
+                "artist_names": "Benjamin Epps",
+                "full_title": "VDM by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.500x500x1.jpg",
+                "id": 6763412,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-vdm-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-vdm-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2018",
+                "release_date_with_abbreviated_month_for_display": "2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/14a28ce91792a77917017d0aedcb06b2.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "VDM",
+                "title_with_featured": "VDM",
+                "url": "https://genius.com/Benjamin-epps-vdm-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8923432",
+                "artist_names": "Benjamin Epps",
+                "full_title": "\u200b\u200b\u200b\u200bvivre by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "id": 8923432,
+                "language": "fr",
+                "lyrics_owner_id": 6331641,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-vivre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-vivre-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 3,
+                    "day": 17
+                },
+                "release_date_for_display": "March 17, 2023",
+                "release_date_with_abbreviated_month_for_display": "Mar. 17, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u200b\u200b\u200b\u200bvivre",
+                "title_with_featured": "\u200b\u200b\u200b\u200bvivre",
+                "url": "https://genius.com/Benjamin-epps-vivre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/7639881",
+                "artist_names": "Benjamin Epps",
+                "full_title": "VOUS N'\u00caTES PAS CONTENTS ? C'EST PAREIL by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "id": 7639881,
+                "language": "fr",
+                "lyrics_owner_id": 4509724,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-vous-netes-pas-contents-cest-pareil-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-vous-netes-pas-contents-cest-pareil-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 28
+                },
+                "release_date_for_display": "January 28, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 10187
+                },
+                "title": "VOUS N\u2019\u00caTES PAS CONTENTS ? C\u2019EST PAREIL",
+                "title_with_featured": "VOUS N'\u00caTES PAS CONTENTS ? C'EST PAREIL",
+                "url": "https://genius.com/Benjamin-epps-vous-netes-pas-contents-cest-pareil-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/6965606",
+                "artist_names": "Dinos (Ft. Benjamin Epps)",
+                "full_title": "Walther PP by\u00a0Dinos (Ft.\u00a0Benjamin\u00a0Epps)",
+                "header_image_thumbnail_url": "https://images.genius.com/dac8180a7d6a835fcad0576434d02337.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dac8180a7d6a835fcad0576434d02337.1000x1000x1.jpg",
+                "id": 6965606,
+                "language": "en",
+                "lyrics_owner_id": 498964,
+                "lyrics_state": "complete",
+                "path": "/Dinos-walther-pp-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Dinos-walther-pp-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 2
+                },
+                "release_date_for_display": "July 2, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 2, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dac8180a7d6a835fcad0576434d02337.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dac8180a7d6a835fcad0576434d02337.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 18862
+                },
+                "title": "Walther PP",
+                "title_with_featured": "Walther PP (Ft.\u00a0Benjamin\u00a0Epps)",
+                "url": "https://genius.com/Dinos-walther-pp-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/6882011",
+                "artist_names": "Benjamin Epps",
+                "full_title": "Zidane en 2006 by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/87b8cbaa184d7d471b63452c532bd0f7.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/87b8cbaa184d7d471b63452c532bd0f7.1000x563x1.jpg",
+                "id": 6882011,
+                "language": "fr",
+                "lyrics_owner_id": 13807929,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-zidane-en-2006-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-zidane-en-2006-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 4
+                },
+                "release_date_for_display": "June 4, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 4, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cd2ea63f2a7e2840e4d9d38d4f5280eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cd2ea63f2a7e2840e4d9d38d4f5280eb.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 5815
+                },
+                "title": "Zidane en 2006",
+                "title_with_featured": "Zidane en 2006",
+                "url": "https://genius.com/Benjamin-epps-zidane-en-2006-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

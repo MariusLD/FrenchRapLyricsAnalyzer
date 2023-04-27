@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3708614",
+                "artist_names": "KIKESA",
+                "full_title": "Woody (Bonus Track) by\u00a0KIKESA",
+                "header_image_thumbnail_url": "https://images.genius.com/b57a9c23461569f1353fd46abfa2bc38.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b57a9c23461569f1353fd46abfa2bc38.1000x1000x1.jpg",
+                "id": 3708614,
+                "language": "fr",
+                "lyrics_owner_id": 6209537,
+                "lyrics_state": "complete",
+                "path": "/Kikesa-woody-bonus-track-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kikesa-woody-bonus-track-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 18
+                },
+                "release_date_for_display": "May 18, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 18, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b57a9c23461569f1353fd46abfa2bc38.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b57a9c23461569f1353fd46abfa2bc38.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Woody (Bonus Track)",
+                "title_with_featured": "Woody (Bonus Track)",
+                "url": "https://genius.com/Kikesa-woody-bonus-track-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/104281",
+                    "header_image_url": "https://images.genius.com/3b4d6b702cd06a635f416899084893e0.960x960x1.jpg",
+                    "id": 104281,
+                    "image_url": "https://images.genius.com/3938b43368f4fabbf2537f13ab1e01e0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KIKESA",
+                    "url": "https://genius.com/artists/Kikesa"
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

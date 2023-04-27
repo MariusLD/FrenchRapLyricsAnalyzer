@@ -1,0 +1,1155 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4169856",
+                "artist_names": "Benab (Ft. Sadek)",
+                "full_title": "Dis-moi by\u00a0Benab (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/473705ec303fbabad6c24edfae82f018.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/473705ec303fbabad6c24edfae82f018.1000x517x1.jpg",
+                "id": 4169856,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Benab-dis-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benab-dis-moi-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5a667cd64f92acdea307bd3ff7fc1378.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5a667cd64f92acdea307bd3ff7fc1378.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dis-moi",
+                "title_with_featured": "Dis-moi (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Benab-dis-moi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1472608",
+                    "header_image_url": "https://images.genius.com/ceaff1891861b19ff79de253e45f288f.1000x533x1.jpg",
+                    "id": 1472608,
+                    "image_url": "https://images.genius.com/2af79248d744a939a0240dbd8eac54fd.578x578x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benab",
+                    "url": "https://genius.com/artists/Benab"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4351787",
+                "artist_names": "Moderup (Ft. Sadek)",
+                "full_title": "Don Pietro by\u00a0Moderup (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/f28d9d6b33b2813a986b7004c9b32225.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f28d9d6b33b2813a986b7004c9b32225.500x500x1.jpg",
+                "id": 4351787,
+                "language": "it",
+                "lyrics_owner_id": 6303982,
+                "lyrics_state": "complete",
+                "path": "/Moderup-don-pietro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Moderup-don-pietro-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 18
+                },
+                "release_date_for_display": "May 18, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 18, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f28d9d6b33b2813a986b7004c9b32225.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f28d9d6b33b2813a986b7004c9b32225.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Don Pietro",
+                "title_with_featured": "Don Pietro (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Moderup-don-pietro-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1013006",
+                    "header_image_url": "https://images.genius.com/ee395ea7335afcc9fc03903f9ac70bd7.768x768x1.jpg",
+                    "id": 1013006,
+                    "image_url": "https://images.genius.com/ee395ea7335afcc9fc03903f9ac70bd7.768x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Moderup",
+                    "url": "https://genius.com/artists/Moderup"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/3972581",
+                "artist_names": "Sadek (Ft. Dinos & Ixzo)",
+                "full_title": "Drive By by\u00a0Sadek (Ft.\u00a0Dinos & Ixzo)",
+                "header_image_thumbnail_url": "https://images.genius.com/31a3e6228d20318ced2982cb0e383a84.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/31a3e6228d20318ced2982cb0e383a84.1000x1000x1.jpg",
+                "id": 3972581,
+                "language": "fr",
+                "lyrics_owner_id": 1648570,
+                "lyrics_state": "complete",
+                "path": "/Sadek-drive-by-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sadek-drive-by-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/31a3e6228d20318ced2982cb0e383a84.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/31a3e6228d20318ced2982cb0e383a84.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 16332
+                },
+                "title": "Drive By",
+                "title_with_featured": "Drive By (Ft.\u00a0Dinos & Ixzo)",
+                "url": "https://genius.com/Sadek-drive-by-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/136219",
+                        "header_image_url": "https://images.genius.com/d47edf7d8e5273cbfdf9140cb524f3f0.889x888x1.jpg",
+                        "id": 136219,
+                        "image_url": "https://images.genius.com/3be66af80779bfddc18ceb48aae639fe.897x897x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ixzo",
+                        "url": "https://genius.com/artists/Ixzo",
+                        "iq": 423
+                    },
+                    {
+                        "api_path": "/artists/14806",
+                        "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                        "id": 14806,
+                        "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dinos",
+                        "url": "https://genius.com/artists/Dinos",
+                        "iq": 791
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 35,
+                "api_path": "/songs/68597",
+                "artist_names": "Sadek",
+                "full_title": "Du sale by\u00a0Sadek",
+                "header_image_thumbnail_url": "https://images.genius.com/06d8a1738b2e388e36dacd81b5b2fa8a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/06d8a1738b2e388e36dacd81b5b2fa8a.330x330x1.jpg",
+                "id": 68597,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Sadek-du-sale-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-du-sale-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 19
+                },
+                "release_date_for_display": "March 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/06d8a1738b2e388e36dacd81b5b2fa8a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/06d8a1738b2e388e36dacd81b5b2fa8a.330x330x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false,
+                    "pageviews": 7104
+                },
+                "title": "Du sale",
+                "title_with_featured": "Du sale",
+                "url": "https://genius.com/Sadek-du-sale-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/244749",
+                "artist_names": "Rim'K (Ft. AP du 113, Caprice, Sadek & S.Pri Noir)",
+                "full_title": "Easy life by\u00a0Rim'K (Ft.\u00a0AP\u00a0du 113, Caprice, Sadek & S.Pri\u00a0Noir)",
+                "header_image_thumbnail_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.480x480x1.jpg",
+                "id": 244749,
+                "language": "fr",
+                "lyrics_owner_id": 166925,
+                "lyrics_state": "complete",
+                "path": "/Rimk-easy-life-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rimk-easy-life-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c36bb0ae9792f52602828fdff85e137a.480x480x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Easy life",
+                "title_with_featured": "Easy life (Ft.\u00a0AP\u00a0du 113, Caprice, Sadek & S.Pri\u00a0Noir)",
+                "url": "https://genius.com/Rimk-easy-life-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18839",
+                        "header_image_url": "https://images.genius.com/42aa188e7aa0b83df168c4863442502a.320x320x1.jpg",
+                        "id": 18839,
+                        "image_url": "https://images.genius.com/b83b8abbfe34c6b91328a01299d136d0.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Caprice",
+                        "url": "https://genius.com/artists/Caprice"
+                    },
+                    {
+                        "api_path": "/artists/15330",
+                        "header_image_url": "https://images.genius.com/e1432bdc4df88acca50787e763db5f3f.960x960x1.jpg",
+                        "id": 15330,
+                        "image_url": "https://images.genius.com/452fb5bb6afafde9816034c109741a0d.410x410x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "S.Pri Noir",
+                        "url": "https://genius.com/artists/Spri-noir",
+                        "iq": 3475
+                    },
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    },
+                    {
+                        "api_path": "/artists/4893",
+                        "header_image_url": "https://images.genius.com/03af42a5c9725b0f9baca4e47d02da4a.800x1000x1.jpg",
+                        "id": 4893,
+                        "image_url": "https://images.genius.com/03af42a5c9725b0f9baca4e47d02da4a.800x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "AP du 113",
+                        "url": "https://genius.com/artists/Ap-du-113"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2455",
+                    "header_image_url": "https://images.genius.com/58fd31f99d79144a99d186dedf9d60b6.1000x563x1.png",
+                    "id": 2455,
+                    "image_url": "https://images.genius.com/b1b7d2ed16a7de57e9af693f956c3329.502x502x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rim\u2019K",
+                    "url": "https://genius.com/artists/Rimk",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7187733",
+                "artist_names": "Sadek",
+                "full_title": "Elie-Zabeth by\u00a0Sadek",
+                "header_image_thumbnail_url": "https://images.genius.com/fd2881fb34d4b4e930174063d311cf38.300x290x1.jpg",
+                "header_image_url": "https://images.genius.com/fd2881fb34d4b4e930174063d311cf38.750x725x1.jpg",
+                "id": 7187733,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Sadek-elie-zabeth-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-elie-zabeth-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2021",
+                "release_date_with_abbreviated_month_for_display": "2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fd2881fb34d4b4e930174063d311cf38.300x290x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fd2881fb34d4b4e930174063d311cf38.750x725x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Elie-Zabeth",
+                "title_with_featured": "Elie-Zabeth",
+                "url": "https://genius.com/Sadek-elie-zabeth-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5237152",
+                "artist_names": "CG6 (Ft. Sadek)",
+                "full_title": "Elle sert \u00e0 tchi by\u00a0CG6 (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/20d58a137b67d39dea31654135dd9ce6.300x300x1.png",
+                "header_image_url": "https://images.genius.com/20d58a137b67d39dea31654135dd9ce6.1000x1000x1.png",
+                "id": 5237152,
+                "language": "fr",
+                "lyrics_owner_id": 6349194,
+                "lyrics_state": "complete",
+                "path": "/Cg6-elle-sert-a-tchi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Cg6-elle-sert-a-tchi-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 6
+                },
+                "release_date_for_display": "March 6, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 6, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/20d58a137b67d39dea31654135dd9ce6.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/20d58a137b67d39dea31654135dd9ce6.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Elle sert \u00e0 tchi",
+                "title_with_featured": "Elle sert \u00e0 tchi (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Cg6-elle-sert-a-tchi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1296565",
+                    "header_image_url": "https://images.genius.com/f4763b083cd46381940703c6df142b2f.1000x372x1.jpg",
+                    "id": 1296565,
+                    "image_url": "https://images.genius.com/f8cec41be1594db214c92c0b93971cbe.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CG6",
+                    "url": "https://genius.com/artists/Cg6"
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/3972554",
+                "artist_names": "Sofiane (Ft. Kaaris)",
+                "full_title": "Empire by\u00a0Sofiane (Ft.\u00a0Kaaris)",
+                "header_image_thumbnail_url": "https://images.genius.com/0acf8a60c20c9c20d899798e99896ffc.300x200x1.jpg",
+                "header_image_url": "https://images.genius.com/0acf8a60c20c9c20d899798e99896ffc.1000x667x1.jpg",
+                "id": 3972554,
+                "language": "fr",
+                "lyrics_owner_id": 1648570,
+                "lyrics_state": "complete",
+                "path": "/Sofiane-empire-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Sofiane-empire-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a0749b5fab474051fe8305d65f9aed47.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a0749b5fab474051fe8305d65f9aed47.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 16,
+                    "hot": false,
+                    "pageviews": 52127
+                },
+                "title": "Empire",
+                "title_with_featured": "Empire (Ft.\u00a0Kaaris)",
+                "url": "https://genius.com/Sofiane-empire-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14693",
+                        "header_image_url": "https://images.genius.com/0578a1132a1d2a59b6d0c7063ea04d07.1000x667x1.jpg",
+                        "id": 14693,
+                        "image_url": "https://images.genius.com/1cf5290934c6141ef77eadde60b1d269.301x301x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaaris",
+                        "url": "https://genius.com/artists/Kaaris",
+                        "iq": 2373
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12085",
+                    "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                    "id": 12085,
+                    "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sofiane",
+                    "url": "https://genius.com/artists/Sofiane",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/3952832",
+                "artist_names": "Sadek (Ft. Sofiane)",
+                "full_title": "Encore by\u00a0Sadek (Ft.\u00a0Sofiane)",
+                "header_image_thumbnail_url": "https://images.genius.com/af5297b8eda84cf1b0d989680e00b2db.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/af5297b8eda84cf1b0d989680e00b2db.649x350x1.jpg",
+                "id": 3952832,
+                "language": "fr",
+                "lyrics_owner_id": 3020704,
+                "lyrics_state": "complete",
+                "path": "/Sadek-encore-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-encore-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 28
+                },
+                "release_date_for_display": "September 28, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 28, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf1981283b0ac167b4e88c5af01d59ab.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf1981283b0ac167b4e88c5af01d59ab.460x460x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 9122
+                },
+                "title": "Encore",
+                "title_with_featured": "Encore (Ft.\u00a0Sofiane)",
+                "url": "https://genius.com/Sadek-encore-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12085",
+                        "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                        "id": 12085,
+                        "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sofiane",
+                        "url": "https://genius.com/artists/Sofiane",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3952834",
+                "artist_names": "Sadek",
+                "full_title": "En l'air by\u00a0Sadek",
+                "header_image_thumbnail_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.1000x1000x1.jpg",
+                "id": 3952834,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Sadek-en-lair-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-en-lair-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 28
+                },
+                "release_date_for_display": "September 28, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 28, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "En l\u2019air",
+                "title_with_featured": "En l'air",
+                "url": "https://genius.com/Sadek-en-lair-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3144887",
+                "artist_names": "Sadek (Ft. Niska)",
+                "full_title": "En leuleu by\u00a0Sadek (Ft.\u00a0Niska)",
+                "header_image_thumbnail_url": "https://images.genius.com/3ddb3659f3341cf0c55e2df5378502e6.300x113x1.jpg",
+                "header_image_url": "https://images.genius.com/3ddb3659f3341cf0c55e2df5378502e6.1000x375x1.jpg",
+                "id": 3144887,
+                "language": "fr",
+                "lyrics_owner_id": 1909845,
+                "lyrics_state": "complete",
+                "path": "/Sadek-en-leuleu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-en-leuleu-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 7,
+                    "day": 5
+                },
+                "release_date_for_display": "July 5, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jul. 5, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9d2d80123541638d0384330fce21118c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9d2d80123541638d0384330fce21118c.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 37300
+                },
+                "title": "En leuleu",
+                "title_with_featured": "En leuleu (Ft.\u00a0Niska)",
+                "url": "https://genius.com/Sadek-en-leuleu-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/234413",
+                        "header_image_url": "https://images.genius.com/d0a3b9c30cc5539f50743cc806907492.1000x568x1.jpg",
+                        "id": 234413,
+                        "image_url": "https://images.genius.com/691fb1661dadafe90e6dd457cb02fdbb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niska",
+                        "url": "https://genius.com/artists/Niska",
+                        "iq": 2319
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7226534",
+                "artist_names": "Earvinho (Ft. Sadek)",
+                "full_title": "En m\u00eame temps by\u00a0Earvinho (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/05fa14dfcee77ba7c37c6e36490f9d8b.300x300x1.png",
+                "header_image_url": "https://images.genius.com/05fa14dfcee77ba7c37c6e36490f9d8b.493x493x1.png",
+                "id": 7226534,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/Earvinho-en-meme-temps-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Earvinho-en-meme-temps-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 12,
+                    "day": 3
+                },
+                "release_date_for_display": "December 3, 2021",
+                "release_date_with_abbreviated_month_for_display": "Dec. 3, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/05fa14dfcee77ba7c37c6e36490f9d8b.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/05fa14dfcee77ba7c37c6e36490f9d8b.493x493x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "En m\u00eame temps",
+                "title_with_featured": "En m\u00eame temps (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Earvinho-en-meme-temps-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1430946",
+                    "header_image_url": "https://images.genius.com/ccad347c50e24e6fd1a96b2775a201cd.1000x1000x1.jpg",
+                    "id": 1430946,
+                    "image_url": "https://images.genius.com/ccad347c50e24e6fd1a96b2775a201cd.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Earvinho",
+                    "url": "https://genius.com/artists/Earvinho"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/2817596",
+                "artist_names": "Sadek",
+                "full_title": "Entr\u00e9e - Intro by\u00a0Sadek",
+                "header_image_thumbnail_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.300x299x1.png",
+                "header_image_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.601x598x1.png",
+                "id": 2817596,
+                "language": "fr",
+                "lyrics_owner_id": 1764585,
+                "lyrics_state": "complete",
+                "path": "/Sadek-entree-intro-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Sadek-entree-intro-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 7,
+                    "day": 8
+                },
+                "release_date_for_display": "July 8, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jul. 8, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/d7eb1fe785c67ba63c1f5e47944d50bf.601x598x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 14081
+                },
+                "title": "Entr\u00e9e - Intro",
+                "title_with_featured": "Entr\u00e9e - Intro",
+                "url": "https://genius.com/Sadek-entree-intro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 65,
+                "api_path": "/songs/204516",
+                "artist_names": "Fababy (Ft. Hayce Lemsi, La Fouine, Sadek, S.Pri Noir, Still Fresh & Sultan)",
+                "full_title": "Envoie les billets by\u00a0Fababy (Ft.\u00a0Hayce\u00a0Lemsi, La\u00a0Fouine, Sadek, S.Pri\u00a0Noir, Still\u00a0Fresh & Sultan)",
+                "header_image_thumbnail_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.600x600x1.jpg",
+                "id": 204516,
+                "language": "fr",
+                "lyrics_owner_id": 204853,
+                "lyrics_state": "complete",
+                "path": "/Fababy-envoie-les-billets-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fababy-envoie-les-billets-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2013",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e62cb24d3134afcadf5372afa3f00805.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 41,
+                    "hot": false,
+                    "pageviews": 28483
+                },
+                "title": "Envoie les billets",
+                "title_with_featured": "Envoie les billets (Ft.\u00a0Hayce\u00a0Lemsi, La\u00a0Fouine, Sadek, S.Pri\u00a0Noir, Still\u00a0Fresh & Sultan)",
+                "url": "https://genius.com/Fababy-envoie-les-billets-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20065",
+                        "header_image_url": "https://images.genius.com/c4f5394b0e2986e6cbc3d3df6cd5d2f0.667x1000x1.jpg",
+                        "id": 20065,
+                        "image_url": "https://images.genius.com/fc3c5ac207b810bbfabe4cace34bc549.480x480x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Hayce Lemsi",
+                        "url": "https://genius.com/artists/Hayce-lemsi",
+                        "iq": 2330
+                    },
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    },
+                    {
+                        "api_path": "/artists/15330",
+                        "header_image_url": "https://images.genius.com/e1432bdc4df88acca50787e763db5f3f.960x960x1.jpg",
+                        "id": 15330,
+                        "image_url": "https://images.genius.com/452fb5bb6afafde9816034c109741a0d.410x410x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "S.Pri Noir",
+                        "url": "https://genius.com/artists/Spri-noir",
+                        "iq": 3475
+                    },
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    },
+                    {
+                        "api_path": "/artists/6670",
+                        "header_image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "id": 6670,
+                        "image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sultan",
+                        "url": "https://genius.com/artists/Sultan",
+                        "iq": 2066
+                    },
+                    {
+                        "api_path": "/artists/1303",
+                        "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                        "id": 1303,
+                        "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Fouine",
+                        "url": "https://genius.com/artists/La-fouine"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14336",
+                    "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "id": 14336,
+                    "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Fababy",
+                    "url": "https://genius.com/artists/Fababy",
+                    "iq": 1452
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7137933",
+                "artist_names": "Sadek",
+                "full_title": "E-TORO by\u00a0Sadek",
+                "header_image_thumbnail_url": "https://images.genius.com/4df453f1d28d929d7eb450e54fcc6224.300x300x1.png",
+                "header_image_url": "https://images.genius.com/4df453f1d28d929d7eb450e54fcc6224.483x483x1.png",
+                "id": 7137933,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Sadek-e-toro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-e-toro-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 3
+                },
+                "release_date_for_display": "September 3, 2021",
+                "release_date_with_abbreviated_month_for_display": "Sep. 3, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4df453f1d28d929d7eb450e54fcc6224.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/4df453f1d28d929d7eb450e54fcc6224.483x483x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "E-TORO",
+                "title_with_featured": "E-TORO",
+                "url": "https://genius.com/Sadek-e-toro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4676597",
+                "artist_names": "Dinor Rdt (Ft. Sadek)",
+                "full_title": "Faits divers by\u00a0Dinor\u00a0Rdt (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.1000x1000x1.jpg",
+                "id": 4676597,
+                "language": "fr",
+                "lyrics_owner_id": 6422806,
+                "lyrics_state": "complete",
+                "path": "/Dinor-rdt-faits-divers-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinor-rdt-faits-divers-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/45ed651ef3a770aaaa2ea6c93a1b51f8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Faits divers",
+                "title_with_featured": "Faits divers (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Dinor-rdt-faits-divers-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1675921",
+                    "header_image_url": "https://images.genius.com/66b88dd0af0d2ded2901163624e567e1.595x311x1.png",
+                    "id": 1675921,
+                    "image_url": "https://images.genius.com/f31dcaa2e8f98e0e02809fc5655b2b76.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dinor Rdt",
+                    "url": "https://genius.com/artists/Dinor-rdt"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3561579",
+                "artist_names": "Guy2Bezbar (Ft. Omzo & Sadek)",
+                "full_title": "Ferre Gamo by\u00a0Guy2Bezbar (Ft.\u00a0Omzo & Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/3d149f31631a9b315142601878f8eb96.300x300x1.png",
+                "header_image_url": "https://images.genius.com/3d149f31631a9b315142601878f8eb96.500x500x1.png",
+                "id": 3561579,
+                "language": null,
+                "lyrics_owner_id": 4506357,
+                "lyrics_state": "unreleased",
+                "path": "/Guy2bezbar-ferre-gamo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Guy2bezbar-ferre-gamo-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 4,
+                    "day": 10
+                },
+                "release_date_for_display": "April 10, 2017",
+                "release_date_with_abbreviated_month_for_display": "Apr. 10, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3d149f31631a9b315142601878f8eb96.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/3d149f31631a9b315142601878f8eb96.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ferre Gamo",
+                "title_with_featured": "Ferre Gamo (Ft.\u00a0Omzo & Sadek)",
+                "url": "https://genius.com/Guy2bezbar-ferre-gamo-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    },
+                    {
+                        "api_path": "/artists/993987",
+                        "header_image_url": "https://images.genius.com/859f4881fb575b66e54feb7e55563d69.785x423x1.jpg",
+                        "id": 993987,
+                        "image_url": "https://images.genius.com/a85814c47cf6274c02a10e41dd340f50.724x724x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Omzo",
+                        "url": "https://genius.com/artists/Omzo",
+                        "iq": 339
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/466514",
+                    "header_image_url": "https://images.genius.com/a5a5fc8d17d11778439580f3ee511261.1000x666x1.jpg",
+                    "id": 466514,
+                    "image_url": "https://images.genius.com/265b534a441d3a9f4330f7477334971f.451x451x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Guy2Bezbar",
+                    "url": "https://genius.com/artists/Guy2bezbar"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7103618",
+                "artist_names": "Jack Many (Ft. Sadek)",
+                "full_title": "Fin de journ\u00e9e by\u00a0Jack\u00a0Many (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/42fd4d35d2af3f27c3ec003228469083.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/42fd4d35d2af3f27c3ec003228469083.500x500x1.jpg",
+                "id": 7103618,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Jack-many-fin-de-journee-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Jack-many-fin-de-journee-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 20
+                },
+                "release_date_for_display": "August 20, 2021",
+                "release_date_with_abbreviated_month_for_display": "Aug. 20, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/42fd4d35d2af3f27c3ec003228469083.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/42fd4d35d2af3f27c3ec003228469083.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fin de journ\u00e9e",
+                "title_with_featured": "Fin de journ\u00e9e (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Jack-many-fin-de-journee-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/186865",
+                    "header_image_url": "https://images.genius.com/53623e68c145e2dceeab45e316139b85.266x400x1.jpg",
+                    "id": 186865,
+                    "image_url": "https://images.genius.com/53623e68c145e2dceeab45e316139b85.266x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack Many",
+                    "url": "https://genius.com/artists/Jack-many"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4877556",
+                "artist_names": "Amy (Ft. Sadek)",
+                "full_title": "Fin de partie by\u00a0Amy (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/99e2dbc4179b33a0f5be42d8d902de64.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/99e2dbc4179b33a0f5be42d8d902de64.1000x1000x1.jpg",
+                "id": 4877556,
+                "language": "fr",
+                "lyrics_owner_id": 8887242,
+                "lyrics_state": "complete",
+                "path": "/Amy-fin-de-partie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Amy-fin-de-partie-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2019",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/99e2dbc4179b33a0f5be42d8d902de64.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/99e2dbc4179b33a0f5be42d8d902de64.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fin de partie",
+                "title_with_featured": "Fin de partie (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Amy-fin-de-partie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16981",
+                    "header_image_url": "https://images.genius.com/b6ce185b76322daf2d300e48f1806f25.281x281x1.jpg",
+                    "id": 16981,
+                    "image_url": "https://images.genius.com/b6ce185b76322daf2d300e48f1806f25.281x281x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Amy",
+                    "url": "https://genius.com/artists/Amy"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4854789",
+                "artist_names": "Sazamyzy (Ft. Sadek)",
+                "full_title": "Forcella by\u00a0Sazamyzy (Ft.\u00a0Sadek)",
+                "header_image_thumbnail_url": "https://images.genius.com/e876a62f6a15988f998f2a1da62c5ca1.300x169x1.png",
+                "header_image_url": "https://images.genius.com/e876a62f6a15988f998f2a1da62c5ca1.1000x563x1.png",
+                "id": 4854789,
+                "language": null,
+                "lyrics_owner_id": 3200367,
+                "lyrics_state": "unreleased",
+                "path": "/Sazamyzy-forcella-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sazamyzy-forcella-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2020",
+                "release_date_with_abbreviated_month_for_display": "2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e876a62f6a15988f998f2a1da62c5ca1.300x169x1.png",
+                "song_art_image_url": "https://images.genius.com/e876a62f6a15988f998f2a1da62c5ca1.1000x563x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Forcella",
+                "title_with_featured": "Forcella (Ft.\u00a0Sadek)",
+                "url": "https://genius.com/Sazamyzy-forcella-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/183038",
+                    "header_image_url": "https://images.genius.com/22e0b18bbc4a199f20e585a3be3d63a7.1000x563x1.jpg",
+                    "id": 183038,
+                    "image_url": "https://images.genius.com/e876a62f6a15988f998f2a1da62c5ca1.1000x563x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sazamyzy",
+                    "url": "https://genius.com/artists/Sazamyzy"
+                }
+            }
+        ],
+        "next_page": 6
+    }
+}

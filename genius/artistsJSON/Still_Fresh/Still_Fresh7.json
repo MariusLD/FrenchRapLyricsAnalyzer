@@ -1,0 +1,1139 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8120323",
+                "artist_names": "Still Fresh",
+                "full_title": "NO PAIN by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.1000x1000x1.jpg",
+                "id": 8120323,
+                "language": null,
+                "lyrics_owner_id": 16171941,
+                "lyrics_state": "incomplete",
+                "path": "/Still-fresh-no-pain-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-no-pain-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 17
+                },
+                "release_date_for_display": "June 17, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 17, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "NO PAIN",
+                "title_with_featured": "NO PAIN",
+                "url": "https://genius.com/Still-fresh-no-pain-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5656542",
+                "artist_names": "N\u2019Dal (Ft. Gr\u00f6dash, Reeno & Still Fresh)",
+                "full_title": "Nostalgie des blocs by\u00a0N\u2019Dal (Ft.\u00a0Gr\u00f6dash, Reeno & Still\u00a0Fresh)",
+                "header_image_thumbnail_url": "https://images.genius.com/fcaca9f80a5084f9e028aeffee02a086.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fcaca9f80a5084f9e028aeffee02a086.640x640x1.jpg",
+                "id": 5656542,
+                "language": null,
+                "lyrics_owner_id": 7463941,
+                "lyrics_state": "incomplete",
+                "path": "/Ndal-nostalgie-des-blocs-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ndal-nostalgie-des-blocs-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 4,
+                    "day": 19
+                },
+                "release_date_for_display": "April 19, 2010",
+                "release_date_with_abbreviated_month_for_display": "Apr. 19, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fcaca9f80a5084f9e028aeffee02a086.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fcaca9f80a5084f9e028aeffee02a086.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nostalgie des blocs",
+                "title_with_featured": "Nostalgie des blocs (Ft.\u00a0Gr\u00f6dash, Reeno & Still\u00a0Fresh)",
+                "url": "https://genius.com/Ndal-nostalgie-des-blocs-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    },
+                    {
+                        "api_path": "/artists/20848",
+                        "header_image_url": "https://images.genius.com/d66ee27f6b2655b0f716f01ca3f89b6c.480x480x1.jpg",
+                        "id": 20848,
+                        "image_url": "https://images.genius.com/d66ee27f6b2655b0f716f01ca3f89b6c.480x480x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Reeno",
+                        "url": "https://genius.com/artists/Reeno"
+                    },
+                    {
+                        "api_path": "/artists/15227",
+                        "header_image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "id": 15227,
+                        "image_url": "https://images.genius.com/94c87bcac3090c834f01e5337e25060a.957x957x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gr\u00f6dash",
+                        "url": "https://genius.com/artists/Grodash"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/54947",
+                    "header_image_url": "https://images.genius.com/9a89307fe3c7f08774615b473b27c85f.399x399x1.jpg",
+                    "id": 54947,
+                    "image_url": "https://images.genius.com/9a89307fe3c7f08774615b473b27c85f.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "N\u2019Dal",
+                    "url": "https://genius.com/artists/Ndal"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8322127",
+                "artist_names": "Still Fresh (Ft. Sir Cass & S.Pri Noir)",
+                "full_title": "Nouvelle \u00e9cole by\u00a0Still\u00a0Fresh (Ft.\u00a0Sir\u00a0Cass & S.Pri\u00a0Noir)",
+                "header_image_thumbnail_url": "https://images.genius.com/1d49f86518ac77048501fcee88c81de8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d49f86518ac77048501fcee88c81de8.600x600x1.jpg",
+                "id": 8322127,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-nouvelle-ecole-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-nouvelle-ecole-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 9,
+                    "day": 18
+                },
+                "release_date_for_display": "September 18, 2010",
+                "release_date_with_abbreviated_month_for_display": "Sep. 18, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d49f86518ac77048501fcee88c81de8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d49f86518ac77048501fcee88c81de8.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Nouvelle \u00e9cole",
+                "title_with_featured": "Nouvelle \u00e9cole (Ft.\u00a0Sir\u00a0Cass & S.Pri\u00a0Noir)",
+                "url": "https://genius.com/Still-fresh-nouvelle-ecole-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/85031",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 85031,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sir Cass",
+                        "url": "https://genius.com/artists/Sir-cass"
+                    },
+                    {
+                        "api_path": "/artists/15330",
+                        "header_image_url": "https://images.genius.com/e1432bdc4df88acca50787e763db5f3f.960x960x1.jpg",
+                        "id": 15330,
+                        "image_url": "https://images.genius.com/452fb5bb6afafde9816034c109741a0d.410x410x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "S.Pri Noir",
+                        "url": "https://genius.com/artists/Spri-noir",
+                        "iq": 3475
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/200661",
+                "artist_names": "Still Fresh",
+                "full_title": "Observe by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/e2b1f0832bb389abb79b4ecd9afd26e7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e2b1f0832bb389abb79b4ecd9afd26e7.500x500x1.jpg",
+                "id": 200661,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-observe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-observe-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 9,
+                    "day": 2
+                },
+                "release_date_for_display": "September 2, 2013",
+                "release_date_with_abbreviated_month_for_display": "Sep. 2, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e2b1f0832bb389abb79b4ecd9afd26e7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e2b1f0832bb389abb79b4ecd9afd26e7.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Observe",
+                "title_with_featured": "Observe",
+                "url": "https://genius.com/Still-fresh-observe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/234946",
+                "artist_names": "S.Pri Noir (Ft. Adr (FRA), Lgo, So MC, Still Fresh & Wanted (FRA))",
+                "full_title": "#OnBosse by\u00a0S.Pri\u00a0Noir (Ft.\u00a0Adr\u00a0(FRA), Lgo, So\u00a0MC, Still\u00a0Fresh & Wanted\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/b8abb062f04f648c8cd8fb555bb40897.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b8abb062f04f648c8cd8fb555bb40897.720x720x1.jpg",
+                "id": 234946,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Spri-noir-onbosse-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Spri-noir-onbosse-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2012",
+                "release_date_with_abbreviated_month_for_display": "2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b8abb062f04f648c8cd8fb555bb40897.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b8abb062f04f648c8cd8fb555bb40897.720x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "#OnBosse",
+                "title_with_featured": "#OnBosse (Ft.\u00a0Adr\u00a0(FRA), Lgo, So\u00a0MC, Still\u00a0Fresh & Wanted\u00a0(FRA))",
+                "url": "https://genius.com/Spri-noir-onbosse-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1536464",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1536464,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wanted (FRA)",
+                        "url": "https://genius.com/artists/Wanted-fra"
+                    },
+                    {
+                        "api_path": "/artists/1490846",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1490846,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Adr (FRA)",
+                        "url": "https://genius.com/artists/Adr-fra"
+                    },
+                    {
+                        "api_path": "/artists/76688",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 76688,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lgo",
+                        "url": "https://genius.com/artists/Lgo"
+                    },
+                    {
+                        "api_path": "/artists/22469",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 22469,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "So MC",
+                        "url": "https://genius.com/artists/So-mc"
+                    },
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15330",
+                    "header_image_url": "https://images.genius.com/e1432bdc4df88acca50787e763db5f3f.960x960x1.jpg",
+                    "id": 15330,
+                    "image_url": "https://images.genius.com/452fb5bb6afafde9816034c109741a0d.410x410x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "S.Pri Noir",
+                    "url": "https://genius.com/artists/Spri-noir",
+                    "iq": 3475
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3212459",
+                "artist_names": "Still Fresh",
+                "full_title": "On dira rien by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.960x960x1.jpg",
+                "id": 3212459,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-on-dira-rien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-on-dira-rien-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 29
+                },
+                "release_date_for_display": "December 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On dira rien",
+                "title_with_featured": "On dira rien",
+                "url": "https://genius.com/Still-fresh-on-dira-rien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/78013",
+                "artist_names": "Still Fresh (Ft. S.Pri Noir)",
+                "full_title": "On s'barre by\u00a0Still\u00a0Fresh (Ft.\u00a0S.Pri\u00a0Noir)",
+                "header_image_thumbnail_url": "https://images.genius.com/07d6ee009d83eb2dc76b9623d073b60c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/07d6ee009d83eb2dc76b9623d073b60c.450x450x1.jpg",
+                "id": 78013,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-on-sbarre-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Still-fresh-on-sbarre-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 14
+                },
+                "release_date_for_display": "June 14, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 14, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/07d6ee009d83eb2dc76b9623d073b60c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/07d6ee009d83eb2dc76b9623d073b60c.450x450x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On s\u2019barre",
+                "title_with_featured": "On s'barre (Ft.\u00a0S.Pri\u00a0Noir)",
+                "url": "https://genius.com/Still-fresh-on-sbarre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15330",
+                        "header_image_url": "https://images.genius.com/e1432bdc4df88acca50787e763db5f3f.960x960x1.jpg",
+                        "id": 15330,
+                        "image_url": "https://images.genius.com/452fb5bb6afafde9816034c109741a0d.410x410x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "S.Pri Noir",
+                        "url": "https://genius.com/artists/Spri-noir",
+                        "iq": 3475
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8041607",
+                "artist_names": "Dinos (Ft. Still Fresh)",
+                "full_title": "On s\u2019entraine (Remix) by\u00a0Dinos (Ft.\u00a0Still\u00a0Fresh)",
+                "header_image_thumbnail_url": "https://images.genius.com/280b76278c237f28453bd5a4c18f8c3f.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/280b76278c237f28453bd5a4c18f8c3f.1000x563x1.jpg",
+                "id": 8041607,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "unreleased",
+                "path": "/Dinos-on-sentraine-remix-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dinos-on-sentraine-remix-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 8,
+                    "day": 14
+                },
+                "release_date_for_display": "August 14, 2011",
+                "release_date_with_abbreviated_month_for_display": "Aug. 14, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/280b76278c237f28453bd5a4c18f8c3f.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/280b76278c237f28453bd5a4c18f8c3f.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On s\u2019entraine (Remix)",
+                "title_with_featured": "On s\u2019entraine (Remix) (Ft.\u00a0Still\u00a0Fresh)",
+                "url": "https://genius.com/Dinos-on-sentraine-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14806",
+                    "header_image_url": "https://images.genius.com/5b7485271aab882e80e3cd98b5fab4f0.1000x313x1.png",
+                    "id": 14806,
+                    "image_url": "https://images.genius.com/4fecc50652cef20a687c3b3e004e0185.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Dinos",
+                    "url": "https://genius.com/artists/Dinos",
+                    "iq": 791
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/3268661",
+                "artist_names": "Still Fresh",
+                "full_title": "Oueye by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/a7dc96b4effee2ee6e2345c52628c9cc.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a7dc96b4effee2ee6e2345c52628c9cc.512x512x1.jpg",
+                "id": 3268661,
+                "language": "fr",
+                "lyrics_owner_id": 4947874,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-oueye-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-oueye-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a7dc96b4effee2ee6e2345c52628c9cc.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a7dc96b4effee2ee6e2345c52628c9cc.512x512x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Oueye",
+                "title_with_featured": "Oueye",
+                "url": "https://genius.com/Still-fresh-oueye-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5663047",
+                "artist_names": "Still Fresh (Ft. S.Pri Noir)",
+                "full_title": "O\u00f9 t'es by\u00a0Still\u00a0Fresh (Ft.\u00a0S.Pri\u00a0Noir)",
+                "header_image_thumbnail_url": "https://images.genius.com/a1b24d44941b26897ddb1b1bf9a7e533.300x168x1.jpg",
+                "header_image_url": "https://images.genius.com/a1b24d44941b26897ddb1b1bf9a7e533.1000x561x1.jpg",
+                "id": 5663047,
+                "language": "fr",
+                "lyrics_owner_id": 10675042,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-ou-tes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-ou-tes-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 6,
+                    "day": 12
+                },
+                "release_date_for_display": "June 12, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jun. 12, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/36d0e4d6a86966834f884e2a771437b8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/36d0e4d6a86966834f884e2a771437b8.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "O\u00f9 t\u2019es",
+                "title_with_featured": "O\u00f9 t'es (Ft.\u00a0S.Pri\u00a0Noir)",
+                "url": "https://genius.com/Still-fresh-ou-tes-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15330",
+                        "header_image_url": "https://images.genius.com/e1432bdc4df88acca50787e763db5f3f.960x960x1.jpg",
+                        "id": 15330,
+                        "image_url": "https://images.genius.com/452fb5bb6afafde9816034c109741a0d.410x410x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "S.Pri Noir",
+                        "url": "https://genius.com/artists/Spri-noir",
+                        "iq": 3475
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3212462",
+                "artist_names": "Still Fresh",
+                "full_title": "Overdose by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.960x960x1.jpg",
+                "id": 3212462,
+                "language": "fr",
+                "lyrics_owner_id": 3796278,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-overdose-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-overdose-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Overdose",
+                "title_with_featured": "Overdose",
+                "url": "https://genius.com/Still-fresh-overdose-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 49,
+                "api_path": "/songs/94849",
+                "artist_names": "La Fouine (Ft. Canardo, Fababy, Niro, Sniper, Sultan & Youssoupha)",
+                "full_title": "Paname Boss by\u00a0La\u00a0Fouine (Ft.\u00a0Canardo, Fababy, Niro, Sniper, Sultan & Youssoupha)",
+                "header_image_thumbnail_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.575x575x1.jpg",
+                "id": 94849,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-paname-boss-lyrics",
+                "pyongs_count": 14,
+                "relationships_index_url": "https://genius.com/La-fouine-paname-boss-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2012",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e42ecc0c01ff954d9588d63ae1415ab3.575x575x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 437984
+                },
+                "title": "Paname Boss",
+                "title_with_featured": "Paname Boss (Ft.\u00a0Canardo, Fababy, Niro, Sniper, Sultan & Youssoupha)",
+                "url": "https://genius.com/La-fouine-paname-boss-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14724",
+                        "header_image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "id": 14724,
+                        "image_url": "https://images.genius.com/af44e6e14637b64eaf0eae12f28460e5.985x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Niro",
+                        "url": "https://genius.com/artists/Niro",
+                        "iq": 3778
+                    },
+                    {
+                        "api_path": "/artists/14336",
+                        "header_image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "id": 14336,
+                        "image_url": "https://images.genius.com/c0606809b0942d99243c302cbbf6112c.762x762x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Fababy",
+                        "url": "https://genius.com/artists/Fababy",
+                        "iq": 1452
+                    },
+                    {
+                        "api_path": "/artists/11648",
+                        "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "id": 11648,
+                        "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Canardo",
+                        "url": "https://genius.com/artists/Canardo"
+                    },
+                    {
+                        "api_path": "/artists/6670",
+                        "header_image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "id": 6670,
+                        "image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sultan",
+                        "url": "https://genius.com/artists/Sultan",
+                        "iq": 2066
+                    },
+                    {
+                        "api_path": "/artists/1684",
+                        "header_image_url": "https://images.genius.com/19aee70ad683dff8782aec43e1909d72.1000x660x1.jpg",
+                        "id": 1684,
+                        "image_url": "https://images.genius.com/c6c3d1e0b137d299ed7bb8e3fa8fae52.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Youssoupha",
+                        "url": "https://genius.com/artists/Youssoupha",
+                        "iq": 1850
+                    },
+                    {
+                        "api_path": "/artists/1507",
+                        "header_image_url": "https://images.genius.com/7eb5104743212aa7f8b2dbf677684417.960x960x1.jpg",
+                        "id": 1507,
+                        "image_url": "https://images.genius.com/7eb5104743212aa7f8b2dbf677684417.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sniper",
+                        "url": "https://genius.com/artists/Sniper"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8120322",
+                "artist_names": "Still Fresh",
+                "full_title": "PANSEMENT by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.1000x1000x1.jpg",
+                "id": 8120322,
+                "language": null,
+                "lyrics_owner_id": 16171941,
+                "lyrics_state": "incomplete",
+                "path": "/Still-fresh-pansement-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-pansement-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 17
+                },
+                "release_date_for_display": "June 17, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 17, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/33a257a3a0098977c36fc939e17d19a2.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "PANSEMENT",
+                "title_with_featured": "PANSEMENT",
+                "url": "https://genius.com/Still-fresh-pansement-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4656283",
+                "artist_names": "Aly Bass (Ft. Still Fresh)",
+                "full_title": "PARIS-BX by\u00a0Aly\u00a0Bass (Ft.\u00a0Still\u00a0Fresh)",
+                "header_image_thumbnail_url": "https://images.genius.com/3a1ffa87812efff057512e5470eca91c.220x220x1.jpg",
+                "header_image_url": "https://images.genius.com/3a1ffa87812efff057512e5470eca91c.220x220x1.jpg",
+                "id": 4656283,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Aly-bass-paris-bx-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Aly-bass-paris-bx-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 21
+                },
+                "release_date_for_display": "June 21, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 21, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3a1ffa87812efff057512e5470eca91c.220x220x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3a1ffa87812efff057512e5470eca91c.220x220x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "PARIS-BX",
+                "title_with_featured": "PARIS-BX (Ft.\u00a0Still\u00a0Fresh)",
+                "url": "https://genius.com/Aly-bass-paris-bx-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1645214",
+                    "header_image_url": "https://images.genius.com/2f50e0022ddc18f75983e8639635b4d8.640x640x1.png",
+                    "id": 1645214,
+                    "image_url": "https://images.genius.com/2f50e0022ddc18f75983e8639635b4d8.640x640x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aly Bass",
+                    "url": "https://genius.com/artists/Aly-bass"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3212455",
+                "artist_names": "Still Fresh",
+                "full_title": "Party by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.960x960x1.jpg",
+                "id": 3212455,
+                "language": "fr",
+                "lyrics_owner_id": 3828698,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-party-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-party-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8302f39ebec9d0b1d207134f82880560.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Party",
+                "title_with_featured": "Party",
+                "url": "https://genius.com/Still-fresh-party-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4672619",
+                "artist_names": "Still Fresh",
+                "full_title": "Passe La Fresh by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/ad40df82e87b361143caf406a2f18323.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ad40df82e87b361143caf406a2f18323.720x720x1.jpg",
+                "id": 4672619,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Still-fresh-passe-la-fresh-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-passe-la-fresh-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ad40df82e87b361143caf406a2f18323.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ad40df82e87b361143caf406a2f18323.720x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Passe La Fresh",
+                "title_with_featured": "Passe La Fresh",
+                "url": "https://genius.com/Still-fresh-passe-la-fresh-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 38,
+                "api_path": "/songs/60196",
+                "artist_names": "La Fouine (Ft. R.E.D.K., Sadek, S.Pri Noir & Still Fresh)",
+                "full_title": "Pendez-les 2012 by\u00a0La\u00a0Fouine (Ft.\u00a0R.E.D.K., Sadek, S.Pri\u00a0Noir & Still\u00a0Fresh)",
+                "header_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "id": 60196,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-pendez-les-2012-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-pendez-les-2012-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 19266
+                },
+                "title": "Pendez-les 2012",
+                "title_with_featured": "Pendez-les 2012 (Ft.\u00a0R.E.D.K., Sadek, S.Pri\u00a0Noir & Still\u00a0Fresh)",
+                "url": "https://genius.com/La-fouine-pendez-les-2012-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    },
+                    {
+                        "api_path": "/artists/15330",
+                        "header_image_url": "https://images.genius.com/e1432bdc4df88acca50787e763db5f3f.960x960x1.jpg",
+                        "id": 15330,
+                        "image_url": "https://images.genius.com/452fb5bb6afafde9816034c109741a0d.410x410x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "S.Pri Noir",
+                        "url": "https://genius.com/artists/Spri-noir",
+                        "iq": 3475
+                    },
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    },
+                    {
+                        "api_path": "/artists/14653",
+                        "header_image_url": "https://images.genius.com/b9a96991993244079ed1139dc06cee62.654x250x1.jpg",
+                        "id": 14653,
+                        "image_url": "https://images.genius.com/2f031d6dfce0c2dd65a7de8fb80dcf03.350x350x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "R.E.D.K.",
+                        "url": "https://genius.com/artists/Redk"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7425870",
+                "artist_names": "Still Fresh",
+                "full_title": "PETIT C\u0152UR by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/58e5ba35e7bb83d00695c1922e0ab061.300x300x1.png",
+                "header_image_url": "https://images.genius.com/58e5ba35e7bb83d00695c1922e0ab061.1000x1000x1.png",
+                "id": 7425870,
+                "language": null,
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "incomplete",
+                "path": "/Still-fresh-petit-cur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-petit-cur-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 26
+                },
+                "release_date_for_display": "November 26, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 26, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/58e5ba35e7bb83d00695c1922e0ab061.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/58e5ba35e7bb83d00695c1922e0ab061.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "PETIT C\u0152UR",
+                "title_with_featured": "PETIT C\u0152UR",
+                "url": "https://genius.com/Still-fresh-petit-cur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6815528",
+                "artist_names": "Still Fresh",
+                "full_title": "POR FAVOR by\u00a0Still\u00a0Fresh",
+                "header_image_thumbnail_url": "https://images.genius.com/ea030186f2c9ea43b0c7a7ae4f1c0de7.300x300x1.png",
+                "header_image_url": "https://images.genius.com/ea030186f2c9ea43b0c7a7ae4f1c0de7.1000x1000x1.png",
+                "id": 6815528,
+                "language": "fr",
+                "lyrics_owner_id": 13586919,
+                "lyrics_state": "complete",
+                "path": "/Still-fresh-por-favor-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Still-fresh-por-favor-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 14
+                },
+                "release_date_for_display": "May 14, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 14, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ea030186f2c9ea43b0c7a7ae4f1c0de7.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/ea030186f2c9ea43b0c7a7ae4f1c0de7.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "POR FAVOR",
+                "title_with_featured": "POR FAVOR",
+                "url": "https://genius.com/Still-fresh-por-favor-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/16272",
+                    "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                    "id": 16272,
+                    "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Still Fresh",
+                    "url": "https://genius.com/artists/Still-fresh",
+                    "iq": 540
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3497550",
+                "artist_names": "Volts Face (Ft. Still Fresh)",
+                "full_title": "Pour elle by\u00a0Volts\u00a0Face (Ft.\u00a0Still\u00a0Fresh)",
+                "header_image_thumbnail_url": "https://images.genius.com/fd959f01ce8f912224727a3916a1514e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fd959f01ce8f912224727a3916a1514e.750x749x1.jpg",
+                "id": 3497550,
+                "language": "fr",
+                "lyrics_owner_id": 215475,
+                "lyrics_state": "complete",
+                "path": "/Volts-face-pour-elle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Volts-face-pour-elle-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 16
+                },
+                "release_date_for_display": "February 16, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fd959f01ce8f912224727a3916a1514e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fd959f01ce8f912224727a3916a1514e.750x749x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pour elle",
+                "title_with_featured": "Pour elle (Ft.\u00a0Still\u00a0Fresh)",
+                "url": "https://genius.com/Volts-face-pour-elle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16272",
+                        "header_image_url": "https://images.genius.com/fe5c7968803cc83e6811cc09102bd3b3.596x317x1.png",
+                        "id": 16272,
+                        "image_url": "https://images.genius.com/fc6908c7e66c01f7eeab2b7bfec921fb.563x563x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Still Fresh",
+                        "url": "https://genius.com/artists/Still-fresh",
+                        "iq": 540
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/20063",
+                    "header_image_url": "https://images.genius.com/6203fe5d5e3ff024a0c958aa8d819e0a.661x661x1.jpg",
+                    "id": 20063,
+                    "image_url": "https://images.genius.com/6203fe5d5e3ff024a0c958aa8d819e0a.661x661x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Volts Face",
+                    "url": "https://genius.com/artists/Volts-face",
+                    "iq": 2773
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

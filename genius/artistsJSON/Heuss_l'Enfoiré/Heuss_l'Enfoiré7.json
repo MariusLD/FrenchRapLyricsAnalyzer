@@ -1,0 +1,910 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6648209",
+                "artist_names": "Sadek (Ft. Heuss L'enfoir\u00e9 & Sofiane)",
+                "full_title": "Soutien by\u00a0Sadek (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9 & Sofiane)",
+                "header_image_thumbnail_url": "https://images.genius.com/c3c0a12cefd8b899b41e52aca736ec52.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c3c0a12cefd8b899b41e52aca736ec52.1000x1000x1.jpg",
+                "id": 6648209,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Sadek-soutien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-soutien-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 9
+                },
+                "release_date_for_display": "April 9, 2021",
+                "release_date_with_abbreviated_month_for_display": "Apr. 9, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c3c0a12cefd8b899b41e52aca736ec52.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c3c0a12cefd8b899b41e52aca736ec52.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Soutien",
+                "title_with_featured": "Soutien (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9 & Sofiane)",
+                "url": "https://genius.com/Sadek-soutien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    },
+                    {
+                        "api_path": "/artists/12085",
+                        "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                        "id": 12085,
+                        "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sofiane",
+                        "url": "https://genius.com/artists/Sofiane",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3952835",
+                "artist_names": "Sadek (Ft. Heuss L'enfoir\u00e9 & YL)",
+                "full_title": "Stahraf by\u00a0Sadek (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9 & YL)",
+                "header_image_thumbnail_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.1000x1000x1.jpg",
+                "id": 3952835,
+                "language": "en",
+                "lyrics_owner_id": 3020704,
+                "lyrics_state": "complete",
+                "path": "/Sadek-stahraf-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sadek-stahraf-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 28
+                },
+                "release_date_for_display": "September 28, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 28, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/af63863e42ef7399471d343786e4ac65.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 13259
+                },
+                "title": "Stahraf",
+                "title_with_featured": "Stahraf (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9 & YL)",
+                "url": "https://genius.com/Sadek-stahraf-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/996826",
+                        "header_image_url": "https://images.genius.com/fdae23e67e0036fa7187ebe8a5b7223c.529x1000x1.jpg",
+                        "id": 996826,
+                        "image_url": "https://images.genius.com/07752b943c7cf04262983ffc6e9ca080.241x241x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "YL",
+                        "url": "https://genius.com/artists/Yl"
+                    },
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15237",
+                    "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                    "id": 15237,
+                    "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sadek",
+                    "url": "https://genius.com/artists/Sadek",
+                    "iq": 1344
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3537761",
+                "artist_names": "Heuss L'enfoir\u00e9",
+                "full_title": "Suarez by\u00a0Heuss\u00a0L'enfoir\u00e9",
+                "header_image_thumbnail_url": "https://images.genius.com/c843f9255c28bc118a68473fdda5996a.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/c843f9255c28bc118a68473fdda5996a.1000x563x1.jpg",
+                "id": 3537761,
+                "language": null,
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Heuss-lenfoire-suarez-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Heuss-lenfoire-suarez-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 2,
+                    "day": 14
+                },
+                "release_date_for_display": "February 14, 2015",
+                "release_date_with_abbreviated_month_for_display": "Feb. 14, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c843f9255c28bc118a68473fdda5996a.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c843f9255c28bc118a68473fdda5996a.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Suarez",
+                "title_with_featured": "Suarez",
+                "url": "https://genius.com/Heuss-lenfoire-suarez-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1242021",
+                    "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                    "id": 1242021,
+                    "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Heuss L\u2019enfoir\u00e9",
+                    "url": "https://genius.com/artists/Heuss-lenfoire"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/5034339",
+                "artist_names": "SCH (Ft. Heuss L'enfoir\u00e9)",
+                "full_title": "Super Silver Haze by\u00a0SCH (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/5f94e68fcc026835627006a3ef87317e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5f94e68fcc026835627006a3ef87317e.1000x1000x1.jpg",
+                "id": 5034339,
+                "language": "fr",
+                "lyrics_owner_id": 8887242,
+                "lyrics_state": "complete",
+                "path": "/Sch-super-silver-haze-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sch-super-silver-haze-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 29
+                },
+                "release_date_for_display": "November 29, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5f94e68fcc026835627006a3ef87317e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5f94e68fcc026835627006a3ef87317e.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 14682
+                },
+                "title": "Super Silver Haze",
+                "title_with_featured": "Super Silver Haze (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "url": "https://genius.com/Sch-super-silver-haze-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/276476",
+                    "header_image_url": "https://images.genius.com/a7814e87e59e58dab4d2fee4e4af2228.595x204x1.png",
+                    "id": 276476,
+                    "image_url": "https://images.genius.com/7e977405cb88843861007f1a1fe907ff.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "SCH",
+                    "url": "https://genius.com/artists/Sch",
+                    "iq": 12286
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8328026",
+                "artist_names": "Shtar Academy (Ft. Heuss L'enfoir\u00e9, Perkiz & Ryan (FRA))",
+                "full_title": "Sur un pied by\u00a0Shtar\u00a0Academy (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9, Perkiz & Ryan\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/2632db7c305d7fca2919e1743dc3f813.300x300x1.png",
+                "header_image_url": "https://images.genius.com/2632db7c305d7fca2919e1743dc3f813.500x500x1.png",
+                "id": 8328026,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Shtar-academy-sur-un-pied-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Shtar-academy-sur-un-pied-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2632db7c305d7fca2919e1743dc3f813.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/2632db7c305d7fca2919e1743dc3f813.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Sur un pied",
+                "title_with_featured": "Sur un pied (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9, Perkiz & Ryan\u00a0(FRA))",
+                "url": "https://genius.com/Shtar-academy-sur-un-pied-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    },
+                    {
+                        "api_path": "/artists/3169195",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3169195,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ryan (FRA)",
+                        "url": "https://genius.com/artists/Ryan-fra"
+                    },
+                    {
+                        "api_path": "/artists/3169198",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3169198,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Perkiz",
+                        "url": "https://genius.com/artists/Perkiz"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/98838",
+                    "header_image_url": "https://images.genius.com/a4a54c60a208c87a0bd4f4f50b5a2aa1.320x320x1.jpg",
+                    "id": 98838,
+                    "image_url": "https://images.genius.com/a4a54c60a208c87a0bd4f4f50b5a2aa1.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shtar Academy",
+                    "url": "https://genius.com/artists/Shtar-academy"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6081259",
+                "artist_names": "Naza (Ft. Heuss L'enfoir\u00e9)",
+                "full_title": "Symphonie du bendo by\u00a0Naza (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/0f5f190627b1c868751e4469a5ebf534.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0f5f190627b1c868751e4469a5ebf534.1000x1000x1.jpg",
+                "id": 6081259,
+                "language": "fr",
+                "lyrics_owner_id": 10611490,
+                "lyrics_state": "complete",
+                "path": "/Naza-symphonie-du-bendo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naza-symphonie-du-bendo-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 13
+                },
+                "release_date_for_display": "November 13, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 13, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0f5f190627b1c868751e4469a5ebf534.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0f5f190627b1c868751e4469a5ebf534.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Symphonie du bendo",
+                "title_with_featured": "Symphonie du bendo (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "url": "https://genius.com/Naza-symphonie-du-bendo-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/399005",
+                    "header_image_url": "https://images.genius.com/9c18e6f9f9cf0c67f66429138618a0c5.400x268x1.jpg",
+                    "id": 399005,
+                    "image_url": "https://images.genius.com/9ad784628ff9d79029b1e9aa48e6812a.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naza",
+                    "url": "https://genius.com/artists/Naza"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7626498",
+                "artist_names": "Kaneki (Ft. Heuss L'enfoir\u00e9)",
+                "full_title": "T\u00eate cram\u00e9e by\u00a0Kaneki (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/c11042be20f9cd75e4c551cd5e6aa9c6.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c11042be20f9cd75e4c551cd5e6aa9c6.499x499x1.png",
+                "id": 7626498,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Kaneki-tete-cramee-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kaneki-tete-cramee-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 28
+                },
+                "release_date_for_display": "January 28, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c11042be20f9cd75e4c551cd5e6aa9c6.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c11042be20f9cd75e4c551cd5e6aa9c6.499x499x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "T\u00eate cram\u00e9e",
+                "title_with_featured": "T\u00eate cram\u00e9e (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "url": "https://genius.com/Kaneki-tete-cramee-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2353845",
+                    "header_image_url": "https://images.genius.com/4f44c78de015f62aab40f5fe862e9284.1000x563x1.jpg",
+                    "id": 2353845,
+                    "image_url": "https://images.genius.com/e1afcb8235260e856d59434ea9e05fb5.945x945x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kaneki",
+                    "url": "https://genius.com/artists/Kaneki"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/4183063",
+                "artist_names": "Lartiste (Ft. Heuss L'enfoir\u00e9)",
+                "full_title": "Tikka by\u00a0Lartiste (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/a0e3a6c789603fa72325ef130b1bb2a1.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/a0e3a6c789603fa72325ef130b1bb2a1.480x360x1.jpg",
+                "id": 4183063,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Lartiste-tikka-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lartiste-tikka-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 24
+                },
+                "release_date_for_display": "January 24, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 24, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/077cf087e019633167f339607dd7a343.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/077cf087e019633167f339607dd7a343.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 28186
+                },
+                "title": "Tikka",
+                "title_with_featured": "Tikka (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "url": "https://genius.com/Lartiste-tikka-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/62687",
+                    "header_image_url": "https://images.genius.com/b1b7c8a6eda08120a297e2dd0f53775b.599x433x1.png",
+                    "id": 62687,
+                    "image_url": "https://images.genius.com/5eea14118626e933a39418c43fe0b241.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lartiste",
+                    "url": "https://genius.com/artists/Lartiste",
+                    "iq": 2591
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7170257",
+                "artist_names": "Heuss L'enfoir\u00e9",
+                "full_title": "Tous les jours* by\u00a0Heuss\u00a0L'enfoir\u00e9",
+                "header_image_thumbnail_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                "id": 7170257,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Heuss-lenfoire-tous-les-jours-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Heuss-lenfoire-tous-les-jours-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2022",
+                "release_date_with_abbreviated_month_for_display": "2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tous les jours*",
+                "title_with_featured": "Tous les jours*",
+                "url": "https://genius.com/Heuss-lenfoire-tous-les-jours-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1242021",
+                    "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                    "id": 1242021,
+                    "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Heuss L\u2019enfoir\u00e9",
+                    "url": "https://genius.com/artists/Heuss-lenfoire"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8512649",
+                "artist_names": "Nyma",
+                "full_title": "Valid\u00e9 by\u00a0Nyma",
+                "header_image_thumbnail_url": "https://images.genius.com/1d02030393f39c28de994412032a2d87.221x221x1.jpg",
+                "header_image_url": "https://images.genius.com/1d02030393f39c28de994412032a2d87.221x221x1.jpg",
+                "id": 8512649,
+                "language": null,
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "unreleased",
+                "path": "/Nyma-valide-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nyma-valide-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 13
+                },
+                "release_date_for_display": "November 13, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 13, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d02030393f39c28de994412032a2d87.221x221x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d02030393f39c28de994412032a2d87.221x221x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Valid\u00e9",
+                "title_with_featured": "Valid\u00e9",
+                "url": "https://genius.com/Nyma-valide-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2426373",
+                    "header_image_url": "https://images.genius.com/1d02030393f39c28de994412032a2d87.221x221x1.jpg",
+                    "id": 2426373,
+                    "image_url": "https://images.genius.com/1d02030393f39c28de994412032a2d87.221x221x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nyma",
+                    "url": "https://genius.com/artists/Nyma"
+                }
+            },
+            {
+                "annotation_count": 31,
+                "api_path": "/songs/6285150",
+                "artist_names": "Heuss L\u2019enfoir\u00e9 + Vald",
+                "full_title": "Vhr by\u00a0Heuss\u00a0L\u2019enfoir\u00e9 + Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.1000x1000x1.jpg",
+                "id": 6285150,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Heuss-lenfoire-vald-vhr-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Heuss-lenfoire-vald-vhr-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 18
+                },
+                "release_date_for_display": "December 18, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 18, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 30,
+                    "hot": false,
+                    "pageviews": 16916
+                },
+                "title": "Vhr",
+                "title_with_featured": "Vhr",
+                "url": "https://genius.com/Heuss-lenfoire-vald-vhr-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2503306",
+                    "header_image_url": "https://images.genius.com/ba5818169be43d611baa5282df7010fa.996x427x1.png",
+                    "id": 2503306,
+                    "image_url": "https://images.genius.com/c095f4055ea630291550300cd089de25.356x356x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Heuss L\u2019enfoir\u00e9 + Vald",
+                    "url": "https://genius.com/artists/Heuss-lenfoire-vald"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7077518",
+                "artist_names": "\u200bjoysad (Ft. Heuss L'enfoir\u00e9)",
+                "full_title": "Vie d'malade by\u00a0\u200bjoysad (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/bfeff7c3ef204280eced4b62e8153495.300x300x1.png",
+                "header_image_url": "https://images.genius.com/bfeff7c3ef204280eced4b62e8153495.1000x1000x1.png",
+                "id": 7077518,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Joysad-vie-dmalade-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Joysad-vie-dmalade-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 10
+                },
+                "release_date_for_display": "September 10, 2021",
+                "release_date_with_abbreviated_month_for_display": "Sep. 10, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bfeff7c3ef204280eced4b62e8153495.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/bfeff7c3ef204280eced4b62e8153495.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vie d\u2019malade",
+                "title_with_featured": "Vie d'malade (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "url": "https://genius.com/Joysad-vie-dmalade-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1964648",
+                    "header_image_url": "https://images.genius.com/4872324eab2575561c58dfd853f25123.1000x643x1.jpg",
+                    "id": 1964648,
+                    "image_url": "https://images.genius.com/e0c36cc300b8e05dea4c2b530301f769.666x666x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200bjoysad",
+                    "url": "https://genius.com/artists/Joysad"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8460837",
+                "artist_names": "Akhee (Ft. Heuss L'enfoir\u00e9)",
+                "full_title": "Vis \u00e1 v\u00eds by\u00a0Akhee (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/ab7407d018de2014812759ec3084d61a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ab7407d018de2014812759ec3084d61a.1000x1000x1.jpg",
+                "id": 8460837,
+                "language": null,
+                "lyrics_owner_id": 5455372,
+                "lyrics_state": "unreleased",
+                "path": "/Akhee-vis-a-vis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Akhee-vis-a-vis-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ab7407d018de2014812759ec3084d61a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ab7407d018de2014812759ec3084d61a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Vis \u00e1 v\u00eds",
+                "title_with_featured": "Vis \u00e1 v\u00eds (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "url": "https://genius.com/Akhee-vis-a-vis-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/644703",
+                    "header_image_url": "https://images.genius.com/92c66d85acf36cf7c236a2e609769e93.1000x1000x1.jpg",
+                    "id": 644703,
+                    "image_url": "https://images.genius.com/d3831ccd95703a4d7d79262ddd05541b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Akhee",
+                    "url": "https://genius.com/artists/Akhee"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/4025398",
+                "artist_names": "Soolking",
+                "full_title": "Vroom Vroom by\u00a0Soolking",
+                "header_image_thumbnail_url": "https://images.genius.com/7886d01fc41d51ad079b89ce57b1a5b2.300x154x1.jpg",
+                "header_image_url": "https://images.genius.com/7886d01fc41d51ad079b89ce57b1a5b2.801x410x1.jpg",
+                "id": 4025398,
+                "language": "fr",
+                "lyrics_owner_id": 6006007,
+                "lyrics_state": "complete",
+                "path": "/Soolking-vroom-vroom-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Soolking-vroom-vroom-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 2
+                },
+                "release_date_for_display": "November 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4e898ada2885b3744fda6aa6a9b9149b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4e898ada2885b3744fda6aa6a9b9149b.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 43094
+                },
+                "title": "Vroom Vroom",
+                "title_with_featured": "Vroom Vroom",
+                "url": "https://genius.com/Soolking-vroom-vroom-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/693078",
+                    "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                    "id": 693078,
+                    "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Soolking",
+                    "url": "https://genius.com/artists/Soolking"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5314880",
+                "artist_names": "GLK (Ft. Heuss L'enfoir\u00e9)",
+                "full_title": "Wesh by\u00a0GLK (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/38f10172cdf9b60a53612b6de51886c4.300x135x1.jpg",
+                "header_image_url": "https://images.genius.com/38f10172cdf9b60a53612b6de51886c4.1000x450x1.jpg",
+                "id": 5314880,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Glk-wesh-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Glk-wesh-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 26
+                },
+                "release_date_for_display": "March 26, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 26, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c885c54c90d6c1156a375f559999c915.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c885c54c90d6c1156a375f559999c915.512x512x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 8591
+                },
+                "title": "Wesh",
+                "title_with_featured": "Wesh (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9)",
+                "url": "https://genius.com/Glk-wesh-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/563979",
+                    "header_image_url": "https://images.genius.com/7d53b483be43c95724ec605ee1dbad56.1000x733x1.jpg",
+                    "id": 563979,
+                    "image_url": "https://images.genius.com/ac7125e3ce4e48497b79b9cd469b3bf9.659x659x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "GLK",
+                    "url": "https://genius.com/artists/Glk"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/3864339",
+                "artist_names": "Sofiane (Ft. Heuss L'enfoir\u00e9, Kalash Criminel, Mac Tyer, Sadek, Soolking & Vald)",
+                "full_title": "Woah by\u00a0Sofiane (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9, Kalash\u00a0Criminel, Mac\u00a0Tyer, Sadek, Soolking & Vald)",
+                "header_image_thumbnail_url": "https://images.genius.com/e034b510cfebf8a757f3e991b125527e.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/e034b510cfebf8a757f3e991b125527e.870x489x1.jpg",
+                "id": 3864339,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Sofiane-woah-lyrics",
+                "pyongs_count": 9,
+                "relationships_index_url": "https://genius.com/Sofiane-woah-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 27
+                },
+                "release_date_for_display": "July 27, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jul. 27, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e2ea16fed1792a77ce07703e085aa95f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e2ea16fed1792a77ce07703e085aa95f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 102662
+                },
+                "title": "Woah",
+                "title_with_featured": "Woah (Ft.\u00a0Heuss\u00a0L'enfoir\u00e9, Kalash\u00a0Criminel, Mac\u00a0Tyer, Sadek, Soolking & Vald)",
+                "url": "https://genius.com/Sofiane-woah-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1242021",
+                        "header_image_url": "https://images.genius.com/d053853abea4102656f29c51836bc584.1000x375x1.jpg",
+                        "id": 1242021,
+                        "image_url": "https://images.genius.com/6259757b05e1a6afc68fdbd7903028fb.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Heuss L\u2019enfoir\u00e9",
+                        "url": "https://genius.com/artists/Heuss-lenfoire"
+                    },
+                    {
+                        "api_path": "/artists/15237",
+                        "header_image_url": "https://images.genius.com/1c7894b1ae27d036aed840f6ea009a81.852x374x1.png",
+                        "id": 15237,
+                        "image_url": "https://images.genius.com/5952ccb9634582d76218808210bd91ce.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sadek",
+                        "url": "https://genius.com/artists/Sadek",
+                        "iq": 1344
+                    },
+                    {
+                        "api_path": "/artists/693078",
+                        "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                        "id": 693078,
+                        "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soolking",
+                        "url": "https://genius.com/artists/Soolking"
+                    },
+                    {
+                        "api_path": "/artists/2412",
+                        "header_image_url": "https://images.genius.com/5b1993e9cdeb2066a8eb11cc91d1f089.1000x667x1.jpg",
+                        "id": 2412,
+                        "image_url": "https://images.genius.com/a6a79741ab0f8bc6063e7fe82dd90adf.303x395x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mac Tyer",
+                        "url": "https://genius.com/artists/Mac-tyer",
+                        "iq": 2139
+                    },
+                    {
+                        "api_path": "/artists/592670",
+                        "header_image_url": "https://images.genius.com/470436434910438a1e23de7d931c06d5.1000x563x1.jpg",
+                        "id": 592670,
+                        "image_url": "https://images.genius.com/b68ceead930b71d99939624bd19dd82c.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kalash Criminel",
+                        "url": "https://genius.com/artists/Kalash-criminel",
+                        "iq": 1309
+                    },
+                    {
+                        "api_path": "/artists/19217",
+                        "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                        "id": 19217,
+                        "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Vald",
+                        "url": "https://genius.com/artists/Vald",
+                        "iq": 10002
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12085",
+                    "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                    "id": 12085,
+                    "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sofiane",
+                    "url": "https://genius.com/artists/Sofiane",
+                    "iq": 100
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

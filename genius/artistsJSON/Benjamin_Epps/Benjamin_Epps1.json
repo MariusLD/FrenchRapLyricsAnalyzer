@@ -1,0 +1,944 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/7072788",
+                "artist_names": "404Billy (Ft. Benjamin Epps)",
+                "full_title": "88% (Window) by\u00a0404Billy (Ft.\u00a0Benjamin\u00a0Epps)",
+                "header_image_thumbnail_url": "https://images.genius.com/7686d5e2cab5700be19540b062caf4f3.300x162x1.jpg",
+                "header_image_url": "https://images.genius.com/7686d5e2cab5700be19540b062caf4f3.1000x539x1.jpg",
+                "id": 7072788,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/404billy-88-window-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/404billy-88-window-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 25
+                },
+                "release_date_for_display": "August 25, 2021",
+                "release_date_with_abbreviated_month_for_display": "Aug. 25, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fc042f6f68f88915e7b6f6417be38800.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fc042f6f68f88915e7b6f6417be38800.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "88% (Window)",
+                "title_with_featured": "88% (Window) (Ft.\u00a0Benjamin\u00a0Epps)",
+                "url": "https://genius.com/404billy-88-window-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1080043",
+                    "header_image_url": "https://images.genius.com/50ef92a114d49600fe982859b73dac94.592x422x1.png",
+                    "id": 1080043,
+                    "image_url": "https://images.genius.com/ff5be34cfc5c99165696841b5fb5aa38.469x469x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "404Billy",
+                    "url": "https://genius.com/artists/404billy",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763353",
+                "artist_names": "Benjamin Epps & Syanur",
+                "full_title": "\u00c0 2 doigts de craquer by\u00a0Benjamin\u00a0Epps & Syanur",
+                "header_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "id": 6763353,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-and-syanur-a-2-doigts-de-craquer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-syanur-a-2-doigts-de-craquer-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u00c0 2 doigts de craquer",
+                "title_with_featured": "\u00c0 2 doigts de craquer",
+                "url": "https://genius.com/Benjamin-epps-and-syanur-a-2-doigts-de-craquer-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2712709",
+                    "header_image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "id": 2712709,
+                    "image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Syanur",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-syanur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763354",
+                "artist_names": "Benjamin Epps & Syanur (Ft. Zoma)",
+                "full_title": "Africa by\u00a0Benjamin\u00a0Epps & Syanur (Ft.\u00a0Zoma)",
+                "header_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "id": 6763354,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-and-syanur-africa-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-syanur-africa-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Africa",
+                "title_with_featured": "Africa (Ft.\u00a0Zoma)",
+                "url": "https://genius.com/Benjamin-epps-and-syanur-africa-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2712729",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2712729,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Zoma",
+                        "url": "https://genius.com/artists/Zoma"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2712709",
+                    "header_image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "id": 2712709,
+                    "image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Syanur",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-syanur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763357",
+                "artist_names": "Benjamin Epps & Syanur (Ft. Jayfu)",
+                "full_title": "Au fond de toi by\u00a0Benjamin\u00a0Epps & Syanur (Ft.\u00a0Jayfu)",
+                "header_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "id": 6763357,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-and-syanur-au-fond-de-toi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-syanur-au-fond-de-toi-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Au fond de toi",
+                "title_with_featured": "Au fond de toi (Ft.\u00a0Jayfu)",
+                "url": "https://genius.com/Benjamin-epps-and-syanur-au-fond-de-toi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2712732",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2712732,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jayfu",
+                        "url": "https://genius.com/artists/Jayfu"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2712709",
+                    "header_image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "id": 2712709,
+                    "image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Syanur",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-syanur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7964784",
+                "artist_names": "CHAM rapper (Ft. Benjamin Epps)",
+                "full_title": "Baby Mama by\u00a0CHAM\u00a0rapper (Ft.\u00a0Benjamin\u00a0Epps)",
+                "header_image_thumbnail_url": "https://images.genius.com/968e080ef34925a6286f07635c880702.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/968e080ef34925a6286f07635c880702.1000x1000x1.jpg",
+                "id": 7964784,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "unreleased",
+                "path": "/Cham-rapper-baby-mama-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Cham-rapper-baby-mama-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 8
+                },
+                "release_date_for_display": "October 8, 2020",
+                "release_date_with_abbreviated_month_for_display": "Oct. 8, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/968e080ef34925a6286f07635c880702.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/968e080ef34925a6286f07635c880702.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Baby Mama",
+                "title_with_featured": "Baby Mama (Ft.\u00a0Benjamin\u00a0Epps)",
+                "url": "https://genius.com/Cham-rapper-baby-mama-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2945379",
+                    "header_image_url": "https://images.genius.com/155601cf89fd2b3665f9aeb72650eeb1.1000x1000x1.jpg",
+                    "id": 2945379,
+                    "image_url": "https://images.genius.com/155601cf89fd2b3665f9aeb72650eeb1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CHAM rapper",
+                    "url": "https://genius.com/artists/Cham-rapper"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763331",
+                "artist_names": "Benjamin Epps & Syanur",
+                "full_title": "Bienvenue by\u00a0Benjamin\u00a0Epps & Syanur",
+                "header_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "id": 6763331,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "unreleased",
+                "path": "/Benjamin-epps-and-syanur-bienvenue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-syanur-bienvenue-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bienvenue",
+                "title_with_featured": "Bienvenue",
+                "url": "https://genius.com/Benjamin-epps-and-syanur-bienvenue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2712709",
+                    "header_image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "id": 2712709,
+                    "image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Syanur",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-syanur"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/8927018",
+                "artist_names": "Benjamin Epps",
+                "full_title": "\u200b\u200b\u200b\u200bbienvenue \u00e0 b\u2019hell-vue by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "id": 8927018,
+                "language": "fr",
+                "lyrics_owner_id": 6388038,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-bienvenue-a-bhell-vue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-bienvenue-a-bhell-vue-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "\u200b\u200b\u200b\u200bbienvenue \u00e0 b\u2019hell-vue",
+                "title_with_featured": "\u200b\u200b\u200b\u200bbienvenue \u00e0 b\u2019hell-vue",
+                "url": "https://genius.com/Benjamin-epps-bienvenue-a-bhell-vue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/6811032",
+                "artist_names": "Vladimir Cauchemar (Ft. Benjamin Epps)",
+                "full_title": "Blizzard by\u00a0Vladimir\u00a0Cauchemar (Ft.\u00a0Benjamin\u00a0Epps)",
+                "header_image_thumbnail_url": "https://images.genius.com/c4e27ce46caabda11107fc2b5454118f.300x128x1.jpg",
+                "header_image_url": "https://images.genius.com/c4e27ce46caabda11107fc2b5454118f.1000x427x1.jpg",
+                "id": 6811032,
+                "language": "en",
+                "lyrics_owner_id": 8407948,
+                "lyrics_state": "complete",
+                "path": "/Vladimir-cauchemar-blizzard-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vladimir-cauchemar-blizzard-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b7d707040d8459aa908fc389f8b05449.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/b7d707040d8459aa908fc389f8b05449.640x640x1.png",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 9319
+                },
+                "title": "Blizzard",
+                "title_with_featured": "Blizzard (Ft.\u00a0Benjamin\u00a0Epps)",
+                "url": "https://genius.com/Vladimir-cauchemar-blizzard-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1452406",
+                    "header_image_url": "https://images.genius.com/4d067f6a6790e1cf9bd146f35371ca68.590x390x1.png",
+                    "id": 1452406,
+                    "image_url": "https://images.genius.com/15990c39d48974109523e011a227bedd.544x544x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vladimir Cauchemar",
+                    "url": "https://genius.com/artists/Vladimir-cauchemar"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/7564991",
+                "artist_names": "Benjamin Epps",
+                "full_title": "BMW BOYZ by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/4269d22b1c3799d502c052542eee7ad5.300x169x1.png",
+                "header_image_url": "https://images.genius.com/4269d22b1c3799d502c052542eee7ad5.870x489x1.png",
+                "id": 7564991,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-bmw-boyz-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-bmw-boyz-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 6
+                },
+                "release_date_for_display": "January 6, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 6, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4f7680cfd7e0347a7012704d3431d692.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4f7680cfd7e0347a7012704d3431d692.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 5037
+                },
+                "title": "BMW BOYZ",
+                "title_with_featured": "BMW BOYZ",
+                "url": "https://genius.com/Benjamin-epps-bmw-boyz-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/8927013",
+                "artist_names": "Benjamin Epps",
+                "full_title": "\u200b\u200b\u200b\u200bcapitaine flamme by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "id": 8927013,
+                "language": "fr",
+                "lyrics_owner_id": 10268735,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-capitaine-flamme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-capitaine-flamme-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "\u200b\u200b\u200b\u200bcapitaine flamme",
+                "title_with_featured": "\u200b\u200b\u200b\u200bcapitaine flamme",
+                "url": "https://genius.com/Benjamin-epps-capitaine-flamme-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/7588027",
+                "artist_names": "Benjamin Epps",
+                "full_title": "CE QUE LE PIPS DEMANDE by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/76b5426ef173e5e6109bb030903a0880.300x300x1.png",
+                "header_image_url": "https://images.genius.com/76b5426ef173e5e6109bb030903a0880.1000x1000x1.png",
+                "id": 7588027,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-ce-que-le-pips-demande-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-ce-que-le-pips-demande-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 13
+                },
+                "release_date_for_display": "January 13, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 13, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/76b5426ef173e5e6109bb030903a0880.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/76b5426ef173e5e6109bb030903a0880.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "CE QUE LE PIPS DEMANDE",
+                "title_with_featured": "CE QUE LE PIPS DEMANDE",
+                "url": "https://genius.com/Benjamin-epps-ce-que-le-pips-demande-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7639879",
+                "artist_names": "Benjamin Epps",
+                "full_title": "DANS LE WAY by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/4b5332949a6de43801f442fd3f3f7bc9.300x170x1.jpg",
+                "header_image_url": "https://images.genius.com/4b5332949a6de43801f442fd3f3f7bc9.662x375x1.jpg",
+                "id": 7639879,
+                "language": "en",
+                "lyrics_owner_id": 6756009,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-dans-le-way-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-dans-le-way-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 28
+                },
+                "release_date_for_display": "January 28, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dc165328635847f63e52633ee99281a1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dc165328635847f63e52633ee99281a1.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "DANS LE WAY",
+                "title_with_featured": "DANS LE WAY",
+                "url": "https://genius.com/Benjamin-epps-dans-le-way-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8927025",
+                "artist_names": "Benjamin Epps (Ft. Ang\u00e9lique Kidjo)",
+                "full_title": "\u200b\u200b\u200b\u200bdans nos murs by\u00a0Benjamin\u00a0Epps (Ft.\u00a0Ang\u00e9lique\u00a0Kidjo)",
+                "header_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "id": 8927025,
+                "language": "fr",
+                "lyrics_owner_id": 400637,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-dans-nos-murs-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-dans-nos-murs-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 7
+                },
+                "release_date_for_display": "April 7, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b750fb41786f1e5bdbc396b653b10b76.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u200b\u200b\u200b\u200bdans nos murs",
+                "title_with_featured": "\u200b\u200b\u200b\u200bdans nos murs (Ft.\u00a0Ang\u00e9lique\u00a0Kidjo)",
+                "url": "https://genius.com/Benjamin-epps-dans-nos-murs-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/402249",
+                        "header_image_url": "https://images.genius.com/e206d0ac61e3d8f095db28c971397383.421x421x1.jpg",
+                        "id": 402249,
+                        "image_url": "https://images.genius.com/e206d0ac61e3d8f095db28c971397383.421x421x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ang\u00e9lique Kidjo",
+                        "url": "https://genius.com/artists/Angelique-kidjo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763363",
+                "artist_names": "Benjamin Epps & Syanur",
+                "full_title": "Dedans by\u00a0Benjamin\u00a0Epps & Syanur",
+                "header_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "id": 6763363,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-and-syanur-dedans-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-syanur-dedans-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dedans",
+                "title_with_featured": "Dedans",
+                "url": "https://genius.com/Benjamin-epps-and-syanur-dedans-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2712709",
+                    "header_image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "id": 2712709,
+                    "image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Syanur",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-syanur"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/7821317",
+                "artist_names": "Youssoupha (Ft. Benjamin Epps & Lino)",
+                "full_title": "DESSALINES FLOW by\u00a0Youssoupha (Ft.\u00a0Benjamin\u00a0Epps & Lino)",
+                "header_image_thumbnail_url": "https://images.genius.com/f63a3b42ff13b351fbd8115505a162e6.300x300x1.png",
+                "header_image_url": "https://images.genius.com/f63a3b42ff13b351fbd8115505a162e6.1000x1000x1.png",
+                "id": 7821317,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Youssoupha-dessalines-flow-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Youssoupha-dessalines-flow-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 8
+                },
+                "release_date_for_display": "April 8, 2022",
+                "release_date_with_abbreviated_month_for_display": "Apr. 8, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f63a3b42ff13b351fbd8115505a162e6.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/f63a3b42ff13b351fbd8115505a162e6.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false
+                },
+                "title": "DESSALINES FLOW",
+                "title_with_featured": "DESSALINES FLOW (Ft.\u00a0Benjamin\u00a0Epps & Lino)",
+                "url": "https://genius.com/Youssoupha-dessalines-flow-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2521469",
+                        "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                        "id": 2521469,
+                        "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benjamin Epps",
+                        "url": "https://genius.com/artists/Benjamin-epps"
+                    },
+                    {
+                        "api_path": "/artists/1946",
+                        "header_image_url": "https://images.genius.com/2b35363bbcfe6d2987f63ddf3528660b.498x681x1.png",
+                        "id": 1946,
+                        "image_url": "https://images.genius.com/2b35363bbcfe6d2987f63ddf3528660b.498x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lino",
+                        "url": "https://genius.com/artists/Lino",
+                        "iq": 2958
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1684",
+                    "header_image_url": "https://images.genius.com/19aee70ad683dff8782aec43e1909d72.1000x660x1.jpg",
+                    "id": 1684,
+                    "image_url": "https://images.genius.com/c6c3d1e0b137d299ed7bb8e3fa8fae52.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Youssoupha",
+                    "url": "https://genius.com/artists/Youssoupha",
+                    "iq": 1850
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/6711434",
+                "artist_names": "Benjamin Epps & Le Chroniqueur Sale",
+                "full_title": "Dieu b\u00e9nisse les enfants by\u00a0Benjamin\u00a0Epps & Le Chroniqueur Sale",
+                "header_image_thumbnail_url": "https://images.genius.com/39f029dcedd9ee158d2b4b533cb9cd3f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/39f029dcedd9ee158d2b4b533cb9cd3f.828x828x1.jpg",
+                "id": 6711434,
+                "language": "fr",
+                "lyrics_owner_id": 3091057,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-and-le-chroniqueur-sale-dieu-benisse-les-enfants-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-le-chroniqueur-sale-dieu-benisse-les-enfants-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 23
+                },
+                "release_date_for_display": "April 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Apr. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/39f029dcedd9ee158d2b4b533cb9cd3f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/39f029dcedd9ee158d2b4b533cb9cd3f.828x828x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 6558
+                },
+                "title": "Dieu b\u00e9nisse les enfants",
+                "title_with_featured": "Dieu b\u00e9nisse les enfants",
+                "url": "https://genius.com/Benjamin-epps-and-le-chroniqueur-sale-dieu-benisse-les-enfants-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2693640",
+                    "header_image_url": "https://images.genius.com/17525c7fba5ce37b451b53f41b9ef976.1000x1000x1.jpg",
+                    "id": 2693640,
+                    "image_url": "https://images.genius.com/17525c7fba5ce37b451b53f41b9ef976.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Le Chroniqueur Sale",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-le-chroniqueur-sale"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/7639876",
+                "artist_names": "Benjamin Epps",
+                "full_title": "DRILLMATIC by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "id": 7639876,
+                "language": "en",
+                "lyrics_owner_id": 12389325,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-drillmatic-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-drillmatic-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 28
+                },
+                "release_date_for_display": "January 28, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 11034
+                },
+                "title": "DRILLMATIC",
+                "title_with_featured": "DRILLMATIC",
+                "url": "https://genius.com/Benjamin-epps-drillmatic-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763351",
+                "artist_names": "Benjamin Epps & Syanur",
+                "full_title": "Drug Song by\u00a0Benjamin\u00a0Epps & Syanur",
+                "header_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "id": 6763351,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-and-syanur-drug-song-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-syanur-drug-song-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Drug Song",
+                "title_with_featured": "Drug Song",
+                "url": "https://genius.com/Benjamin-epps-and-syanur-drug-song-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2712709",
+                    "header_image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "id": 2712709,
+                    "image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Syanur",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-syanur"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6763361",
+                "artist_names": "Benjamin Epps & Syanur",
+                "full_title": "Drumset by\u00a0Benjamin\u00a0Epps & Syanur",
+                "header_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "id": 6763361,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Benjamin-epps-and-syanur-drumset-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-and-syanur-drumset-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 13
+                },
+                "release_date_for_display": "June 13, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 13, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb9abb594b497c5d9f0928a10167f440.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Drumset",
+                "title_with_featured": "Drumset",
+                "url": "https://genius.com/Benjamin-epps-and-syanur-drumset-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2712709",
+                    "header_image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "id": 2712709,
+                    "image_url": "https://images.genius.com/66a47aa902b2876d8349e1afdaf98ef4.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps & Syanur",
+                    "url": "https://genius.com/artists/Benjamin-epps-and-syanur"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/7639877",
+                "artist_names": "Benjamin Epps",
+                "full_title": "ENCORE by\u00a0Benjamin\u00a0Epps",
+                "header_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "id": 7639877,
+                "language": "fr",
+                "lyrics_owner_id": 85492,
+                "lyrics_state": "complete",
+                "path": "/Benjamin-epps-encore-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Benjamin-epps-encore-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 28
+                },
+                "release_date_for_display": "January 28, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8b2a8c1a69139f55540f214fc9fbffdf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false
+                },
+                "title": "ENCORE",
+                "title_with_featured": "ENCORE",
+                "url": "https://genius.com/Benjamin-epps-encore-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2521469",
+                    "header_image_url": "https://images.genius.com/af6f07f4ec4cf1e0c6d6bb6fc5f02225.1000x563x1.png",
+                    "id": 2521469,
+                    "image_url": "https://images.genius.com/315289a8012ceab94ddfd41e1bb9779d.924x924x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Epps",
+                    "url": "https://genius.com/artists/Benjamin-epps"
+                }
+            }
+        ],
+        "next_page": 2
+    }
+}

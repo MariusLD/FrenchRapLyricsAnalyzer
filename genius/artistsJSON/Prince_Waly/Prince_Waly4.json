@@ -1,0 +1,934 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4426136",
+                "artist_names": "Sofiane Pamart",
+                "full_title": "La Havane by\u00a0Sofiane\u00a0Pamart",
+                "header_image_thumbnail_url": "https://images.genius.com/b14caa3b48b10d59fd5afbf5ce36ba8d.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/b14caa3b48b10d59fd5afbf5ce36ba8d.1000x563x1.jpg",
+                "id": 4426136,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Sofiane-pamart-la-havane-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sofiane-pamart-la-havane-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 27
+                },
+                "release_date_for_display": "March 27, 2019",
+                "release_date_with_abbreviated_month_for_display": "Mar. 27, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9535d420c20815fe3f6b7b5c2f279892.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9535d420c20815fe3f6b7b5c2f279892.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La Havane",
+                "title_with_featured": "La Havane",
+                "url": "https://genius.com/Sofiane-pamart-la-havane-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/324313",
+                    "header_image_url": "https://images.genius.com/ad3cdbaebf297f56d3aea077312bdc39.600x306x1.jpg",
+                    "id": 324313,
+                    "image_url": "https://images.genius.com/0fa34e02ac9228ca9155c8f9e25aa8e4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sofiane Pamart",
+                    "url": "https://genius.com/artists/Sofiane-pamart",
+                    "iq": 124
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/2461575",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "La main verte pour le bl\u00e9 by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/dac44302bb4a14d6d4bd0033f6914021.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/dac44302bb4a14d6d4bd0033f6914021.960x960x1.jpg",
+                "id": 2461575,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-la-main-verte-pour-le-ble-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-la-main-verte-pour-le-ble-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 4,
+                    "day": 3
+                },
+                "release_date_for_display": "April 3, 2013",
+                "release_date_with_abbreviated_month_for_display": "Apr. 3, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dac44302bb4a14d6d4bd0033f6914021.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dac44302bb4a14d6d4bd0033f6914021.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "La main verte pour le bl\u00e9",
+                "title_with_featured": "La main verte pour le bl\u00e9",
+                "url": "https://genius.com/Big-budha-cheez-la-main-verte-pour-le-ble-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2471607",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "L'Apollo by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "id": 2471607,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-lapollo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-lapollo-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 22
+                },
+                "release_date_for_display": "April 22, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 22, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019Apollo",
+                "title_with_featured": "L'Apollo",
+                "url": "https://genius.com/Big-budha-cheez-lapollo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4719884",
+                "artist_names": "Prince Waly (Ft. Almeria)",
+                "full_title": "Le crime paie (part 2)* by\u00a0Prince\u00a0Waly (Ft.\u00a0Almeria)",
+                "header_image_thumbnail_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                "id": 4719884,
+                "language": "fr",
+                "lyrics_owner_id": 2301691,
+                "lyrics_state": "complete",
+                "path": "/Prince-waly-le-crime-paie-part-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Prince-waly-le-crime-paie-part-2-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le crime paie (part 2)*",
+                "title_with_featured": "Le crime paie (part 2)* (Ft.\u00a0Almeria)",
+                "url": "https://genius.com/Prince-waly-le-crime-paie-part-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1809936",
+                        "header_image_url": "https://images.genius.com/140eb8f7794e3220c5a94468ddee16c0.500x500x1.png",
+                        "id": 1809936,
+                        "image_url": "https://images.genius.com/140eb8f7794e3220c5a94468ddee16c0.500x500x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Almeria",
+                        "url": "https://genius.com/artists/Almeria"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/92079",
+                    "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                    "id": 92079,
+                    "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Prince Waly",
+                    "url": "https://genius.com/artists/Prince-waly",
+                    "iq": 921
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4625406",
+                "artist_names": "Almeria (Ft. Prince Waly)",
+                "full_title": "Le crime paie, Pt. 2 by\u00a0Almeria (Ft.\u00a0Prince\u00a0Waly)",
+                "header_image_thumbnail_url": "https://images.genius.com/faff30de669e69988bdaff1f8afa27f4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/faff30de669e69988bdaff1f8afa27f4.1000x1000x1.jpg",
+                "id": 4625406,
+                "language": "fr",
+                "lyrics_owner_id": 8887242,
+                "lyrics_state": "complete",
+                "path": "/Almeria-le-crime-paie-pt-2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Almeria-le-crime-paie-pt-2-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/faff30de669e69988bdaff1f8afa27f4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/faff30de669e69988bdaff1f8afa27f4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Le crime paie, Pt. 2",
+                "title_with_featured": "Le crime paie, Pt. 2 (Ft.\u00a0Prince\u00a0Waly)",
+                "url": "https://genius.com/Almeria-le-crime-paie-pt-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/92079",
+                        "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                        "id": 92079,
+                        "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Prince Waly",
+                        "url": "https://genius.com/artists/Prince-waly",
+                        "iq": 921
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1809936",
+                    "header_image_url": "https://images.genius.com/140eb8f7794e3220c5a94468ddee16c0.500x500x1.png",
+                    "id": 1809936,
+                    "image_url": "https://images.genius.com/140eb8f7794e3220c5a94468ddee16c0.500x500x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Almeria",
+                    "url": "https://genius.com/artists/Almeria"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/2471068",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "L\u2019\u00e9poque choque by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "id": 2471068,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-lepoque-choque-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-lepoque-choque-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 22
+                },
+                "release_date_for_display": "April 22, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 22, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "L\u2019\u00e9poque choque",
+                "title_with_featured": "L\u2019\u00e9poque choque",
+                "url": "https://genius.com/Big-budha-cheez-lepoque-choque-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/2458258",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "Les jeunes changent by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/50d431af59c6cc9c79c165d2e95c426c.300x267x1.jpg",
+                "header_image_url": "https://images.genius.com/50d431af59c6cc9c79c165d2e95c426c.725x646x1.jpg",
+                "id": 2458258,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-les-jeunes-changent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-les-jeunes-changent-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 7,
+                    "day": 4
+                },
+                "release_date_for_display": "July 4, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jul. 4, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/50d431af59c6cc9c79c165d2e95c426c.300x267x1.jpg",
+                "song_art_image_url": "https://images.genius.com/50d431af59c6cc9c79c165d2e95c426c.725x646x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Les jeunes changent",
+                "title_with_featured": "Les jeunes changent",
+                "url": "https://genius.com/Big-budha-cheez-les-jeunes-changent-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/2461248",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "L'heure des loups by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "id": 2461248,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-lheure-des-loups-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-lheure-des-loups-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 22
+                },
+                "release_date_for_display": "April 22, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 22, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "L\u2019heure des loups",
+                "title_with_featured": "L'heure des loups",
+                "url": "https://genius.com/Big-budha-cheez-lheure-des-loups-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/690923",
+                "artist_names": "Bon Gamin (Ft. Ateyaba)",
+                "full_title": "Louper by\u00a0Bon\u00a0Gamin (Ft.\u00a0Ateyaba)",
+                "header_image_thumbnail_url": "https://images.genius.com/87f766249d0e0b5ae457cc01af4902ab.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/87f766249d0e0b5ae457cc01af4902ab.1000x563x1.jpg",
+                "id": 690923,
+                "language": "fr",
+                "lyrics_owner_id": 29395,
+                "lyrics_state": "complete",
+                "path": "/Bon-gamin-louper-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Bon-gamin-louper-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 25
+                },
+                "release_date_for_display": "January 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jan. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5883bfbbe99fc4e0bdc0c9cc7a5aec9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5883bfbbe99fc4e0bdc0c9cc7a5aec9.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 9193
+                },
+                "title": "Louper",
+                "title_with_featured": "Louper (Ft.\u00a0Ateyaba)",
+                "url": "https://genius.com/Bon-gamin-louper-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14857",
+                        "header_image_url": "https://images.genius.com/547295e1fa59880ba824f1e84d02a960.1000x667x1.jpg",
+                        "id": 14857,
+                        "image_url": "https://images.genius.com/4a785940756d9adab4096659c255afdc.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ateyaba",
+                        "url": "https://genius.com/artists/Ateyaba",
+                        "iq": 1654
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/322827",
+                    "header_image_url": "https://images.genius.com/77649da2fc37e4cad4131f2a54e6e1de.476x218x1.jpg",
+                    "id": 322827,
+                    "image_url": "https://images.genius.com/ed27efc4aa0dd96116ffd33a2337b352.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bon Gamin",
+                    "url": "https://genius.com/artists/Bon-gamin"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/4163708",
+                "artist_names": "Prince Waly",
+                "full_title": "Ma chaussure by\u00a0Prince\u00a0Waly",
+                "header_image_thumbnail_url": "https://images.genius.com/c11ef51151685a9231eef0dd91f594c0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c11ef51151685a9231eef0dd91f594c0.1000x1000x1.jpg",
+                "id": 4163708,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Prince-waly-ma-chaussure-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Prince-waly-ma-chaussure-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 18
+                },
+                "release_date_for_display": "January 18, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jan. 18, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c11ef51151685a9231eef0dd91f594c0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c11ef51151685a9231eef0dd91f594c0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Ma chaussure",
+                "title_with_featured": "Ma chaussure",
+                "url": "https://genius.com/Prince-waly-ma-chaussure-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/92079",
+                    "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                    "id": 92079,
+                    "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Prince Waly",
+                    "url": "https://genius.com/artists/Prince-waly",
+                    "iq": 921
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3542605",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "Maison Blanche by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/18f1ee4c7d371a3a62b4188df753715a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/18f1ee4c7d371a3a62b4188df753715a.960x960x1.jpg",
+                "id": 3542605,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-maison-blanche-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-maison-blanche-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/18f1ee4c7d371a3a62b4188df753715a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/18f1ee4c7d371a3a62b4188df753715a.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Maison Blanche",
+                "title_with_featured": "Maison Blanche",
+                "url": "https://genius.com/Big-budha-cheez-maison-blanche-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/4108367",
+                "artist_names": "Prince Waly",
+                "full_title": "Marsellus Wallace by\u00a0Prince\u00a0Waly",
+                "header_image_thumbnail_url": "https://images.genius.com/7ac886229608b9b26e5c9637928d06fb.300x157x1.jpg",
+                "header_image_url": "https://images.genius.com/7ac886229608b9b26e5c9637928d06fb.820x430x1.jpg",
+                "id": 4108367,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Prince-waly-marsellus-wallace-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Prince-waly-marsellus-wallace-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 22
+                },
+                "release_date_for_display": "November 22, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 22, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/54459c5b2d92d59f4436017ae5d57afe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/54459c5b2d92d59f4436017ae5d57afe.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Marsellus Wallace",
+                "title_with_featured": "Marsellus Wallace",
+                "url": "https://genius.com/Prince-waly-marsellus-wallace-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/92079",
+                    "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                    "id": 92079,
+                    "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Prince Waly",
+                    "url": "https://genius.com/artists/Prince-waly",
+                    "iq": 921
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8354530",
+                "artist_names": "Souffrance (Ft. Cenza & Prince Waly)",
+                "full_title": "Matrice by\u00a0Souffrance (Ft.\u00a0Cenza & Prince\u00a0Waly)",
+                "header_image_thumbnail_url": "https://images.genius.com/311e090773cfa19df4e71aa9b09d0e15.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/311e090773cfa19df4e71aa9b09d0e15.1000x1000x1.jpg",
+                "id": 8354530,
+                "language": "en",
+                "lyrics_owner_id": 11292499,
+                "lyrics_state": "complete",
+                "path": "/Souffrance-matrice-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Souffrance-matrice-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 14
+                },
+                "release_date_for_display": "October 14, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 14, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/311e090773cfa19df4e71aa9b09d0e15.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/311e090773cfa19df4e71aa9b09d0e15.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Matrice",
+                "title_with_featured": "Matrice (Ft.\u00a0Cenza & Prince\u00a0Waly)",
+                "url": "https://genius.com/Souffrance-matrice-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/16505",
+                        "header_image_url": "https://images.genius.com/ce48fc9cfeabceb6db100d151f34e3da.1000x563x1.jpg",
+                        "id": 16505,
+                        "image_url": "https://images.genius.com/998644da581f3ff8ee182dd0641d1c5f.608x608x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cenza",
+                        "url": "https://genius.com/artists/Cenza"
+                    },
+                    {
+                        "api_path": "/artists/92079",
+                        "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                        "id": 92079,
+                        "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Prince Waly",
+                        "url": "https://genius.com/artists/Prince-waly",
+                        "iq": 921
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/580259",
+                    "header_image_url": "https://images.genius.com/95551275047151a7f212d05f99727c53.587x350x1.png",
+                    "id": 580259,
+                    "image_url": "https://images.genius.com/9298b33cce75adbec5ade975e8e17fd8.555x555x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Souffrance",
+                    "url": "https://genius.com/artists/Souffrance",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/2333757",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "M.City Citizen by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/4gLK-yak5Zs/mqdefault.webp",
+                "header_image_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=https://i.ytimg.com/vi_webp/4gLK-yak5Zs/mqdefault.webp",
+                "id": 2333757,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-mcity-citizen-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-mcity-citizen-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 3,
+                    "day": 20
+                },
+                "release_date_for_display": "March 20, 2013",
+                "release_date_with_abbreviated_month_for_display": "Mar. 20, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/08b450493c06dc0948b67869c1002b67.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/08b450493c06dc0948b67869c1002b67.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "M.City Citizen",
+                "title_with_featured": "M.City Citizen",
+                "url": "https://genius.com/Big-budha-cheez-mcity-citizen-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2469053",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "Mercure by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "id": 2469053,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-mercure-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-mercure-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 20
+                },
+                "release_date_for_display": "April 20, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 20, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mercure",
+                "title_with_featured": "Mercure",
+                "url": "https://genius.com/Big-budha-cheez-mercure-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8363148",
+                "artist_names": "Prince Waly",
+                "full_title": "Mercy by\u00a0Prince\u00a0Waly",
+                "header_image_thumbnail_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.1000x1000x1.jpg",
+                "id": 8363148,
+                "language": "fr",
+                "lyrics_owner_id": 11561266,
+                "lyrics_state": "complete",
+                "path": "/Prince-waly-mercy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Prince-waly-mercy-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mercy",
+                "title_with_featured": "Mercy",
+                "url": "https://genius.com/Prince-waly-mercy-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/92079",
+                    "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                    "id": 92079,
+                    "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Prince Waly",
+                    "url": "https://genius.com/artists/Prince-waly",
+                    "iq": 921
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/2470249",
+                "artist_names": "Big Budha Cheez",
+                "full_title": "Mes patrons by\u00a0Big\u00a0Budha Cheez",
+                "header_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "id": 2470249,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Big-budha-cheez-mes-patrons-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Big-budha-cheez-mes-patrons-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 22
+                },
+                "release_date_for_display": "April 22, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 22, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5cf911c1cb0e0c74e7eb4287d74845b7.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Mes patrons",
+                "title_with_featured": "Mes patrons",
+                "url": "https://genius.com/Big-budha-cheez-mes-patrons-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/503953",
+                    "header_image_url": "https://images.genius.com/db89a82ea015598052adf0d3097b3cb6.1000x498x1.png",
+                    "id": 503953,
+                    "image_url": "https://images.genius.com/53368dc5cd0b59525c29ffb09a07b0b7.272x272x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Budha Cheez",
+                    "url": "https://genius.com/artists/Big-budha-cheez"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8363142",
+                "artist_names": "Prince Waly",
+                "full_title": "Messe by\u00a0Prince\u00a0Waly",
+                "header_image_thumbnail_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.1000x1000x1.jpg",
+                "id": 8363142,
+                "language": "fr",
+                "lyrics_owner_id": 342468,
+                "lyrics_state": "complete",
+                "path": "/Prince-waly-messe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Prince-waly-messe-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 30
+                },
+                "release_date_for_display": "September 30, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 30, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Messe",
+                "title_with_featured": "Messe",
+                "url": "https://genius.com/Prince-waly-messe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/92079",
+                    "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                    "id": 92079,
+                    "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Prince Waly",
+                    "url": "https://genius.com/artists/Prince-waly",
+                    "iq": 921
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7989609",
+                "artist_names": "Walk in Paris (Ft. Enchant\u00e9e Julia & Prince Waly)",
+                "full_title": "Minute by\u00a0Walk\u00a0in Paris (Ft.\u00a0Enchant\u00e9e\u00a0Julia & Prince\u00a0Waly)",
+                "header_image_thumbnail_url": "https://images.genius.com/99e5bb3cd2560f1e53f3716540e5697c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/99e5bb3cd2560f1e53f3716540e5697c.1000x1000x1.jpg",
+                "id": 7989609,
+                "language": "fr",
+                "lyrics_owner_id": 8557084,
+                "lyrics_state": "complete",
+                "path": "/Walk-in-paris-minute-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Walk-in-paris-minute-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 17
+                },
+                "release_date_for_display": "June 17, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jun. 17, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/99e5bb3cd2560f1e53f3716540e5697c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/99e5bb3cd2560f1e53f3716540e5697c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Minute",
+                "title_with_featured": "Minute (Ft.\u00a0Enchant\u00e9e\u00a0Julia & Prince\u00a0Waly)",
+                "url": "https://genius.com/Walk-in-paris-minute-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1529350",
+                        "header_image_url": "https://images.genius.com/1cb09eaf0edc8d7a721e7b0f15ff7681.800x1000x1.jpg",
+                        "id": 1529350,
+                        "image_url": "https://images.genius.com/d8b7ce2b7d171665937b62036443772a.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Enchant\u00e9e Julia",
+                        "url": "https://genius.com/artists/Enchantee-julia"
+                    },
+                    {
+                        "api_path": "/artists/92079",
+                        "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                        "id": 92079,
+                        "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Prince Waly",
+                        "url": "https://genius.com/artists/Prince-waly",
+                        "iq": 921
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1228031",
+                    "header_image_url": "https://images.genius.com/032bfd57fe48155624b46ea70206467b.320x320x1.jpg",
+                    "id": 1228031,
+                    "image_url": "https://images.genius.com/032bfd57fe48155624b46ea70206467b.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Walk in Paris",
+                    "url": "https://genius.com/artists/Walk-in-paris"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/8357488",
+                "artist_names": "Prince Waly",
+                "full_title": "Miroir by\u00a0Prince\u00a0Waly",
+                "header_image_thumbnail_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.1000x1000x1.jpg",
+                "id": 8357488,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Prince-waly-miroir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Prince-waly-miroir-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 5
+                },
+                "release_date_for_display": "September 5, 2022",
+                "release_date_with_abbreviated_month_for_display": "Sep. 5, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/618a3ab414fc54cad972382e7b006689.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Miroir",
+                "title_with_featured": "Miroir",
+                "url": "https://genius.com/Prince-waly-miroir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/92079",
+                    "header_image_url": "https://images.genius.com/e0c5fafb5a414e04c2ea248c3c50694e.1000x667x1.jpg",
+                    "id": 92079,
+                    "image_url": "https://images.genius.com/23f71c29c1c66c6a891399faf2f67684.849x849x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Prince Waly",
+                    "url": "https://genius.com/artists/Prince-waly",
+                    "iq": 921
+                }
+            }
+        ],
+        "next_page": 5
+    }
+}

@@ -1,0 +1,883 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/5774934",
+                "artist_names": "Retro X",
+                "full_title": "Kobe by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/a293a53666e3ec8e6036506743d6e091.300x300x1.png",
+                "header_image_url": "https://images.genius.com/a293a53666e3ec8e6036506743d6e091.660x660x1.png",
+                "id": 5774934,
+                "language": "en",
+                "lyrics_owner_id": 5444864,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-kobe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-kobe-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 17
+                },
+                "release_date_for_display": "July 17, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 17, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a293a53666e3ec8e6036506743d6e091.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/a293a53666e3ec8e6036506743d6e091.660x660x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Kobe",
+                "title_with_featured": "Kobe",
+                "url": "https://genius.com/Retro-x-kobe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3108116",
+                "artist_names": "Retro X",
+                "full_title": "La Ballade de Gianni n\u00b01 by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.1000x1000x1.jpg",
+                "id": 3108116,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-la-ballade-de-gianni-n1-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-la-ballade-de-gianni-n1-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 1
+                },
+                "release_date_for_display": "June 1, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 1, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La Ballade de Gianni n\u00b01",
+                "title_with_featured": "La Ballade de Gianni n\u00b01",
+                "url": "https://genius.com/Retro-x-la-ballade-de-gianni-n1-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3097650",
+                "artist_names": "Retro X",
+                "full_title": "La ballade de Gianni n\u00b02 by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.1000x1000x1.jpg",
+                "id": 3097650,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-la-ballade-de-gianni-n2-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-la-ballade-de-gianni-n2-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 31
+                },
+                "release_date_for_display": "May 31, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 31, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ec50dbebed23be87245b53f87a82ef5d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La ballade de Gianni n\u00b02",
+                "title_with_featured": "La ballade de Gianni n\u00b02",
+                "url": "https://genius.com/Retro-x-la-ballade-de-gianni-n2-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7365327",
+                "artist_names": "Retro X",
+                "full_title": "LA JOCONDE by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "header_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "id": 7365327,
+                "language": "en",
+                "lyrics_owner_id": 15413423,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-la-joconde-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-la-joconde-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "LA JOCONDE",
+                "title_with_featured": "LA JOCONDE",
+                "url": "https://genius.com/Retro-x-la-joconde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5043683",
+                "artist_names": "Titan",
+                "full_title": "La Line by\u00a0Titan",
+                "header_image_thumbnail_url": "https://images.genius.com/f3348a03c4534a71e590b68d53f9285c.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/f3348a03c4534a71e590b68d53f9285c.1000x563x1.jpg",
+                "id": 5043683,
+                "language": null,
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "incomplete",
+                "path": "/Titan-la-line-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Titan-la-line-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 11
+                },
+                "release_date_for_display": "May 11, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 11, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/98eb392c365adde7b0febe8f93447bbf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/98eb392c365adde7b0febe8f93447bbf.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La Line",
+                "title_with_featured": "La Line",
+                "url": "https://genius.com/Titan-la-line-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15514",
+                    "header_image_url": "https://images.genius.com/f04722157b2ddfe9103af9d30f674102.1000x1000x1.jpg",
+                    "id": 15514,
+                    "image_url": "https://images.genius.com/f04722157b2ddfe9103af9d30f674102.1000x1000x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Titan",
+                    "url": "https://genius.com/artists/Titan",
+                    "iq": 2812
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3694776",
+                "artist_names": "Retro X",
+                "full_title": "L'argent by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/48cf8da3f1d0b3bbf9775a2f20b07008.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/48cf8da3f1d0b3bbf9775a2f20b07008.1000x563x1.jpg",
+                "id": 3694776,
+                "language": "fr",
+                "lyrics_owner_id": 9956405,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-largent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-largent-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 4
+                },
+                "release_date_for_display": "May 4, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 4, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3adb7d3ff2275ca5c2b3670fdee82a94.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/3adb7d3ff2275ca5c2b3670fdee82a94.872x872x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "L\u2019argent",
+                "title_with_featured": "L'argent",
+                "url": "https://genius.com/Retro-x-largent-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8680208",
+                "artist_names": "Retro X",
+                "full_title": "LATE by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "id": 8680208,
+                "language": "en",
+                "lyrics_owner_id": 4972327,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-late-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-late-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 9
+                },
+                "release_date_for_display": "October 9, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 9, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "LATE",
+                "title_with_featured": "LATE",
+                "url": "https://genius.com/Retro-x-late-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7365320",
+                "artist_names": "Retro X",
+                "full_title": "LE CRI by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "header_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "id": 7365320,
+                "language": "fr",
+                "lyrics_owner_id": 5444864,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-le-cri-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-le-cri-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "LE CRI",
+                "title_with_featured": "LE CRI",
+                "url": "https://genius.com/Retro-x-le-cri-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7365328",
+                "artist_names": "Retro X",
+                "full_title": "LE SALVATORE MUNDI by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "header_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "id": 7365328,
+                "language": "fr",
+                "lyrics_owner_id": 15413423,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-le-salvatore-mundi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-le-salvatore-mundi-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "LE SALVATORE MUNDI",
+                "title_with_featured": "LE SALVATORE MUNDI",
+                "url": "https://genius.com/Retro-x-le-salvatore-mundi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/7365325",
+                "artist_names": "Retro X (Ft. Darina Miller)",
+                "full_title": "LE SOMMEIL D'ELIE by\u00a0Retro\u00a0X (Ft.\u00a0Darina\u00a0Miller)",
+                "header_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "header_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "id": 7365325,
+                "language": "en",
+                "lyrics_owner_id": 15413423,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-le-sommeil-delie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-le-sommeil-delie-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 23
+                },
+                "release_date_for_display": "November 23, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 23, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/17139ec14d4e098a6ca9e2ee526bb35a.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "LE SOMMEIL D\u2019ELIE",
+                "title_with_featured": "LE SOMMEIL D'ELIE (Ft.\u00a0Darina\u00a0Miller)",
+                "url": "https://genius.com/Retro-x-le-sommeil-delie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2943880",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2943880,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Darina Miller",
+                        "url": "https://genius.com/artists/Darina-miller"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3108871",
+                "artist_names": "Les Alchimistes (Ft. Jorrdee & Retro X)",
+                "full_title": "Le temps z\u00e9ro by\u00a0Les\u00a0Alchimistes (Ft.\u00a0Jorrdee & Retro\u00a0X)",
+                "header_image_thumbnail_url": "https://images.genius.com/d249761ab5fc958f5d9708f474648a7e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d249761ab5fc958f5d9708f474648a7e.960x960x1.jpg",
+                "id": 3108871,
+                "language": "fr",
+                "lyrics_owner_id": 3665808,
+                "lyrics_state": "complete",
+                "path": "/Les-alchimistes-le-temps-zero-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Les-alchimistes-le-temps-zero-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 2
+                },
+                "release_date_for_display": "June 2, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 2, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d249761ab5fc958f5d9708f474648a7e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d249761ab5fc958f5d9708f474648a7e.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le temps z\u00e9ro",
+                "title_with_featured": "Le temps z\u00e9ro (Ft.\u00a0Jorrdee & Retro\u00a0X)",
+                "url": "https://genius.com/Les-alchimistes-le-temps-zero-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1035209",
+                        "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                        "id": 1035209,
+                        "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Retro X",
+                        "url": "https://genius.com/artists/Retro-x"
+                    },
+                    {
+                        "api_path": "/artists/515495",
+                        "header_image_url": "https://images.genius.com/02401b79026b3c2bffde24103d43b115.660x330x1.jpg",
+                        "id": 515495,
+                        "image_url": "https://images.genius.com/1879fd6bc867bdc01b98d89c3f6a47e2.474x474x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jorrdee",
+                        "url": "https://genius.com/artists/Jorrdee"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/671323",
+                    "header_image_url": "https://images.genius.com/37ac80e819c11c1d7b661828667bd2d4.820x548x1.jpg",
+                    "id": 671323,
+                    "image_url": "https://images.genius.com/7eb088e659b83326d9e45bb06d92ffad.810x810x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Les Alchimistes",
+                    "url": "https://genius.com/artists/Les-alchimistes",
+                    "iq": 552
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8682198",
+                "artist_names": "Retro X",
+                "full_title": "LOCS & JERRY by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "id": 8682198,
+                "language": null,
+                "lyrics_owner_id": 5444864,
+                "lyrics_state": "incomplete",
+                "path": "/Retro-x-locs-and-jerry-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-locs-and-jerry-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "LOCS & JERRY",
+                "title_with_featured": "LOCS & JERRY",
+                "url": "https://genius.com/Retro-x-locs-and-jerry-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8682190",
+                "artist_names": "Retro X",
+                "full_title": "LOVE STORY by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "id": 8682190,
+                "language": null,
+                "lyrics_owner_id": 5444864,
+                "lyrics_state": "incomplete",
+                "path": "/Retro-x-love-story-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-love-story-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "LOVE STORY",
+                "title_with_featured": "LOVE STORY",
+                "url": "https://genius.com/Retro-x-love-story-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4676621",
+                "artist_names": "Retro X",
+                "full_title": "LUC_11 by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.936x936x1.jpg",
+                "id": 4676621,
+                "language": "fr",
+                "lyrics_owner_id": 1003952,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-luc-11-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Retro-x-luc-11-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.936x936x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "LUC_11",
+                "title_with_featured": "LUC_11",
+                "url": "https://genius.com/Retro-x-luc-11-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6361835",
+                "artist_names": "Retro X",
+                "full_title": "Lvdb by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "id": 6361835,
+                "language": "fr",
+                "lyrics_owner_id": 5444864,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-lvdb-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-lvdb-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 8
+                },
+                "release_date_for_display": "January 8, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jan. 8, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Lvdb",
+                "title_with_featured": "Lvdb",
+                "url": "https://genius.com/Retro-x-lvdb-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5737897",
+                "artist_names": "Skinny Sixbool, Retro X & Gizo Evoracci",
+                "full_title": "MA3 by\u00a0Skinny\u00a0Sixbool, Retro X & Gizo Evoracci",
+                "header_image_thumbnail_url": "https://images.genius.com/95a610b36b3dad8887acf8d727d3e397.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/95a610b36b3dad8887acf8d727d3e397.640x640x1.jpg",
+                "id": 5737897,
+                "language": "en",
+                "lyrics_owner_id": 201783,
+                "lyrics_state": "complete",
+                "path": "/Skinny-sixbool-retro-x-and-gizo-evoracci-ma3-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Skinny-sixbool-retro-x-and-gizo-evoracci-ma3-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 10
+                },
+                "release_date_for_display": "July 10, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 10, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/95a610b36b3dad8887acf8d727d3e397.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/95a610b36b3dad8887acf8d727d3e397.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "MA3",
+                "title_with_featured": "MA3",
+                "url": "https://genius.com/Skinny-sixbool-retro-x-and-gizo-evoracci-ma3-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2319486",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2319486,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Skinny Sixbool, Retro X & Gizo Evoracci",
+                    "url": "https://genius.com/artists/Skinny-sixbool-retro-x-and-gizo-evoracci"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4676623",
+                "artist_names": "Retro X",
+                "full_title": "MAISON BLANCH. by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.936x936x1.jpg",
+                "id": 4676623,
+                "language": "fr",
+                "lyrics_owner_id": 7775702,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-maison-blanch-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-maison-blanch-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b28d047213c5a56dec244c5c98318ec5.936x936x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "MAISON BLANCH.",
+                "title_with_featured": "MAISON BLANCH.",
+                "url": "https://genius.com/Retro-x-maison-blanch-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3988864",
+                "artist_names": "Retro X",
+                "full_title": "Malboro by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/c5c56f19dfbb5ab2f4116dbcbf5a5d6c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c5c56f19dfbb5ab2f4116dbcbf5a5d6c.600x600x1.jpg",
+                "id": 3988864,
+                "language": "fr",
+                "lyrics_owner_id": 5233007,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-malboro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-malboro-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c5c56f19dfbb5ab2f4116dbcbf5a5d6c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c5c56f19dfbb5ab2f4116dbcbf5a5d6c.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Malboro",
+                "title_with_featured": "Malboro",
+                "url": "https://genius.com/Retro-x-malboro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3694785",
+                "artist_names": "Retro X",
+                "full_title": "Manhattan School by\u00a0Retro\u00a0X",
+                "header_image_thumbnail_url": "https://images.genius.com/1b8a79e4905fb67a0f1b805b07e08f1f.300x300x1.png",
+                "header_image_url": "https://images.genius.com/1b8a79e4905fb67a0f1b805b07e08f1f.379x379x1.png",
+                "id": 3694785,
+                "language": "en",
+                "lyrics_owner_id": 5233007,
+                "lyrics_state": "complete",
+                "path": "/Retro-x-manhattan-school-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-manhattan-school-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 4
+                },
+                "release_date_for_display": "May 4, 2018",
+                "release_date_with_abbreviated_month_for_display": "May. 4, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1b8a79e4905fb67a0f1b805b07e08f1f.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/1b8a79e4905fb67a0f1b805b07e08f1f.379x379x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Manhattan School",
+                "title_with_featured": "Manhattan School",
+                "url": "https://genius.com/Retro-x-manhattan-school-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7194879",
+                "artist_names": "Retro X (Ft. Moe D'Amour)",
+                "full_title": "Marco Polo by\u00a0Retro\u00a0X (Ft.\u00a0Moe\u00a0D'Amour)",
+                "header_image_thumbnail_url": "https://images.genius.com/817dfa2d4cc3bff7f8c00a81d58de343.300x276x1.jpg",
+                "header_image_url": "https://images.genius.com/817dfa2d4cc3bff7f8c00a81d58de343.838x772x1.jpg",
+                "id": 7194879,
+                "language": null,
+                "lyrics_owner_id": 11387505,
+                "lyrics_state": "unreleased",
+                "path": "/Retro-x-marco-polo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Retro-x-marco-polo-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/817dfa2d4cc3bff7f8c00a81d58de343.300x276x1.jpg",
+                "song_art_image_url": "https://images.genius.com/817dfa2d4cc3bff7f8c00a81d58de343.838x772x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Marco Polo",
+                "title_with_featured": "Marco Polo (Ft.\u00a0Moe\u00a0D'Amour)",
+                "url": "https://genius.com/Retro-x-marco-polo-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1125990",
+                        "header_image_url": "https://images.genius.com/502997df1c1ad85cae74f38299f3fea5.471x424x1.png",
+                        "id": 1125990,
+                        "image_url": "https://images.genius.com/a8275d4ca328bf6859cea0bf4a432b9d.362x362x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Moe D\u2019Amour",
+                        "url": "https://genius.com/artists/Moe-damour"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1035209",
+                    "header_image_url": "https://images.genius.com/5fb9834696550d3ce834a4213a339e8d.1000x563x1.jpg",
+                    "id": 1035209,
+                    "image_url": "https://images.genius.com/bf90dea1efcc4aab19ac76bf29ab6dcf.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Retro X",
+                    "url": "https://genius.com/artists/Retro-x"
+                }
+            }
+        ],
+        "next_page": 7
+    }
+}

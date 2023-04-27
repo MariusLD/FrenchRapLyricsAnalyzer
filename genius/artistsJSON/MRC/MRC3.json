@@ -1,0 +1,933 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3450180",
+                "artist_names": "MRC",
+                "full_title": "On est l\u00e0 by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/ac5fcfdf4dd4900ac587fa1282487680.268x268x1.jpg",
+                "header_image_url": "https://images.genius.com/ac5fcfdf4dd4900ac587fa1282487680.268x268x1.jpg",
+                "id": 3450180,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Mrc-on-est-la-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-on-est-la-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 19
+                },
+                "release_date_for_display": "January 19, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ac5fcfdf4dd4900ac587fa1282487680.268x268x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ac5fcfdf4dd4900ac587fa1282487680.268x268x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 23152
+                },
+                "title": "On est l\u00e0",
+                "title_with_featured": "On est l\u00e0",
+                "url": "https://genius.com/Mrc-on-est-la-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3709213",
+                "artist_names": "MRC",
+                "full_title": "On m'a dit by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "id": 3709213,
+                "language": "fr",
+                "lyrics_owner_id": 1810091,
+                "lyrics_state": "complete",
+                "path": "/Mrc-on-ma-dit-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mrc-on-ma-dit-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 5695
+                },
+                "title": "On m\u2019a dit",
+                "title_with_featured": "On m'a dit",
+                "url": "https://genius.com/Mrc-on-ma-dit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 29,
+                "api_path": "/songs/2435072",
+                "artist_names": "MRC",
+                "full_title": "Paix sans guerre by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/d0d3a8e029a499d8c6312644300496ae.300x168x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/d0d3a8e029a499d8c6312644300496ae.1000x559x1.jpg",
+                "id": 2435072,
+                "language": "fr",
+                "lyrics_owner_id": 1059054,
+                "lyrics_state": "complete",
+                "path": "/Mrc-paix-sans-guerre-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Mrc-paix-sans-guerre-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 3
+                },
+                "release_date_for_display": "March 3, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 3, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/257517e91a7a3ad061ac0b5c57fd15b3.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/257517e91a7a3ad061ac0b5c57fd15b3.648x645x1.png",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 233348
+                },
+                "title": "Paix sans guerre",
+                "title_with_featured": "Paix sans guerre",
+                "url": "https://genius.com/Mrc-paix-sans-guerre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3709222",
+                "artist_names": "MRC",
+                "full_title": "Pardon Mama by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "id": 3709222,
+                "language": "fr",
+                "lyrics_owner_id": 1810091,
+                "lyrics_state": "complete",
+                "path": "/Mrc-pardon-mama-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-pardon-mama-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pardon Mama",
+                "title_with_featured": "Pardon Mama",
+                "url": "https://genius.com/Mrc-pardon-mama-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6126915",
+                "artist_names": "MRC",
+                "full_title": "Pardonne moi by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.1000x1000x1.jpg",
+                "id": 6126915,
+                "language": "fr",
+                "lyrics_owner_id": 2986627,
+                "lyrics_state": "complete",
+                "path": "/Mrc-pardonne-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-pardonne-moi-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 20
+                },
+                "release_date_for_display": "November 20, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 20, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pardonne moi",
+                "title_with_featured": "Pardonne moi",
+                "url": "https://genius.com/Mrc-pardonne-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2877043",
+                "artist_names": "MRC",
+                "full_title": "Pas l\u00e0 by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "header_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "id": 2877043,
+                "language": "fr",
+                "lyrics_owner_id": 3821545,
+                "lyrics_state": "complete",
+                "path": "/Mrc-pas-la-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-pas-la-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2016",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Pas l\u00e0",
+                "title_with_featured": "Pas l\u00e0",
+                "url": "https://genius.com/Mrc-pas-la-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2878585",
+                "artist_names": "MRC",
+                "full_title": "Personne peut m'arr\u00eater by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "header_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "id": 2878585,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Mrc-personne-peut-marreter-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-personne-peut-marreter-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2016",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 7694
+                },
+                "title": "Personne peut m\u2019arr\u00eater",
+                "title_with_featured": "Personne peut m'arr\u00eater",
+                "url": "https://genius.com/Mrc-personne-peut-marreter-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 45,
+                "api_path": "/songs/2876191",
+                "artist_names": "MRC",
+                "full_title": "Plus rien \u00e0 perdre by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "header_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "id": 2876191,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Mrc-plus-rien-a-perdre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-plus-rien-a-perdre-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2016",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "stats": {
+                    "unreviewed_annotations": 45,
+                    "hot": false,
+                    "pageviews": 15967
+                },
+                "title": "Plus rien \u00e0 perdre",
+                "title_with_featured": "Plus rien \u00e0 perdre",
+                "url": "https://genius.com/Mrc-plus-rien-a-perdre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/2859648",
+                "artist_names": "MRC",
+                "full_title": "Raffalez Les by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "header_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "id": 2859648,
+                "language": "fr",
+                "lyrics_owner_id": 3520137,
+                "lyrics_state": "complete",
+                "path": "/Mrc-raffalez-les-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Mrc-raffalez-les-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 16
+                },
+                "release_date_for_display": "September 16, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 16, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 62140
+                },
+                "title": "Raffalez Les",
+                "title_with_featured": "Raffalez Les",
+                "url": "https://genius.com/Mrc-raffalez-les-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/3253164",
+                "artist_names": "Rentre dans le Cercle (Ft. Guizmo, Kofs, KPoint, M\u00e9dine, MRC & VSO)",
+                "full_title": "Rentre dans le Cercle - \u00c9pisode 3 by\u00a0Rentre\u00a0dans le Cercle (Ft.\u00a0Guizmo, Kofs, KPoint, M\u00e9dine, MRC & VSO)",
+                "header_image_thumbnail_url": "https://images.genius.com/936a5a809e3e42461b438b8903c1601d.300x120x1.jpg",
+                "header_image_url": "https://images.genius.com/936a5a809e3e42461b438b8903c1601d.1000x399x1.jpg",
+                "id": 3253164,
+                "language": "fr",
+                "lyrics_owner_id": 139772,
+                "lyrics_state": "complete",
+                "path": "/Rentre-dans-le-cercle-rentre-dans-le-cercle-episode-3-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rentre-dans-le-cercle-rentre-dans-le-cercle-episode-3-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 29
+                },
+                "release_date_for_display": "September 29, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2f670614e34451e1f6597eac04b335e7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2f670614e34451e1f6597eac04b335e7.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Rentre dans le Cercle - \u00c9pisode 3",
+                "title_with_featured": "Rentre dans le Cercle - \u00c9pisode 3 (Ft.\u00a0Guizmo, Kofs, KPoint, M\u00e9dine, MRC & VSO)",
+                "url": "https://genius.com/Rentre-dans-le-cercle-rentre-dans-le-cercle-episode-3-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1265",
+                        "header_image_url": "https://images.genius.com/b806183c92d73a4cc6624852d0b3a828.1000x562x1.jpg",
+                        "id": 1265,
+                        "image_url": "https://images.genius.com/851c5234ec3eca3c0b9251fe55140123.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "M\u00e9dine",
+                        "url": "https://genius.com/artists/Medine",
+                        "iq": 4001
+                    },
+                    {
+                        "api_path": "/artists/566498",
+                        "header_image_url": "https://images.genius.com/9b005bd9785fd694387f6ae024b9a8b6.600x600x1.jpg",
+                        "id": 566498,
+                        "image_url": "https://images.genius.com/d4619f2a579e9c3cd6e60348312202a9.593x593x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kofs",
+                        "url": "https://genius.com/artists/Kofs"
+                    },
+                    {
+                        "api_path": "/artists/49114",
+                        "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                        "id": 49114,
+                        "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MRC",
+                        "url": "https://genius.com/artists/Mrc"
+                    },
+                    {
+                        "api_path": "/artists/13640",
+                        "header_image_url": "https://images.genius.com/513daeef438e68517b22d8992448c55b.697x385x1.png",
+                        "id": 13640,
+                        "image_url": "https://images.genius.com/eebed6471e9476e6b982836ec2dd1b36.912x912x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Guizmo",
+                        "url": "https://genius.com/artists/Guizmo",
+                        "iq": 1822
+                    },
+                    {
+                        "api_path": "/artists/662395",
+                        "header_image_url": "https://images.genius.com/5262c2fe35184841147d59af4d678c5f.799x408x1.jpg",
+                        "id": 662395,
+                        "image_url": "https://images.genius.com/45c8dc8488237b8fc32bc5756ee4bd21.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "VSO",
+                        "url": "https://genius.com/artists/Vso",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/332627",
+                        "header_image_url": "https://images.genius.com/56cafea682086b7dc990f98a3b2cce58.960x960x1.jpg",
+                        "id": 332627,
+                        "image_url": "https://images.genius.com/9cb906c5fe7e6c9f1a5e6daaed919e12.827x827x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KPoint",
+                        "url": "https://genius.com/artists/Kpoint"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1552188",
+                    "header_image_url": "https://images.genius.com/503a6067adf1980e4f6f4dabc7a75a70.671x671x1.jpg",
+                    "id": 1552188,
+                    "image_url": "https://images.genius.com/503a6067adf1980e4f6f4dabc7a75a70.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rentre dans le Cercle",
+                    "url": "https://genius.com/artists/Rentre-dans-le-cercle"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2413372",
+                "artist_names": "MRC",
+                "full_title": "Reste \u00e0 l'\u00e9coute by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "id": 2413372,
+                "language": "fr",
+                "lyrics_owner_id": 2780418,
+                "lyrics_state": "complete",
+                "path": "/Mrc-reste-a-lecoute-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-reste-a-lecoute-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 1,
+                    "day": 24
+                },
+                "release_date_for_display": "January 24, 2016",
+                "release_date_with_abbreviated_month_for_display": "Jan. 24, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 20291
+                },
+                "title": "Reste \u00e0 l\u2019\u00e9coute",
+                "title_with_featured": "Reste \u00e0 l'\u00e9coute",
+                "url": "https://genius.com/Mrc-reste-a-lecoute-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3090524",
+                "artist_names": "KAMBand (Ft. KAMBand)",
+                "full_title": "Sargije by\u00a0KAMBand (Ft.\u00a0KAMBand)",
+                "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "id": 3090524,
+                "language": "fa",
+                "lyrics_owner_id": 4661028,
+                "lyrics_state": "complete",
+                "path": "/Kamband-sargije-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kamband-sargije-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 10
+                },
+                "release_date_for_display": "May 10, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 10, 2017",
+                "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682537573",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sargije",
+                "title_with_featured": "Sargije (Ft.\u00a0KAMBand)",
+                "url": "https://genius.com/Kamband-sargije-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1139852",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1139852,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KAMBand",
+                        "url": "https://genius.com/artists/Kamband"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1139852",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1139852,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KAMBand",
+                    "url": "https://genius.com/artists/Kamband"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3709236",
+                "artist_names": "MRC",
+                "full_title": "Solo by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "id": 3709236,
+                "language": "fr",
+                "lyrics_owner_id": 1810091,
+                "lyrics_state": "complete",
+                "path": "/Mrc-solo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-solo-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Solo",
+                "title_with_featured": "Solo",
+                "url": "https://genius.com/Mrc-solo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/73501",
+                "artist_names": "MRC (Ft. [a]pendics.shuffle)",
+                "full_title": "Something Strange by\u00a0MRC (Ft.\u00a0[a]pendics.shuffle)",
+                "header_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "id": 73501,
+                "language": "en",
+                "lyrics_owner_id": 27115,
+                "lyrics_state": "complete",
+                "path": "/Mrc-something-strange-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-something-strange-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Something Strange",
+                "title_with_featured": "Something Strange (Ft.\u00a0[a]pendics.shuffle)",
+                "url": "https://genius.com/Mrc-something-strange-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20160",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 20160,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "[a]pendics.shuffle",
+                        "url": "https://genius.com/artists/A-pendicsshuffle"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/148922",
+                "artist_names": "MRC",
+                "full_title": "Synchronicity by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "id": 148922,
+                "language": "en",
+                "lyrics_owner_id": 27115,
+                "lyrics_state": "complete",
+                "path": "/Mrc-synchronicity-annotated",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-synchronicity-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Synchronicity",
+                "title_with_featured": "Synchronicity",
+                "url": "https://genius.com/Mrc-synchronicity-annotated",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3709239",
+                "artist_names": "MRC",
+                "full_title": "Terrible by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "id": 3709239,
+                "language": "fr",
+                "lyrics_owner_id": 2001444,
+                "lyrics_state": "complete",
+                "path": "/Mrc-terrible-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-terrible-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25a3422b41e300ea5c8ae06749144dc4.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Terrible",
+                "title_with_featured": "Terrible",
+                "url": "https://genius.com/Mrc-terrible-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6126917",
+                "artist_names": "MRC",
+                "full_title": "Territoire by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.1000x1000x1.jpg",
+                "id": 6126917,
+                "language": "fr",
+                "lyrics_owner_id": 11359759,
+                "lyrics_state": "complete",
+                "path": "/Mrc-territoire-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-territoire-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 20
+                },
+                "release_date_for_display": "November 20, 2020",
+                "release_date_with_abbreviated_month_for_display": "Nov. 20, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/42910e7f8c118e5f4decd19300557418.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Territoire",
+                "title_with_featured": "Territoire",
+                "url": "https://genius.com/Mrc-territoire-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2876246",
+                "artist_names": "MRC",
+                "full_title": "T'es pas un bonhomme by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "header_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "id": 2876246,
+                "language": "fr",
+                "lyrics_owner_id": 3820948,
+                "lyrics_state": "complete",
+                "path": "/Mrc-tes-pas-un-bonhomme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mrc-tes-pas-un-bonhomme-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2016",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/5e794bc77f2dd6cd1390052975cb2bc3.400x398x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 9710
+                },
+                "title": "T\u2019es pas un bonhomme",
+                "title_with_featured": "T'es pas un bonhomme",
+                "url": "https://genius.com/Mrc-tes-pas-un-bonhomme-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/148914",
+                "artist_names": "MRC",
+                "full_title": "The Future by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "id": 148914,
+                "language": "en",
+                "lyrics_owner_id": 27115,
+                "lyrics_state": "complete",
+                "path": "/Mrc-the-future-annotated",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Mrc-the-future-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "The Future",
+                "title_with_featured": "The Future",
+                "url": "https://genius.com/Mrc-the-future-annotated",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/3382202",
+                "artist_names": "MRC",
+                "full_title": "T'inqui\u00e8te Pas by\u00a0MRC",
+                "header_image_thumbnail_url": "https://images.genius.com/b41b09d5732136fecb780b9435a001e2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b41b09d5732136fecb780b9435a001e2.960x960x1.jpg",
+                "id": 3382202,
+                "language": "fr",
+                "lyrics_owner_id": 2439977,
+                "lyrics_state": "complete",
+                "path": "/Mrc-tinquiete-pas-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Mrc-tinquiete-pas-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 18
+                },
+                "release_date_for_display": "December 18, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 18, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b41b09d5732136fecb780b9435a001e2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b41b09d5732136fecb780b9435a001e2.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 27822
+                },
+                "title": "T\u2019inqui\u00e8te Pas",
+                "title_with_featured": "T'inqui\u00e8te Pas",
+                "url": "https://genius.com/Mrc-tinquiete-pas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/49114",
+                    "header_image_url": "https://images.genius.com/99e94defb280fe056c4cd034fbc27460.435x250x72.gif",
+                    "id": 49114,
+                    "image_url": "https://images.genius.com/bde5be69da5beff7f268004cdd42fe28.875x875x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MRC",
+                    "url": "https://genius.com/artists/Mrc"
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}

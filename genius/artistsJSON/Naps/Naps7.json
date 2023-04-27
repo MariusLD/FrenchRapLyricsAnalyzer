@@ -1,0 +1,977 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3237423",
+                "artist_names": "Naps",
+                "full_title": "En \u00c9quipe by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/27fb3acda5fd8a96bf7c377ecf5cade3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/27fb3acda5fd8a96bf7c377ecf5cade3.1000x1000x1.jpg",
+                "id": 3237423,
+                "language": "fr",
+                "lyrics_owner_id": 2837376,
+                "lyrics_state": "complete",
+                "path": "/Naps-en-equipe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-en-equipe-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 15
+                },
+                "release_date_for_display": "September 15, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 15, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/27fb3acda5fd8a96bf7c377ecf5cade3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/27fb3acda5fd8a96bf7c377ecf5cade3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 9882
+                },
+                "title": "En \u00c9quipe",
+                "title_with_featured": "En \u00c9quipe",
+                "url": "https://genius.com/Naps-en-equipe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5302098",
+                "artist_names": "Dika (Ft. AM La Scampia & Naps)",
+                "full_title": "Enfant du block by\u00a0Dika (Ft.\u00a0AM\u00a0La Scampia & Naps)",
+                "header_image_thumbnail_url": "https://images.genius.com/d57847eea5e1275733dc8db06ff4d13c.300x146x1.jpg",
+                "header_image_url": "https://images.genius.com/d57847eea5e1275733dc8db06ff4d13c.680x332x1.jpg",
+                "id": 5302098,
+                "language": "fr",
+                "lyrics_owner_id": 3836664,
+                "lyrics_state": "complete",
+                "path": "/Dika-enfant-du-block-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dika-enfant-du-block-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 5
+                },
+                "release_date_for_display": "March 5, 2020",
+                "release_date_with_abbreviated_month_for_display": "Mar. 5, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/501bf96dd2e1ecb4307f58fbbde9ecde.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/501bf96dd2e1ecb4307f58fbbde9ecde.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Enfant du block",
+                "title_with_featured": "Enfant du block (Ft.\u00a0AM\u00a0La Scampia & Naps)",
+                "url": "https://genius.com/Dika-enfant-du-block-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    },
+                    {
+                        "api_path": "/artists/1165897",
+                        "header_image_url": "https://images.genius.com/8845bad2c89d96ba52701398ecfe4e98.960x960x1.jpg",
+                        "id": 1165897,
+                        "image_url": "https://images.genius.com/9cf3ae728d0b5c4c1958fdc4c676de22.358x358x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "AM La Scampia",
+                        "url": "https://genius.com/artists/Am-la-scampia"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/997447",
+                    "header_image_url": "https://images.genius.com/3b10dc4d91eb2574c4ed30b0ea45b1fe.1000x517x1.jpg",
+                    "id": 997447,
+                    "image_url": "https://images.genius.com/f65b9583e7e3301c894920cd82f5990c.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dika",
+                    "url": "https://genius.com/artists/Dika"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7357061",
+                "artist_names": "Gims (Ft. Naps)",
+                "full_title": "ENFANTS DE LA PATRIE by\u00a0Gims (Ft.\u00a0Naps)",
+                "header_image_thumbnail_url": "https://images.genius.com/47cefcf6aec2ec04c9eb0a0e170a3a5f.300x300x1.png",
+                "header_image_url": "https://images.genius.com/47cefcf6aec2ec04c9eb0a0e170a3a5f.1000x1000x1.png",
+                "id": 7357061,
+                "language": "fr",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Gims-enfants-de-la-patrie-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Gims-enfants-de-la-patrie-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 12,
+                    "day": 3
+                },
+                "release_date_for_display": "December 3, 2021",
+                "release_date_with_abbreviated_month_for_display": "Dec. 3, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/47cefcf6aec2ec04c9eb0a0e170a3a5f.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/47cefcf6aec2ec04c9eb0a0e170a3a5f.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "ENFANTS DE LA PATRIE",
+                "title_with_featured": "ENFANTS DE LA PATRIE (Ft.\u00a0Naps)",
+                "url": "https://genius.com/Gims-enfants-de-la-patrie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/984017",
+                        "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                        "id": 984017,
+                        "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Naps",
+                        "url": "https://genius.com/artists/Naps"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5233348",
+                "artist_names": "Naps",
+                "full_title": "En fumette by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/ddc1b3a5f29f9038e1fc6c5dc92257d1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ddc1b3a5f29f9038e1fc6c5dc92257d1.1000x1000x1.jpg",
+                "id": 5233348,
+                "language": "fr",
+                "lyrics_owner_id": 3392836,
+                "lyrics_state": "complete",
+                "path": "/Naps-en-fumette-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-en-fumette-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ddc1b3a5f29f9038e1fc6c5dc92257d1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ddc1b3a5f29f9038e1fc6c5dc92257d1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "En fumette",
+                "title_with_featured": "En fumette",
+                "url": "https://genius.com/Naps-en-fumette-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8962224",
+                "artist_names": "Naps",
+                "full_title": "En temps r\u00e9el by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "id": 8962224,
+                "language": null,
+                "lyrics_owner_id": 9070387,
+                "lyrics_state": "incomplete",
+                "path": "/Naps-en-temps-reel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-en-temps-reel-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 28
+                },
+                "release_date_for_display": "April 28, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 28, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "En temps r\u00e9el",
+                "title_with_featured": "En temps r\u00e9el",
+                "url": "https://genius.com/Naps-en-temps-reel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4622831",
+                "artist_names": "Naps (Ft. Kalif Hardcore)",
+                "full_title": "Evidemment by\u00a0Naps (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "header_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "id": 4622831,
+                "language": "fr",
+                "lyrics_owner_id": 3392836,
+                "lyrics_state": "complete",
+                "path": "/Naps-evidemment-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-evidemment-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 5560
+                },
+                "title": "Evidemment",
+                "title_with_featured": "Evidemment (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "url": "https://genius.com/Naps-evidemment-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21485",
+                        "header_image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "id": 21485,
+                        "image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalif Hardcore",
+                        "url": "https://genius.com/artists/Kalif-hardcore"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4622865",
+                "artist_names": "Naps (Ft. Kalif Hardcore)",
+                "full_title": "Ex by\u00a0Naps (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "header_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "id": 4622865,
+                "language": "fr",
+                "lyrics_owner_id": 93991,
+                "lyrics_state": "complete",
+                "path": "/Naps-ex-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-ex-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/013eb87df2732c3a9ad4e8a61b5a9fa3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 6729
+                },
+                "title": "Ex",
+                "title_with_featured": "Ex (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "url": "https://genius.com/Naps-ex-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21485",
+                        "header_image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "id": 21485,
+                        "image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalif Hardcore",
+                        "url": "https://genius.com/artists/Kalif-hardcore"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/6599479",
+                "artist_names": "Naps",
+                "full_title": "Facetime by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.1000x1000x1.jpg",
+                "id": 6599479,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Naps-facetime-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-facetime-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 2
+                },
+                "release_date_for_display": "April 2, 2021",
+                "release_date_with_abbreviated_month_for_display": "Apr. 2, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Facetime",
+                "title_with_featured": "Facetime",
+                "url": "https://genius.com/Naps-facetime-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/5292218",
+                "artist_names": "Naps",
+                "full_title": "Fais le bisou by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/244e8c969d49e401aa02f1d6c528b1a6.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/244e8c969d49e401aa02f1d6c528b1a6.1000x563x1.jpg",
+                "id": 5292218,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Naps-fais-le-bisou-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-fais-le-bisou-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2020",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8100516491677012916d209afcdf4ae3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8100516491677012916d209afcdf4ae3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Fais le bisou",
+                "title_with_featured": "Fais le bisou",
+                "url": "https://genius.com/Naps-fais-le-bisou-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2278401",
+                "artist_names": "Naps",
+                "full_title": "Fais pas le rambo by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.330x330x1.jpg",
+                "id": 2278401,
+                "language": "fr",
+                "lyrics_owner_id": 2081512,
+                "lyrics_state": "complete",
+                "path": "/Naps-fais-pas-le-rambo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-fais-pas-le-rambo-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.330x330x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fais pas le rambo",
+                "title_with_featured": "Fais pas le rambo",
+                "url": "https://genius.com/Naps-fais-pas-le-rambo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5577389",
+                "artist_names": "Naps (Ft. Dika)",
+                "full_title": "Fais ta life by\u00a0Naps (Ft.\u00a0Dika)",
+                "header_image_thumbnail_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                "id": 5577389,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Naps-fais-ta-life-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-fais-ta-life-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 8
+                },
+                "release_date_for_display": "March 8, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 8, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fais ta life",
+                "title_with_featured": "Fais ta life (Ft.\u00a0Dika)",
+                "url": "https://genius.com/Naps-fais-ta-life-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/997447",
+                        "header_image_url": "https://images.genius.com/3b10dc4d91eb2574c4ed30b0ea45b1fe.1000x517x1.jpg",
+                        "id": 997447,
+                        "image_url": "https://images.genius.com/f65b9583e7e3301c894920cd82f5990c.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dika",
+                        "url": "https://genius.com/artists/Dika"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8962249",
+                "artist_names": "Naps (Ft. Kalif Hardcore)",
+                "full_title": "Fast Life by\u00a0Naps (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "header_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "id": 8962249,
+                "language": null,
+                "lyrics_owner_id": 9070387,
+                "lyrics_state": "incomplete",
+                "path": "/Naps-fast-life-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-fast-life-sample",
+                "release_date_components": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 28
+                },
+                "release_date_for_display": "April 28, 2023",
+                "release_date_with_abbreviated_month_for_display": "Apr. 28, 2023",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fb9f610094c7e22968e57da6535af5d3.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Fast Life",
+                "title_with_featured": "Fast Life (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "url": "https://genius.com/Naps-fast-life-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21485",
+                        "header_image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "id": 21485,
+                        "image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalif Hardcore",
+                        "url": "https://genius.com/artists/Kalif-hardcore"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2945674",
+                "artist_names": "Naps",
+                "full_title": "Faut que je parte d'ici by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.330x330x1.jpg",
+                "id": 2945674,
+                "language": "fr",
+                "lyrics_owner_id": 3821887,
+                "lyrics_state": "complete",
+                "path": "/Naps-faut-que-je-parte-dici-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-faut-que-je-parte-dici-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 13
+                },
+                "release_date_for_display": "April 13, 2015",
+                "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2227b1cc1fb7f23cc714ef9abe31e843.330x330x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Faut que je parte d\u2019ici",
+                "title_with_featured": "Faut que je parte d'ici",
+                "url": "https://genius.com/Naps-faut-que-je-parte-dici-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3387235",
+                "artist_names": "Naps",
+                "full_title": "Faut Que J'me Taille by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/5288aae2dce118833a2120239cf5c121.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5288aae2dce118833a2120239cf5c121.1000x1000x1.jpg",
+                "id": 3387235,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Naps-faut-que-jme-taille-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-faut-que-jme-taille-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 26
+                },
+                "release_date_for_display": "September 26, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 26, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5288aae2dce118833a2120239cf5c121.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5288aae2dce118833a2120239cf5c121.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 10175
+                },
+                "title": "Faut Que J\u2019me Taille",
+                "title_with_featured": "Faut Que J'me Taille",
+                "url": "https://genius.com/Naps-faut-que-jme-taille-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/8068181",
+                "artist_names": "Naps (Ft. Kalif Hardcore)",
+                "full_title": "Faut s'tailler by\u00a0Naps (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "header_image_thumbnail_url": "https://images.genius.com/76c151d669dd7abbef01bf9f336d76f0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/76c151d669dd7abbef01bf9f336d76f0.1000x1000x1.jpg",
+                "id": 8068181,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Naps-faut-stailler-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-faut-stailler-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 17
+                },
+                "release_date_for_display": "June 17, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 17, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/76c151d669dd7abbef01bf9f336d76f0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/76c151d669dd7abbef01bf9f336d76f0.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Faut s\u2019tailler",
+                "title_with_featured": "Faut s'tailler (Ft.\u00a0Kalif\u00a0Hardcore)",
+                "url": "https://genius.com/Naps-faut-stailler-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/21485",
+                        "header_image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "id": 21485,
+                        "image_url": "https://images.genius.com/94ccb3f0cf037a875e7492a48159a8e6.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalif Hardcore",
+                        "url": "https://genius.com/artists/Kalif-hardcore"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/3526804",
+                "artist_names": "Naps (Ft. Soolking)",
+                "full_title": "Favela by\u00a0Naps (Ft.\u00a0Soolking)",
+                "header_image_thumbnail_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.440x440x1.jpg",
+                "id": 3526804,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Naps-favela-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Naps-favela-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 9
+                },
+                "release_date_for_display": "March 9, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 9, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d84c263a67244a1086dc68270191fcc3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 144281
+                },
+                "title": "Favela",
+                "title_with_featured": "Favela (Ft.\u00a0Soolking)",
+                "url": "https://genius.com/Naps-favela-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/693078",
+                        "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                        "id": 693078,
+                        "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soolking",
+                        "url": "https://genius.com/artists/Soolking"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/5651059",
+                "artist_names": "ISK (Ft. YL)",
+                "full_title": "Fazer by\u00a0ISK (Ft.\u00a0YL)",
+                "header_image_thumbnail_url": "https://images.genius.com/87084f5bb90b4a6bf93f4b64a81a4d8d.300x126x1.jpg",
+                "header_image_url": "https://images.genius.com/87084f5bb90b4a6bf93f4b64a81a4d8d.1000x420x1.jpg",
+                "id": 5651059,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Isk-fazer-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Isk-fazer-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 6,
+                    "day": 12
+                },
+                "release_date_for_display": "June 12, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jun. 12, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/62475620b5242ae109f5e94d88b250ee.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/62475620b5242ae109f5e94d88b250ee.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 5478
+                },
+                "title": "Fazer",
+                "title_with_featured": "Fazer (Ft.\u00a0YL)",
+                "url": "https://genius.com/Isk-fazer-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/996826",
+                        "header_image_url": "https://images.genius.com/fdae23e67e0036fa7187ebe8a5b7223c.529x1000x1.jpg",
+                        "id": 996826,
+                        "image_url": "https://images.genius.com/07752b943c7cf04262983ffc6e9ca080.241x241x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "YL",
+                        "url": "https://genius.com/artists/Yl"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/214694",
+                    "header_image_url": "https://images.genius.com/32c0f2a83a2f420e3ae3711fdaf962d9.590x318x1.png",
+                    "id": 214694,
+                    "image_url": "https://images.genius.com/599ca497568dce6ea5224b4984fb85db.425x425x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ISK",
+                    "url": "https://genius.com/artists/Isk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5981712",
+                "artist_names": "Naps & Sahim (Ft. Farah (FRA))",
+                "full_title": "Ferme femme by\u00a0Naps\u00a0& Sahim (Ft.\u00a0Farah\u00a0(FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.300x300x1.png",
+                "header_image_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.363x363x1.png",
+                "id": 5981712,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/Naps-and-sahim-ferme-femme-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-and-sahim-ferme-femme-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 29
+                },
+                "release_date_for_display": "June 29, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 29, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/9f61c6f631260655f1f4656476444697.363x363x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ferme femme",
+                "title_with_featured": "Ferme femme (Ft.\u00a0Farah\u00a0(FRA))",
+                "url": "https://genius.com/Naps-and-sahim-ferme-femme-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2449635",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2449635,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Farah (FRA)",
+                        "url": "https://genius.com/artists/Farah-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/43195",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 43195,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps & Sahim",
+                    "url": "https://genius.com/artists/Naps-and-sahim"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3101250",
+                "artist_names": "Naps",
+                "full_title": "Folle by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.600x600x1.jpg",
+                "id": 3101250,
+                "language": "fr",
+                "lyrics_owner_id": 4619569,
+                "lyrics_state": "complete",
+                "path": "/Naps-folle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-folle-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 19
+                },
+                "release_date_for_display": "May 19, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 19, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a962b7450860cc5920eaf9948a12e31b.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 14651
+                },
+                "title": "Folle",
+                "title_with_featured": "Folle",
+                "url": "https://genius.com/Naps-folle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6599482",
+                "artist_names": "Naps",
+                "full_title": "Formentera by\u00a0Naps",
+                "header_image_thumbnail_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.1000x1000x1.jpg",
+                "id": 6599482,
+                "language": "fr",
+                "lyrics_owner_id": 8409402,
+                "lyrics_state": "complete",
+                "path": "/Naps-formentera-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Naps-formentera-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 2
+                },
+                "release_date_for_display": "April 2, 2021",
+                "release_date_with_abbreviated_month_for_display": "Apr. 2, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fdb011b29b964f89620998d3628f973b.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Formentera",
+                "title_with_featured": "Formentera",
+                "url": "https://genius.com/Naps-formentera-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/984017",
+                    "header_image_url": "https://images.genius.com/90351c00e65205ef50013487d673ac40.951x539x1.jpg",
+                    "id": 984017,
+                    "image_url": "https://images.genius.com/29067a54b5382c13df879274869a4dd2.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naps",
+                    "url": "https://genius.com/artists/Naps"
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

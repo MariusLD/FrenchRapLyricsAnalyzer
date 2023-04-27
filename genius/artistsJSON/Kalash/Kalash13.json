@@ -1,0 +1,597 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5688264",
+                "artist_names": "Phoenix RDC (Ft. Gson, Kalash, Kroa, La Bella Mafia, Magnat\u00e3o & Pizzy)",
+                "full_title": "Viol\u00eancia de Rimas by\u00a0Phoenix\u00a0RDC (Ft.\u00a0Gson, Kalash, Kroa, La\u00a0Bella Mafia, Magnat\u00e3o & Pizzy)",
+                "header_image_thumbnail_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.473x473x1.jpg",
+                "id": 5688264,
+                "language": "pt",
+                "lyrics_owner_id": 5537861,
+                "lyrics_state": "complete",
+                "path": "/Phoenix-rdc-violencia-de-rimas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Phoenix-rdc-violencia-de-rimas-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2013",
+                "release_date_with_abbreviated_month_for_display": "2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.473x473x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Viol\u00eancia de Rimas",
+                "title_with_featured": "Viol\u00eancia de Rimas (Ft.\u00a0Gson, Kalash, Kroa, La\u00a0Bella Mafia, Magnat\u00e3o & Pizzy)",
+                "url": "https://genius.com/Phoenix-rdc-violencia-de-rimas-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/17854",
+                        "header_image_url": "https://images.genius.com/581e07116457c289c8c0f13c88747d40.464x464x1.png",
+                        "id": 17854,
+                        "image_url": "https://images.genius.com/581e07116457c289c8c0f13c88747d40.464x464x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pizzy",
+                        "url": "https://genius.com/artists/Pizzy"
+                    },
+                    {
+                        "api_path": "/artists/2289739",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2289739,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Bella Mafia",
+                        "url": "https://genius.com/artists/La-bella-mafia"
+                    },
+                    {
+                        "api_path": "/artists/33290",
+                        "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                        "id": 33290,
+                        "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kalash",
+                        "url": "https://genius.com/artists/Kalash",
+                        "iq": 2416
+                    },
+                    {
+                        "api_path": "/artists/464512",
+                        "header_image_url": "https://images.genius.com/c05f2b9c938159ddb7d98b0d6f34ec69.960x960x1.jpg",
+                        "id": 464512,
+                        "image_url": "https://images.genius.com/c05f2b9c938159ddb7d98b0d6f34ec69.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kroa",
+                        "url": "https://genius.com/artists/Kroa"
+                    },
+                    {
+                        "api_path": "/artists/2144872",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2144872,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Magnat\u00e3o",
+                        "url": "https://genius.com/artists/Magnatao"
+                    },
+                    {
+                        "api_path": "/artists/978484",
+                        "header_image_url": "https://images.genius.com/fcb97dbf4ffa101c6e04801aed863805.776x217x1.png",
+                        "id": 978484,
+                        "image_url": "https://images.genius.com/3ecb1f6b0e6ecc01c3133c3e92777fa9.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gson",
+                        "url": "https://genius.com/artists/Gson"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/506062",
+                    "header_image_url": "https://images.genius.com/700ac2c1f69fd4bd233c02eb9aeaa5d7.1000x1000x1.jpg",
+                    "id": 506062,
+                    "image_url": "https://images.genius.com/3862d6d110c3a0ce0ea3f1404b075bcd.935x935x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Phoenix RDC",
+                    "url": "https://genius.com/artists/Phoenix-rdc",
+                    "iq": 109
+                }
+            },
+            {
+                "annotation_count": 36,
+                "api_path": "/songs/2365714",
+                "artist_names": "Booba",
+                "full_title": "Walabok by\u00a0Booba",
+                "header_image_thumbnail_url": "https://images.genius.com/828bb538d043e8bcfd5854423da1aa27.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/828bb538d043e8bcfd5854423da1aa27.1000x563x1.jpg",
+                "id": 2365714,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Booba-walabok-lyrics",
+                "pyongs_count": 10,
+                "relationships_index_url": "https://genius.com/Booba-walabok-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 4
+                },
+                "release_date_for_display": "December 4, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 4, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f9cd20c36588233093f93a5b1e793ead.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f9cd20c36588233093f93a5b1e793ead.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 212998
+                },
+                "title": "Walabok",
+                "title_with_featured": "Walabok",
+                "url": "https://genius.com/Booba-walabok-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1282",
+                    "header_image_url": "https://images.genius.com/40d00cb2072e23817c2653f24cccace5.470x337x1.png",
+                    "id": 1282,
+                    "image_url": "https://images.genius.com/f87d62132f88bf91eee12ff59b1a460b.477x477x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Booba",
+                    "url": "https://genius.com/artists/Booba",
+                    "iq": 5385
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4792059",
+                "artist_names": "Kalash (Ft. Azrock)",
+                "full_title": "Weed by\u00a0Kalash (Ft.\u00a0Azrock)",
+                "header_image_thumbnail_url": "https://images.genius.com/14827a14e8a63b099c8d4c16f1df88aa.300x300x1.png",
+                "header_image_url": "https://images.genius.com/14827a14e8a63b099c8d4c16f1df88aa.500x500x1.png",
+                "id": 4792059,
+                "language": null,
+                "lyrics_owner_id": 8855291,
+                "lyrics_state": "complete",
+                "path": "/Kalash-weed-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kalash-weed-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 5,
+                    "day": 13
+                },
+                "release_date_for_display": "May 13, 2012",
+                "release_date_with_abbreviated_month_for_display": "May. 13, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/14827a14e8a63b099c8d4c16f1df88aa.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/14827a14e8a63b099c8d4c16f1df88aa.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Weed",
+                "title_with_featured": "Weed (Ft.\u00a0Azrock)",
+                "url": "https://genius.com/Kalash-weed-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/202572",
+                        "header_image_url": "https://images.genius.com/031f783d0709dfb661f92de141ade0de.506x506x1.jpg",
+                        "id": 202572,
+                        "image_url": "https://images.genius.com/031f783d0709dfb661f92de141ade0de.506x506x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Azrock",
+                        "url": "https://genius.com/artists/Azrock"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/33290",
+                    "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                    "id": 33290,
+                    "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kalash",
+                    "url": "https://genius.com/artists/Kalash",
+                    "iq": 2416
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2922351",
+                "artist_names": "La Fouine (Ft. Kalash & MLC)",
+                "full_title": "Weed by\u00a0La\u00a0Fouine (Ft.\u00a0Kalash & MLC)",
+                "header_image_thumbnail_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.400x400x1.jpg",
+                "id": 2922351,
+                "language": "fr",
+                "lyrics_owner_id": 674508,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-weed-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-weed-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2014",
+                "release_date_with_abbreviated_month_for_display": "2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Weed",
+                "title_with_featured": "Weed (Ft.\u00a0Kalash & MLC)",
+                "url": "https://genius.com/La-fouine-weed-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/27744",
+                        "header_image_url": "https://images.genius.com/913526fdd05d37f77203d06d3b726e1e.636x960x1.jpg",
+                        "id": 27744,
+                        "image_url": "https://images.genius.com/913526fdd05d37f77203d06d3b726e1e.636x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MLC",
+                        "url": "https://genius.com/artists/Mlc"
+                    },
+                    {
+                        "api_path": "/artists/33290",
+                        "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                        "id": 33290,
+                        "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kalash",
+                        "url": "https://genius.com/artists/Kalash",
+                        "iq": 2416
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4953518",
+                "artist_names": "Kalash",
+                "full_title": "Weed (Outro) by\u00a0Kalash",
+                "header_image_thumbnail_url": "https://images.genius.com/cee06f4646fb5463e52e49788482bccd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cee06f4646fb5463e52e49788482bccd.1000x1000x1.jpg",
+                "id": 4953518,
+                "language": "fr",
+                "lyrics_owner_id": 9141899,
+                "lyrics_state": "complete",
+                "path": "/Kalash-weed-outro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kalash-weed-outro-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 1
+                },
+                "release_date_for_display": "November 1, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 1, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cee06f4646fb5463e52e49788482bccd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cee06f4646fb5463e52e49788482bccd.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Weed (Outro)",
+                "title_with_featured": "Weed (Outro)",
+                "url": "https://genius.com/Kalash-weed-outro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/33290",
+                    "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                    "id": 33290,
+                    "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kalash",
+                    "url": "https://genius.com/artists/Kalash",
+                    "iq": 2416
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/105908",
+                "artist_names": "La Fouine (Ft. Admiral T, Kalash, Lieutenant, X-man & Young Chang MC)",
+                "full_title": "West indies boss by\u00a0La\u00a0Fouine (Ft.\u00a0Admiral\u00a0T, Kalash, Lieutenant, X-man & Young\u00a0Chang MC)",
+                "header_image_thumbnail_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                "id": 105908,
+                "language": "fr",
+                "lyrics_owner_id": 164838,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-west-indies-boss-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-west-indies-boss-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "West indies boss",
+                "title_with_featured": "West indies boss (Ft.\u00a0Admiral\u00a0T, Kalash, Lieutenant, X-man & Young\u00a0Chang MC)",
+                "url": "https://genius.com/La-fouine-west-indies-boss-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11686",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/admiral%20t%20.jpg",
+                        "id": 11686,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/admiral%20t%20.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Admiral T",
+                        "url": "https://genius.com/artists/Admiral-t",
+                        "iq": 105
+                    },
+                    {
+                        "api_path": "/artists/33290",
+                        "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                        "id": 33290,
+                        "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kalash",
+                        "url": "https://genius.com/artists/Kalash",
+                        "iq": 2416
+                    },
+                    {
+                        "api_path": "/artists/33291",
+                        "header_image_url": "https://images.genius.com/af245ed7f58f52a51c20359272642924.960x635x1.jpg",
+                        "id": 33291,
+                        "image_url": "https://images.genius.com/8e50ea32301fc0b2d0d25f116037de74.818x818x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "X-man",
+                        "url": "https://genius.com/artists/X-man"
+                    },
+                    {
+                        "api_path": "/artists/33292",
+                        "header_image_url": "https://images.genius.com/9fa108f9f8c7f0364c9943f0434cdd74.422x422x1.png",
+                        "id": 33292,
+                        "image_url": "https://images.genius.com/9fa108f9f8c7f0364c9943f0434cdd74.422x422x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Young Chang MC",
+                        "url": "https://genius.com/artists/Young-chang-mc"
+                    },
+                    {
+                        "api_path": "/artists/33293",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 33293,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lieutenant",
+                        "url": "https://genius.com/artists/Lieutenant"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4792140",
+                "artist_names": "Kalash",
+                "full_title": "Whine your bumpa by\u00a0Kalash",
+                "header_image_thumbnail_url": "https://images.genius.com/5b3d6a9d8802733111ad86a4f0ac9f54.225x225x1.png",
+                "header_image_url": "https://images.genius.com/5b3d6a9d8802733111ad86a4f0ac9f54.225x225x1.png",
+                "id": 4792140,
+                "language": null,
+                "lyrics_owner_id": 8855291,
+                "lyrics_state": "incomplete",
+                "path": "/Kalash-whine-your-bumpa-annotated",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kalash-whine-your-bumpa-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 12,
+                    "day": 22
+                },
+                "release_date_for_display": "December 22, 2014",
+                "release_date_with_abbreviated_month_for_display": "Dec. 22, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5b3d6a9d8802733111ad86a4f0ac9f54.225x225x1.png",
+                "song_art_image_url": "https://images.genius.com/5b3d6a9d8802733111ad86a4f0ac9f54.225x225x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Whine your bumpa",
+                "title_with_featured": "Whine your bumpa",
+                "url": "https://genius.com/Kalash-whine-your-bumpa-annotated",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/33290",
+                    "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                    "id": 33290,
+                    "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kalash",
+                    "url": "https://genius.com/artists/Kalash",
+                    "iq": 2416
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3246893",
+                "artist_names": "Kalash (Ft. Di Genius)",
+                "full_title": "Why by\u00a0Kalash (Ft.\u00a0Di\u00a0Genius)",
+                "header_image_thumbnail_url": "https://images.genius.com/a56820da5e4ac4b22aa52921bc81193f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a56820da5e4ac4b22aa52921bc81193f.1000x1000x1.jpg",
+                "id": 3246893,
+                "language": "en",
+                "lyrics_owner_id": 3066309,
+                "lyrics_state": "complete",
+                "path": "/Kalash-why-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Kalash-why-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 13
+                },
+                "release_date_for_display": "October 13, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 13, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a56820da5e4ac4b22aa52921bc81193f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a56820da5e4ac4b22aa52921bc81193f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 7885
+                },
+                "title": "Why",
+                "title_with_featured": "Why (Ft.\u00a0Di\u00a0Genius)",
+                "url": "https://genius.com/Kalash-why-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/69949",
+                        "header_image_url": "https://images.genius.com/0db978694892f98944899d0ce49575be.500x500x1.jpg",
+                        "id": 69949,
+                        "image_url": "https://images.genius.com/e971e857a8963c1c06edfb99edda22cf.576x576x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Di Genius",
+                        "url": "https://genius.com/artists/Di-genius"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/33290",
+                    "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                    "id": 33290,
+                    "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kalash",
+                    "url": "https://genius.com/artists/Kalash",
+                    "iq": 2416
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/3407688",
+                "artist_names": "Kalash",
+                "full_title": "Willie Lynch by\u00a0Kalash",
+                "header_image_thumbnail_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.300x300x1.png",
+                "header_image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                "id": 3407688,
+                "language": "fr",
+                "lyrics_owner_id": 3871729,
+                "lyrics_state": "complete",
+                "path": "/Kalash-willie-lynch-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kalash-willie-lynch-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 2
+                },
+                "release_date_for_display": "January 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                "stats": {
+                    "unreviewed_annotations": 27,
+                    "hot": false,
+                    "pageviews": 6755
+                },
+                "title": "Willie Lynch",
+                "title_with_featured": "Willie Lynch",
+                "url": "https://genius.com/Kalash-willie-lynch-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/33290",
+                    "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                    "id": 33290,
+                    "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kalash",
+                    "url": "https://genius.com/artists/Kalash",
+                    "iq": 2416
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3174732",
+                "artist_names": "Kalash",
+                "full_title": "Yen a vla by\u00a0Kalash",
+                "header_image_thumbnail_url": "https://images.genius.com/c7ed16c89226dc1c4d107ff6874a6fe0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c7ed16c89226dc1c4d107ff6874a6fe0.313x313x1.jpg",
+                "id": 3174732,
+                "language": "fr",
+                "lyrics_owner_id": 190623,
+                "lyrics_state": "complete",
+                "path": "/Kalash-yen-a-vla-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Kalash-yen-a-vla-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 7,
+                    "day": 28
+                },
+                "release_date_for_display": "July 28, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jul. 28, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c7ed16c89226dc1c4d107ff6874a6fe0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c7ed16c89226dc1c4d107ff6874a6fe0.313x313x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 17785
+                },
+                "title": "Yen a vla",
+                "title_with_featured": "Yen a vla",
+                "url": "https://genius.com/Kalash-yen-a-vla-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/33290",
+                    "header_image_url": "https://images.genius.com/7d2417e1338a49da482a60958d58e01c.580x173x1.png",
+                    "id": 33290,
+                    "image_url": "https://images.genius.com/333ac34978e7677a83734aa0821717bf.335x335x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Kalash",
+                    "url": "https://genius.com/artists/Kalash",
+                    "iq": 2416
+                }
+            }
+        ],
+        "next_page": null
+    }
+}

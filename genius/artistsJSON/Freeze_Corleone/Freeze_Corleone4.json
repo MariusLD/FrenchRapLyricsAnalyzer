@@ -1,0 +1,992 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/8382487",
+                "artist_names": "Afro S (Ft. Freeze Corleone)",
+                "full_title": "C10 by\u00a0Afro\u00a0S (Ft.\u00a0Freeze\u00a0Corleone)",
+                "header_image_thumbnail_url": "https://images.genius.com/4a987e7e0c896dd60c8421aa4b69d6cb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4a987e7e0c896dd60c8421aa4b69d6cb.1000x1000x1.jpg",
+                "id": 8382487,
+                "language": "en",
+                "lyrics_owner_id": 11242218,
+                "lyrics_state": "complete",
+                "path": "/Afro-s-c10-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Afro-s-c10-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 12
+                },
+                "release_date_for_display": "October 12, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 12, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4a987e7e0c896dd60c8421aa4b69d6cb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4a987e7e0c896dd60c8421aa4b69d6cb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "C10",
+                "title_with_featured": "C10 (Ft.\u00a0Freeze\u00a0Corleone)",
+                "url": "https://genius.com/Afro-s-c10-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/63888",
+                        "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                        "id": 63888,
+                        "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Freeze Corleone",
+                        "url": "https://genius.com/artists/Freeze-corleone",
+                        "iq": 16646
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/621082",
+                    "header_image_url": "https://images.genius.com/cf7165e1ce3bcaa12239773290d73366.605x605x1.jpg",
+                    "id": 621082,
+                    "image_url": "https://images.genius.com/cf7165e1ce3bcaa12239773290d73366.605x605x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Afro S",
+                    "url": "https://genius.com/artists/Afro-s",
+                    "iq": 3076
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/2838593",
+                "artist_names": "Slim C (Ft. Freeze Corleone)",
+                "full_title": "C4 by\u00a0Slim\u00a0C (Ft.\u00a0Freeze\u00a0Corleone)",
+                "header_image_thumbnail_url": "https://images.genius.com/0f3f6ce787d7c29b756e2fb7ef902884.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0f3f6ce787d7c29b756e2fb7ef902884.500x500x1.jpg",
+                "id": 2838593,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Slim-c-c4-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Slim-c-c4-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 8,
+                    "day": 9
+                },
+                "release_date_for_display": "August 9, 2016",
+                "release_date_with_abbreviated_month_for_display": "Aug. 9, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0f3f6ce787d7c29b756e2fb7ef902884.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0f3f6ce787d7c29b756e2fb7ef902884.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false
+                },
+                "title": "C4",
+                "title_with_featured": "C4 (Ft.\u00a0Freeze\u00a0Corleone)",
+                "url": "https://genius.com/Slim-c-c4-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/63888",
+                        "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                        "id": 63888,
+                        "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Freeze Corleone",
+                        "url": "https://genius.com/artists/Freeze-corleone",
+                        "iq": 16646
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/42647",
+                    "header_image_url": "https://images.genius.com/415ceb0583d4dc51ea842297a50ef589.400x400x1.jpg",
+                    "id": 42647,
+                    "image_url": "https://images.genius.com/415ceb0583d4dc51ea842297a50ef589.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Slim C",
+                    "url": "https://genius.com/artists/Slim-c",
+                    "iq": 714
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/1929608",
+                "artist_names": "Freeze Corleone (Ft. Norsacce & Osirus Jack)",
+                "full_title": "Canibus by\u00a0Freeze\u00a0Corleone (Ft.\u00a0Norsacce & Osirus\u00a0Jack)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/27236ad9758272323890c8bc478cfd4c.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/27236ad9758272323890c8bc478cfd4c.500x500x1.jpg",
+                "id": 1929608,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-canibus-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-canibus-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 22
+                },
+                "release_date_for_display": "May 22, 2015",
+                "release_date_with_abbreviated_month_for_display": "May. 22, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/635a55c40f36abc5fa8fd0b677f688a1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/635a55c40f36abc5fa8fd0b677f688a1.643x643x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Canibus",
+                "title_with_featured": "Canibus (Ft.\u00a0Norsacce & Osirus\u00a0Jack)",
+                "url": "https://genius.com/Freeze-corleone-canibus-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/398764",
+                        "header_image_url": "https://images.genius.com/067b8ea82395e14e13d7a299aac2fc89.1000x563x1.jpg",
+                        "id": 398764,
+                        "image_url": "https://images.genius.com/17f0bef205077a997ad16e0150c62854.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Osirus Jack",
+                        "url": "https://genius.com/artists/Osirus-jack",
+                        "iq": 2201
+                    },
+                    {
+                        "api_path": "/artists/440106",
+                        "header_image_url": "https://images.genius.com/90fc34bba573c9eafdc6bba81b62ca60.1000x1000x1.jpg",
+                        "id": 440106,
+                        "image_url": "https://images.genius.com/ee3ca8d799db7acf523e208976adfaf0.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Norsacce",
+                        "url": "https://genius.com/artists/Norsacce",
+                        "iq": 272
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2385620",
+                "artist_names": "Norsacce",
+                "full_title": "Cantine by\u00a0Norsacce",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/7f0c3e4a473aae02878a8994fb431829.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/7f0c3e4a473aae02878a8994fb431829.500x500x1.jpg",
+                "id": 2385620,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Norsacce-cantine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Norsacce-cantine-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 25
+                },
+                "release_date_for_display": "October 25, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 25, 2014",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/7f0c3e4a473aae02878a8994fb431829.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/7f0c3e4a473aae02878a8994fb431829.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Cantine",
+                "title_with_featured": "Cantine",
+                "url": "https://genius.com/Norsacce-cantine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/440106",
+                    "header_image_url": "https://images.genius.com/90fc34bba573c9eafdc6bba81b62ca60.1000x1000x1.jpg",
+                    "id": 440106,
+                    "image_url": "https://images.genius.com/ee3ca8d799db7acf523e208976adfaf0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Norsacce",
+                    "url": "https://genius.com/artists/Norsacce",
+                    "iq": 272
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/7637202",
+                "artist_names": "Freeze Corleone & ASHE 22",
+                "full_title": "CARTIER by\u00a0Freeze\u00a0Corleone & ASHE 22",
+                "header_image_thumbnail_url": "https://images.genius.com/a477e68751ac8966f39cfeae3ead9bea.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a477e68751ac8966f39cfeae3ead9bea.600x600x1.jpg",
+                "id": 7637202,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-and-ashe-22-cartier-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-and-ashe-22-cartier-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a477e68751ac8966f39cfeae3ead9bea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a477e68751ac8966f39cfeae3ead9bea.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 21,
+                    "hot": false,
+                    "pageviews": 21883
+                },
+                "title": "CARTIER",
+                "title_with_featured": "CARTIER",
+                "url": "https://genius.com/Freeze-corleone-and-ashe-22-cartier-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3037411",
+                    "header_image_url": "https://images.genius.com/2d9623340cdac77aa9260c43c052ee5a.1000x539x1.jpg",
+                    "id": 3037411,
+                    "image_url": "https://images.genius.com/eb1f7a58524f9f6aff183e1ce636dd53.487x487x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freeze Corleone & ASHE 22",
+                    "url": "https://genius.com/artists/Freeze-corleone-and-ashe-22"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/7096883",
+                "artist_names": "Afro S (Ft. Black Jack)",
+                "full_title": "Cartouche 8 by\u00a0Afro\u00a0S (Ft.\u00a0Black\u00a0Jack)",
+                "header_image_thumbnail_url": "https://images.genius.com/c46f2b9290006804e3c1910b7f0b0c70.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c46f2b9290006804e3c1910b7f0b0c70.640x640x1.png",
+                "id": 7096883,
+                "language": "fr",
+                "lyrics_owner_id": 11663138,
+                "lyrics_state": "complete",
+                "path": "/Afro-s-cartouche-8-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Afro-s-cartouche-8-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 19
+                },
+                "release_date_for_display": "August 19, 2021",
+                "release_date_with_abbreviated_month_for_display": "Aug. 19, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c46f2b9290006804e3c1910b7f0b0c70.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c46f2b9290006804e3c1910b7f0b0c70.640x640x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Cartouche 8",
+                "title_with_featured": "Cartouche 8 (Ft.\u00a0Black\u00a0Jack)",
+                "url": "https://genius.com/Afro-s-cartouche-8-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/473134",
+                        "header_image_url": "https://images.genius.com/900a5b4c380ab995e9a5c7f783077c65.1000x750x1.jpg",
+                        "id": 473134,
+                        "image_url": "https://images.genius.com/2e915e70fa2787c659087566f87f484e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Black Jack",
+                        "url": "https://genius.com/artists/Black-jack"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/621082",
+                    "header_image_url": "https://images.genius.com/cf7165e1ce3bcaa12239773290d73366.605x605x1.jpg",
+                    "id": 621082,
+                    "image_url": "https://images.genius.com/cf7165e1ce3bcaa12239773290d73366.605x605x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Afro S",
+                    "url": "https://genius.com/artists/Afro-s",
+                    "iq": 3076
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2416977",
+                "artist_names": "Freeze Corleone",
+                "full_title": "Cascadeur by\u00a0Freeze\u00a0Corleone",
+                "header_image_thumbnail_url": "https://images.genius.com/e3aa3376c161438cf598282439c99ffb.300x221x1.jpg",
+                "header_image_url": "https://images.genius.com/e3aa3376c161438cf598282439c99ffb.400x294x1.jpg",
+                "id": 2416977,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-cascadeur-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-cascadeur-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 10,
+                    "day": 12
+                },
+                "release_date_for_display": "October 12, 2012",
+                "release_date_with_abbreviated_month_for_display": "Oct. 12, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e3aa3376c161438cf598282439c99ffb.300x221x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e3aa3376c161438cf598282439c99ffb.400x294x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Cascadeur",
+                "title_with_featured": "Cascadeur",
+                "url": "https://genius.com/Freeze-corleone-cascadeur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/7800777",
+                "artist_names": "Veerus (Ft. Freeze Corleone)",
+                "full_title": "Cash by\u00a0Veerus (Ft.\u00a0Freeze\u00a0Corleone)",
+                "header_image_thumbnail_url": "https://images.genius.com/d85e8ee4958a08823da15edc4216bef1.300x155x1.jpg",
+                "header_image_url": "https://images.genius.com/d85e8ee4958a08823da15edc4216bef1.1000x517x1.jpg",
+                "id": 7800777,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Veerus-cash-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Veerus-cash-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 18
+                },
+                "release_date_for_display": "March 18, 2022",
+                "release_date_with_abbreviated_month_for_display": "Mar. 18, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7785e9d139e8ca88eb6b39a13488132e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7785e9d139e8ca88eb6b39a13488132e.865x865x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 5664
+                },
+                "title": "Cash",
+                "title_with_featured": "Cash (Ft.\u00a0Freeze\u00a0Corleone)",
+                "url": "https://genius.com/Veerus-cash-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/63888",
+                        "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                        "id": 63888,
+                        "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Freeze Corleone",
+                        "url": "https://genius.com/artists/Freeze-corleone",
+                        "iq": 16646
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/17454",
+                    "header_image_url": "https://images.genius.com/7ba4f4262b247b627c3e1eed8007bbf6.1000x563x1.jpg",
+                    "id": 17454,
+                    "image_url": "https://images.genius.com/5eefc1356d19574114141e2205435541.385x385x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Veerus",
+                    "url": "https://genius.com/artists/Veerus"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/2376449",
+                "artist_names": "CFR",
+                "full_title": "CFR by\u00a0CFR",
+                "header_image_thumbnail_url": "https://images.genius.com/8728228d3afda967eb37c73cdd253133.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8728228d3afda967eb37c73cdd253133.1000x1000x1.jpg",
+                "id": 2376449,
+                "language": "en",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Cfr-cfr-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Cfr-cfr-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8728228d3afda967eb37c73cdd253133.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8728228d3afda967eb37c73cdd253133.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 8911
+                },
+                "title": "CFR",
+                "title_with_featured": "CFR",
+                "url": "https://genius.com/Cfr-cfr-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/563736",
+                    "header_image_url": "https://images.genius.com/c13c41cd7c84903e8cfd80dd871b10c6.1000x563x1.png",
+                    "id": 563736,
+                    "image_url": "https://images.genius.com/c13c41cd7c84903e8cfd80dd871b10c6.1000x563x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CFR",
+                    "url": "https://genius.com/artists/Cfr"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/2397069",
+                "artist_names": "667",
+                "full_title": "Chaque jour by\u00a0667",
+                "header_image_thumbnail_url": "https://images.genius.com/0af6a91668410b0b1b49116c3862a866.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/0af6a91668410b0b1b49116c3862a866.480x360x1.jpg",
+                "id": 2397069,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/667-chaque-jour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/667-chaque-jour-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 12,
+                    "day": 25
+                },
+                "release_date_for_display": "December 25, 2014",
+                "release_date_with_abbreviated_month_for_display": "Dec. 25, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0273e26970fee124c4f372c80a49c121.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/0273e26970fee124c4f372c80a49c121.500x500x1.png",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Chaque jour",
+                "title_with_featured": "Chaque jour",
+                "url": "https://genius.com/667-chaque-jour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/404446",
+                    "header_image_url": "https://images.genius.com/f7da03027d5791c9b5b795798829110f.720x377x1.jpg",
+                    "id": 404446,
+                    "image_url": "https://images.genius.com/e7a508963d6749f02d838be5ea5c3c66.955x955x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "667",
+                    "url": "https://genius.com/artists/667"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/1868399",
+                "artist_names": "Freeze Corleone (Ft. Dubble G Kiluavi & Osirus Jack)",
+                "full_title": "Charlie by\u00a0Freeze\u00a0Corleone (Ft.\u00a0Dubble\u00a0G Kiluavi & Osirus\u00a0Jack)",
+                "header_image_thumbnail_url": "https://images.genius.com/4eb1a306eecfc4081bb3ef51c066c744.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4eb1a306eecfc4081bb3ef51c066c744.643x643x1.jpg",
+                "id": 1868399,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-charlie-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-charlie-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 31
+                },
+                "release_date_for_display": "January 31, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jan. 31, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/2b3a1124184d08d2d293c6b995e3f553.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/2b3a1124184d08d2d293c6b995e3f553.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 8845
+                },
+                "title": "Charlie",
+                "title_with_featured": "Charlie (Ft.\u00a0Dubble\u00a0G Kiluavi & Osirus\u00a0Jack)",
+                "url": "https://genius.com/Freeze-corleone-charlie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/398764",
+                        "header_image_url": "https://images.genius.com/067b8ea82395e14e13d7a299aac2fc89.1000x563x1.jpg",
+                        "id": 398764,
+                        "image_url": "https://images.genius.com/17f0bef205077a997ad16e0150c62854.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Osirus Jack",
+                        "url": "https://genius.com/artists/Osirus-jack",
+                        "iq": 2201
+                    },
+                    {
+                        "api_path": "/artists/409464",
+                        "header_image_url": "https://images.genius.com/fbe86e935f369b63dbdbe8b1f4bd319a.960x540x1.jpg",
+                        "id": 409464,
+                        "image_url": "https://images.genius.com/fbe86e935f369b63dbdbe8b1f4bd319a.960x540x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dubble G Kiluavi",
+                        "url": "https://genius.com/artists/Dubble-g-kiluavi"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/2416948",
+                "artist_names": "Freeze Corleone",
+                "full_title": "Check yo self by\u00a0Freeze\u00a0Corleone",
+                "header_image_thumbnail_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.300x221x1.jpg",
+                "header_image_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.1000x735x1.jpg",
+                "id": 2416948,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-check-yo-self-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-check-yo-self-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 4,
+                    "day": 20
+                },
+                "release_date_for_display": "April 20, 2011",
+                "release_date_with_abbreviated_month_for_display": "Apr. 20, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.300x221x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.1000x735x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Check yo self",
+                "title_with_featured": "Check yo self",
+                "url": "https://genius.com/Freeze-corleone-check-yo-self-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 46,
+                "api_path": "/songs/5891045",
+                "artist_names": "Freeze Corleone",
+                "full_title": "Chen Laden by\u00a0Freeze\u00a0Corleone",
+                "header_image_thumbnail_url": "https://images.genius.com/67e772f270eeff5f4af6e39cf7ecd2c1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/67e772f270eeff5f4af6e39cf7ecd2c1.1000x1000x1.jpg",
+                "id": 5891045,
+                "language": "en",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-chen-laden-lyrics",
+                "pyongs_count": 12,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-chen-laden-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2020",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/67e772f270eeff5f4af6e39cf7ecd2c1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/67e772f270eeff5f4af6e39cf7ecd2c1.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 159084
+                },
+                "title": "Chen Laden",
+                "title_with_featured": "Chen Laden",
+                "url": "https://genius.com/Freeze-corleone-chen-laden-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8965901",
+                "artist_names": "Moker (SN) (Ft. Freeze Corleone)",
+                "full_title": "Chercher l'Or (Freestyle) by\u00a0Moker\u00a0(SN) (Ft.\u00a0Freeze\u00a0Corleone)",
+                "header_image_thumbnail_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.300x300x1.png",
+                "header_image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                "id": 8965901,
+                "language": "fr",
+                "lyrics_owner_id": 11663138,
+                "lyrics_state": "unreleased",
+                "path": "/Moker-sn-chercher-lor-freestyle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Moker-sn-chercher-lor-freestyle-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 4,
+                    "day": 30
+                },
+                "release_date_for_display": "April 30, 2010",
+                "release_date_with_abbreviated_month_for_display": "Apr. 30, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Chercher l\u2019Or (Freestyle)",
+                "title_with_featured": "Chercher l'Or (Freestyle) (Ft.\u00a0Freeze\u00a0Corleone)",
+                "url": "https://genius.com/Moker-sn-chercher-lor-freestyle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/63888",
+                        "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                        "id": 63888,
+                        "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Freeze Corleone",
+                        "url": "https://genius.com/artists/Freeze-corleone",
+                        "iq": 16646
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/3486588",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 3486588,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Moker (SN)",
+                    "url": "https://genius.com/artists/Moker-sn"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/3001932",
+                "artist_names": "Freeze Corleone",
+                "full_title": "Combien by\u00a0Freeze\u00a0Corleone",
+                "header_image_thumbnail_url": "https://images.genius.com/768fa614728122673c800b2e3ad1e165.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/768fa614728122673c800b2e3ad1e165.480x360x1.jpg",
+                "id": 3001932,
+                "language": "fr",
+                "lyrics_owner_id": 169443,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-combien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-combien-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 24
+                },
+                "release_date_for_display": "February 24, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 24, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3c77ea752cb2753e24500ca7df984bb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3c77ea752cb2753e24500ca7df984bb.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Combien",
+                "title_with_featured": "Combien",
+                "url": "https://genius.com/Freeze-corleone-combien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2419339",
+                "artist_names": "Freeze Corleone",
+                "full_title": "Combinaison gagnante by\u00a0Freeze\u00a0Corleone",
+                "header_image_thumbnail_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.300x221x1.jpg",
+                "header_image_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.1000x735x1.jpg",
+                "id": 2419339,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-combinaison-gagnante-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-combinaison-gagnante-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 4,
+                    "day": 20
+                },
+                "release_date_for_display": "April 20, 2011",
+                "release_date_with_abbreviated_month_for_display": "Apr. 20, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.300x221x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f0a07cacb2430c9fbf50fe31988df417.1000x735x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Combinaison gagnante",
+                "title_with_featured": "Combinaison gagnante",
+                "url": "https://genius.com/Freeze-corleone-combinaison-gagnante-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/2832886",
+                "artist_names": "Kaki Santana (Ft. Freeze Corleone)",
+                "full_title": "Combinaison Kaki by\u00a0Kaki\u00a0Santana (Ft.\u00a0Freeze\u00a0Corleone)",
+                "header_image_thumbnail_url": "https://images.genius.com/1437a5e2748f9a874de56f4aec5db28f.300x299x1.png",
+                "header_image_url": "https://images.genius.com/1437a5e2748f9a874de56f4aec5db28f.340x339x1.png",
+                "id": 2832886,
+                "language": "fr",
+                "lyrics_owner_id": 2914025,
+                "lyrics_state": "complete",
+                "path": "/Kaki-santana-combinaison-kaki-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Kaki-santana-combinaison-kaki-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 8,
+                    "day": 3
+                },
+                "release_date_for_display": "August 3, 2016",
+                "release_date_with_abbreviated_month_for_display": "Aug. 3, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1437a5e2748f9a874de56f4aec5db28f.300x299x1.png",
+                "song_art_image_url": "https://images.genius.com/1437a5e2748f9a874de56f4aec5db28f.340x339x1.png",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Combinaison Kaki",
+                "title_with_featured": "Combinaison Kaki (Ft.\u00a0Freeze\u00a0Corleone)",
+                "url": "https://genius.com/Kaki-santana-combinaison-kaki-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/63888",
+                        "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                        "id": 63888,
+                        "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Freeze Corleone",
+                        "url": "https://genius.com/artists/Freeze-corleone",
+                        "iq": 16646
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/461565",
+                    "header_image_url": "https://images.genius.com/0069b3866918bc888f52f21a036b6081.1000x667x1.jpg",
+                    "id": 461565,
+                    "image_url": "https://images.genius.com/0069b3866918bc888f52f21a036b6081.1000x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kaki Santana",
+                    "url": "https://genius.com/artists/Kaki-santana"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/2018786",
+                "artist_names": "667",
+                "full_title": "Combo by\u00a0667",
+                "header_image_thumbnail_url": "https://images.genius.com/cb1b74bd0903e51ac80baaff4e9e6d40.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cb1b74bd0903e51ac80baaff4e9e6d40.960x960x1.jpg",
+                "id": 2018786,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/667-combo-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/667-combo-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 12,
+                    "day": 25
+                },
+                "release_date_for_display": "December 25, 2014",
+                "release_date_with_abbreviated_month_for_display": "Dec. 25, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cb1b74bd0903e51ac80baaff4e9e6d40.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cb1b74bd0903e51ac80baaff4e9e6d40.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false
+                },
+                "title": "Combo",
+                "title_with_featured": "Combo",
+                "url": "https://genius.com/667-combo-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/404446",
+                    "header_image_url": "https://images.genius.com/f7da03027d5791c9b5b795798829110f.720x377x1.jpg",
+                    "id": 404446,
+                    "image_url": "https://images.genius.com/e7a508963d6749f02d838be5ea5c3c66.955x955x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "667",
+                    "url": "https://genius.com/artists/667"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/2855543",
+                "artist_names": "Freeze Corleone",
+                "full_title": "Comme \u00e7a by\u00a0Freeze\u00a0Corleone",
+                "header_image_thumbnail_url": "https://images.genius.com/f0550d27d8ecbabbf040d7eaab14722e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f0550d27d8ecbabbf040d7eaab14722e.500x500x1.jpg",
+                "id": 2855543,
+                "language": "fr",
+                "lyrics_owner_id": 800280,
+                "lyrics_state": "complete",
+                "path": "/Freeze-corleone-comme-ca-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Freeze-corleone-comme-ca-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 11
+                },
+                "release_date_for_display": "September 11, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 11, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f0550d27d8ecbabbf040d7eaab14722e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f0550d27d8ecbabbf040d7eaab14722e.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 16645
+                },
+                "title": "Comme \u00e7a",
+                "title_with_featured": "Comme \u00e7a",
+                "url": "https://genius.com/Freeze-corleone-comme-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/63888",
+                    "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                    "id": 63888,
+                    "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Freeze Corleone",
+                    "url": "https://genius.com/artists/Freeze-corleone",
+                    "iq": 16646
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7736795",
+                "artist_names": "Keta (Ft. Freeze Corleone)",
+                "full_title": "Connect\u00e9\u00e8* by\u00a0Keta (Ft.\u00a0Freeze\u00a0Corleone)",
+                "header_image_thumbnail_url": "https://images.genius.com/8e4cb2c7a4010385705f257ed8876679.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8e4cb2c7a4010385705f257ed8876679.1000x1000x1.jpg",
+                "id": 7736795,
+                "language": "en",
+                "lyrics_owner_id": 10484495,
+                "lyrics_state": "complete",
+                "path": "/Keta-connectee-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Keta-connectee-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/8e4cb2c7a4010385705f257ed8876679.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8e4cb2c7a4010385705f257ed8876679.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Connect\u00e9\u00e8*",
+                "title_with_featured": "Connect\u00e9\u00e8* (Ft.\u00a0Freeze\u00a0Corleone)",
+                "url": "https://genius.com/Keta-connectee-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/63888",
+                        "header_image_url": "https://images.genius.com/a48c9d60644451c4b653885397f8fdb9.640x340x1.png",
+                        "id": 63888,
+                        "image_url": "https://images.genius.com/dcbe4da4a1c69b6c30be4c38bc31a982.364x364x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Freeze Corleone",
+                        "url": "https://genius.com/artists/Freeze-corleone",
+                        "iq": 16646
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1031064",
+                    "header_image_url": "https://images.genius.com/8e4cb2c7a4010385705f257ed8876679.1000x1000x1.jpg",
+                    "id": 1031064,
+                    "image_url": "https://images.genius.com/8e4cb2c7a4010385705f257ed8876679.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Keta",
+                    "url": "https://genius.com/artists/Keta"
+                }
+            }
+        ],
+        "next_page": 5
+    }
+}

@@ -1,0 +1,898 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/2835042",
+                "artist_names": "PNL",
+                "full_title": "Ben\u00e9 by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/ffb674caf1204c3f662afb3c16632f80.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/ffb674caf1204c3f662afb3c16632f80.1000x563x1.jpg",
+                "id": 2835042,
+                "language": "fr",
+                "lyrics_owner_id": 142424,
+                "lyrics_state": "complete",
+                "path": "/Pnl-bene-lyrics",
+                "pyongs_count": 21,
+                "relationships_index_url": "https://genius.com/Pnl-bene-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 16
+                },
+                "release_date_for_display": "September 16, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 16, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 716793
+                },
+                "title": "Ben\u00e9",
+                "title_with_featured": "Ben\u00e9",
+                "url": "https://genius.com/Pnl-bene-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2983307",
+                "artist_names": "Ademo (Ft. Rim'K)",
+                "full_title": "Bienvenue by\u00a0Ademo (Ft.\u00a0Rim'K)",
+                "header_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "id": 2983307,
+                "language": "fr",
+                "lyrics_owner_id": 5934018,
+                "lyrics_state": "complete",
+                "path": "/Ademo-bienvenue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ademo-bienvenue-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bienvenue",
+                "title_with_featured": "Bienvenue (Ft.\u00a0Rim'K)",
+                "url": "https://genius.com/Ademo-bienvenue-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2455",
+                        "header_image_url": "https://images.genius.com/58fd31f99d79144a99d186dedf9d60b6.1000x563x1.png",
+                        "id": 2455,
+                        "image_url": "https://images.genius.com/b1b7d2ed16a7de57e9af693f956c3329.502x502x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Rim\u2019K",
+                        "url": "https://genius.com/artists/Rimk",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/4439833",
+                "artist_names": "PNL",
+                "full_title": "Blanka by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/789a49aa98723493c13af4d1378584d4.300x144x1.jpg",
+                "header_image_url": "https://images.genius.com/789a49aa98723493c13af4d1378584d4.1000x479x1.jpg",
+                "id": 4439833,
+                "language": "fr",
+                "lyrics_owner_id": 1191313,
+                "lyrics_state": "complete",
+                "path": "/Pnl-blanka-lyrics",
+                "pyongs_count": 27,
+                "relationships_index_url": "https://genius.com/Pnl-blanka-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b3fc40f0f85460e44432f680edfa242c.220x220x1.png",
+                "song_art_image_url": "https://images.genius.com/b3fc40f0f85460e44432f680edfa242c.220x220x1.png",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 585433
+                },
+                "title": "Blanka",
+                "title_with_featured": "Blanka",
+                "url": "https://genius.com/Pnl-blanka-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 36,
+                "api_path": "/songs/4414296",
+                "artist_names": "PNL",
+                "full_title": "Capuche by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/2cd226fdf84625464ba0b8fb0c149221.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2cd226fdf84625464ba0b8fb0c149221.564x564x1.jpg",
+                "id": 4414296,
+                "language": "fr",
+                "lyrics_owner_id": 4012684,
+                "lyrics_state": "complete",
+                "path": "/Pnl-capuche-lyrics",
+                "pyongs_count": 17,
+                "relationships_index_url": "https://genius.com/Pnl-capuche-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2cd226fdf84625464ba0b8fb0c149221.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2cd226fdf84625464ba0b8fb0c149221.564x564x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 24,
+                    "hot": false,
+                    "pageviews": 184487
+                },
+                "title": "Capuche",
+                "title_with_featured": "Capuche",
+                "url": "https://genius.com/Pnl-capuche-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2983870",
+                "artist_names": "Ademo",
+                "full_title": "\u00c7a vient de la street by\u00a0Ademo",
+                "header_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "id": 2983870,
+                "language": "fr",
+                "lyrics_owner_id": 182842,
+                "lyrics_state": "complete",
+                "path": "/Ademo-ca-vient-de-la-street-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ademo-ca-vient-de-la-street-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u00c7a vient de la street",
+                "title_with_featured": "\u00c7a vient de la street",
+                "url": "https://genius.com/Ademo-ca-vient-de-la-street-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 28,
+                "api_path": "/songs/4439836",
+                "artist_names": "PNL",
+                "full_title": "Celsius by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "id": 4439836,
+                "language": "fr",
+                "lyrics_owner_id": 177524,
+                "lyrics_state": "complete",
+                "path": "/Pnl-celsius-lyrics",
+                "pyongs_count": 16,
+                "relationships_index_url": "https://genius.com/Pnl-celsius-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 14,
+                    "hot": false,
+                    "pageviews": 236289
+                },
+                "title": "Celsius",
+                "title_with_featured": "Celsius",
+                "url": "https://genius.com/Pnl-celsius-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2984616",
+                "artist_names": "Ademo (Ft. Al Peco)",
+                "full_title": "C'est qui by\u00a0Ademo (Ft.\u00a0Al\u00a0Peco)",
+                "header_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "id": 2984616,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Ademo-cest-qui-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ademo-cest-qui-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "C\u2019est qui",
+                "title_with_featured": "C'est qui (Ft.\u00a0Al\u00a0Peco)",
+                "url": "https://genius.com/Ademo-cest-qui-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15408",
+                        "header_image_url": "https://images.genius.com/61ea6e0bf56de4f4245c6cc4a8a3df48.399x399x1.jpg",
+                        "id": 15408,
+                        "image_url": "https://images.genius.com/61ea6e0bf56de4f4245c6cc4a8a3df48.399x399x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Al Peco",
+                        "url": "https://genius.com/artists/Al-peco"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 43,
+                "api_path": "/songs/4439831",
+                "artist_names": "PNL",
+                "full_title": "Chang by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "id": 4439831,
+                "language": "en",
+                "lyrics_owner_id": 4012684,
+                "lyrics_state": "complete",
+                "path": "/Pnl-chang-lyrics",
+                "pyongs_count": 23,
+                "relationships_index_url": "https://genius.com/Pnl-chang-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 15,
+                    "hot": false,
+                    "pageviews": 430774
+                },
+                "title": "Chang",
+                "title_with_featured": "Chang",
+                "url": "https://genius.com/Pnl-chang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/2372595",
+                "artist_names": "Ademo",
+                "full_title": "Cigare de Cuba by\u00a0Ademo",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/45993370684aa627857083be1e137467.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/45993370684aa627857083be1e137467.1000x1000x1.jpg",
+                "id": 2372595,
+                "language": "fr",
+                "lyrics_owner_id": 179549,
+                "lyrics_state": "complete",
+                "path": "/Ademo-cigare-de-cuba-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Ademo-cigare-de-cuba-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 17
+                },
+                "release_date_for_display": "November 17, 2015",
+                "release_date_with_abbreviated_month_for_display": "Nov. 17, 2015",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/45993370684aa627857083be1e137467.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/45993370684aa627857083be1e137467.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 34675
+                },
+                "title": "Cigare de Cuba",
+                "title_with_featured": "Cigare de Cuba",
+                "url": "https://genius.com/Ademo-cigare-de-cuba-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 28,
+                "api_path": "/songs/3211012",
+                "artist_names": "PNL",
+                "full_title": "C\u0153urs by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "id": 3211012,
+                "language": "fr",
+                "lyrics_owner_id": 2761464,
+                "lyrics_state": "complete",
+                "path": "/Pnl-curs-lyrics",
+                "pyongs_count": 21,
+                "relationships_index_url": "https://genius.com/Pnl-curs-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 278516
+                },
+                "title": "C\u0153urs",
+                "title_with_featured": "C\u0153urs",
+                "url": "https://genius.com/Pnl-curs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2983868",
+                "artist_names": "Ademo",
+                "full_title": "Comment \u00e7a by\u00a0Ademo",
+                "header_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "id": 2983868,
+                "language": null,
+                "lyrics_owner_id": 2415106,
+                "lyrics_state": "complete",
+                "path": "/Ademo-comment-ca-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ademo-comment-ca-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2009",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7c97a408005059e3b630bc87cd42da7d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Comment \u00e7a",
+                "title_with_featured": "Comment \u00e7a",
+                "url": "https://genius.com/Ademo-comment-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/4659226",
+                "artist_names": "PNL",
+                "full_title": "Comme pas deux by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "header_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "id": 4659226,
+                "language": "fr",
+                "lyrics_owner_id": 4509724,
+                "lyrics_state": "complete",
+                "path": "/Pnl-comme-pas-deux-lyrics",
+                "pyongs_count": 16,
+                "relationships_index_url": "https://genius.com/Pnl-comme-pas-deux-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 28
+                },
+                "release_date_for_display": "June 28, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/c79ebb7e8dff82dc9c064508ec43f18b.600x600x1.png",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 237692
+                },
+                "title": "Comme pas deux",
+                "title_with_featured": "Comme pas deux",
+                "url": "https://genius.com/Pnl-comme-pas-deux-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/2402867",
+                "artist_names": "Ademo",
+                "full_title": "Comme un aveugle by\u00a0Ademo",
+                "header_image_thumbnail_url": "https://images.genius.com/677ad6eb7870f1ca262d51adbb1fa3c5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/677ad6eb7870f1ca262d51adbb1fa3c5.1000x1000x1.jpg",
+                "id": 2402867,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Ademo-comme-un-aveugle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ademo-comme-un-aveugle-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 10,
+                    "day": 24
+                },
+                "release_date_for_display": "October 24, 2012",
+                "release_date_with_abbreviated_month_for_display": "Oct. 24, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/677ad6eb7870f1ca262d51adbb1fa3c5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/677ad6eb7870f1ca262d51adbb1fa3c5.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Comme un aveugle",
+                "title_with_featured": "Comme un aveugle",
+                "url": "https://genius.com/Ademo-comme-un-aveugle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2850529",
+                "artist_names": "Ademo (Ft. AK-Par\u00e9)",
+                "full_title": "Conseil d\u2019ennemis by\u00a0Ademo (Ft.\u00a0AK-Par\u00e9)",
+                "header_image_thumbnail_url": "https://images.genius.com/c8d25daab7e0b0d98a00ac25179bf5eb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c8d25daab7e0b0d98a00ac25179bf5eb.500x500x1.jpg",
+                "id": 2850529,
+                "language": null,
+                "lyrics_owner_id": 2817058,
+                "lyrics_state": "complete",
+                "path": "/Ademo-conseil-dennemis-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Ademo-conseil-dennemis-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 16
+                },
+                "release_date_for_display": "February 16, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 16, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c8d25daab7e0b0d98a00ac25179bf5eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c8d25daab7e0b0d98a00ac25179bf5eb.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Conseil d\u2019ennemis",
+                "title_with_featured": "Conseil d\u2019ennemis (Ft.\u00a0AK-Par\u00e9)",
+                "url": "https://genius.com/Ademo-conseil-dennemis-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/997421",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 997421,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "AK-Par\u00e9",
+                        "url": "https://genius.com/artists/Ak-pare"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/2403956",
+                "artist_names": "Ademo",
+                "full_title": "Cram\u00e9 by\u00a0Ademo",
+                "header_image_thumbnail_url": "https://images.genius.com/21d08d44ecf0b5931b20fc711a92bc40.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/21d08d44ecf0b5931b20fc711a92bc40.500x500x1.jpg",
+                "id": 2403956,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Ademo-crame-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Ademo-crame-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 6,
+                    "day": 18
+                },
+                "release_date_for_display": "June 18, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jun. 18, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21d08d44ecf0b5931b20fc711a92bc40.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/21d08d44ecf0b5931b20fc711a92bc40.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 12044
+                },
+                "title": "Cram\u00e9",
+                "title_with_featured": "Cram\u00e9",
+                "url": "https://genius.com/Ademo-crame-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/322849",
+                    "header_image_url": "https://images.genius.com/4d1c836cf18777cdbba10d663305abb7.1000x1000x1.jpg",
+                    "id": 322849,
+                    "image_url": "https://images.genius.com/97fed0d4bde5aa8b3cea5b3e2fdd0b62.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ademo",
+                    "url": "https://genius.com/artists/Ademo"
+                }
+            },
+            {
+                "annotation_count": 29,
+                "api_path": "/songs/2858161",
+                "artist_names": "PNL",
+                "full_title": "Cram\u00e9s by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/150c48cec91ff183a8583b3de476dfb9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/150c48cec91ff183a8583b3de476dfb9.700x700x1.jpg",
+                "id": 2858161,
+                "language": "fr",
+                "lyrics_owner_id": 182842,
+                "lyrics_state": "complete",
+                "path": "/Pnl-crames-lyrics",
+                "pyongs_count": 13,
+                "relationships_index_url": "https://genius.com/Pnl-crames-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 16
+                },
+                "release_date_for_display": "September 16, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 16, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/150c48cec91ff183a8583b3de476dfb9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/150c48cec91ff183a8583b3de476dfb9.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 343287
+                },
+                "title": "Cram\u00e9s",
+                "title_with_featured": "Cram\u00e9s",
+                "url": "https://genius.com/Pnl-crames-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/2456383",
+                "artist_names": "PNL",
+                "full_title": "DA by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/b56d5f3dc975a97bd0b2680008c5674a.300x96x1.jpg",
+                "header_image_url": "https://images.genius.com/b56d5f3dc975a97bd0b2680008c5674a.1000x319x1.jpg",
+                "id": 2456383,
+                "language": "fr",
+                "lyrics_owner_id": 292723,
+                "lyrics_state": "complete",
+                "path": "/Pnl-da-lyrics",
+                "pyongs_count": 103,
+                "relationships_index_url": "https://genius.com/Pnl-da-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 15
+                },
+                "release_date_for_display": "April 15, 2016",
+                "release_date_with_abbreviated_month_for_display": "Apr. 15, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 1285256
+                },
+                "title": "DA",
+                "title_with_featured": "DA",
+                "url": "https://genius.com/Pnl-da-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 46,
+                "api_path": "/songs/2843605",
+                "artist_names": "PNL",
+                "full_title": "Dans la l\u00e9gende by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.600x600x1.jpg",
+                "id": 2843605,
+                "language": "fr",
+                "lyrics_owner_id": 182842,
+                "lyrics_state": "complete",
+                "path": "/Pnl-dans-la-legende-lyrics",
+                "pyongs_count": 18,
+                "relationships_index_url": "https://genius.com/Pnl-dans-la-legende-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 9,
+                    "day": 16
+                },
+                "release_date_for_display": "September 16, 2016",
+                "release_date_with_abbreviated_month_for_display": "Sep. 16, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ef4849be3da5fdb22ea9e656679be3a3.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 503574
+                },
+                "title": "Dans la l\u00e9gende",
+                "title_with_featured": "Dans la l\u00e9gende",
+                "url": "https://genius.com/Pnl-dans-la-legende-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 43,
+                "api_path": "/songs/2336473",
+                "artist_names": "PNL",
+                "full_title": "Dans la soucoupe by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.1000x1000x1.jpg",
+                "id": 2336473,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Pnl-dans-la-soucoupe-lyrics",
+                "pyongs_count": 11,
+                "relationships_index_url": "https://genius.com/Pnl-dans-la-soucoupe-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 10,
+                    "day": 30
+                },
+                "release_date_for_display": "October 30, 2015",
+                "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 150928
+                },
+                "title": "Dans la soucoupe",
+                "title_with_featured": "Dans la soucoupe",
+                "url": "https://genius.com/Pnl-dans-la-soucoupe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            },
+            {
+                "annotation_count": 57,
+                "api_path": "/songs/2310106",
+                "artist_names": "PNL",
+                "full_title": "Dans ta rue by\u00a0PNL",
+                "header_image_thumbnail_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.1000x1000x1.jpg",
+                "id": 2310106,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Pnl-dans-ta-rue-lyrics",
+                "pyongs_count": 32,
+                "relationships_index_url": "https://genius.com/Pnl-dans-ta-rue-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 18
+                },
+                "release_date_for_display": "September 18, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d60fe3c0e3eeb672eb407b73ae425069.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 356037
+                },
+                "title": "Dans ta rue",
+                "title_with_featured": "Dans ta rue",
+                "url": "https://genius.com/Pnl-dans-ta-rue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/335710",
+                    "header_image_url": "https://images.genius.com/e0b082e0bca9885108369e47143575a1.747x382x1.jpg",
+                    "id": 335710,
+                    "image_url": "https://images.genius.com/9077e11eb58ce5afa062a9c8b0addfc9.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PNL",
+                    "url": "https://genius.com/artists/Pnl"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

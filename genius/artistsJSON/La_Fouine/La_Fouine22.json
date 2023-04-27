@@ -1,0 +1,913 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/113594",
+                "artist_names": "La Fouine",
+                "full_title": "T.L.T by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/3e114fc4a64aa697e00c13d1ed44979c.300x276x1.png",
+                "header_image_url": "https://images.rapgenius.com/3e114fc4a64aa697e00c13d1ed44979c.601x553x1.png",
+                "id": 113594,
+                "language": "fr",
+                "lyrics_owner_id": 96980,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tlt-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/La-fouine-tlt-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 2,
+                    "day": 3
+                },
+                "release_date_for_display": "February 3, 2013",
+                "release_date_with_abbreviated_month_for_display": "Feb. 3, 2013",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/3e114fc4a64aa697e00c13d1ed44979c.300x276x1.png",
+                "song_art_image_url": "https://images.rapgenius.com/3e114fc4a64aa697e00c13d1ed44979c.601x553x1.png",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 86843
+                },
+                "title": "T.L.T",
+                "title_with_featured": "T.L.T",
+                "url": "https://genius.com/La-fouine-tlt-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/67173",
+                "artist_names": "La Fouine (Ft. Amel Bent)",
+                "full_title": "Tomb\u00e9 pour elle by\u00a0La\u00a0Fouine (Ft.\u00a0Amel\u00a0Bent)",
+                "header_image_thumbnail_url": "https://images.genius.com/d9a875559e81376e425aebb845e03b59.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d9a875559e81376e425aebb845e03b59.992x992x1.jpg",
+                "id": 67173,
+                "language": "fr",
+                "lyrics_owner_id": 42347,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tombe-pour-elle-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/La-fouine-tombe-pour-elle-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 3,
+                    "day": 12
+                },
+                "release_date_for_display": "March 12, 2007",
+                "release_date_with_abbreviated_month_for_display": "Mar. 12, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d9a875559e81376e425aebb845e03b59.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d9a875559e81376e425aebb845e03b59.992x992x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 68071
+                },
+                "title": "Tomb\u00e9 pour elle",
+                "title_with_featured": "Tomb\u00e9 pour elle (Ft.\u00a0Amel\u00a0Bent)",
+                "url": "https://genius.com/La-fouine-tombe-pour-elle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13212",
+                        "header_image_url": "https://images.genius.com/7a9d429abf0c3516a983d446894a2141.400x400x1.png",
+                        "id": 13212,
+                        "image_url": "https://images.genius.com/7a9d429abf0c3516a983d446894a2141.400x400x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Amel Bent",
+                        "url": "https://genius.com/artists/Amel-bent"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/60201",
+                "artist_names": "Evaanz (Ft. Soprano)",
+                "full_title": "Ton silence by\u00a0Evaanz (Ft.\u00a0Soprano)",
+                "header_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "id": 60201,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Evaanz-ton-silence-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Evaanz-ton-silence-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 18,
+                    "hot": false
+                },
+                "title": "Ton silence",
+                "title_with_featured": "Ton silence (Ft.\u00a0Soprano)",
+                "url": "https://genius.com/Evaanz-ton-silence-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1431",
+                        "header_image_url": "https://images.genius.com/e7978b0b7620b2e575e6765eb79c9d53.597x183x1.png",
+                        "id": 1431,
+                        "image_url": "https://images.genius.com/d0a0f7b8182f11dafa1d2a554f6e3eab.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soprano",
+                        "url": "https://genius.com/artists/Soprano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14009",
+                    "header_image_url": "https://images.genius.com/8bdcfe4dcd9119dad5e74377fd0b76ed.276x276x1.jpg",
+                    "id": 14009,
+                    "image_url": "https://images.genius.com/8bdcfe4dcd9119dad5e74377fd0b76ed.276x276x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Evaanz",
+                    "url": "https://genius.com/artists/Evaanz"
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/451661",
+                "artist_names": "DJ Skorp (Ft. Canardo, La Fouine & Sultan)",
+                "full_title": "Touche \u00e0 rien by\u00a0DJ\u00a0Skorp (Ft.\u00a0Canardo, La\u00a0Fouine & Sultan)",
+                "header_image_thumbnail_url": "https://images.genius.com/311e4533a10187851e81f97d41bb81f5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/311e4533a10187851e81f97d41bb81f5.960x960x1.jpg",
+                "id": 451661,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Dj-skorp-touche-a-rien-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dj-skorp-touche-a-rien-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 6,
+                    "day": 16
+                },
+                "release_date_for_display": "June 16, 2014",
+                "release_date_with_abbreviated_month_for_display": "Jun. 16, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/311e4533a10187851e81f97d41bb81f5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/311e4533a10187851e81f97d41bb81f5.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 31655
+                },
+                "title": "Touche \u00e0 rien",
+                "title_with_featured": "Touche \u00e0 rien (Ft.\u00a0Canardo, La\u00a0Fouine & Sultan)",
+                "url": "https://genius.com/Dj-skorp-touche-a-rien-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11648",
+                        "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "id": 11648,
+                        "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Canardo",
+                        "url": "https://genius.com/artists/Canardo"
+                    },
+                    {
+                        "api_path": "/artists/6670",
+                        "header_image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "id": 6670,
+                        "image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sultan",
+                        "url": "https://genius.com/artists/Sultan",
+                        "iq": 2066
+                    },
+                    {
+                        "api_path": "/artists/1303",
+                        "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                        "id": 1303,
+                        "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Fouine",
+                        "url": "https://genius.com/artists/La-fouine"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/27976",
+                    "header_image_url": "https://images.genius.com/4e3780976025a1ed104f180fa157e7f9.640x640x1.jpg",
+                    "id": 27976,
+                    "image_url": "https://images.genius.com/4e3780976025a1ed104f180fa157e7f9.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DJ Skorp",
+                    "url": "https://genius.com/artists/Dj-skorp"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/313751",
+                "artist_names": "Seth Gueko (Ft. La Fouine)",
+                "full_title": "Toucher le ciel by\u00a0Seth\u00a0Gueko (Ft.\u00a0La\u00a0Fouine)",
+                "header_image_thumbnail_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.400x400x1.jpg",
+                "id": 313751,
+                "language": "fr",
+                "lyrics_owner_id": 310835,
+                "lyrics_state": "complete",
+                "path": "/Seth-gueko-toucher-le-ciel-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seth-gueko-toucher-le-ciel-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 3,
+                    "day": 25
+                },
+                "release_date_for_display": "March 25, 2011",
+                "release_date_with_abbreviated_month_for_display": "Mar. 25, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f9b15d7e6c8d9cdc2de6de4fdefa8783.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false
+                },
+                "title": "Toucher le ciel",
+                "title_with_featured": "Toucher le ciel (Ft.\u00a0La\u00a0Fouine)",
+                "url": "https://genius.com/Seth-gueko-toucher-le-ciel-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1303",
+                        "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                        "id": 1303,
+                        "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Fouine",
+                        "url": "https://genius.com/artists/La-fouine"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11499",
+                    "header_image_url": "https://images.genius.com/7447bcc763d0ea6e6a38ff0fbf5857ad.1000x667x1.jpg",
+                    "id": 11499,
+                    "image_url": "https://images.genius.com/be172669b04ba36e55106472bcf3e2b9.476x476x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Seth Gueko",
+                    "url": "https://genius.com/artists/Seth-gueko",
+                    "iq": 1271
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/76006",
+                "artist_names": "La Fouine",
+                "full_title": "Tous les m\u00eames by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.400x400x1.jpg",
+                "id": 76006,
+                "language": "fr",
+                "lyrics_owner_id": 108877,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tous-les-memes-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/La-fouine-tous-les-memes-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2009",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d270b33f402da35b523f24cb5a7528b2.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 63209
+                },
+                "title": "Tous les m\u00eames",
+                "title_with_featured": "Tous les m\u00eames",
+                "url": "https://genius.com/La-fouine-tous-les-memes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/81604",
+                "artist_names": "Canardo (Ft. La Fouine)",
+                "full_title": "Tout ce que j'aurais voulu faire by\u00a0Canardo (Ft.\u00a0La\u00a0Fouine)",
+                "header_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "id": 81604,
+                "language": "fr",
+                "lyrics_owner_id": 88700,
+                "lyrics_state": "complete",
+                "path": "/Canardo-tout-ce-que-jaurais-voulu-faire-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Canardo-tout-ce-que-jaurais-voulu-faire-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ba3b01ed91ffb5d3aec3e6eefec17268.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tout ce que j\u2019aurais voulu faire",
+                "title_with_featured": "Tout ce que j'aurais voulu faire (Ft.\u00a0La\u00a0Fouine)",
+                "url": "https://genius.com/Canardo-tout-ce-que-jaurais-voulu-faire-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1303",
+                        "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                        "id": 1303,
+                        "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Fouine",
+                        "url": "https://genius.com/artists/La-fouine"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/11648",
+                    "header_image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "id": 11648,
+                    "image_url": "https://images.genius.com/43ae5bd419b5b924f05bc89f844e72a4.1000x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canardo",
+                    "url": "https://genius.com/artists/Canardo"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/51741",
+                "artist_names": "La Fouine",
+                "full_title": "Toute la night by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/1d48a66e687d4b58c4f79ad56d00b6fb.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/1d48a66e687d4b58c4f79ad56d00b6fb.1000x563x1.jpg",
+                "id": 51741,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-toute-la-night-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-toute-la-night-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 2,
+                    "day": 14
+                },
+                "release_date_for_display": "February 14, 2011",
+                "release_date_with_abbreviated_month_for_display": "Feb. 14, 2011",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/5ab47db39e6235996cb99d97ebb79924.300x291x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/5ab47db39e6235996cb99d97ebb79924.600x582x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 11377
+                },
+                "title": "Toute la night",
+                "title_with_featured": "Toute la night",
+                "url": "https://genius.com/La-fouine-toute-la-night-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/2432106",
+                "artist_names": "La Fouine",
+                "full_title": "Trappes by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.1000x1000x1.jpg",
+                "id": 2432106,
+                "language": "fr",
+                "lyrics_owner_id": 156865,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-trappes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-trappes-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 6657
+                },
+                "title": "Trappes",
+                "title_with_featured": "Trappes",
+                "url": "https://genius.com/La-fouine-trappes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5095820",
+                "artist_names": "La Fouine",
+                "full_title": "Trappes City by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/57d139ff1147e905055113dbca9fd111.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/57d139ff1147e905055113dbca9fd111.450x446x1.jpg",
+                "id": 5095820,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-trappes-city-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-trappes-city-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/57d139ff1147e905055113dbca9fd111.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/57d139ff1147e905055113dbca9fd111.450x446x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Trappes City",
+                "title_with_featured": "Trappes City",
+                "url": "https://genius.com/La-fouine-trappes-city-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/210609",
+                "artist_names": "La Fouine (Ft. DJ Battle)",
+                "full_title": "Trappes Stars by\u00a0La\u00a0Fouine (Ft.\u00a0DJ\u00a0Battle)",
+                "header_image_thumbnail_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                "id": 210609,
+                "language": "fr",
+                "lyrics_owner_id": 228495,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-trappes-stars-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-trappes-stars-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Trappes Stars",
+                "title_with_featured": "Trappes Stars (Ft.\u00a0DJ\u00a0Battle)",
+                "url": "https://genius.com/La-fouine-trappes-stars-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/27157",
+                        "header_image_url": "https://images.genius.com/e4f1e86e25ff17ecc5ccd7e953cff5c7.667x1000x1.jpg",
+                        "id": 27157,
+                        "image_url": "https://images.genius.com/e4f1e86e25ff17ecc5ccd7e953cff5c7.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Battle",
+                        "url": "https://genius.com/artists/Dj-battle"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5134047",
+                "artist_names": "La Fouine",
+                "full_title": "Trois mots by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.1000x1000x1.jpg",
+                "id": 5134047,
+                "language": "fr",
+                "lyrics_owner_id": 146513,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-trois-mots-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-trois-mots-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 24
+                },
+                "release_date_for_display": "January 24, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jan. 24, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5d8aad61b689761cdbe099164ebcdaa.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Trois mots",
+                "title_with_featured": "Trois mots",
+                "url": "https://genius.com/La-fouine-trois-mots-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/60626",
+                "artist_names": "La Fouine",
+                "full_title": "Tu N'as Aucun Swagg by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.400x400x1.jpg",
+                "id": 60626,
+                "language": "fr",
+                "lyrics_owner_id": 47662,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tu-nas-aucun-swagg-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-tu-nas-aucun-swagg-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3263755dcad6a90e1c73c88347211f8d.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 7227
+                },
+                "title": "Tu N\u2019as Aucun Swagg",
+                "title_with_featured": "Tu N'as Aucun Swagg",
+                "url": "https://genius.com/La-fouine-tu-nas-aucun-swagg-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 43,
+                "api_path": "/songs/550813",
+                "artist_names": "La Fouine",
+                "full_title": "Tu sers \u00e0 rien by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.960x960x1.jpg",
+                "id": 550813,
+                "language": "fr",
+                "lyrics_owner_id": 295840,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tu-sers-a-rien-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/La-fouine-tu-sers-a-rien-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 11,
+                    "day": 24
+                },
+                "release_date_for_display": "November 24, 2014",
+                "release_date_with_abbreviated_month_for_display": "Nov. 24, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 27235
+                },
+                "title": "Tu sers \u00e0 rien",
+                "title_with_featured": "Tu sers \u00e0 rien",
+                "url": "https://genius.com/La-fouine-tu-sers-a-rien-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2432962",
+                "artist_names": "La Fouine",
+                "full_title": "Tu valais mieux by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.1000x1000x1.jpg",
+                "id": 2432962,
+                "language": "fr",
+                "lyrics_owner_id": 1455543,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tu-valais-mieux-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-tu-valais-mieux-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 4
+                },
+                "release_date_for_display": "March 4, 2016",
+                "release_date_with_abbreviated_month_for_display": "Mar. 4, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/788ed3694a992dc8f6c27562e8803062.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 8175
+                },
+                "title": "Tu valais mieux",
+                "title_with_featured": "Tu valais mieux",
+                "url": "https://genius.com/La-fouine-tu-valais-mieux-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 51,
+                "api_path": "/songs/59863",
+                "artist_names": "La Fouine (Ft. OrelSan)",
+                "full_title": "Tu vas prendre cher by\u00a0La\u00a0Fouine (Ft.\u00a0OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "id": 59863,
+                "language": "fr",
+                "lyrics_owner_id": 15586,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-tu-vas-prendre-cher-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/La-fouine-tu-vas-prendre-cher-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false,
+                    "pageviews": 23431
+                },
+                "title": "Tu vas prendre cher",
+                "title_with_featured": "Tu vas prendre cher (Ft.\u00a0OrelSan)",
+                "url": "https://genius.com/La-fouine-tu-vas-prendre-cher-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/4012772",
+                "artist_names": "La Fouine",
+                "full_title": "Twerk by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/1d4f5e4b2090fa5e56ab6fbb6d52d02f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d4f5e4b2090fa5e56ab6fbb6d52d02f.720x720x1.jpg",
+                "id": 4012772,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-twerk-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/La-fouine-twerk-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 12
+                },
+                "release_date_for_display": "October 12, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 12, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d4f5e4b2090fa5e56ab6fbb6d52d02f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d4f5e4b2090fa5e56ab6fbb6d52d02f.720x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false
+                },
+                "title": "Twerk",
+                "title_with_featured": "Twerk",
+                "url": "https://genius.com/La-fouine-twerk-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/549818",
+                "artist_names": "La Fouine (Ft. Reda Taliani)",
+                "full_title": "Va Bene by\u00a0La\u00a0Fouine (Ft.\u00a0Reda\u00a0Taliani)",
+                "header_image_thumbnail_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.960x960x1.jpg",
+                "id": 549818,
+                "language": "fr",
+                "lyrics_owner_id": 410513,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-va-bene-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/La-fouine-va-bene-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 31
+                },
+                "release_date_for_display": "October 31, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 31, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a650f3150947692654e16df71f1685cd.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 84571
+                },
+                "title": "Va Bene",
+                "title_with_featured": "Va Bene (Ft.\u00a0Reda\u00a0Taliani)",
+                "url": "https://genius.com/La-fouine-va-bene-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/14021",
+                        "header_image_url": "https://images.genius.com/b31d54c01c818dd9795d2c3d4b0f99c5.720x720x1.jpg",
+                        "id": 14021,
+                        "image_url": "https://images.genius.com/b31d54c01c818dd9795d2c3d4b0f99c5.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Reda Taliani",
+                        "url": "https://genius.com/artists/Reda-taliani"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4181061",
+                "artist_names": "La Fouine",
+                "full_title": "Valeurs by\u00a0La\u00a0Fouine",
+                "header_image_thumbnail_url": "https://images.genius.com/eff853c6be2190116fb6e2d3774e4169.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/eff853c6be2190116fb6e2d3774e4169.1000x563x1.jpg",
+                "id": 4181061,
+                "language": "fr",
+                "lyrics_owner_id": 6006007,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-valeurs-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/La-fouine-valeurs-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 25
+                },
+                "release_date_for_display": "December 25, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 25, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fd093f257d2f14b1f7a6545888fa8988.300x307x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fd093f257d2f14b1f7a6545888fa8988.356x364x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Valeurs",
+                "title_with_featured": "Valeurs",
+                "url": "https://genius.com/La-fouine-valeurs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            }
+        ],
+        "next_page": 23
+    }
+}

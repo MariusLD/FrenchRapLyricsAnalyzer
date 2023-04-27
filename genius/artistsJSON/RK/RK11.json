@@ -1,0 +1,926 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4363321",
+                "artist_names": "RK",
+                "full_title": "Si demain by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.600x600x1.jpg",
+                "id": 4363321,
+                "language": "fr",
+                "lyrics_owner_id": 8269331,
+                "lyrics_state": "complete",
+                "path": "/Rk-si-demain-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-si-demain-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Si demain",
+                "title_with_featured": "Si demain",
+                "url": "https://genius.com/Rk-si-demain-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6993131",
+                "artist_names": "RK",
+                "full_title": "Snoop by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/e3c67d7119cf6dcb40b33887b98d29b8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e3c67d7119cf6dcb40b33887b98d29b8.1000x1000x1.jpg",
+                "id": 6993131,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "unreleased",
+                "path": "/Rk-snoop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-snoop-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 9
+                },
+                "release_date_for_display": "July 9, 2021",
+                "release_date_with_abbreviated_month_for_display": "Jul. 9, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e3c67d7119cf6dcb40b33887b98d29b8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e3c67d7119cf6dcb40b33887b98d29b8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Snoop",
+                "title_with_featured": "Snoop",
+                "url": "https://genius.com/Rk-snoop-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/5607022",
+                "artist_names": "RK",
+                "full_title": "SOS by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/a99d7ca35e7506fc658f008847b53924.300x139x1.png",
+                "header_image_url": "https://images.genius.com/a99d7ca35e7506fc658f008847b53924.664x308x1.png",
+                "id": 5607022,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Rk-sos-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-sos-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2020",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/76e6720fba168ad436521890f97638ea.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/76e6720fba168ad436521890f97638ea.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 12369
+                },
+                "title": "SOS",
+                "title_with_featured": "SOS",
+                "url": "https://genius.com/Rk-sos-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6145051",
+                "artist_names": "RK",
+                "full_title": "Soulag\u00e9 by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "header_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "id": 6145051,
+                "language": "en",
+                "lyrics_owner_id": 8409402,
+                "lyrics_state": "complete",
+                "path": "/Rk-soulage-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-soulage-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "song_art_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Soulag\u00e9",
+                "title_with_featured": "Soulag\u00e9",
+                "url": "https://genius.com/Rk-soulage-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4461921",
+                "artist_names": "RK",
+                "full_title": "S&W by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "header_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "id": 4461921,
+                "language": null,
+                "lyrics_owner_id": 6006007,
+                "lyrics_state": "unreleased",
+                "path": "/Rk-s-w-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-s-w-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 9
+                },
+                "release_date_for_display": "April 9, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 9, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "song_art_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "S&W",
+                "title_with_featured": "S&W",
+                "url": "https://genius.com/Rk-s-w-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7941445",
+                "artist_names": "RK",
+                "full_title": "Tant de choses by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "header_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "id": 7941445,
+                "language": null,
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "incomplete",
+                "path": "/Rk-tant-de-choses-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-tant-de-choses-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2022",
+                "release_date_with_abbreviated_month_for_display": "2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "song_art_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tant de choses",
+                "title_with_featured": "Tant de choses",
+                "url": "https://genius.com/Rk-tant-de-choses-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4363315",
+                "artist_names": "RK",
+                "full_title": "Tard le soir by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.600x600x1.jpg",
+                "id": 4363315,
+                "language": "fr",
+                "lyrics_owner_id": 7662502,
+                "lyrics_state": "complete",
+                "path": "/Rk-tard-le-soir-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-tard-le-soir-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 5
+                },
+                "release_date_for_display": "April 5, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2dcf9d81de626471aefdfadab854eb56.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tard le soir",
+                "title_with_featured": "Tard le soir",
+                "url": "https://genius.com/Rk-tard-le-soir-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4661660",
+                "artist_names": "Vegedream (Ft. Alonzo & RK)",
+                "full_title": "Tchop by\u00a0Vegedream (Ft.\u00a0Alonzo & RK)",
+                "header_image_thumbnail_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.600x600x1.jpg",
+                "id": 4661660,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Vegedream-tchop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vegedream-tchop-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 12
+                },
+                "release_date_for_display": "July 12, 2019",
+                "release_date_with_abbreviated_month_for_display": "Jul. 12, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1d1ecd34d5584dccb74e40b2c2baad84.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 5867
+                },
+                "title": "Tchop",
+                "title_with_featured": "Tchop (Ft.\u00a0Alonzo & RK)",
+                "url": "https://genius.com/Vegedream-tchop-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1415345",
+                        "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                        "id": 1415345,
+                        "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RK",
+                        "url": "https://genius.com/artists/Rk"
+                    },
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1206608",
+                    "header_image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "id": 1206608,
+                    "image_url": "https://images.genius.com/799d2256f9371a763aff2037084b7b4c.376x376x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vegedream",
+                    "url": "https://genius.com/artists/Vegedream"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3791577",
+                "artist_names": "Elams (Ft. RK)",
+                "full_title": "Tello by\u00a0Elams (Ft.\u00a0RK)",
+                "header_image_thumbnail_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.1000x1000x1.jpg",
+                "id": 3791577,
+                "language": "fr",
+                "lyrics_owner_id": 1810091,
+                "lyrics_state": "complete",
+                "path": "/Elams-tello-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Elams-tello-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 6
+                },
+                "release_date_for_display": "July 6, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jul. 6, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9ce12536c81703faa76e2064dcb210fb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tello",
+                "title_with_featured": "Tello (Ft.\u00a0RK)",
+                "url": "https://genius.com/Elams-tello-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1415345",
+                        "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                        "id": 1415345,
+                        "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RK",
+                        "url": "https://genius.com/artists/Rk"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/168832",
+                    "header_image_url": "https://images.genius.com/71a9f83450ea20455db11c669f98ae24.243x300x1.jpg",
+                    "id": 168832,
+                    "image_url": "https://images.genius.com/80a55c28602ceaeecb043963a7dddfa0.710x710x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elams",
+                    "url": "https://genius.com/artists/Elams"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8260158",
+                "artist_names": "RK",
+                "full_title": "TE QUIERO by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/f7c9fa9fb9080c8793646a24884b3694.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f7c9fa9fb9080c8793646a24884b3694.1000x1000x1.jpg",
+                "id": 8260158,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Rk-te-quiero-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Rk-te-quiero-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 8,
+                    "day": 5
+                },
+                "release_date_for_display": "August 5, 2022",
+                "release_date_with_abbreviated_month_for_display": "Aug. 5, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f7c9fa9fb9080c8793646a24884b3694.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f7c9fa9fb9080c8793646a24884b3694.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "TE QUIERO",
+                "title_with_featured": "TE QUIERO",
+                "url": "https://genius.com/Rk-te-quiero-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8612361",
+                "artist_names": "Doria (Ft. RK)",
+                "full_title": "T'es fou ou quoi by\u00a0Doria (Ft.\u00a0RK)",
+                "header_image_thumbnail_url": "https://images.genius.com/a7aa535e61a1c1ca5fc7c9094acaf0ba.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a7aa535e61a1c1ca5fc7c9094acaf0ba.600x600x1.jpg",
+                "id": 8612361,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Doria-tes-fou-ou-quoi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Doria-tes-fou-ou-quoi-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 27
+                },
+                "release_date_for_display": "November 27, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 27, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a7aa535e61a1c1ca5fc7c9094acaf0ba.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a7aa535e61a1c1ca5fc7c9094acaf0ba.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "T\u2019es fou ou quoi",
+                "title_with_featured": "T'es fou ou quoi (Ft.\u00a0RK)",
+                "url": "https://genius.com/Doria-tes-fou-ou-quoi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1415345",
+                        "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                        "id": 1415345,
+                        "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RK",
+                        "url": "https://genius.com/artists/Rk"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1138793",
+                    "header_image_url": "https://images.genius.com/d682d1ccd0b836199e97aa5d74833d58.1000x450x1.jpg",
+                    "id": 1138793,
+                    "image_url": "https://images.genius.com/0d2fb13ef3f0264ac4dc7c5b512bd1f9.980x980x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Doria",
+                    "url": "https://genius.com/artists/Doria"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3673532",
+                "artist_names": "RK",
+                "full_title": "Tierquar by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/cedd8d0dce2fb3499429286a27e3020b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/cedd8d0dce2fb3499429286a27e3020b.500x500x1.jpg",
+                "id": 3673532,
+                "language": "fr",
+                "lyrics_owner_id": 1810091,
+                "lyrics_state": "complete",
+                "path": "/Rk-tierquar-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Rk-tierquar-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 4,
+                    "day": 29
+                },
+                "release_date_for_display": "April 29, 2018",
+                "release_date_with_abbreviated_month_for_display": "Apr. 29, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cedd8d0dce2fb3499429286a27e3020b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cedd8d0dce2fb3499429286a27e3020b.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 39997
+                },
+                "title": "Tierquar",
+                "title_with_featured": "Tierquar",
+                "url": "https://genius.com/Rk-tierquar-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4002677",
+                "artist_names": "RK",
+                "full_title": "T\u2019inqui\u00e8te pas by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/590bcf9ab4668e55d58d95fbefa67087.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/590bcf9ab4668e55d58d95fbefa67087.640x640x1.jpg",
+                "id": 4002677,
+                "language": "fr",
+                "lyrics_owner_id": 5897289,
+                "lyrics_state": "complete",
+                "path": "/Rk-tinquiete-pas-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-tinquiete-pas-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 9,
+                    "day": 21
+                },
+                "release_date_for_display": "September 21, 2018",
+                "release_date_with_abbreviated_month_for_display": "Sep. 21, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/590bcf9ab4668e55d58d95fbefa67087.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/590bcf9ab4668e55d58d95fbefa67087.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "T\u2019inqui\u00e8te pas",
+                "title_with_featured": "T\u2019inqui\u00e8te pas",
+                "url": "https://genius.com/Rk-tinquiete-pas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6627858",
+                "artist_names": "John C 7120 (Ft. RK)",
+                "full_title": "Today by\u00a0John\u00a0C 7120 (Ft.\u00a0RK)",
+                "header_image_thumbnail_url": "https://images.genius.com/198858ca122f3761dd389c25652e3223.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/198858ca122f3761dd389c25652e3223.300x300x1.jpg",
+                "id": 6627858,
+                "language": "en",
+                "lyrics_owner_id": 4979696,
+                "lyrics_state": "complete",
+                "path": "/John-c-7120-today-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/John-c-7120-today-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 3,
+                    "day": 18
+                },
+                "release_date_for_display": "March 18, 2021",
+                "release_date_with_abbreviated_month_for_display": "Mar. 18, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/198858ca122f3761dd389c25652e3223.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/198858ca122f3761dd389c25652e3223.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Today",
+                "title_with_featured": "Today (Ft.\u00a0RK)",
+                "url": "https://genius.com/John-c-7120-today-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1415345",
+                        "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                        "id": 1415345,
+                        "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "RK",
+                        "url": "https://genius.com/artists/Rk"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2658701",
+                    "header_image_url": "https://images.genius.com/8f706bdd8bcb3add5dd4c0d186b544a9.1000x1000x1.png",
+                    "id": 2658701,
+                    "image_url": "https://images.genius.com/8f706bdd8bcb3add5dd4c0d186b544a9.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John C 7120",
+                    "url": "https://genius.com/artists/John-c-7120"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8540122",
+                "artist_names": "RK",
+                "full_title": "Tortank by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/fdd4eefa13a982039d2b49c9a722041f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/fdd4eefa13a982039d2b49c9a722041f.1000x1000x1.jpg",
+                "id": 8540122,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Rk-tortank-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-tortank-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 11
+                },
+                "release_date_for_display": "November 11, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 11, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/fdd4eefa13a982039d2b49c9a722041f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/fdd4eefa13a982039d2b49c9a722041f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tortank",
+                "title_with_featured": "Tortank",
+                "url": "https://genius.com/Rk-tortank-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/3282959",
+                "artist_names": "RK",
+                "full_title": "Total Benef by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/0603a997de1aad95c9acebad071e3d26.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/0603a997de1aad95c9acebad071e3d26.480x360x1.jpg",
+                "id": 3282959,
+                "language": "fr",
+                "lyrics_owner_id": 5356486,
+                "lyrics_state": "complete",
+                "path": "/Rk-total-benef-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-total-benef-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 7,
+                    "day": 21
+                },
+                "release_date_for_display": "July 21, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jul. 21, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0603a997de1aad95c9acebad071e3d26.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0603a997de1aad95c9acebad071e3d26.480x360x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 8839
+                },
+                "title": "Total Benef",
+                "title_with_featured": "Total Benef",
+                "url": "https://genius.com/Rk-total-benef-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8444237",
+                "artist_names": "RK",
+                "full_title": "Tour by\u00a0RK",
+                "header_image_thumbnail_url": "https://images.genius.com/918de55a843a6a7a98860be69bff1b35.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/918de55a843a6a7a98860be69bff1b35.680x680x1.jpg",
+                "id": 8444237,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Rk-tour-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-tour-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 7
+                },
+                "release_date_for_display": "October 7, 2022",
+                "release_date_with_abbreviated_month_for_display": "Oct. 7, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/918de55a843a6a7a98860be69bff1b35.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/918de55a843a6a7a98860be69bff1b35.680x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Tour",
+                "title_with_featured": "Tour",
+                "url": "https://genius.com/Rk-tour-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/1794873",
+                "artist_names": "Celph Titled",
+                "full_title": "Tropic States by\u00a0Celph\u00a0Titled",
+                "header_image_thumbnail_url": "https://images.genius.com/c436c8a52e9bd29d53e59b1725120aa1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c436c8a52e9bd29d53e59b1725120aa1.600x600x1.jpg",
+                "id": 1794873,
+                "language": "en",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Celph-titled-tropic-states-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Celph-titled-tropic-states-sample",
+                "release_date_components": {
+                    "year": 2006,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2006",
+                "release_date_with_abbreviated_month_for_display": "2006",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c436c8a52e9bd29d53e59b1725120aa1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c436c8a52e9bd29d53e59b1725120aa1.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Tropic States",
+                "title_with_featured": "Tropic States",
+                "url": "https://genius.com/Celph-titled-tropic-states-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/450",
+                    "header_image_url": "https://images.genius.com/49db1620613a4d2255d8224723a0c34c.306x306x1.jpg",
+                    "id": 450,
+                    "image_url": "https://images.genius.com/49db1620613a4d2255d8224723a0c34c.306x306x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Celph Titled",
+                    "url": "https://genius.com/artists/Celph-titled"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8379681",
+                "artist_names": "RK (Ft. Tonq)",
+                "full_title": "Trust That Switch (feat. Tonq) by\u00a0RK (Ft.\u00a0Tonq)",
+                "header_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "header_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "id": 8379681,
+                "language": "en",
+                "lyrics_owner_id": 16067766,
+                "lyrics_state": "complete",
+                "path": "/Rk-trust-that-switch-feat-tonq-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-trust-that-switch-feat-tonq-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 8,
+                    "day": 31
+                },
+                "release_date_for_display": "August 31, 2022",
+                "release_date_with_abbreviated_month_for_display": "Aug. 31, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "song_art_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Trust That Switch (feat. Tonq)",
+                "title_with_featured": "Trust That Switch (feat. Tonq) (Ft.\u00a0Tonq)",
+                "url": "https://genius.com/Rk-trust-that-switch-feat-tonq-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/3292509",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3292509,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tonq",
+                        "url": "https://genius.com/artists/Tonq"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4464934",
+                "artist_names": "RK (Ft. GLK)",
+                "full_title": "Un jour ou l'autre by\u00a0RK (Ft.\u00a0GLK)",
+                "header_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "header_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "id": 4464934,
+                "language": null,
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "unreleased",
+                "path": "/Rk-un-jour-ou-lautre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Rk-un-jour-ou-lautre-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 4,
+                    "day": 11
+                },
+                "release_date_for_display": "April 11, 2019",
+                "release_date_with_abbreviated_month_for_display": "Apr. 11, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "song_art_image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Un jour ou l\u2019autre",
+                "title_with_featured": "Un jour ou l'autre (Ft.\u00a0GLK)",
+                "url": "https://genius.com/Rk-un-jour-ou-lautre-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/563979",
+                        "header_image_url": "https://images.genius.com/7d53b483be43c95724ec605ee1dbad56.1000x733x1.jpg",
+                        "id": 563979,
+                        "image_url": "https://images.genius.com/ac7125e3ce4e48497b79b9cd469b3bf9.659x659x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "GLK",
+                        "url": "https://genius.com/artists/Glk"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1415345",
+                    "header_image_url": "https://images.genius.com/fb6639845beb64aff0c98b711ca58df2.969x509x1.jpg",
+                    "id": 1415345,
+                    "image_url": "https://images.genius.com/20ac5940d7979a17d574d9786e961534.264x264x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RK",
+                    "url": "https://genius.com/artists/Rk"
+                }
+            }
+        ],
+        "next_page": 12
+    }
+}

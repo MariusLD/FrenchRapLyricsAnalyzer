@@ -1,0 +1,914 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/8117652",
+                "artist_names": "Le Rem\u00e8de",
+                "full_title": "Dans la vitre, c'est une autre brique by\u00a0Le\u00a0Rem\u00e8de",
+                "header_image_thumbnail_url": "https://images.genius.com/7d56d6342fd021fff6c9bcb7746b19ac.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7d56d6342fd021fff6c9bcb7746b19ac.499x499x1.jpg",
+                "id": 8117652,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-dans-la-vitre-cest-une-autre-brique-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-dans-la-vitre-cest-une-autre-brique-sample",
+                "release_date_components": {
+                    "year": 2007,
+                    "month": 6,
+                    "day": 25
+                },
+                "release_date_for_display": "June 25, 2007",
+                "release_date_with_abbreviated_month_for_display": "Jun. 25, 2007",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7d56d6342fd021fff6c9bcb7746b19ac.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7d56d6342fd021fff6c9bcb7746b19ac.499x499x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dans la vitre, c\u2019est une autre brique",
+                "title_with_featured": "Dans la vitre, c'est une autre brique",
+                "url": "https://genius.com/Le-remede-dans-la-vitre-cest-une-autre-brique-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5845257",
+                "artist_names": "Nessbeal",
+                "full_title": "Du feu dans les veines by\u00a0Nessbeal",
+                "header_image_thumbnail_url": "https://images.genius.com/d8f25f9b660c42fb1911d88faf836fbe.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d8f25f9b660c42fb1911d88faf836fbe.500x500x1.jpg",
+                "id": 5845257,
+                "language": "fr",
+                "lyrics_owner_id": 4082719,
+                "lyrics_state": "complete",
+                "path": "/Nessbeal-du-feu-dans-les-veines-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nessbeal-du-feu-dans-les-veines-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 7
+                },
+                "release_date_for_display": "August 7, 2020",
+                "release_date_with_abbreviated_month_for_display": "Aug. 7, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d8f25f9b660c42fb1911d88faf836fbe.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d8f25f9b660c42fb1911d88faf836fbe.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Du feu dans les veines",
+                "title_with_featured": "Du feu dans les veines",
+                "url": "https://genius.com/Nessbeal-du-feu-dans-les-veines-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1508",
+                    "header_image_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.322x322x1.jpg",
+                    "id": 1508,
+                    "image_url": "https://images.genius.com/7f1eb6e16455cc874a89ac0ba7968b69.322x322x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nessbeal",
+                    "url": "https://genius.com/artists/Nessbeal"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/717431",
+                "artist_names": "Eklips (Ft. Eklips)",
+                "full_title": "Eklips Creates Entire Album With Just His Lips! by\u00a0Eklips (Ft.\u00a0Eklips)",
+                "header_image_thumbnail_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                "id": 717431,
+                "language": "en",
+                "lyrics_owner_id": 1549938,
+                "lyrics_state": "complete",
+                "path": "/Eklips-eklips-creates-entire-album-with-just-his-lips-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-eklips-creates-entire-album-with-just-his-lips-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Eklips Creates Entire Album With Just His Lips!",
+                "title_with_featured": "Eklips Creates Entire Album With Just His Lips! (Ft.\u00a0Eklips)",
+                "url": "https://genius.com/Eklips-eklips-creates-entire-album-with-just-his-lips-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12408",
+                        "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "id": 12408,
+                        "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Eklips",
+                        "url": "https://genius.com/artists/Eklips"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5740834",
+                "artist_names": "EklipsTV",
+                "full_title": "EKLIPS - SKYZOFRENCH RAP 5 by\u00a0EklipsTV",
+                "header_image_thumbnail_url": "https://images.genius.com/73a3ec7d13e91bcd88eb04089f51dcaf.300x159x1.png",
+                "header_image_url": "https://images.genius.com/73a3ec7d13e91bcd88eb04089f51dcaf.1000x531x1.png",
+                "id": 5740834,
+                "language": "fr",
+                "lyrics_owner_id": 9181397,
+                "lyrics_state": "complete",
+                "path": "/Eklipstv-eklips-skyzofrench-rap-5-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklipstv-eklips-skyzofrench-rap-5-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 3
+                },
+                "release_date_for_display": "July 3, 2020",
+                "release_date_with_abbreviated_month_for_display": "Jul. 3, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/73a3ec7d13e91bcd88eb04089f51dcaf.300x159x1.png",
+                "song_art_image_url": "https://images.genius.com/73a3ec7d13e91bcd88eb04089f51dcaf.1000x531x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "EKLIPS - SKYZOFRENCH RAP 5",
+                "title_with_featured": "EKLIPS - SKYZOFRENCH RAP 5",
+                "url": "https://genius.com/Eklipstv-eklips-skyzofrench-rap-5-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2310973",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2310973,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EklipsTV",
+                    "url": "https://genius.com/artists/Eklipstv"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7527698",
+                "artist_names": "Francky Vincent (Ft. Alkpote)",
+                "full_title": "\u00c9teins la lumi\u00e8re by\u00a0Francky\u00a0Vincent (Ft.\u00a0Alkpote)",
+                "header_image_thumbnail_url": "https://images.genius.com/db415480ebfeb82c93fd61619cdc1145.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/db415480ebfeb82c93fd61619cdc1145.800x800x1.jpg",
+                "id": 7527698,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Francky-vincent-eteins-la-lumiere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Francky-vincent-eteins-la-lumiere-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 14
+                },
+                "release_date_for_display": "January 14, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jan. 14, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/db415480ebfeb82c93fd61619cdc1145.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/db415480ebfeb82c93fd61619cdc1145.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "\u00c9teins la lumi\u00e8re",
+                "title_with_featured": "\u00c9teins la lumi\u00e8re (Ft.\u00a0Alkpote)",
+                "url": "https://genius.com/Francky-vincent-eteins-la-lumiere-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15427",
+                        "header_image_url": "https://images.genius.com/e737c421fa5a6d23f859fc0e1687eb64.592x364x1.png",
+                        "id": 15427,
+                        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2jlneg4vph9",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Alkpote",
+                        "url": "https://genius.com/artists/Alkpote",
+                        "iq": 496
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/67266",
+                    "header_image_url": "https://images.genius.com/48800ec6afc9810d881637e40f914f95.1000x1000x1.jpg",
+                    "id": 67266,
+                    "image_url": "https://images.genius.com/48800ec6afc9810d881637e40f914f95.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Francky Vincent",
+                    "url": "https://genius.com/artists/Francky-vincent"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/5659824",
+                "artist_names": "Le Rem\u00e8de",
+                "full_title": "France by\u00a0Le\u00a0Rem\u00e8de",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 5659824,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-france-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-france-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2005",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "France",
+                "title_with_featured": "France",
+                "url": "https://genius.com/Le-remede-france-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/118772",
+                "artist_names": "Dicidens (Ft. Eklips & Mala)",
+                "full_title": "Freestyle by\u00a0Dicidens (Ft.\u00a0Eklips & Mala)",
+                "header_image_thumbnail_url": "https://images.genius.com/d684460a69872d4672de4d496abc5ffa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d684460a69872d4672de4d496abc5ffa.857x857x1.jpg",
+                "id": 118772,
+                "language": "fr",
+                "lyrics_owner_id": 54235,
+                "lyrics_state": "complete",
+                "path": "/Dicidens-freestyle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Dicidens-freestyle-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 9,
+                    "day": 2
+                },
+                "release_date_for_display": "September 2, 2004",
+                "release_date_with_abbreviated_month_for_display": "Sep. 2, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/68adc270e19fa971d1962217f17cf443.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/68adc270e19fa971d1962217f17cf443.857x857x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Freestyle",
+                "title_with_featured": "Freestyle (Ft.\u00a0Eklips & Mala)",
+                "url": "https://genius.com/Dicidens-freestyle-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12408",
+                        "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "id": 12408,
+                        "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Eklips",
+                        "url": "https://genius.com/artists/Eklips"
+                    },
+                    {
+                        "api_path": "/artists/11628",
+                        "header_image_url": "https://images.genius.com/3e1e90b453b3661509c0b3cc0251078a.1000x655x1.jpg",
+                        "id": 11628,
+                        "image_url": "https://images.genius.com/1dcba2ab320fb4782bd1f95b5c5bf945.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mala",
+                        "url": "https://genius.com/artists/Mala"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/18196",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/1354189594_Dicidens%202.jpg",
+                    "id": 18196,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/1354189594_Dicidens%202.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dicidens",
+                    "url": "https://genius.com/artists/Dicidens"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5082585",
+                "artist_names": "Eklips (Ft. DJ Rox R)",
+                "full_title": "Ghetto Boy by\u00a0Eklips (Ft.\u00a0DJ\u00a0Rox R)",
+                "header_image_thumbnail_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                "id": 5082585,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Eklips-ghetto-boy-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-ghetto-boy-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ghetto Boy",
+                "title_with_featured": "Ghetto Boy (Ft.\u00a0DJ\u00a0Rox R)",
+                "url": "https://genius.com/Eklips-ghetto-boy-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1233645",
+                        "header_image_url": "https://images.genius.com/1aa4518b26be869809273984271e33d2.640x640x1.jpg",
+                        "id": 1233645,
+                        "image_url": "https://images.genius.com/1aa4518b26be869809273984271e33d2.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Rox R",
+                        "url": "https://genius.com/artists/Dj-rox-r"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/6016839",
+                "artist_names": "Le Rem\u00e8de",
+                "full_title": "G-Unit by\u00a0Le\u00a0Rem\u00e8de",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 6016839,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-g-unit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-g-unit-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2005",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "G-Unit",
+                "title_with_featured": "G-Unit",
+                "url": "https://genius.com/Le-remede-g-unit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5082608",
+                "artist_names": "Eklips",
+                "full_title": "Heartbreak by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.600x600x1.jpg",
+                "id": 5082608,
+                "language": null,
+                "lyrics_owner_id": 7108823,
+                "lyrics_state": "incomplete",
+                "path": "/Eklips-heartbreak-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-heartbreak-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Heartbreak",
+                "title_with_featured": "Heartbreak",
+                "url": "https://genius.com/Eklips-heartbreak-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/422978",
+                "artist_names": "Eklips",
+                "full_title": "Hitmic by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                "id": 422978,
+                "language": null,
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Eklips-hitmic-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-hitmic-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 5,
+                    "day": 6
+                },
+                "release_date_for_display": "May 6, 2014",
+                "release_date_with_abbreviated_month_for_display": "May. 6, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Hitmic",
+                "title_with_featured": "Hitmic",
+                "url": "https://genius.com/Eklips-hitmic-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3293184",
+                "artist_names": "Eklips",
+                "full_title": "Holding on by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.600x600x1.jpg",
+                "id": 3293184,
+                "language": "en",
+                "lyrics_owner_id": 1274916,
+                "lyrics_state": "complete",
+                "path": "/Eklips-holding-on-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-holding-on-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/baca56fb47e773e6fca6427f525bcffd.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Holding on",
+                "title_with_featured": "Holding on",
+                "url": "https://genius.com/Eklips-holding-on-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/3266402",
+                "artist_names": "Eklips",
+                "full_title": "Humain Beat Boxing Eklips by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "id": 3266402,
+                "language": "fr",
+                "lyrics_owner_id": 3288278,
+                "lyrics_state": "complete",
+                "path": "/Eklips-humain-beat-boxing-eklips-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-humain-beat-boxing-eklips-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2008",
+                "release_date_with_abbreviated_month_for_display": "2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/211a8fed82e79344f22f767363b130d1.320x320x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Humain Beat Boxing Eklips",
+                "title_with_featured": "Humain Beat Boxing Eklips",
+                "url": "https://genius.com/Eklips-humain-beat-boxing-eklips-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/6045075",
+                "artist_names": "Le Rem\u00e8de",
+                "full_title": "Human beat box by\u00a0Le\u00a0Rem\u00e8de",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 6045075,
+                "language": "en",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-human-beat-box-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-human-beat-box-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2005",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Human beat box",
+                "title_with_featured": "Human beat box",
+                "url": "https://genius.com/Le-remede-human-beat-box-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6206412",
+                "artist_names": "Le Rem\u00e8de (Ft. N'Bee & Soundka\u00efl)",
+                "full_title": "Human riddim by\u00a0Le\u00a0Rem\u00e8de (Ft.\u00a0N'Bee & Soundka\u00efl)",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 6206412,
+                "language": "en",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-human-riddim-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-human-riddim-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2005",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Human riddim",
+                "title_with_featured": "Human riddim (Ft.\u00a0N'Bee & Soundka\u00efl)",
+                "url": "https://genius.com/Le-remede-human-riddim-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1239160",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1239160,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "N\u2019Bee",
+                        "url": "https://genius.com/artists/Nbee"
+                    },
+                    {
+                        "api_path": "/artists/36447",
+                        "header_image_url": "https://images.genius.com/50b110595547b02c40bcdd379db90e30.322x322x1.jpg",
+                        "id": 36447,
+                        "image_url": "https://images.genius.com/50b110595547b02c40bcdd379db90e30.322x322x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soundka\u00efl",
+                        "url": "https://genius.com/artists/Soundkail"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/192839",
+                "artist_names": "Eklips",
+                "full_title": "Ibrahimovic by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.300x297x1.jpg",
+                "header_image_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.400x396x1.jpg",
+                "id": 192839,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Eklips-ibrahimovic-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-ibrahimovic-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.300x297x1.jpg",
+                "song_art_image_url": "https://images.genius.com/61ed3b1d0727a936eaaa75b0ff608a9f.400x396x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ibrahimovic",
+                "title_with_featured": "Ibrahimovic",
+                "url": "https://genius.com/Eklips-ibrahimovic-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/6116569",
+                "artist_names": "Le Rem\u00e8de (Ft. Keny Arkana)",
+                "full_title": "Ice cream by\u00a0Le\u00a0Rem\u00e8de (Ft.\u00a0Keny\u00a0Arkana)",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 6116569,
+                "language": "en",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-ice-cream-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-ice-cream-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2005",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ice cream",
+                "title_with_featured": "Ice cream (Ft.\u00a0Keny\u00a0Arkana)",
+                "url": "https://genius.com/Le-remede-ice-cream-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1753",
+                        "header_image_url": "https://images.genius.com/9494e91436740585405e309e3417abd0.326x217x1.jpg",
+                        "id": 1753,
+                        "image_url": "https://images.genius.com/d168e1fb5c6faf0fc7006c8785438f07.799x799x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Keny Arkana",
+                        "url": "https://genius.com/artists/Keny-arkana",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5235424",
+                "artist_names": "Eklips",
+                "full_title": "In\u00e9dit by\u00a0Eklips",
+                "header_image_thumbnail_url": "https://images.genius.com/9cb6e5309b71247ec08084f2296c3719.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9cb6e5309b71247ec08084f2296c3719.600x600x1.jpg",
+                "id": 5235424,
+                "language": null,
+                "lyrics_owner_id": 8855291,
+                "lyrics_state": "incomplete",
+                "path": "/Eklips-inedit-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Eklips-inedit-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/9cb6e5309b71247ec08084f2296c3719.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9cb6e5309b71247ec08084f2296c3719.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "In\u00e9dit",
+                "title_with_featured": "In\u00e9dit",
+                "url": "https://genius.com/Eklips-inedit-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12408",
+                    "header_image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "id": 12408,
+                    "image_url": "https://images.genius.com/a82e65239490cf99688ed456f4bccd2b.496x496x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eklips",
+                    "url": "https://genius.com/artists/Eklips"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/6192526",
+                "artist_names": "Le Rem\u00e8de",
+                "full_title": "Interlude: Candy shop by\u00a0Le\u00a0Rem\u00e8de",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 6192526,
+                "language": "en",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-interlude-candy-shop-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-interlude-candy-shop-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2005",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Interlude: Candy shop",
+                "title_with_featured": "Interlude: Candy shop",
+                "url": "https://genius.com/Le-remede-interlude-candy-shop-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/5659796",
+                "artist_names": "Le Rem\u00e8de",
+                "full_title": "Interlude (j't'emmerde) by\u00a0Le\u00a0Rem\u00e8de",
+                "header_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "id": 5659796,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Le-remede-interlude-jtemmerde-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Le-remede-interlude-jtemmerde-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 7,
+                    "day": 1
+                },
+                "release_date_for_display": "July 1, 2004",
+                "release_date_with_abbreviated_month_for_display": "Jul. 1, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53c652e434eee0eded65b6319679068a.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Interlude (j\u2019t\u2019emmerde)",
+                "title_with_featured": "Interlude (j't'emmerde)",
+                "url": "https://genius.com/Le-remede-interlude-jtemmerde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1867982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 1867982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Le Rem\u00e8de",
+                    "url": "https://genius.com/artists/Le-remede"
+                }
+            }
+        ],
+        "next_page": 3
+    }
+}

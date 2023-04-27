@@ -1,0 +1,943 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/7582680",
+                "artist_names": "Vald (Ft. Suikon Blaz AD)",
+                "full_title": "Happy End by\u00a0Vald (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "header_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "id": 7582680,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Vald-happy-end-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Vald-happy-end-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 2,
+                    "day": 4
+                },
+                "release_date_for_display": "February 4, 2022",
+                "release_date_with_abbreviated_month_for_display": "Feb. 4, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5077d136bca15f3b18a2164a1ad6f09f.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 16,
+                    "hot": false,
+                    "pageviews": 20889
+                },
+                "title": "Happy End",
+                "title_with_featured": "Happy End (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "url": "https://genius.com/Vald-happy-end-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/249396",
+                        "header_image_url": "https://images.genius.com/f922a9d6f08401c6822a88eedf92e6e8.639x405x1.png",
+                        "id": 249396,
+                        "image_url": "https://images.genius.com/653011b75d01e8de55fdb85b39b96f46.719x719x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suikon Blaz AD",
+                        "url": "https://genius.com/artists/Suikon-blaz-ad"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 31,
+                "api_path": "/songs/103150",
+                "artist_names": "DF & Cerk (Ft. Geabe (FRA) & Vald)",
+                "full_title": "Hippopotomonstrosesquippedaliophobie by\u00a0DF\u00a0& Cerk (Ft.\u00a0Geabe\u00a0(FRA) & Vald)",
+                "header_image_thumbnail_url": "https://images.genius.com/87e3f4cd3a577d9b936479d5394b98ad.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87e3f4cd3a577d9b936479d5394b98ad.400x400x1.jpg",
+                "id": 103150,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Df-and-cerk-hippopotomonstrosesquippedaliophobie-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Df-and-cerk-hippopotomonstrosesquippedaliophobie-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 8,
+                    "day": 12
+                },
+                "release_date_for_display": "August 12, 2012",
+                "release_date_with_abbreviated_month_for_display": "Aug. 12, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87e3f4cd3a577d9b936479d5394b98ad.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87e3f4cd3a577d9b936479d5394b98ad.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 21374
+                },
+                "title": "Hippopotomonstrosesquippedaliophobie",
+                "title_with_featured": "Hippopotomonstrosesquippedaliophobie (Ft.\u00a0Geabe\u00a0(FRA) & Vald)",
+                "url": "https://genius.com/Df-and-cerk-hippopotomonstrosesquippedaliophobie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/19217",
+                        "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                        "id": 19217,
+                        "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Vald",
+                        "url": "https://genius.com/artists/Vald",
+                        "iq": 10002
+                    },
+                    {
+                        "api_path": "/artists/3501",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 3501,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Geabe (FRA)",
+                        "url": "https://genius.com/artists/Geabe-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/26521",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 26521,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DF & Cerk",
+                    "url": "https://genius.com/artists/Df-and-cerk"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/2390028",
+                "artist_names": "Vald",
+                "full_title": "Holehe by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/3f2c9723f17a4a329301a8ba8e635ba1.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/3f2c9723f17a4a329301a8ba8e635ba1.1000x563x1.jpg",
+                "id": 2390028,
+                "language": "fr",
+                "lyrics_owner_id": 1275300,
+                "lyrics_state": "complete",
+                "path": "/Vald-holehe-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-holehe-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2011",
+                "release_date_with_abbreviated_month_for_display": "2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3f2c9723f17a4a329301a8ba8e635ba1.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3f2c9723f17a4a329301a8ba8e635ba1.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Holehe",
+                "title_with_featured": "Holehe",
+                "url": "https://genius.com/Vald-holehe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/2475398",
+                "artist_names": "Biffty",
+                "full_title": "Homicide Freestyle (Instant Libre) by\u00a0Biffty",
+                "header_image_thumbnail_url": "https://images.genius.com/df097a65f934fce40249b23acf13d08c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/df097a65f934fce40249b23acf13d08c.960x960x1.jpg",
+                "id": 2475398,
+                "language": "fr",
+                "lyrics_owner_id": 2175034,
+                "lyrics_state": "complete",
+                "path": "/Biffty-homicide-freestyle-instant-libre-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Biffty-homicide-freestyle-instant-libre-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 18
+                },
+                "release_date_for_display": "May 18, 2016",
+                "release_date_with_abbreviated_month_for_display": "May. 18, 2016",
+                "song_art_image_thumbnail_url": "https://images.genius.com/df097a65f934fce40249b23acf13d08c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/df097a65f934fce40249b23acf13d08c.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 6386
+                },
+                "title": "Homicide Freestyle (Instant Libre)",
+                "title_with_featured": "Homicide Freestyle (Instant Libre)",
+                "url": "https://genius.com/Biffty-homicide-freestyle-instant-libre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/542880",
+                    "header_image_url": "https://images.genius.com/4c5cbfe014ce61425279a800f93423d7.960x539x1.jpg",
+                    "id": 542880,
+                    "image_url": "https://images.genius.com/b2e5c650df36eebaca123140939ca7b1.522x522x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Biffty",
+                    "url": "https://genius.com/artists/Biffty",
+                    "iq": 1154
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/6285148",
+                "artist_names": "Heuss L\u2019enfoir\u00e9 + Vald",
+                "full_title": "Horizon vertical by\u00a0Heuss\u00a0L\u2019enfoir\u00e9 + Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.1000x1000x1.jpg",
+                "id": 6285148,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Heuss-lenfoire-vald-horizon-vertical-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Heuss-lenfoire-vald-horizon-vertical-sample",
+                "release_date_components": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 18
+                },
+                "release_date_for_display": "December 18, 2020",
+                "release_date_with_abbreviated_month_for_display": "Dec. 18, 2020",
+                "song_art_image_thumbnail_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/17b3951e4fbbb186a4c3c4e67c1f4a68.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 15455
+                },
+                "title": "Horizon vertical",
+                "title_with_featured": "Horizon vertical",
+                "url": "https://genius.com/Heuss-lenfoire-vald-horizon-vertical-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/2503306",
+                    "header_image_url": "https://images.genius.com/ba5818169be43d611baa5282df7010fa.996x427x1.png",
+                    "id": 2503306,
+                    "image_url": "https://images.genius.com/c095f4055ea630291550300cd089de25.356x356x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Heuss L\u2019enfoir\u00e9 + Vald",
+                    "url": "https://genius.com/artists/Heuss-lenfoire-vald"
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/555134",
+                "artist_names": "Vald",
+                "full_title": "Horrible by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/b033d124cc270057c415a03f357bf733.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b033d124cc270057c415a03f357bf733.720x720x1.jpg",
+                "id": 555134,
+                "language": "en",
+                "lyrics_owner_id": 138580,
+                "lyrics_state": "complete",
+                "path": "/Vald-horrible-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Vald-horrible-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 27
+                },
+                "release_date_for_display": "October 27, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 27, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b033d124cc270057c415a03f357bf733.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b033d124cc270057c415a03f357bf733.720x720x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 8450
+                },
+                "title": "Horrible",
+                "title_with_featured": "Horrible",
+                "url": "https://genius.com/Vald-horrible-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/8554971",
+                "artist_names": "Vald",
+                "full_title": "HOTTEST (BONUS) by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.300x300x1.png",
+                "header_image_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.936x936x1.png",
+                "id": 8554971,
+                "language": "fr",
+                "lyrics_owner_id": 14967047,
+                "lyrics_state": "complete",
+                "path": "/Vald-hottest-bonus-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-hottest-bonus-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 16
+                },
+                "release_date_for_display": "December 16, 2022",
+                "release_date_with_abbreviated_month_for_display": "Dec. 16, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/e123181488b062e9bbf74c53ff679bda.936x936x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "HOTTEST (BONUS)",
+                "title_with_featured": "HOTTEST (BONUS)",
+                "url": "https://genius.com/Vald-hottest-bonus-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/3972561",
+                "artist_names": "Vald (Ft. Sofiane)",
+                "full_title": "Iencli by\u00a0Vald (Ft.\u00a0Sofiane)",
+                "header_image_thumbnail_url": "https://images.genius.com/f8887257e058dcbe0f8482370e892cbd.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f8887257e058dcbe0f8482370e892cbd.1000x1000x1.jpg",
+                "id": 3972561,
+                "language": "fr",
+                "lyrics_owner_id": 2714350,
+                "lyrics_state": "complete",
+                "path": "/Vald-iencli-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Vald-iencli-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 5
+                },
+                "release_date_for_display": "October 5, 2018",
+                "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/56f52b51fee832ede06457a0d98b9d10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/56f52b51fee832ede06457a0d98b9d10.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 17,
+                    "hot": false,
+                    "pageviews": 69931
+                },
+                "title": "Iencli",
+                "title_with_featured": "Iencli (Ft.\u00a0Sofiane)",
+                "url": "https://genius.com/Vald-iencli-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12085",
+                        "header_image_url": "https://images.genius.com/ed6a9f934405ced2459aa83a3698f38d.630x395x1.jpg",
+                        "id": 12085,
+                        "image_url": "https://images.genius.com/7cc2be4fe0a433698d0e54bce9008895.308x308x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sofiane",
+                        "url": "https://genius.com/artists/Sofiane",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 30,
+                "api_path": "/songs/4928017",
+                "artist_names": "Vald",
+                "full_title": "Ignorant by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/d44c88a2416d1501961ff328ca2d346c.300x181x1.jpg",
+                "header_image_url": "https://images.genius.com/d44c88a2416d1501961ff328ca2d346c.1000x603x1.jpg",
+                "id": 4928017,
+                "language": "fr",
+                "lyrics_owner_id": 6671099,
+                "lyrics_state": "complete",
+                "path": "/Vald-ignorant-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Vald-ignorant-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2019",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/52939b351491d250e549e1be599e989d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/52939b351491d250e549e1be599e989d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 25,
+                    "hot": false,
+                    "pageviews": 81963
+                },
+                "title": "Ignorant",
+                "title_with_featured": "Ignorant",
+                "url": "https://genius.com/Vald-ignorant-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/3143914",
+                "artist_names": "Vald",
+                "full_title": "#IlEst6H13 by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/1c300e4b5cf5c86166b93a600eb21ac6.300x271x1.png",
+                "header_image_url": "https://images.genius.com/1c300e4b5cf5c86166b93a600eb21ac6.472x426x1.png",
+                "id": 3143914,
+                "language": "fr",
+                "lyrics_owner_id": 4653632,
+                "lyrics_state": "complete",
+                "path": "/Vald-ilest6h13-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-ilest6h13-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 18
+                },
+                "release_date_for_display": "September 18, 2017",
+                "release_date_with_abbreviated_month_for_display": "Sep. 18, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1c300e4b5cf5c86166b93a600eb21ac6.300x271x1.png",
+                "song_art_image_url": "https://images.genius.com/1c300e4b5cf5c86166b93a600eb21ac6.472x426x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "#IlEst6H13",
+                "title_with_featured": "#IlEst6H13",
+                "url": "https://genius.com/Vald-ilest6h13-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/3086411",
+                "artist_names": "Vald",
+                "full_title": "Inanition by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/284b970f9d66b513c0a093dd8377e044.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/284b970f9d66b513c0a093dd8377e044.1000x1000x1.jpg",
+                "id": 3086411,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-inanition-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Vald-inanition-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 5,
+                    "day": 13
+                },
+                "release_date_for_display": "May 13, 2017",
+                "release_date_with_abbreviated_month_for_display": "May. 13, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/284b970f9d66b513c0a093dd8377e044.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/284b970f9d66b513c0a093dd8377e044.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 6500
+                },
+                "title": "Inanition",
+                "title_with_featured": "Inanition",
+                "url": "https://genius.com/Vald-inanition-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/548829",
+                "artist_names": "Vald",
+                "full_title": "I.N.C.H BEATS by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/731e169af8740a83397c2dbb606075ce.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/731e169af8740a83397c2dbb606075ce.1000x563x1.jpg",
+                "id": 548829,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Vald-inch-beats-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Vald-inch-beats-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 21
+                },
+                "release_date_for_display": "October 21, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 21, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/731e169af8740a83397c2dbb606075ce.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/731e169af8740a83397c2dbb606075ce.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "I.N.C.H BEATS",
+                "title_with_featured": "I.N.C.H BEATS",
+                "url": "https://genius.com/Vald-inch-beats-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4528317",
+                "artist_names": "Vald",
+                "full_title": "Indescent* by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.300x300x1.png",
+                "header_image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                "id": 4528317,
+                "language": "fr",
+                "lyrics_owner_id": 6302075,
+                "lyrics_state": "complete",
+                "path": "/Vald-indescent-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-indescent-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Indescent*",
+                "title_with_featured": "Indescent*",
+                "url": "https://genius.com/Vald-indescent-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 29,
+                "api_path": "/songs/1868816",
+                "artist_names": "Vald (Ft. Suikon Blaz AD)",
+                "full_title": "Infanticide by\u00a0Vald (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "header_image_thumbnail_url": "https://images.genius.com/d90eda8aac3a49cfe3a1d601e7190aa6.300x152x1.jpg",
+                "header_image_url": "https://images.genius.com/d90eda8aac3a49cfe3a1d601e7190aa6.720x365x1.jpg",
+                "id": 1868816,
+                "language": "fr",
+                "lyrics_owner_id": 261541,
+                "lyrics_state": "complete",
+                "path": "/Vald-infanticide-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Vald-infanticide-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 25
+                },
+                "release_date_for_display": "September 25, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 25, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1bbbeedb4d00855b6f1fe3c5891c0b72.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1bbbeedb4d00855b6f1fe3c5891c0b72.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 77378
+                },
+                "title": "Infanticide",
+                "title_with_featured": "Infanticide (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "url": "https://genius.com/Vald-infanticide-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/249396",
+                        "header_image_url": "https://images.genius.com/f922a9d6f08401c6822a88eedf92e6e8.639x405x1.png",
+                        "id": 249396,
+                        "image_url": "https://images.genius.com/653011b75d01e8de55fdb85b39b96f46.719x719x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suikon Blaz AD",
+                        "url": "https://genius.com/artists/Suikon-blaz-ad"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/286141",
+                "artist_names": "Vald",
+                "full_title": "Interlude by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.980x735x1.jpg",
+                "id": 286141,
+                "language": "fr",
+                "lyrics_owner_id": 195570,
+                "lyrics_state": "complete",
+                "path": "/Vald-interlude-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Vald-interlude-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 29
+                },
+                "release_date_for_display": "January 29, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 29, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.980x735x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false
+                },
+                "title": "Interlude",
+                "title_with_featured": "Interlude",
+                "url": "https://genius.com/Vald-interlude-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/219671",
+                "artist_names": "Vald",
+                "full_title": "Jack Skellington by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/e03255f897dae5bc8cf0599e78646a5e.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/e03255f897dae5bc8cf0599e78646a5e.1000x563x1.jpg",
+                "id": 219671,
+                "language": "fr",
+                "lyrics_owner_id": 168623,
+                "lyrics_state": "complete",
+                "path": "/Vald-jack-skellington-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Vald-jack-skellington-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2011",
+                "release_date_with_abbreviated_month_for_display": "2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e03255f897dae5bc8cf0599e78646a5e.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e03255f897dae5bc8cf0599e78646a5e.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Jack Skellington",
+                "title_with_featured": "Jack Skellington",
+                "url": "https://genius.com/Vald-jack-skellington-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/147920",
+                "artist_names": "Vald",
+                "full_title": "J'ai r\u00eav\u00e9 d'un verre de sang by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.300x225x1.jpg",
+                "header_image_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.980x735x1.jpg",
+                "id": 147920,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Vald-jai-reve-dun-verre-de-sang-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Vald-jai-reve-dun-verre-de-sang-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 29
+                },
+                "release_date_for_display": "January 29, 2012",
+                "release_date_with_abbreviated_month_for_display": "Jan. 29, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.300x225x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e1536777f5491d35415b9cbe6b2cc47f.980x735x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 18166
+                },
+                "title": "J\u2019ai r\u00eav\u00e9 d\u2019un verre de sang",
+                "title_with_featured": "J'ai r\u00eav\u00e9 d'un verre de sang",
+                "url": "https://genius.com/Vald-jai-reve-dun-verre-de-sang-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3048658",
+                "artist_names": "Vald (Ft. Suikon Blaz AD)",
+                "full_title": "J'ai vu by\u00a0Vald (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "header_image_thumbnail_url": "https://images.genius.com/743aff4fe2bb6a8e8154a4d72f11d438.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/743aff4fe2bb6a8e8154a4d72f11d438.400x400x1.jpg",
+                "id": 3048658,
+                "language": "en",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-jai-vu-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Vald-jai-vu-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 12,
+                    "day": 15
+                },
+                "release_date_for_display": "December 15, 2012",
+                "release_date_with_abbreviated_month_for_display": "Dec. 15, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/743aff4fe2bb6a8e8154a4d72f11d438.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/743aff4fe2bb6a8e8154a4d72f11d438.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "J\u2019ai vu",
+                "title_with_featured": "J'ai vu (Ft.\u00a0Suikon\u00a0Blaz AD)",
+                "url": "https://genius.com/Vald-jai-vu-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/249396",
+                        "header_image_url": "https://images.genius.com/f922a9d6f08401c6822a88eedf92e6e8.639x405x1.png",
+                        "id": 249396,
+                        "image_url": "https://images.genius.com/653011b75d01e8de55fdb85b39b96f46.719x719x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Suikon Blaz AD",
+                        "url": "https://genius.com/artists/Suikon-blaz-ad"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 16,
+                "api_path": "/songs/3450613",
+                "artist_names": "Vald",
+                "full_title": "Jean Teh by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/629ed4766a09b7958eee1088e59de26c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/629ed4766a09b7958eee1088e59de26c.660x660x1.jpg",
+                "id": 3450613,
+                "language": "fr",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Vald-jean-teh-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Vald-jean-teh-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 1,
+                    "day": 19
+                },
+                "release_date_for_display": "January 19, 2018",
+                "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a4c673c5221a156ac2c5bc394f1deb0d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a4c673c5221a156ac2c5bc394f1deb0d.660x660x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 13543
+                },
+                "title": "Jean Teh",
+                "title_with_featured": "Jean Teh",
+                "url": "https://genius.com/Vald-jean-teh-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            },
+            {
+                "annotation_count": 25,
+                "api_path": "/songs/3444218",
+                "artist_names": "Vald",
+                "full_title": "Jentertain by\u00a0Vald",
+                "header_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "id": 3444218,
+                "language": "en",
+                "lyrics_owner_id": 3884197,
+                "lyrics_state": "complete",
+                "path": "/Vald-jentertain-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Vald-jentertain-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 2
+                },
+                "release_date_for_display": "February 2, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 2, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/87dca7a7991f3747178aa1ca236aab25.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 62675
+                },
+                "title": "Jentertain",
+                "title_with_featured": "Jentertain",
+                "url": "https://genius.com/Vald-jentertain-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/19217",
+                    "header_image_url": "https://images.genius.com/05bbd633689715074340736933e5934f.1000x667x1.jpg",
+                    "id": 19217,
+                    "image_url": "https://images.genius.com/77890faa1399bae88135797b42604d7e.546x546x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Vald",
+                    "url": "https://genius.com/artists/Vald",
+                    "iq": 10002
+                }
+            }
+        ],
+        "next_page": 9
+    }
+}

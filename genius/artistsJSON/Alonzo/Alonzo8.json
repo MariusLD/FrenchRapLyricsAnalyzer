@@ -1,0 +1,988 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7219729",
+                "artist_names": "Laeti (Ft. Soolking)",
+                "full_title": "Dis-moi by\u00a0Laeti (Ft.\u00a0Soolking)",
+                "header_image_thumbnail_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.1000x1000x1.jpg",
+                "id": 7219729,
+                "language": "en",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Laeti-dis-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Laeti-dis-moi-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 11
+                },
+                "release_date_for_display": "October 11, 2021",
+                "release_date_with_abbreviated_month_for_display": "Oct. 11, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/7adcfa5fbc9a1b5bacdd868349b433db.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Dis-moi",
+                "title_with_featured": "Dis-moi (Ft.\u00a0Soolking)",
+                "url": "https://genius.com/Laeti-dis-moi-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/693078",
+                        "header_image_url": "https://images.genius.com/a0ddcdb81f703da34fcc92ea04d6f457.998x1000x1.jpg",
+                        "id": 693078,
+                        "image_url": "https://images.genius.com/8ef5ef53b207eafb3417e02d1c81d20d.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soolking",
+                        "url": "https://genius.com/artists/Soolking"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2877082",
+                    "header_image_url": "https://images.genius.com/05861a2edaf8239c5477a97abe592a12.562x562x1.jpg",
+                    "id": 2877082,
+                    "image_url": "https://images.genius.com/05861a2edaf8239c5477a97abe592a12.562x562x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Laeti",
+                    "url": "https://genius.com/artists/Laeti"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/2981439",
+                "artist_names": "Alonzo",
+                "full_title": "DLG by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/684322bd558ff4c3d5db70ba36d03cfa.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/684322bd558ff4c3d5db70ba36d03cfa.1000x1000x1.jpg",
+                "id": 2981439,
+                "language": "fr",
+                "lyrics_owner_id": 3087762,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-dlg-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Alonzo-dlg-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 2017",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/684322bd558ff4c3d5db70ba36d03cfa.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/684322bd558ff4c3d5db70ba36d03cfa.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 32143
+                },
+                "title": "DLG",
+                "title_with_featured": "DLG",
+                "url": "https://genius.com/Alonzo-dlg-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7994120",
+                "artist_names": "Alonzo",
+                "full_title": "DODI AL-FAYED by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/f3baee62583f172da9007bfed274a78e.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3baee62583f172da9007bfed274a78e.319x319x1.jpg",
+                "id": 7994120,
+                "language": "fr",
+                "lyrics_owner_id": 4838104,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-dodi-al-fayed-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alonzo-dodi-al-fayed-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 13
+                },
+                "release_date_for_display": "July 13, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jul. 13, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3baee62583f172da9007bfed274a78e.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3baee62583f172da9007bfed274a78e.319x319x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "DODI AL-FAYED",
+                "title_with_featured": "DODI AL-FAYED",
+                "url": "https://genius.com/Alonzo-dodi-al-fayed-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/3495189",
+                "artist_names": "YL (Ft. Alonzo)",
+                "full_title": "Donne-nous le by\u00a0YL (Ft.\u00a0Alonzo)",
+                "header_image_thumbnail_url": "https://images.genius.com/9de633eee616765d8a5d0783cfa31c6d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/9de633eee616765d8a5d0783cfa31c6d.440x440x1.jpg",
+                "id": 3495189,
+                "language": "fr",
+                "lyrics_owner_id": 118977,
+                "lyrics_state": "complete",
+                "path": "/Yl-donne-nous-le-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Yl-donne-nous-le-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 2,
+                    "day": 23
+                },
+                "release_date_for_display": "February 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Feb. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/9de633eee616765d8a5d0783cfa31c6d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/9de633eee616765d8a5d0783cfa31c6d.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 8043
+                },
+                "title": "Donne-nous le",
+                "title_with_featured": "Donne-nous le (Ft.\u00a0Alonzo)",
+                "url": "https://genius.com/Yl-donne-nous-le-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/996826",
+                    "header_image_url": "https://images.genius.com/fdae23e67e0036fa7187ebe8a5b7223c.529x1000x1.jpg",
+                    "id": 996826,
+                    "image_url": "https://images.genius.com/07752b943c7cf04262983ffc6e9ca080.241x241x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "YL",
+                    "url": "https://genius.com/artists/Yl"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/348429",
+                "artist_names": "Alonzo (Ft. Salif)",
+                "full_title": "Dramatik music by\u00a0Alonzo (Ft.\u00a0Salif)",
+                "header_image_thumbnail_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.300x303x1.jpg",
+                "header_image_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.594x600x1.jpg",
+                "id": 348429,
+                "language": "nl",
+                "lyrics_owner_id": 201783,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-dramatik-music-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alonzo-dramatik-music-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 2,
+                    "day": 1
+                },
+                "release_date_for_display": "February 1, 2010",
+                "release_date_with_abbreviated_month_for_display": "Feb. 1, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.300x303x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.594x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "Dramatik music",
+                "title_with_featured": "Dramatik music (Ft.\u00a0Salif)",
+                "url": "https://genius.com/Alonzo-dramatik-music-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1846",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "id": 1846,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/salif.jpeg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Salif",
+                        "url": "https://genius.com/artists/Salif"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 47,
+                "api_path": "/songs/60197",
+                "artist_names": "La Fouine (Ft. Alonzo, Malik M.A.S & Sultan)",
+                "full_title": "Drogba by\u00a0La\u00a0Fouine (Ft.\u00a0Alonzo, Malik\u00a0M.A.S & Sultan)",
+                "header_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "id": 60197,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/La-fouine-drogba-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/La-fouine-drogba-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 11,
+                    "day": 28
+                },
+                "release_date_for_display": "November 28, 2011",
+                "release_date_with_abbreviated_month_for_display": "Nov. 28, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3574390bf1521599ae367852f6f40c8.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 19,
+                    "hot": false,
+                    "pageviews": 26398
+                },
+                "title": "Drogba",
+                "title_with_featured": "Drogba (Ft.\u00a0Alonzo, Malik\u00a0M.A.S & Sultan)",
+                "url": "https://genius.com/La-fouine-drogba-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    },
+                    {
+                        "api_path": "/artists/6670",
+                        "header_image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "id": 6670,
+                        "image_url": "https://images.genius.com/6a57cec06cb6f360894d870f28fdf153.427x427x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Sultan",
+                        "url": "https://genius.com/artists/Sultan",
+                        "iq": 2066
+                    },
+                    {
+                        "api_path": "/artists/15238",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/542579_448929721833351_1781276098_n.jpg",
+                        "id": 15238,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/542579_448929721833351_1781276098_n.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Malik M.A.S",
+                        "url": "https://genius.com/artists/Malik-mas"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1303",
+                    "header_image_url": "https://images.genius.com/249eaf42dd3643046fa2713d1de6f576.720x960x1.jpg",
+                    "id": 1303,
+                    "image_url": "https://images.genius.com/0b7bf41a9e93eedf525595b76e9c257b.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "La Fouine",
+                    "url": "https://genius.com/artists/La-fouine"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/4984159",
+                "artist_names": "Soprano (Ft. Alonzo)",
+                "full_title": "Du temps plein by\u00a0Soprano (Ft.\u00a0Alonzo)",
+                "header_image_thumbnail_url": "https://images.genius.com/365f9b421038950476d9223f76fb2c8c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/365f9b421038950476d9223f76fb2c8c.1000x1000x1.jpg",
+                "id": 4984159,
+                "language": "fr",
+                "lyrics_owner_id": 9141899,
+                "lyrics_state": "complete",
+                "path": "/Soprano-du-temps-plein-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Soprano-du-temps-plein-sample",
+                "release_date_components": {
+                    "year": 2019,
+                    "month": 11,
+                    "day": 8
+                },
+                "release_date_for_display": "November 8, 2019",
+                "release_date_with_abbreviated_month_for_display": "Nov. 8, 2019",
+                "song_art_image_thumbnail_url": "https://images.genius.com/365f9b421038950476d9223f76fb2c8c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/365f9b421038950476d9223f76fb2c8c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Du temps plein",
+                "title_with_featured": "Du temps plein (Ft.\u00a0Alonzo)",
+                "url": "https://genius.com/Soprano-du-temps-plein-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1431",
+                    "header_image_url": "https://images.genius.com/e7978b0b7620b2e575e6765eb79c9d53.597x183x1.png",
+                    "id": 1431,
+                    "image_url": "https://images.genius.com/d0a0f7b8182f11dafa1d2a554f6e3eab.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Soprano",
+                    "url": "https://genius.com/artists/Soprano"
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/2269305",
+                "artist_names": "Psy 4 de la Rime",
+                "full_title": "Effet de style, effet de mode by\u00a0Psy\u00a04 de la Rime",
+                "header_image_thumbnail_url": "https://images.genius.com/a69768061dcb1f1b800b1a3ed72cde47.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a69768061dcb1f1b800b1a3ed72cde47.600x600x1.jpg",
+                "id": 2269305,
+                "language": "fr",
+                "lyrics_owner_id": 210571,
+                "lyrics_state": "complete",
+                "path": "/Psy-4-de-la-rime-effet-de-style-effet-de-mode-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Psy-4-de-la-rime-effet-de-style-effet-de-mode-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2005",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a69768061dcb1f1b800b1a3ed72cde47.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a69768061dcb1f1b800b1a3ed72cde47.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false
+                },
+                "title": "Effet de style, effet de mode",
+                "title_with_featured": "Effet de style, effet de mode",
+                "url": "https://genius.com/Psy-4-de-la-rime-effet-de-style-effet-de-mode-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15855",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "id": 15855,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Psy 4 de la Rime",
+                    "url": "https://genius.com/artists/Psy-4-de-la-rime"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/2270145",
+                "artist_names": "Psy 4 de la Rime",
+                "full_title": "El Barrio by\u00a0Psy\u00a04 de la Rime",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/db99dc7af3b78d75597af1f09bb7e4b8.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/db99dc7af3b78d75597af1f09bb7e4b8.1000x1000x1.jpg",
+                "id": 2270145,
+                "language": "fr",
+                "lyrics_owner_id": 210571,
+                "lyrics_state": "complete",
+                "path": "/Psy-4-de-la-rime-el-barrio-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Psy-4-de-la-rime-el-barrio-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2005",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2005",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/db99dc7af3b78d75597af1f09bb7e4b8.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/db99dc7af3b78d75597af1f09bb7e4b8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "El Barrio",
+                "title_with_featured": "El Barrio",
+                "url": "https://genius.com/Psy-4-de-la-rime-el-barrio-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15855",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "id": 15855,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Psy 4 de la Rime",
+                    "url": "https://genius.com/artists/Psy-4-de-la-rime"
+                }
+            },
+            {
+                "annotation_count": 24,
+                "api_path": "/songs/2307752",
+                "artist_names": "Alonzo",
+                "full_title": "Elle t'a tu\u00e9 by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.960x960x1.jpg",
+                "id": 2307752,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-elle-ta-tue-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alonzo-elle-ta-tue-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 18
+                },
+                "release_date_for_display": "September 18, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false,
+                    "pageviews": 49221
+                },
+                "title": "Elle t\u2019a tu\u00e9",
+                "title_with_featured": "Elle t'a tu\u00e9",
+                "url": "https://genius.com/Alonzo-elle-ta-tue-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3210256",
+                "artist_names": "Alonzo",
+                "full_title": "Elvira by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/d9453334f07c11c3390dba0855b41d92.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d9453334f07c11c3390dba0855b41d92.600x600x1.jpg",
+                "id": 3210256,
+                "language": "fr",
+                "lyrics_owner_id": 5109783,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-elvira-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alonzo-elvira-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 8,
+                    "day": 25
+                },
+                "release_date_for_display": "August 25, 2017",
+                "release_date_with_abbreviated_month_for_display": "Aug. 25, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d9453334f07c11c3390dba0855b41d92.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d9453334f07c11c3390dba0855b41d92.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 20746
+                },
+                "title": "Elvira",
+                "title_with_featured": "Elvira",
+                "url": "https://genius.com/Alonzo-elvira-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/2307744",
+                "artist_names": "Alonzo",
+                "full_title": "Emp\u00eache-moi by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.960x960x1.jpg",
+                "id": 2307744,
+                "language": "fr",
+                "lyrics_owner_id": 67668,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-empeche-moi-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Alonzo-empeche-moi-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 9,
+                    "day": 18
+                },
+                "release_date_for_display": "September 18, 2015",
+                "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/41e78be4f2120355618211da0a92e276.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 26899
+                },
+                "title": "Emp\u00eache-moi",
+                "title_with_featured": "Emp\u00eache-moi",
+                "url": "https://genius.com/Alonzo-empeche-moi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 18,
+                "api_path": "/songs/690088",
+                "artist_names": "Alonzo",
+                "full_title": "En bombe by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.1000x1000x1.jpg",
+                "id": 690088,
+                "language": "fr",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-en-bombe-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Alonzo-en-bombe-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 26
+                },
+                "release_date_for_display": "January 26, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jan. 26, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 14313
+                },
+                "title": "En bombe",
+                "title_with_featured": "En bombe",
+                "url": "https://genius.com/Alonzo-en-bombe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 42,
+                "api_path": "/songs/690074",
+                "artist_names": "Alonzo",
+                "full_title": "En boucle by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.1000x1000x1.jpg",
+                "id": 690074,
+                "language": "da",
+                "lyrics_owner_id": 1105397,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-en-boucle-lyrics",
+                "pyongs_count": 12,
+                "relationships_index_url": "https://genius.com/Alonzo-en-boucle-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 26
+                },
+                "release_date_for_display": "January 26, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jan. 26, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/e5ab432309ae97d2e667b92c7681d10a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 104779
+                },
+                "title": "En boucle",
+                "title_with_featured": "En boucle",
+                "url": "https://genius.com/Alonzo-en-boucle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8899365",
+                "artist_names": "Tonyno (Ft. Alonzo)",
+                "full_title": "Encore by\u00a0Tonyno (Ft.\u00a0Alonzo)",
+                "header_image_thumbnail_url": "https://images.genius.com/63be419ad2f743fefb2118be68200b69.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/63be419ad2f743fefb2118be68200b69.509x509x1.jpg",
+                "id": 8899365,
+                "language": "fr",
+                "lyrics_owner_id": 703783,
+                "lyrics_state": "complete",
+                "path": "/Tonyno-encore-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tonyno-encore-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/63be419ad2f743fefb2118be68200b69.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/63be419ad2f743fefb2118be68200b69.509x509x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Encore",
+                "title_with_featured": "Encore (Ft.\u00a0Alonzo)",
+                "url": "https://genius.com/Tonyno-encore-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/42650",
+                    "header_image_url": "https://images.genius.com/708a3eb1fcd673a00d28345038a91090.300x300x1.jpg",
+                    "id": 42650,
+                    "image_url": "https://images.genius.com/708a3eb1fcd673a00d28345038a91090.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tonyno",
+                    "url": "https://genius.com/artists/Tonyno"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8542053",
+                "artist_names": "Tayc (Ft. Alonzo)",
+                "full_title": "Encore l\u00e0 by\u00a0Tayc (Ft.\u00a0Alonzo)",
+                "header_image_thumbnail_url": "https://images.genius.com/6a5d57544f9d60aeb0ccc0423107ae0a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/6a5d57544f9d60aeb0ccc0423107ae0a.1000x1000x1.jpg",
+                "id": 8542053,
+                "language": "en",
+                "lyrics_owner_id": 2800101,
+                "lyrics_state": "complete",
+                "path": "/Tayc-encore-la-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Tayc-encore-la-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 25
+                },
+                "release_date_for_display": "November 25, 2022",
+                "release_date_with_abbreviated_month_for_display": "Nov. 25, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6a5d57544f9d60aeb0ccc0423107ae0a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6a5d57544f9d60aeb0ccc0423107ae0a.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Encore l\u00e0",
+                "title_with_featured": "Encore l\u00e0 (Ft.\u00a0Alonzo)",
+                "url": "https://genius.com/Tayc-encore-la-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1181301",
+                    "header_image_url": "https://images.genius.com/c869fcfe8fd5c1a0adc47e035c8bef3f.1000x602x1.jpg",
+                    "id": 1181301,
+                    "image_url": "https://images.genius.com/874a6b4f57b16cb8bff9c4ad8c85feff.538x538x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tayc",
+                    "url": "https://genius.com/artists/Tayc"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/824072",
+                "artist_names": "Psy 4 de la Rime (Ft. Ana Torroja)",
+                "full_title": "Enfants de la Lune by\u00a0Psy\u00a04 de la Rime (Ft.\u00a0Ana\u00a0Torroja)",
+                "header_image_thumbnail_url": "https://images.genius.com/db99dc7af3b78d75597af1f09bb7e4b8.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/db99dc7af3b78d75597af1f09bb7e4b8.1000x1000x1.jpg",
+                "id": 824072,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Psy-4-de-la-rime-enfants-de-la-lune-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Psy-4-de-la-rime-enfants-de-la-lune-sample",
+                "release_date_components": {
+                    "year": 2005,
+                    "month": 9,
+                    "day": 27
+                },
+                "release_date_for_display": "September 27, 2005",
+                "release_date_with_abbreviated_month_for_display": "Sep. 27, 2005",
+                "song_art_image_thumbnail_url": "https://images.genius.com/db99dc7af3b78d75597af1f09bb7e4b8.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/db99dc7af3b78d75597af1f09bb7e4b8.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 11443
+                },
+                "title": "Enfants de la Lune",
+                "title_with_featured": "Enfants de la Lune (Ft.\u00a0Ana\u00a0Torroja)",
+                "url": "https://genius.com/Psy-4-de-la-rime-enfants-de-la-lune-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/349488",
+                        "header_image_url": "https://images.genius.com/d7962305ffa76a8f510c64c076294793.620x620x1.jpg",
+                        "id": 349488,
+                        "image_url": "https://images.genius.com/16dfcb9a1003e325338a2ab1a793c289.570x570x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ana Torroja",
+                        "url": "https://genius.com/artists/Ana-torroja"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15855",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "id": 15855,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Psy 4 de la Rime",
+                    "url": "https://genius.com/artists/Psy-4-de-la-rime"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/135378",
+                "artist_names": "Psy 4 de la Rime (Ft. Kayna Samet)",
+                "full_title": "Enfants soldats by\u00a0Psy\u00a04 de la Rime (Ft.\u00a0Kayna\u00a0Samet)",
+                "header_image_thumbnail_url": "https://images.genius.com/b5fa9714dd79b8b23ea8368421eebe5b.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b5fa9714dd79b8b23ea8368421eebe5b.600x600x1.jpg",
+                "id": 135378,
+                "language": "fr",
+                "lyrics_owner_id": 205376,
+                "lyrics_state": "complete",
+                "path": "/Psy-4-de-la-rime-enfants-soldats-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Psy-4-de-la-rime-enfants-soldats-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 4,
+                    "day": 1
+                },
+                "release_date_for_display": "April 1, 2013",
+                "release_date_with_abbreviated_month_for_display": "Apr. 1, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b5fa9714dd79b8b23ea8368421eebe5b.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b5fa9714dd79b8b23ea8368421eebe5b.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 6410
+                },
+                "title": "Enfants soldats",
+                "title_with_featured": "Enfants soldats (Ft.\u00a0Kayna\u00a0Samet)",
+                "url": "https://genius.com/Psy-4-de-la-rime-enfants-soldats-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/11699",
+                        "header_image_url": "https://images.genius.com/c6e31a2a520b2ae7e84c94bedd6b0287.349x349x1.jpg",
+                        "id": 11699,
+                        "image_url": "https://images.genius.com/c6e31a2a520b2ae7e84c94bedd6b0287.349x349x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kayna Samet",
+                        "url": "https://genius.com/artists/Kayna-samet",
+                        "iq": 811
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/15855",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "id": 15855,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Psy 4 de la Rime",
+                    "url": "https://genius.com/artists/Psy-4-de-la-rime"
+                }
+            },
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/358900",
+                "artist_names": "Alonzo",
+                "full_title": "\u00c9norme by\u00a0Alonzo",
+                "header_image_thumbnail_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.300x303x1.jpg",
+                "header_image_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.594x600x1.jpg",
+                "id": 358900,
+                "language": "es",
+                "lyrics_owner_id": 96446,
+                "lyrics_state": "complete",
+                "path": "/Alonzo-enorme-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Alonzo-enorme-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 2,
+                    "day": 1
+                },
+                "release_date_for_display": "February 1, 2010",
+                "release_date_with_abbreviated_month_for_display": "Feb. 1, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.300x303x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ad9c21562214c66850fd68655c51bcb9.594x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false
+                },
+                "title": "\u00c9norme",
+                "title_with_featured": "\u00c9norme",
+                "url": "https://genius.com/Alonzo-enorme-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13711",
+                    "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                    "id": 13711,
+                    "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alonzo",
+                    "url": "https://genius.com/artists/Alonzo"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2093794",
+                "artist_names": "Porta (Ft. Psy 4 de la Rime)",
+                "full_title": "Entra En La Arena by\u00a0Porta (Ft.\u00a0Psy\u00a04 de la Rime)",
+                "header_image_thumbnail_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.400x400x1.jpg",
+                "id": 2093794,
+                "language": "es",
+                "lyrics_owner_id": 7408830,
+                "lyrics_state": "complete",
+                "path": "/Porta-entra-en-la-arena-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Porta-entra-en-la-arena-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2009",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Entra En La Arena",
+                "title_with_featured": "Entra En La Arena (Ft.\u00a0Psy\u00a04 de la Rime)",
+                "url": "https://genius.com/Porta-entra-en-la-arena-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/15855",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                        "id": 15855,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/1367959539_644664_456386801104224_2025555820_n.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Psy 4 de la Rime",
+                        "url": "https://genius.com/artists/Psy-4-de-la-rime"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/59298",
+                    "header_image_url": "https://images.genius.com/2b92eb4744482a6e81344b52ecdeddd8.750x494x1.jpg",
+                    "id": 59298,
+                    "image_url": "https://images.genius.com/33da1d3767403b9b0c864c2ad7f31686.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Porta",
+                    "url": "https://genius.com/artists/Porta"
+                }
+            }
+        ],
+        "next_page": 9
+    }
+}

@@ -1,0 +1,975 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/2930007",
+                "artist_names": "Sat l'Artificier (Ft. Alonzo & Kalash l'Afro)",
+                "full_title": "On s'obstine by\u00a0Sat\u00a0l'Artificier (Ft.\u00a0Alonzo & Kalash\u00a0l'Afro)",
+                "header_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "id": 2930007,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-on-sobstine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-on-sobstine-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 1,
+                    "day": 26
+                },
+                "release_date_for_display": "January 26, 2010",
+                "release_date_with_abbreviated_month_for_display": "Jan. 26, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "On s\u2019obstine",
+                "title_with_featured": "On s'obstine (Ft.\u00a0Alonzo & Kalash\u00a0l'Afro)",
+                "url": "https://genius.com/Sat-lartificier-on-sobstine-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/18874",
+                        "header_image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "id": 18874,
+                        "image_url": "https://images.genius.com/df186ca01133b01107944e49cfaefd66.682x682x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kalash l\u2019Afro",
+                        "url": "https://genius.com/artists/Kalash-lafro"
+                    },
+                    {
+                        "api_path": "/artists/13711",
+                        "header_image_url": "https://images.genius.com/7c37d651d3b5b3f1d09f5515cca8c17b.593x146x1.png",
+                        "id": 13711,
+                        "image_url": "https://images.genius.com/d125fef130f903e802a4acc9a401e0a5.652x652x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alonzo",
+                        "url": "https://genius.com/artists/Alonzo"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5519562",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "Outro Dans mon monde by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "id": 5519562,
+                "language": "en",
+                "lyrics_owner_id": 201783,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-outro-dans-mon-monde-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-outro-dans-mon-monde-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Outro Dans mon monde",
+                "title_with_featured": "Outro Dans mon monde",
+                "url": "https://genius.com/Sat-lartificier-outro-dans-mon-monde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/7266072",
+                "artist_names": "Lemblem (Ft. Sat l'Artificier)",
+                "full_title": "Outsider by\u00a0Lemblem (Ft.\u00a0Sat\u00a0l'Artificier)",
+                "header_image_thumbnail_url": "https://images.genius.com/f6a2da5523365db154aa36cd4b9effb0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f6a2da5523365db154aa36cd4b9effb0.500x500x1.jpg",
+                "id": 7266072,
+                "language": null,
+                "lyrics_owner_id": 196265,
+                "lyrics_state": "incomplete",
+                "path": "/Lemblem-outsider-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Lemblem-outsider-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/f6a2da5523365db154aa36cd4b9effb0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f6a2da5523365db154aa36cd4b9effb0.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Outsider",
+                "title_with_featured": "Outsider (Ft.\u00a0Sat\u00a0l'Artificier)",
+                "url": "https://genius.com/Lemblem-outsider-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/31628",
+                        "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                        "id": 31628,
+                        "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sat l\u2019Artificier",
+                        "url": "https://genius.com/artists/Sat-lartificier"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2906394",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 2906394,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lemblem",
+                    "url": "https://genius.com/artists/Lemblem"
+                }
+            },
+            {
+                "annotation_count": 14,
+                "api_path": "/songs/2906777",
+                "artist_names": "Sat l'Artificier (Ft. Akhenaton & Soprano)",
+                "full_title": "Plus que de la musique by\u00a0Sat\u00a0l'Artificier (Ft.\u00a0Akhenaton & Soprano)",
+                "header_image_thumbnail_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.400x400x1.jpg",
+                "id": 2906777,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-plus-que-de-la-musique-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-plus-que-de-la-musique-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 11,
+                    "day": 12
+                },
+                "release_date_for_display": "November 12, 2009",
+                "release_date_with_abbreviated_month_for_display": "Nov. 12, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/4200f05aa1b03adf9d26418b0002b3ce.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Plus que de la musique",
+                "title_with_featured": "Plus que de la musique (Ft.\u00a0Akhenaton & Soprano)",
+                "url": "https://genius.com/Sat-lartificier-plus-que-de-la-musique-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1961",
+                        "header_image_url": "https://images.genius.com/f9cdfa24b137754ebfe6b940978c15d8.320x298x1.jpg",
+                        "id": 1961,
+                        "image_url": "https://images.genius.com/916828a808bdd54c4ccb8602ebae73fc.855x855x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Akhenaton",
+                        "url": "https://genius.com/artists/Akhenaton"
+                    },
+                    {
+                        "api_path": "/artists/1431",
+                        "header_image_url": "https://images.genius.com/e7978b0b7620b2e575e6765eb79c9d53.597x183x1.png",
+                        "id": 1431,
+                        "image_url": "https://images.genius.com/d0a0f7b8182f11dafa1d2a554f6e3eab.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Soprano",
+                        "url": "https://genius.com/artists/Soprano"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/248485",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "Prelude by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "id": 248485,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-prelude-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-prelude-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2002",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Prelude",
+                "title_with_featured": "Prelude",
+                "url": "https://genius.com/Sat-lartificier-prelude-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3197788",
+                "artist_names": "Sat l'Artificier (Ft. Stefan Filey)",
+                "full_title": "Premi\u00e8re fois by\u00a0Sat\u00a0l'Artificier (Ft.\u00a0Stefan\u00a0Filey)",
+                "header_image_thumbnail_url": "https://images.genius.com/608494637ec4a6fc22bf0a5293f11e26.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/608494637ec4a6fc22bf0a5293f11e26.343x343x1.jpg",
+                "id": 3197788,
+                "language": "fr",
+                "lyrics_owner_id": 335062,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-premiere-fois-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-premiere-fois-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2003",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/608494637ec4a6fc22bf0a5293f11e26.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/608494637ec4a6fc22bf0a5293f11e26.343x343x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Premi\u00e8re fois",
+                "title_with_featured": "Premi\u00e8re fois (Ft.\u00a0Stefan\u00a0Filey)",
+                "url": "https://genius.com/Sat-lartificier-premiere-fois-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/40186",
+                        "header_image_url": "https://images.genius.com/f4b2749ca4f836a519b400c979908982.720x720x1.jpg",
+                        "id": 40186,
+                        "image_url": "https://images.genius.com/f4b2749ca4f836a519b400c979908982.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Stefan Filey",
+                        "url": "https://genius.com/artists/Stefan-filey"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/331030",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "Que sont-ils devenus ? by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.600x600x1.jpg",
+                "id": 331030,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-que-sont-ils-devenus-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-que-sont-ils-devenus-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 2,
+                    "day": 11
+                },
+                "release_date_for_display": "February 11, 2008",
+                "release_date_with_abbreviated_month_for_display": "Feb. 11, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Que sont-ils devenus ?",
+                "title_with_featured": "Que sont-ils devenus ?",
+                "url": "https://genius.com/Sat-lartificier-que-sont-ils-devenus-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/365386",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "R\u00e9alise by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "id": 365386,
+                "language": "fr",
+                "lyrics_owner_id": 335062,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-realise-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-realise-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2002",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "R\u00e9alise",
+                "title_with_featured": "R\u00e9alise",
+                "url": "https://genius.com/Sat-lartificier-realise-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/248612",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "R\u00e9miniscences by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/f9f07802901d43e2a20dc71d95af31ac.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f9f07802901d43e2a20dc71d95af31ac.600x600x1.jpg",
+                "id": 248612,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-reminiscences-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-reminiscences-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2002",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f9f07802901d43e2a20dc71d95af31ac.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f9f07802901d43e2a20dc71d95af31ac.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "R\u00e9miniscences",
+                "title_with_featured": "R\u00e9miniscences",
+                "url": "https://genius.com/Sat-lartificier-reminiscences-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/2916992",
+                "artist_names": "Sat l'Artificier (Ft. Faf Larage)",
+                "full_title": "Retour aux sources by\u00a0Sat\u00a0l'Artificier (Ft.\u00a0Faf\u00a0Larage)",
+                "header_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "id": 2916992,
+                "language": null,
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-retour-aux-sources-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-retour-aux-sources-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 2,
+                    "day": 15
+                },
+                "release_date_for_display": "February 15, 2010",
+                "release_date_with_abbreviated_month_for_display": "Feb. 15, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Retour aux sources",
+                "title_with_featured": "Retour aux sources (Ft.\u00a0Faf\u00a0Larage)",
+                "url": "https://genius.com/Sat-lartificier-retour-aux-sources-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/12066",
+                        "header_image_url": "https://images.genius.com/5c14c0da9c56ac792046b51174a88c1b.320x214x1.jpg",
+                        "id": 12066,
+                        "image_url": "https://images.genius.com/1b8c795a4804d5f19476b4fca292ed72.439x439x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Faf Larage",
+                        "url": "https://genius.com/artists/Faf-larage"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2930635",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "Rien ne doit m'arr\u00eater by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "id": 2930635,
+                "language": null,
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-rien-ne-doit-marreter-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-rien-ne-doit-marreter-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 1,
+                    "day": 26
+                },
+                "release_date_for_display": "January 26, 2010",
+                "release_date_with_abbreviated_month_for_display": "Jan. 26, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Rien ne doit m\u2019arr\u00eater",
+                "title_with_featured": "Rien ne doit m'arr\u00eater",
+                "url": "https://genius.com/Sat-lartificier-rien-ne-doit-marreter-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/2942083",
+                "artist_names": "Sat l'Artificier (Ft. Muge Knight)",
+                "full_title": "Sale \u00e9poque by\u00a0Sat\u00a0l'Artificier (Ft.\u00a0Muge\u00a0Knight)",
+                "header_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "id": 2942083,
+                "language": "fr",
+                "lyrics_owner_id": 161602,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-sale-epoque-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-sale-epoque-sample",
+                "release_date_components": {
+                    "year": 2010,
+                    "month": 2,
+                    "day": 15
+                },
+                "release_date_for_display": "February 15, 2010",
+                "release_date_with_abbreviated_month_for_display": "Feb. 15, 2010",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c199b23e1f65dcfc4d10cdea2add688c.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sale \u00e9poque",
+                "title_with_featured": "Sale \u00e9poque (Ft.\u00a0Muge\u00a0Knight)",
+                "url": "https://genius.com/Sat-lartificier-sale-epoque-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1051192",
+                        "header_image_url": "https://images.genius.com/2b1ef2e360aae05bd51c000de5a18f54.450x450x1.jpg",
+                        "id": 1051192,
+                        "image_url": "https://images.genius.com/2b1ef2e360aae05bd51c000de5a18f54.450x450x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Muge Knight",
+                        "url": "https://genius.com/artists/Muge-knight"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/327889",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "Sang d'encre by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.600x600x1.jpg",
+                "id": 327889,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-sang-dencre-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-sang-dencre-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Sang d\u2019encre",
+                "title_with_featured": "Sang d'encre",
+                "url": "https://genius.com/Sat-lartificier-sang-dencre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/347603",
+                "artist_names": "Fonky Family (Ft. Kadaz, Kertra & Moz l'Ours Blanc)",
+                "full_title": "Sans faire couler le sang by\u00a0Fonky\u00a0Family (Ft.\u00a0Kadaz, Kertra & Moz\u00a0l'Ours Blanc)",
+                "header_image_thumbnail_url": "https://images.genius.com/716948ebcb7680507505e31295229b3c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/716948ebcb7680507505e31295229b3c.1000x999x1.jpg",
+                "id": 347603,
+                "language": "fr",
+                "lyrics_owner_id": 205087,
+                "lyrics_state": "complete",
+                "path": "/Fonky-family-sans-faire-couler-le-sang-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fonky-family-sans-faire-couler-le-sang-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 1,
+                    "day": 12
+                },
+                "release_date_for_display": "January 12, 1998",
+                "release_date_with_abbreviated_month_for_display": "Jan. 12, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/716948ebcb7680507505e31295229b3c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/716948ebcb7680507505e31295229b3c.1000x999x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Sans faire couler le sang",
+                "title_with_featured": "Sans faire couler le sang (Ft.\u00a0Kadaz, Kertra & Moz\u00a0l'Ours Blanc)",
+                "url": "https://genius.com/Fonky-family-sans-faire-couler-le-sang-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/134474",
+                        "header_image_url": "https://images.genius.com/dc3fd765791447c642982143efcb92c9.600x600x1.jpg",
+                        "id": 134474,
+                        "image_url": "https://images.genius.com/dc3fd765791447c642982143efcb92c9.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kertra",
+                        "url": "https://genius.com/artists/Kertra"
+                    },
+                    {
+                        "api_path": "/artists/24682",
+                        "header_image_url": "https://images.genius.com/ad510506f77cfe0a9585ce53811faff0.600x600x1.jpg",
+                        "id": 24682,
+                        "image_url": "https://images.genius.com/ad510506f77cfe0a9585ce53811faff0.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kadaz",
+                        "url": "https://genius.com/artists/Kadaz"
+                    },
+                    {
+                        "api_path": "/artists/134475",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 134475,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Moz l\u2019Ours Blanc",
+                        "url": "https://genius.com/artists/Moz-lours-blanc"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13333",
+                    "header_image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "id": 13333,
+                    "image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fonky Family",
+                    "url": "https://genius.com/artists/Fonky-family"
+                }
+            },
+            {
+                "annotation_count": 35,
+                "api_path": "/songs/65789",
+                "artist_names": "Fonky Family (Ft. Sista Micky)",
+                "full_title": "Sans r\u00e9mission by\u00a0Fonky\u00a0Family (Ft.\u00a0Sista\u00a0Micky)",
+                "header_image_thumbnail_url": "https://images.genius.com/d628a42c7296c368e74483e53f19ff34.300x307x1.jpg",
+                "header_image_url": "https://images.genius.com/d628a42c7296c368e74483e53f19ff34.495x506x1.jpg",
+                "id": 65789,
+                "language": "en",
+                "lyrics_owner_id": 27550,
+                "lyrics_state": "complete",
+                "path": "/Fonky-family-sans-remission-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fonky-family-sans-remission-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 1,
+                    "day": 13
+                },
+                "release_date_for_display": "January 13, 1998",
+                "release_date_with_abbreviated_month_for_display": "Jan. 13, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d628a42c7296c368e74483e53f19ff34.300x307x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d628a42c7296c368e74483e53f19ff34.495x506x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 13,
+                    "hot": false,
+                    "pageviews": 29175
+                },
+                "title": "Sans r\u00e9mission",
+                "title_with_featured": "Sans r\u00e9mission (Ft.\u00a0Sista\u00a0Micky)",
+                "url": "https://genius.com/Fonky-family-sans-remission-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/32158",
+                        "header_image_url": "https://images.genius.com/9dca86539f5996eef1768bd32d11efb0.399x399x1.jpg",
+                        "id": 32158,
+                        "image_url": "https://images.genius.com/9dca86539f5996eef1768bd32d11efb0.399x399x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sista Micky",
+                        "url": "https://genius.com/artists/Sista-micky"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13333",
+                    "header_image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "id": 13333,
+                    "image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fonky Family",
+                    "url": "https://genius.com/artists/Fonky-family"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/371508",
+                "artist_names": "Fonky Family",
+                "full_title": "Sans titre by\u00a0Fonky\u00a0Family",
+                "header_image_thumbnail_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.1000x1000x1.jpg",
+                "id": 371508,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Fonky-family-sans-titre-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fonky-family-sans-titre-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "1999",
+                "release_date_with_abbreviated_month_for_display": "1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Sans titre",
+                "title_with_featured": "Sans titre",
+                "url": "https://genius.com/Fonky-family-sans-titre-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13333",
+                    "header_image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "id": 13333,
+                    "image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fonky Family",
+                    "url": "https://genius.com/artists/Fonky-family"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/332032",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "Second Souffle by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.600x600x1.jpg",
+                "id": 332032,
+                "language": "fr",
+                "lyrics_owner_id": 136553,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-second-souffle-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-second-souffle-sample",
+                "release_date_components": {
+                    "year": 2008,
+                    "month": 2,
+                    "day": 11
+                },
+                "release_date_for_display": "February 11, 2008",
+                "release_date_with_abbreviated_month_for_display": "Feb. 11, 2008",
+                "song_art_image_thumbnail_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/88cfa4afbc69dc6abad9349a2fd96f2f.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Second Souffle",
+                "title_with_featured": "Second Souffle",
+                "url": "https://genius.com/Sat-lartificier-second-souffle-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 6,
+                "api_path": "/songs/114421",
+                "artist_names": "Fonky Family",
+                "full_title": "Si je les avais ecout\u00e9s by\u00a0Fonky\u00a0Family",
+                "header_image_thumbnail_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.1000x1000x1.jpg",
+                "id": 114421,
+                "language": "fr",
+                "lyrics_owner_id": 175162,
+                "lyrics_state": "complete",
+                "path": "/Fonky-family-si-je-les-avais-ecoutes-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Fonky-family-si-je-les-avais-ecoutes-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": null,
+                    "day": null
+                },
+                "release_date_for_display": "2003",
+                "release_date_with_abbreviated_month_for_display": "2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/244f8356c78e361e310d300b96f17e3d.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 12737
+                },
+                "title": "Si je les avais ecout\u00e9s",
+                "title_with_featured": "Si je les avais ecout\u00e9s",
+                "url": "https://genius.com/Fonky-family-si-je-les-avais-ecoutes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/13333",
+                    "header_image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "id": 13333,
+                    "image_url": "https://images.genius.com/f9e46e1bb02906dc9f1e8973cfe62f97.1000x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fonky Family",
+                    "url": "https://genius.com/artists/Fonky-family"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/95093",
+                "artist_names": "Sat l'Artificier",
+                "full_title": "Strange Day by\u00a0Sat\u00a0l'Artificier",
+                "header_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "id": 95093,
+                "language": "fr",
+                "lyrics_owner_id": 13497,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-strange-day-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-strange-day-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Strange Day",
+                "title_with_featured": "Strange Day",
+                "url": "https://genius.com/Sat-lartificier-strange-day-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/361877",
+                "artist_names": "Sat l'Artificier (Ft. Matt Houston (FRA))",
+                "full_title": "Streetlife by\u00a0Sat\u00a0l'Artificier (Ft.\u00a0Matt\u00a0Houston (FRA))",
+                "header_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "id": 361877,
+                "language": "fr",
+                "lyrics_owner_id": 335062,
+                "lyrics_state": "complete",
+                "path": "/Sat-lartificier-streetlife-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Sat-lartificier-streetlife-sample",
+                "release_date_components": {
+                    "year": 2002,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2002",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2002",
+                "song_art_image_thumbnail_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/adaae6f22cb4415441cb8a115ef360f6.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Streetlife",
+                "title_with_featured": "Streetlife (Ft.\u00a0Matt\u00a0Houston (FRA))",
+                "url": "https://genius.com/Sat-lartificier-streetlife-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/503038",
+                        "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                        "id": 503038,
+                        "image_url": "https://images.genius.com/5b5f9634a354795dc5ce35476b6ade13.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Matt Houston (FRA)",
+                        "url": "https://genius.com/artists/Matt-houston-fra"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/31628",
+                    "header_image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "id": 31628,
+                    "image_url": "https://images.genius.com/42b34e60e4c5f3413d6ed5bd255fe08e.400x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sat l\u2019Artificier",
+                    "url": "https://genius.com/artists/Sat-lartificier"
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

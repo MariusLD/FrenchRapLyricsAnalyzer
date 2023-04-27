@@ -1,0 +1,985 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 10,
+                "api_path": "/songs/2145492",
+                "artist_names": "Bambi Cruz (Ft. 9Respect, Driver, Kaysha, Manifeste (des Rootsneg), MC Solaar, M\u00e9n\u00e9lik, Philly (FRA), Puzzle (Fra) & Shakim)",
+                "full_title": "8 mesures pour 12 types by\u00a0Bambi\u00a0Cruz (Ft.\u00a09Respect, Driver, Kaysha, Manifeste\u00a0(des Rootsneg), MC\u00a0Solaar, M\u00e9n\u00e9lik, Philly\u00a0(FRA), Puzzle\u00a0(Fra) & Shakim)",
+                "header_image_thumbnail_url": "https://images.genius.com/96f5a2ef1da85cc061a3412c918f7813.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/96f5a2ef1da85cc061a3412c918f7813.300x300x1.jpg",
+                "id": 2145492,
+                "language": "fr",
+                "lyrics_owner_id": 1815783,
+                "lyrics_state": "complete",
+                "path": "/Bambi-cruz-8-mesures-pour-12-types-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Bambi-cruz-8-mesures-pour-12-types-sample",
+                "release_date_components": {
+                    "year": 1998,
+                    "month": 1,
+                    "day": 23
+                },
+                "release_date_for_display": "January 23, 1998",
+                "release_date_with_abbreviated_month_for_display": "Jan. 23, 1998",
+                "song_art_image_thumbnail_url": "https://images.genius.com/96f5a2ef1da85cc061a3412c918f7813.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/96f5a2ef1da85cc061a3412c918f7813.300x300x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "8 mesures pour 12 types",
+                "title_with_featured": "8 mesures pour 12 types (Ft.\u00a09Respect, Driver, Kaysha, Manifeste\u00a0(des Rootsneg), MC\u00a0Solaar, M\u00e9n\u00e9lik, Philly\u00a0(FRA), Puzzle\u00a0(Fra) & Shakim)",
+                "url": "https://genius.com/Bambi-cruz-8-mesures-pour-12-types-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/2162516",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2162516,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Philly (FRA)",
+                        "url": "https://genius.com/artists/Philly-fra"
+                    },
+                    {
+                        "api_path": "/artists/2148505",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 2148505,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Puzzle (Fra)",
+                        "url": "https://genius.com/artists/Puzzle-fra"
+                    },
+                    {
+                        "api_path": "/artists/19386",
+                        "header_image_url": "https://images.genius.com/121c7ae840d2f4bc5ad963290e032ab6.600x402x1.jpg",
+                        "id": 19386,
+                        "image_url": "https://images.genius.com/121c7ae840d2f4bc5ad963290e032ab6.600x402x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "M\u00e9n\u00e9lik",
+                        "url": "https://genius.com/artists/Menelik"
+                    },
+                    {
+                        "api_path": "/artists/371036",
+                        "header_image_url": "https://images.rapgenius.com/avatars/medium/4fac0c6dfea9416ff61160bc932ce785",
+                        "id": 371036,
+                        "image_url": "https://images.rapgenius.com/avatars/medium/4fac0c6dfea9416ff61160bc932ce785",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Kaysha",
+                        "url": "https://genius.com/artists/Kaysha",
+                        "iq": 3351
+                    },
+                    {
+                        "api_path": "/artists/502270",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 502270,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Manifeste (des Rootsneg)",
+                        "url": "https://genius.com/artists/Manifeste-des-rootsneg"
+                    },
+                    {
+                        "api_path": "/artists/502269",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 502269,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shakim",
+                        "url": "https://genius.com/artists/Shakim"
+                    },
+                    {
+                        "api_path": "/artists/1310",
+                        "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                        "id": 1310,
+                        "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Solaar",
+                        "url": "https://genius.com/artists/Mc-solaar"
+                    },
+                    {
+                        "api_path": "/artists/142659",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 142659,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "9Respect",
+                        "url": "https://genius.com/artists/9respect"
+                    },
+                    {
+                        "api_path": "/artists/2222",
+                        "header_image_url": "https://images.genius.com/4059507367baf6f7225676997d8f48bd.1000x333x1.jpg",
+                        "id": 2222,
+                        "image_url": "https://images.genius.com/35865c7640f5f03fb085ec8436a542c6.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Driver",
+                        "url": "https://genius.com/artists/Driver"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/28788",
+                    "header_image_url": "https://images.genius.com/80aa5418a6323e46961c959f9a3fadec.506x506x1.jpg",
+                    "id": 28788,
+                    "image_url": "https://images.genius.com/80aa5418a6323e46961c959f9a3fadec.506x506x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bambi Cruz",
+                    "url": "https://genius.com/artists/Bambi-cruz"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/3219613",
+                "artist_names": "MC Solaar",
+                "full_title": "Adam & Eve by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.960x960x1.jpg",
+                "id": 3219613,
+                "language": "fr",
+                "lyrics_owner_id": 3808963,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-adam-and-eve-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-adam-and-eve-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 3
+                },
+                "release_date_for_display": "November 3, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 3, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 22,
+                    "hot": false
+                },
+                "title": "Adam & Eve",
+                "title_with_featured": "Adam & Eve",
+                "url": "https://genius.com/Mc-solaar-adam-and-eve-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 8,
+                "api_path": "/songs/358888",
+                "artist_names": "MC Solaar",
+                "full_title": "A dix de mes disciples by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "id": 358888,
+                "language": "fr",
+                "lyrics_owner_id": 259935,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-a-dix-de-mes-disciples-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-a-dix-de-mes-disciples-sample",
+                "release_date_components": {
+                    "year": 1994,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 1994",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 1994",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "A dix de mes disciples",
+                "title_with_featured": "A dix de mes disciples",
+                "url": "https://genius.com/Mc-solaar-a-dix-de-mes-disciples-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/3219616",
+                "artist_names": "MC Solaar",
+                "full_title": "AIWA by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.960x960x1.jpg",
+                "id": 3219616,
+                "language": "fr",
+                "lyrics_owner_id": 1648570,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-aiwa-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-aiwa-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 11,
+                    "day": 3
+                },
+                "release_date_for_display": "November 3, 2017",
+                "release_date_with_abbreviated_month_for_display": "Nov. 3, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/405421d53046954fb46f1a341735fda9.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 8375
+                },
+                "title": "AIWA",
+                "title_with_featured": "AIWA",
+                "url": "https://genius.com/Mc-solaar-aiwa-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/31136",
+                "artist_names": "MC Solaar",
+                "full_title": "A La Claire Fontaine by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "id": 31136,
+                "language": "fr",
+                "lyrics_owner_id": 50,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-a-la-claire-fontaine-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-a-la-claire-fontaine-sample",
+                "release_date_components": {
+                    "year": 1994,
+                    "month": 2,
+                    "day": 9
+                },
+                "release_date_for_display": "February 9, 1994",
+                "release_date_with_abbreviated_month_for_display": "Feb. 9, 1994",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b33ace06c7f295289cf8bd44942cd56c.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 5810
+                },
+                "title": "A La Claire Fontaine",
+                "title_with_featured": "A La Claire Fontaine",
+                "url": "https://genius.com/Mc-solaar-a-la-claire-fontaine-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/115656",
+                "artist_names": "Missy Elliott (Ft. Lady Wray & MC Solaar)",
+                "full_title": "All N My Grill (Remix) by\u00a0Missy\u00a0Elliott (Ft.\u00a0Lady\u00a0Wray & MC\u00a0Solaar)",
+                "header_image_thumbnail_url": "https://images.genius.com/53d8e99d4e56b9119573c9588afbef72.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/53d8e99d4e56b9119573c9588afbef72.1000x1000x1.jpg",
+                "id": 115656,
+                "language": "en",
+                "lyrics_owner_id": 25373,
+                "lyrics_state": "complete",
+                "path": "/Missy-elliott-all-n-my-grill-remix-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Missy-elliott-all-n-my-grill-remix-sample",
+                "release_date_components": {
+                    "year": 1999,
+                    "month": 7,
+                    "day": 6
+                },
+                "release_date_for_display": "July 6, 1999",
+                "release_date_with_abbreviated_month_for_display": "Jul. 6, 1999",
+                "song_art_image_thumbnail_url": "https://images.genius.com/53d8e99d4e56b9119573c9588afbef72.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/53d8e99d4e56b9119573c9588afbef72.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 29484
+                },
+                "title": "All N My Grill (Remix)",
+                "title_with_featured": "All N My Grill (Remix) (Ft.\u00a0Lady\u00a0Wray & MC\u00a0Solaar)",
+                "url": "https://genius.com/Missy-elliott-all-n-my-grill-remix-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1310",
+                        "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                        "id": 1310,
+                        "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Solaar",
+                        "url": "https://genius.com/artists/Mc-solaar"
+                    },
+                    {
+                        "api_path": "/artists/315",
+                        "header_image_url": "https://images.genius.com/36fda68685c7192531bd629090ef028d.1000x1000x1.jpg",
+                        "id": 315,
+                        "image_url": "https://images.genius.com/36fda68685c7192531bd629090ef028d.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lady Wray",
+                        "url": "https://genius.com/artists/Lady-wray"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1529",
+                    "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+                    "id": 1529,
+                    "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Missy Elliott",
+                    "url": "https://genius.com/artists/Missy-elliott"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/2097221",
+                "artist_names": "MC Solaar",
+                "full_title": "A me hante by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                "id": 2097221,
+                "language": "fr",
+                "lyrics_owner_id": 1549345,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-a-me-hante-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-a-me-hante-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "A me hante",
+                "title_with_featured": "A me hante",
+                "url": "https://genius.com/Mc-solaar-a-me-hante-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/31126",
+                "artist_names": "MC Solaar",
+                "full_title": "Arkansas by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "id": 31126,
+                "language": "fr",
+                "lyrics_owner_id": 50,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-arkansas-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Mc-solaar-arkansas-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2001",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 6,
+                    "hot": false,
+                    "pageviews": 14758
+                },
+                "title": "Arkansas",
+                "title_with_featured": "Arkansas",
+                "url": "https://genius.com/Mc-solaar-arkansas-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/54668",
+                "artist_names": "MC Solaar",
+                "full_title": "Armand est mort by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.500x500x1.jpg",
+                "id": 54668,
+                "language": "fr",
+                "lyrics_owner_id": 26617,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-armand-est-mort-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-armand-est-mort-sample",
+                "release_date_components": {
+                    "year": 1991,
+                    "month": 10,
+                    "day": 15
+                },
+                "release_date_for_display": "October 15, 1991",
+                "release_date_with_abbreviated_month_for_display": "Oct. 15, 1991",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Armand est mort",
+                "title_with_featured": "Armand est mort",
+                "url": "https://genius.com/Mc-solaar-armand-est-mort-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 2,
+                "api_path": "/songs/118933",
+                "artist_names": "MC Solaar",
+                "full_title": "A temps partiel by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.500x500x1.jpg",
+                "id": 118933,
+                "language": "fr",
+                "lyrics_owner_id": 188253,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-a-temps-partiel-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-a-temps-partiel-sample",
+                "release_date_components": {
+                    "year": 1991,
+                    "month": 10,
+                    "day": 15
+                },
+                "release_date_for_display": "October 15, 1991",
+                "release_date_with_abbreviated_month_for_display": "Oct. 15, 1991",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bcb936c63548f86c1803cf6b5ca17733.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "A temps partiel",
+                "title_with_featured": "A temps partiel",
+                "url": "https://genius.com/Mc-solaar-a-temps-partiel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 22,
+                "api_path": "/songs/362042",
+                "artist_names": "MC Solaar",
+                "full_title": "Au clair de la lune by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "id": 362042,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-au-clair-de-la-lune-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-au-clair-de-la-lune-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false
+                },
+                "title": "Au clair de la lune",
+                "title_with_featured": "Au clair de la lune",
+                "url": "https://genius.com/Mc-solaar-au-clair-de-la-lune-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 33,
+                "api_path": "/songs/379299",
+                "artist_names": "MC Solaar",
+                "full_title": "Au pays de Gandhi by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/cfc523c73a6f39b1d1e5193a79db9c97.300x301x1.jpg",
+                "header_image_url": "https://images.genius.com/cfc523c73a6f39b1d1e5193a79db9c97.600x602x1.jpg",
+                "id": 379299,
+                "language": "fr",
+                "lyrics_owner_id": 187926,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-au-pays-de-gandhi-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Mc-solaar-au-pays-de-gandhi-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2003",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/cfc523c73a6f39b1d1e5193a79db9c97.300x301x1.jpg",
+                "song_art_image_url": "https://images.genius.com/cfc523c73a6f39b1d1e5193a79db9c97.600x602x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Au pays de Gandhi",
+                "title_with_featured": "Au pays de Gandhi",
+                "url": "https://genius.com/Mc-solaar-au-pays-de-gandhi-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/362050",
+                "artist_names": "MC Solaar",
+                "full_title": "Avec les loups by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "id": 362050,
+                "language": "fr",
+                "lyrics_owner_id": 67128,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-avec-les-loups-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-avec-les-loups-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Avec les loups",
+                "title_with_featured": "Avec les loups",
+                "url": "https://genius.com/Mc-solaar-avec-les-loups-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/89499",
+                "artist_names": "MC Solaar",
+                "full_title": "Baby Love by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "id": 89499,
+                "language": "fr",
+                "lyrics_owner_id": 138816,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-baby-love-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-baby-love-sample",
+                "release_date_components": {
+                    "year": 2001,
+                    "month": 3,
+                    "day": 13
+                },
+                "release_date_for_display": "March 13, 2001",
+                "release_date_with_abbreviated_month_for_display": "Mar. 13, 2001",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d34b24eb583b04b3446fdf9093732df6.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 7984
+                },
+                "title": "Baby Love",
+                "title_with_featured": "Baby Love",
+                "url": "https://genius.com/Mc-solaar-baby-love-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/87707",
+                "artist_names": "MC Solaar (Ft. Issara)",
+                "full_title": "Ben Oui ! by\u00a0MC\u00a0Solaar (Ft.\u00a0Issara)",
+                "header_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "id": 87707,
+                "language": "fr",
+                "lyrics_owner_id": 85492,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-ben-oui-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-ben-oui-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1c2ac9947302aa62c07132a094d269e0.800x800x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Ben Oui !",
+                "title_with_featured": "Ben Oui ! (Ft.\u00a0Issara)",
+                "url": "https://genius.com/Mc-solaar-ben-oui-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1102998",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 1102998,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Issara",
+                        "url": "https://genius.com/artists/Issara"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/89928",
+                "artist_names": "MC Solaar",
+                "full_title": "Bling Bling by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.700x700x1.jpg",
+                "id": 89928,
+                "language": "fr",
+                "lyrics_owner_id": 139750,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-bling-bling-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-bling-bling-sample",
+                "release_date_components": {
+                    "year": 2003,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2003",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2003",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f849ba0522c62d0536b66c7c74cdfedf.700x700x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false
+                },
+                "title": "Bling Bling",
+                "title_with_featured": "Bling Bling",
+                "url": "https://genius.com/Mc-solaar-bling-bling-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 7,
+                "api_path": "/songs/8054153",
+                "artist_names": "Bigflo & Oli (Ft. MC Solaar)",
+                "full_title": "Bons \u00e9l\u00e8ves by\u00a0Bigflo\u00a0& Oli (Ft.\u00a0MC\u00a0Solaar)",
+                "header_image_thumbnail_url": "https://images.genius.com/c666bc74d9fec1b88e9b29e0b4d1d339.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/c666bc74d9fec1b88e9b29e0b4d1d339.1000x563x1.jpg",
+                "id": 8054153,
+                "language": "fr",
+                "lyrics_owner_id": 16279162,
+                "lyrics_state": "complete",
+                "path": "/Bigflo-and-oli-bons-eleves-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Bigflo-and-oli-bons-eleves-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 19
+                },
+                "release_date_for_display": "June 19, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 19, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/dff50a633332554fc5ccbb217f0ab4be.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/dff50a633332554fc5ccbb217f0ab4be.679x680x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 6653
+                },
+                "title": "Bons \u00e9l\u00e8ves",
+                "title_with_featured": "Bons \u00e9l\u00e8ves (Ft.\u00a0MC\u00a0Solaar)",
+                "url": "https://genius.com/Bigflo-and-oli-bons-eleves-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1310",
+                        "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                        "id": 1310,
+                        "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Solaar",
+                        "url": "https://genius.com/artists/Mc-solaar"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14388",
+                    "header_image_url": "https://images.genius.com/24dae41399c4d05625755dafc79b377c.921x615x1.jpg",
+                    "id": 14388,
+                    "image_url": "https://images.genius.com/f6d2a9d17b772cbced317b8c8cd30b88.364x364x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Bigflo & Oli",
+                    "url": "https://genius.com/artists/Bigflo-and-oli",
+                    "iq": 1140
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/8432533",
+                "artist_names": "Bigflo & Oli (Ft. MC Solaar)",
+                "full_title": "Bons \u00e9l\u00e8ves (avec MC Solaar) by\u00a0Bigflo\u00a0& Oli (Ft.\u00a0MC\u00a0Solaar)",
+                "header_image_thumbnail_url": "https://images.genius.com/f6d2a9d17b772cbced317b8c8cd30b88.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/f6d2a9d17b772cbced317b8c8cd30b88.364x364x1.jpg",
+                "id": 8432533,
+                "language": "fr",
+                "lyrics_owner_id": 17259125,
+                "lyrics_state": "complete",
+                "path": "/Bigflo-and-oli-bons-eleves-avec-mc-solaar-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Bigflo-and-oli-bons-eleves-avec-mc-solaar-sample",
+                "release_date_components": {
+                    "year": 2022,
+                    "month": 6,
+                    "day": 19
+                },
+                "release_date_for_display": "June 19, 2022",
+                "release_date_with_abbreviated_month_for_display": "Jun. 19, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f6d2a9d17b772cbced317b8c8cd30b88.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f6d2a9d17b772cbced317b8c8cd30b88.364x364x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bons \u00e9l\u00e8ves (avec MC Solaar)",
+                "title_with_featured": "Bons \u00e9l\u00e8ves (avec MC Solaar) (Ft.\u00a0MC\u00a0Solaar)",
+                "url": "https://genius.com/Bigflo-and-oli-bons-eleves-avec-mc-solaar-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1310",
+                        "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                        "id": 1310,
+                        "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "MC Solaar",
+                        "url": "https://genius.com/artists/Mc-solaar"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14388",
+                    "header_image_url": "https://images.genius.com/24dae41399c4d05625755dafc79b377c.921x615x1.jpg",
+                    "id": 14388,
+                    "image_url": "https://images.genius.com/f6d2a9d17b772cbced317b8c8cd30b88.364x364x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Bigflo & Oli",
+                    "url": "https://genius.com/artists/Bigflo-and-oli",
+                    "iq": 1140
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/2851",
+                "artist_names": "MC Solaar",
+                "full_title": "Bouge de l\u00e0 by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/b62b577bde79bcb8e822b5a725b7062f.300x302x1.jpg",
+                "header_image_url": "https://images.genius.com/b62b577bde79bcb8e822b5a725b7062f.590x594x1.jpg",
+                "id": 2851,
+                "language": "fr",
+                "lyrics_owner_id": 3641,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-bouge-de-la-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Mc-solaar-bouge-de-la-sample",
+                "release_date_components": {
+                    "year": 1990,
+                    "month": 6,
+                    "day": 21
+                },
+                "release_date_for_display": "June 21, 1990",
+                "release_date_with_abbreviated_month_for_display": "Jun. 21, 1990",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b62b577bde79bcb8e822b5a725b7062f.300x302x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b62b577bde79bcb8e822b5a725b7062f.590x594x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 23076
+                },
+                "title": "Bouge de l\u00e0",
+                "title_with_featured": "Bouge de l\u00e0",
+                "url": "https://genius.com/Mc-solaar-bouge-de-la-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/31140",
+                "artist_names": "MC Solaar",
+                "full_title": "Bouge de l\u00e0 (move out of my way) by\u00a0MC\u00a0Solaar",
+                "header_image_thumbnail_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                "id": 31140,
+                "language": "en",
+                "lyrics_owner_id": 50,
+                "lyrics_state": "complete",
+                "path": "/Mc-solaar-bouge-de-la-move-out-of-my-way-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Mc-solaar-bouge-de-la-move-out-of-my-way-sample",
+                "release_date_components": null,
+                "release_date_for_display": null,
+                "release_date_with_abbreviated_month_for_display": null,
+                "song_art_image_thumbnail_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Bouge de l\u00e0 (move out of my way)",
+                "title_with_featured": "Bouge de l\u00e0 (move out of my way)",
+                "url": "https://genius.com/Mc-solaar-bouge-de-la-move-out-of-my-way-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1310",
+                    "header_image_url": "https://images.genius.com/018b38cca2ce2231a5542c86b7a9ab85.560x280x1.jpg",
+                    "id": 1310,
+                    "image_url": "https://images.genius.com/5279190d80ca21db1bcea05de16185ca.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MC Solaar",
+                    "url": "https://genius.com/artists/Mc-solaar"
+                }
+            }
+        ],
+        "next_page": 2
+    }
+}

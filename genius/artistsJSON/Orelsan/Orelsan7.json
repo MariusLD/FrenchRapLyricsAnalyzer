@@ -1,0 +1,966 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/2366335",
+                "artist_names": "OrelSan",
+                "full_title": "J'essaye, j'essaye by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.500x500x1.jpg",
+                "id": 2366335,
+                "language": "fr",
+                "lyrics_owner_id": 383358,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-jessaye-jessaye-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Orelsan-jessaye-jessaye-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2015",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/404d354295376ff4b983f3dd7e1a224f.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 93630
+                },
+                "title": "J\u2019essaye, j\u2019essaye",
+                "title_with_featured": "J'essaye, j'essaye",
+                "url": "https://genius.com/Orelsan-jessaye-jessaye-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/4082144",
+                "artist_names": "OrelSan (Ft. Gringe)",
+                "full_title": "Je zappe et je mate by\u00a0OrelSan (Ft.\u00a0Gringe)",
+                "header_image_thumbnail_url": "https://images.genius.com/0c64c6d48223fa08ed656b77c04fbf2a.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/0c64c6d48223fa08ed656b77c04fbf2a.939x939x1.jpg",
+                "id": 4082144,
+                "language": "fr",
+                "lyrics_owner_id": 5428057,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-je-zappe-et-je-mate-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Orelsan-je-zappe-et-je-mate-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 7
+                },
+                "release_date_for_display": "December 7, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 7, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/0c64c6d48223fa08ed656b77c04fbf2a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/0c64c6d48223fa08ed656b77c04fbf2a.939x939x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Je zappe et je mate",
+                "title_with_featured": "Je zappe et je mate (Ft.\u00a0Gringe)",
+                "url": "https://genius.com/Orelsan-je-zappe-et-je-mate-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/13895",
+                        "header_image_url": "https://images.genius.com/9235ff3ea8ed3265920aa6cb9a830156.1000x558x1.jpg",
+                        "id": 13895,
+                        "image_url": "https://images.genius.com/484b1db7599534cfe66bd47403fe8365.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gringe",
+                        "url": "https://genius.com/artists/Gringe"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 70,
+                "api_path": "/songs/56573",
+                "artist_names": "OrelSan",
+                "full_title": "Jimmy Punchline by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/c899793279093dfe4fa1558f03e09e6a.300x298x1.jpg",
+                "header_image_url": "https://images.genius.com/c899793279093dfe4fa1558f03e09e6a.1000x992x1.jpg",
+                "id": 56573,
+                "language": "fr",
+                "lyrics_owner_id": 35822,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-jimmy-punchline-lyrics",
+                "pyongs_count": 26,
+                "relationships_index_url": "https://genius.com/Orelsan-jimmy-punchline-sample",
+                "release_date_components": {
+                    "year": 2009,
+                    "month": 2,
+                    "day": 16
+                },
+                "release_date_for_display": "February 16, 2009",
+                "release_date_with_abbreviated_month_for_display": "Feb. 16, 2009",
+                "song_art_image_thumbnail_url": "https://images.genius.com/c899793279093dfe4fa1558f03e09e6a.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/c899793279093dfe4fa1558f03e09e6a.1000x992x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 152564
+                },
+                "title": "Jimmy Punchline",
+                "title_with_featured": "Jimmy Punchline",
+                "url": "https://genius.com/Orelsan-jimmy-punchline-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/7325574",
+                "artist_names": "OrelSan",
+                "full_title": "Jour meilleur by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/cebab66abf6d19b6ab3d7f49decd66dd.300x124x1.jpg",
+                "header_image_url": "https://images.genius.com/cebab66abf6d19b6ab3d7f49decd66dd.1000x412x1.jpg",
+                "id": 7325574,
+                "language": "fr",
+                "lyrics_owner_id": 15262918,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-jour-meilleur-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Orelsan-jour-meilleur-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 19
+                },
+                "release_date_for_display": "November 19, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/6a33e669cab9a92434cf97a367a85f99.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/6a33e669cab9a92434cf97a367a85f99.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 19,
+                    "hot": false,
+                    "pageviews": 41803
+                },
+                "title": "Jour meilleur",
+                "title_with_featured": "Jour meilleur",
+                "url": "https://genius.com/Orelsan-jour-meilleur-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/274598",
+                "artist_names": "Casseurs Flowters",
+                "full_title": "J'vais baiser ta femme by\u00a0Casseurs\u00a0Flowters",
+                "header_image_thumbnail_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.500x500x1.jpg",
+                "id": 274598,
+                "language": "fr",
+                "lyrics_owner_id": 112706,
+                "lyrics_state": "complete",
+                "path": "/Casseurs-flowters-jvais-baiser-ta-femme-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Casseurs-flowters-jvais-baiser-ta-femme-sample",
+                "release_date_components": {
+                    "year": 2004,
+                    "month": 1,
+                    "day": 1
+                },
+                "release_date_for_display": "January 1, 2004",
+                "release_date_with_abbreviated_month_for_display": "Jan. 1, 2004",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 5690
+                },
+                "title": "J\u2019vais baiser ta femme",
+                "title_with_featured": "J'vais baiser ta femme",
+                "url": "https://genius.com/Casseurs-flowters-jvais-baiser-ta-femme-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/20190",
+                    "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+                    "id": 20190,
+                    "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Casseurs Flowters",
+                    "url": "https://genius.com/artists/Casseurs-flowters"
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/307446",
+                "artist_names": "Major Lazer (Ft. Casseurs Flowters & Diana Gordon)",
+                "full_title": "Keep Cool (French Version) by\u00a0Major\u00a0Lazer (Ft.\u00a0Casseurs\u00a0Flowters & Diana\u00a0Gordon)",
+                "header_image_thumbnail_url": "https://images.genius.com/8b3111aca88365b8e4e90c00602cddd7.300x300x1.png",
+                "header_image_url": "https://images.genius.com/8b3111aca88365b8e4e90c00602cddd7.1000x1000x1.png",
+                "id": 307446,
+                "language": "fr",
+                "lyrics_owner_id": 321990,
+                "lyrics_state": "complete",
+                "path": "/Major-lazer-keep-cool-french-version-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Major-lazer-keep-cool-french-version-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 4,
+                    "day": 16
+                },
+                "release_date_for_display": "April 16, 2013",
+                "release_date_with_abbreviated_month_for_display": "Apr. 16, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/8b3111aca88365b8e4e90c00602cddd7.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/8b3111aca88365b8e4e90c00602cddd7.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Keep Cool (French Version)",
+                "title_with_featured": "Keep Cool (French Version) (Ft.\u00a0Casseurs\u00a0Flowters & Diana\u00a0Gordon)",
+                "url": "https://genius.com/Major-lazer-keep-cool-french-version-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20190",
+                        "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+                        "id": 20190,
+                        "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Casseurs Flowters",
+                        "url": "https://genius.com/artists/Casseurs-flowters"
+                    },
+                    {
+                        "api_path": "/artists/1680892",
+                        "header_image_url": "https://images.genius.com/7b1a310c341516707e35fd060a5a1c32.1000x166x1.jpg",
+                        "id": 1680892,
+                        "image_url": "https://images.genius.com/b7ee7b832e54b9cb8c26adc309b771e4.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Diana Gordon",
+                        "url": "https://genius.com/artists/Diana-gordon"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/665",
+                    "header_image_url": "https://images.genius.com/5a9a550de9393ed8a1938e678f435beb.820x360x1.jpg",
+                    "id": 665,
+                    "image_url": "https://images.genius.com/626ea490847672aa129086040ecb259b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Major Lazer",
+                    "url": "https://genius.com/artists/Major-lazer",
+                    "iq": 479
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/4088317",
+                "artist_names": "OrelSan",
+                "full_title": "La famille, la famille by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/7e19497d78b22bc2412bd5d86c86a55a.300x300x1.png",
+                "header_image_url": "https://images.genius.com/7e19497d78b22bc2412bd5d86c86a55a.1000x1000x1.png",
+                "id": 4088317,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-famille-la-famille-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Orelsan-la-famille-la-famille-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 11,
+                    "day": 15
+                },
+                "release_date_for_display": "November 15, 2018",
+                "release_date_with_abbreviated_month_for_display": "Nov. 15, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/7e19497d78b22bc2412bd5d86c86a55a.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/7e19497d78b22bc2412bd5d86c86a55a.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 26,
+                    "hot": false,
+                    "pageviews": 20144
+                },
+                "title": "La famille, la famille",
+                "title_with_featured": "La famille, la famille",
+                "url": "https://genius.com/Orelsan-la-famille-la-famille-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 19,
+                "api_path": "/songs/3267188",
+                "artist_names": "OrelSan",
+                "full_title": "La f\u00eate est finie by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+                "header_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+                "id": 3267188,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-fete-est-finie-lyrics",
+                "pyongs_count": 13,
+                "relationships_index_url": "https://genius.com/Orelsan-la-fete-est-finie-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 12,
+                    "hot": false,
+                    "pageviews": 136989
+                },
+                "title": "La f\u00eate est finie",
+                "title_with_featured": "La f\u00eate est finie",
+                "url": "https://genius.com/Orelsan-la-fete-est-finie-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/3267191",
+                "artist_names": "OrelSan",
+                "full_title": "La lumi\u00e8re by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+                "header_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+                "id": 3267191,
+                "language": "fr",
+                "lyrics_owner_id": 130136,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-lumiere-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Orelsan-la-lumiere-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 72432
+                },
+                "title": "La lumi\u00e8re",
+                "title_with_featured": "La lumi\u00e8re",
+                "url": "https://genius.com/Orelsan-la-lumiere-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 21,
+                "api_path": "/songs/301095",
+                "artist_names": "Luce (FRA) (Ft. OrelSan)",
+                "full_title": "La machine by\u00a0Luce\u00a0(FRA) (Ft.\u00a0OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/52ce00cc42f59269c1d55af5c9d12e65.300x269x1.jpg",
+                "header_image_url": "https://images.genius.com/52ce00cc42f59269c1d55af5c9d12e65.400x358x1.jpg",
+                "id": 301095,
+                "language": "fr",
+                "lyrics_owner_id": 112706,
+                "lyrics_state": "complete",
+                "path": "/Luce-fra-la-machine-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Luce-fra-la-machine-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 6,
+                    "day": 27
+                },
+                "release_date_for_display": "June 27, 2011",
+                "release_date_with_abbreviated_month_for_display": "Jun. 27, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/52ce00cc42f59269c1d55af5c9d12e65.300x269x1.jpg",
+                "song_art_image_url": "https://images.genius.com/52ce00cc42f59269c1d55af5c9d12e65.400x358x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La machine",
+                "title_with_featured": "La machine (Ft.\u00a0OrelSan)",
+                "url": "https://genius.com/Luce-fra-la-machine-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/3301598",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "id": 3301598,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luce (FRA)",
+                    "url": "https://genius.com/artists/Luce-fra"
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/56319",
+                "artist_names": "OrelSan",
+                "full_title": "La morale by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.1000x1000x1.jpg",
+                "id": 56319,
+                "language": "fr",
+                "lyrics_owner_id": 34723,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-morale-lyrics",
+                "pyongs_count": 11,
+                "relationships_index_url": "https://genius.com/Orelsan-la-morale-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 9,
+                    "day": 26
+                },
+                "release_date_for_display": "September 26, 2011",
+                "release_date_with_abbreviated_month_for_display": "Sep. 26, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 11,
+                    "hot": false,
+                    "pageviews": 50952
+                },
+                "title": "La morale",
+                "title_with_featured": "La morale",
+                "url": "https://genius.com/Orelsan-la-morale-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 12,
+                "api_path": "/songs/3583352",
+                "artist_names": "Gims (Ft. H Magnum & OrelSan)",
+                "full_title": "La nuit c'est fait pour dormir by\u00a0Gims (Ft.\u00a0H\u00a0Magnum & OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "id": 3583352,
+                "language": "fr",
+                "lyrics_owner_id": 2714350,
+                "lyrics_state": "complete",
+                "path": "/Gims-la-nuit-cest-fait-pour-dormir-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Gims-la-nuit-cest-fait-pour-dormir-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 3,
+                    "day": 23
+                },
+                "release_date_for_display": "March 23, 2018",
+                "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/1935ef6bc388db2e792ce4ff45c6b0c3.440x440x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 7,
+                    "hot": false,
+                    "pageviews": 17783
+                },
+                "title": "La nuit c\u2019est fait pour dormir",
+                "title_with_featured": "La nuit c'est fait pour dormir (Ft.\u00a0H\u00a0Magnum & OrelSan)",
+                "url": "https://genius.com/Gims-la-nuit-cest-fait-pour-dormir-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    },
+                    {
+                        "api_path": "/artists/1875",
+                        "header_image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "id": 1875,
+                        "image_url": "https://images.genius.com/79c1662ef03341c3887c6ad95d7c3dd9.667x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "H Magnum",
+                        "url": "https://genius.com/artists/H-magnum",
+                        "iq": 1618
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/13325",
+                    "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+                    "id": 13325,
+                    "image_url": "https://images.genius.com/33b51b455fc2c8faf8ab6255db538e83.501x501x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gims",
+                    "url": "https://genius.com/artists/Gims"
+                }
+            },
+            {
+                "annotation_count": 32,
+                "api_path": "/songs/56282",
+                "artist_names": "OrelSan",
+                "full_title": "La petite marchande de portes-clefs by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.1000x1000x1.jpg",
+                "id": 56282,
+                "language": "fr",
+                "lyrics_owner_id": 15586,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-petite-marchande-de-portes-clefs-lyrics",
+                "pyongs_count": 12,
+                "relationships_index_url": "https://genius.com/Orelsan-la-petite-marchande-de-portes-clefs-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 9,
+                    "day": 26
+                },
+                "release_date_for_display": "September 26, 2011",
+                "release_date_with_abbreviated_month_for_display": "Sep. 26, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 104937
+                },
+                "title": "La petite marchande de portes-clefs",
+                "title_with_featured": "La petite marchande de portes-clefs",
+                "url": "https://genius.com/Orelsan-la-petite-marchande-de-portes-clefs-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 20,
+                "api_path": "/songs/3266713",
+                "artist_names": "OrelSan (Ft. Stromae)",
+                "full_title": "La pluie by\u00a0OrelSan (Ft.\u00a0Stromae)",
+                "header_image_thumbnail_url": "https://images.genius.com/2d92bbeb432d564c3d831c54cbff0d31.300x113x1.jpg",
+                "header_image_url": "https://images.genius.com/2d92bbeb432d564c3d831c54cbff0d31.1000x377x1.jpg",
+                "id": 3266713,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-pluie-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Orelsan-la-pluie-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 20
+                },
+                "release_date_for_display": "October 20, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5e4b4700e0adb2cd68de51aa8f32d74a.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5e4b4700e0adb2cd68de51aa8f32d74a.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false,
+                    "pageviews": 187744
+                },
+                "title": "La pluie",
+                "title_with_featured": "La pluie (Ft.\u00a0Stromae)",
+                "url": "https://genius.com/Orelsan-la-pluie-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1484",
+                        "header_image_url": "https://images.genius.com/b71885d6b08d6c4cd3dcb94e626da202.1000x377x1.jpg",
+                        "id": 1484,
+                        "image_url": "https://images.genius.com/9f57192138b79b2dcadc4c7c4d3285bb.834x834x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Stromae",
+                        "url": "https://genius.com/artists/Stromae"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/7325566",
+                "artist_names": "OrelSan",
+                "full_title": "La qu\u00eate by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/7fc5f82c0aabf99de3a5f8c746d93ec1.300x150x1.jpg",
+                "header_image_url": "https://images.genius.com/7fc5f82c0aabf99de3a5f8c746d93ec1.1000x500x1.jpg",
+                "id": 7325566,
+                "language": "fr",
+                "lyrics_owner_id": 15262918,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-quete-lyrics",
+                "pyongs_count": 6,
+                "relationships_index_url": "https://genius.com/Orelsan-la-quete-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 19
+                },
+                "release_date_for_display": "November 19, 2021",
+                "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f2af4b92b9f812caa6bc64c1cb522c7c.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/f2af4b92b9f812caa6bc64c1cb522c7c.865x865x1.png",
+                "stats": {
+                    "unreviewed_annotations": 29,
+                    "hot": false,
+                    "pageviews": 49214
+                },
+                "title": "La qu\u00eate",
+                "title_with_featured": "La qu\u00eate",
+                "url": "https://genius.com/Orelsan-la-quete-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 15,
+                "api_path": "/songs/56781",
+                "artist_names": "OrelSan",
+                "full_title": "La terre est ronde by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/a6e37581bba54750aa9ff839517ca656.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a6e37581bba54750aa9ff839517ca656.1000x1000x1.jpg",
+                "id": 56781,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-la-terre-est-ronde-lyrics",
+                "pyongs_count": 19,
+                "relationships_index_url": "https://genius.com/Orelsan-la-terre-est-ronde-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 9,
+                    "day": 26
+                },
+                "release_date_for_display": "September 26, 2011",
+                "release_date_with_abbreviated_month_for_display": "Sep. 26, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a6e37581bba54750aa9ff839517ca656.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a6e37581bba54750aa9ff839517ca656.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 3,
+                    "hot": false,
+                    "pageviews": 118791
+                },
+                "title": "La terre est ronde",
+                "title_with_featured": "La terre est ronde",
+                "url": "https://genius.com/Orelsan-la-terre-est-ronde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6670507",
+                "artist_names": "Evan et Marco",
+                "full_title": "La terre est ronde by\u00a0Evan\u00a0et Marco",
+                "header_image_thumbnail_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.1000x1000x1.jpg",
+                "id": 6670507,
+                "language": "en",
+                "lyrics_owner_id": 7154073,
+                "lyrics_state": "complete",
+                "path": "/Evan-et-marco-la-terre-est-ronde-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Evan-et-marco-la-terre-est-ronde-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 12,
+                    "day": 1
+                },
+                "release_date_for_display": "December 1, 2017",
+                "release_date_with_abbreviated_month_for_display": "Dec. 1, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/2633e5230f0d472cb8f60bad6de3fdff.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "La terre est ronde",
+                "title_with_featured": "La terre est ronde",
+                "url": "https://genius.com/Evan-et-marco-la-terre-est-ronde-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1260458",
+                    "header_image_url": "https://images.genius.com/8e1b6d3cf0c269a04306d5bc528a8c68.500x500x1.jpg",
+                    "id": 1260458,
+                    "image_url": "https://images.genius.com/0a85645038787bda92ab6fe07d367078.236x220x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Evan et Marco",
+                    "url": "https://genius.com/artists/Evan-et-marco"
+                }
+            },
+            {
+                "annotation_count": 26,
+                "api_path": "/songs/4142050",
+                "artist_names": "Lomepal (Ft. OrelSan)",
+                "full_title": "La v\u00e9rit\u00e9 by\u00a0Lomepal (Ft.\u00a0OrelSan)",
+                "header_image_thumbnail_url": "https://images.genius.com/e0ac70b441573737f86c977eea0d8d61.300x180x1.png",
+                "header_image_url": "https://images.genius.com/e0ac70b441573737f86c977eea0d8d61.1000x600x1.png",
+                "id": 4142050,
+                "language": "en",
+                "lyrics_owner_id": 4616670,
+                "lyrics_state": "complete",
+                "path": "/Lomepal-la-verite-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Lomepal-la-verite-sample",
+                "release_date_components": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 7
+                },
+                "release_date_for_display": "December 7, 2018",
+                "release_date_with_abbreviated_month_for_display": "Dec. 7, 2018",
+                "song_art_image_thumbnail_url": "https://images.genius.com/ee85052d4ba2e5191bb09384b0cb5010.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/ee85052d4ba2e5191bb09384b0cb5010.750x750x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 25,
+                    "hot": false,
+                    "pageviews": 63675
+                },
+                "title": "La v\u00e9rit\u00e9",
+                "title_with_featured": "La v\u00e9rit\u00e9 (Ft.\u00a0OrelSan)",
+                "url": "https://genius.com/Lomepal-la-verite-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/1286",
+                        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                        "id": 1286,
+                        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "OrelSan",
+                        "url": "https://genius.com/artists/Orelsan"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/16138",
+                    "header_image_url": "https://images.genius.com/98fa13a3b96d7b1c7e389278f625ab5f.712x283x1.png",
+                    "id": 16138,
+                    "image_url": "https://images.genius.com/cf19fa33f7a1cd3b1dd91d64dfc74d5c.406x406x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lomepal",
+                    "url": "https://genius.com/artists/Lomepal",
+                    "iq": 115
+                }
+            },
+            {
+                "annotation_count": 4,
+                "api_path": "/songs/270774",
+                "artist_names": "Greg Frite (Ft. Casseurs Flowters)",
+                "full_title": "Le Before - 19/11/2013 by\u00a0Greg\u00a0Frite (Ft.\u00a0Casseurs\u00a0Flowters)",
+                "header_image_thumbnail_url": "https://images.genius.com/4130py9anlvv8ocxhfoxwimw.300x300x1.png",
+                "header_image_url": "https://images.genius.com/4130py9anlvv8ocxhfoxwimw.364x364x1.png",
+                "id": 270774,
+                "language": "fr",
+                "lyrics_owner_id": 117517,
+                "lyrics_state": "complete",
+                "path": "/Greg-frite-le-before-19-11-2013-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Greg-frite-le-before-19-11-2013-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 11,
+                    "day": 19
+                },
+                "release_date_for_display": "November 19, 2013",
+                "release_date_with_abbreviated_month_for_display": "Nov. 19, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/4130py9anlvv8ocxhfoxwimw.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/4130py9anlvv8ocxhfoxwimw.364x364x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Le Before - 19/11/2013",
+                "title_with_featured": "Le Before - 19/11/2013 (Ft.\u00a0Casseurs\u00a0Flowters)",
+                "url": "https://genius.com/Greg-frite-le-before-19-11-2013-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/20190",
+                        "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+                        "id": 20190,
+                        "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Casseurs Flowters",
+                        "url": "https://genius.com/artists/Casseurs-flowters"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/14855",
+                    "header_image_url": "https://images.genius.com/4130py9anlvv8ocxhfoxwimw.364x364x1.png",
+                    "id": 14855,
+                    "image_url": "https://images.genius.com/4130py9anlvv8ocxhfoxwimw.364x364x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Greg Frite",
+                    "url": "https://genius.com/artists/Greg-frite",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 41,
+                "api_path": "/songs/56286",
+                "artist_names": "OrelSan",
+                "full_title": "Le chant des sir\u00e8nes by\u00a0OrelSan",
+                "header_image_thumbnail_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.1000x1000x1.jpg",
+                "id": 56286,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Orelsan-le-chant-des-sirenes-lyrics",
+                "pyongs_count": 8,
+                "relationships_index_url": "https://genius.com/Orelsan-le-chant-des-sirenes-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 9,
+                    "day": 26
+                },
+                "release_date_for_display": "September 26, 2011",
+                "release_date_with_abbreviated_month_for_display": "Sep. 26, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/37117b8569e8b8117fe644c751617d10.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 9,
+                    "hot": false,
+                    "pageviews": 80683
+                },
+                "title": "Le chant des sir\u00e8nes",
+                "title_with_featured": "Le chant des sir\u00e8nes",
+                "url": "https://genius.com/Orelsan-le-chant-des-sirenes-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                }
+            }
+        ],
+        "next_page": 8
+    }
+}

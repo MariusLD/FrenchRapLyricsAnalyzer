@@ -1,0 +1,997 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "songs": [
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/102302",
+                "artist_names": "1995",
+                "full_title": "Freestyle PSM by\u00a01995",
+                "header_image_thumbnail_url": "https://images.genius.com/b0259bf5581154d13c7dfb53444e1551.300x169x1.jpg",
+                "header_image_url": "https://images.genius.com/b0259bf5581154d13c7dfb53444e1551.1000x563x1.jpg",
+                "id": 102302,
+                "language": "fr",
+                "lyrics_owner_id": 44422,
+                "lyrics_state": "complete",
+                "path": "/1995-freestyle-psm-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/1995-freestyle-psm-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 12,
+                    "day": 12
+                },
+                "release_date_for_display": "December 12, 2012",
+                "release_date_with_abbreviated_month_for_display": "Dec. 12, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b0259bf5581154d13c7dfb53444e1551.300x169x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b0259bf5581154d13c7dfb53444e1551.1000x563x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 20769
+                },
+                "title": "Freestyle PSM",
+                "title_with_featured": "Freestyle PSM",
+                "url": "https://genius.com/1995-freestyle-psm-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12091",
+                    "header_image_url": "https://images.genius.com/84c92a1b8649b4945426aa03646a365b.1000x600x1.jpg",
+                    "id": 12091,
+                    "image_url": "https://images.genius.com/0d0c589a33ca5244d5345ef7be97d741.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "1995",
+                    "url": "https://genius.com/artists/1995"
+                }
+            },
+            {
+                "annotation_count": 34,
+                "api_path": "/songs/85797",
+                "artist_names": "Disiz (Ft. Alpha Wann & Darryl Zeuja)",
+                "full_title": "Gagne pain by\u00a0Disiz (Ft.\u00a0Alpha\u00a0Wann & Darryl\u00a0Zeuja)",
+                "header_image_thumbnail_url": "https://images.genius.com/afc512210b479b940e358aa345480aa7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/afc512210b479b940e358aa345480aa7.400x400x1.jpg",
+                "id": 85797,
+                "language": "fr",
+                "lyrics_owner_id": 81742,
+                "lyrics_state": "complete",
+                "path": "/Disiz-gagne-pain-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Disiz-gagne-pain-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 26
+                },
+                "release_date_for_display": "March 26, 2012",
+                "release_date_with_abbreviated_month_for_display": "Mar. 26, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/afc512210b479b940e358aa345480aa7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/afc512210b479b940e358aa345480aa7.400x400x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 5,
+                    "hot": false
+                },
+                "title": "Gagne pain",
+                "title_with_featured": "Gagne pain (Ft.\u00a0Alpha\u00a0Wann & Darryl\u00a0Zeuja)",
+                "url": "https://genius.com/Disiz-gagne-pain-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/17296",
+                        "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                        "id": 17296,
+                        "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Darryl Zeuja",
+                        "url": "https://genius.com/artists/Darryl-zeuja",
+                        "iq": 100
+                    },
+                    {
+                        "api_path": "/artists/13062",
+                        "header_image_url": "https://images.genius.com/075bec9ede6473ec06def6d84fe6619f.798x338x1.png",
+                        "id": 13062,
+                        "image_url": "https://images.genius.com/9eceb53405edce9e22267af62f7b2548.427x427x1.png",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Alpha Wann",
+                        "url": "https://genius.com/artists/Alpha-wann",
+                        "iq": 1120
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/2252",
+                    "header_image_url": "https://images.genius.com/6de1823873908fd5e293343bee950d3c.960x586x1.jpg",
+                    "id": 2252,
+                    "image_url": "https://images.genius.com/4ec5dcbd50dfd892afff1b3cb667b0ed.715x715x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Disiz",
+                    "url": "https://genius.com/artists/Disiz",
+                    "iq": 105
+                }
+            },
+            {
+                "annotation_count": 13,
+                "api_path": "/songs/2444487",
+                "artist_names": "Vaati (Ft. Nusky)",
+                "full_title": "Goodbye by\u00a0Vaati (Ft.\u00a0Nusky)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/17ae29645667e35d5c922c3a51884412.300x169x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/17ae29645667e35d5c922c3a51884412.1000x563x1.jpg",
+                "id": 2444487,
+                "language": "fr",
+                "lyrics_owner_id": 74564,
+                "lyrics_state": "complete",
+                "path": "/Vaati-goodbye-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Vaati-goodbye-sample",
+                "release_date_components": {
+                    "year": 2016,
+                    "month": 2,
+                    "day": 28
+                },
+                "release_date_for_display": "February 28, 2016",
+                "release_date_with_abbreviated_month_for_display": "Feb. 28, 2016",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/6b045dd8f719178af90caab7d02243a4.300x300x1.png",
+                "song_art_image_url": "https://images.rapgenius.com/6b045dd8f719178af90caab7d02243a4.709x709x1.png",
+                "stats": {
+                    "unreviewed_annotations": 8,
+                    "hot": false,
+                    "pageviews": 11106
+                },
+                "title": "Goodbye",
+                "title_with_featured": "Goodbye (Ft.\u00a0Nusky)",
+                "url": "https://genius.com/Vaati-goodbye-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/272207",
+                        "header_image_url": "https://images.genius.com/d245b29fd468443259be3794ae036df4.1000x666x1.jpg",
+                        "id": 272207,
+                        "image_url": "https://images.genius.com/6335dd3ce646c3df07f65cd52d18cfac.703x703x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nusky",
+                        "url": "https://genius.com/artists/Nusky"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/43047",
+                    "header_image_url": "https://images.genius.com/b645a82f6107fb15a582b0f69004123d.1000x667x1.jpg",
+                    "id": 43047,
+                    "image_url": "https://images.genius.com/800b62e07478eb10bb3f73c9ebdbf655.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vaati",
+                    "url": "https://genius.com/artists/Vaati"
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/381037",
+                "artist_names": "Gr\u00fcnt (Ft. Darryl Zeuja, Doums, Framal, La Mannschaft & Lomepal)",
+                "full_title": "Gr\u00fcnt #2 by\u00a0Gr\u00fcnt (Ft.\u00a0Darryl\u00a0Zeuja, Doums, Framal, La\u00a0Mannschaft & Lomepal)",
+                "header_image_thumbnail_url": "https://images.genius.com/dffa88abe2e074fd644e27293102b26f.300x160x1.jpg",
+                "header_image_url": "https://images.genius.com/dffa88abe2e074fd644e27293102b26f.1000x533x1.jpg",
+                "id": 381037,
+                "language": "hu",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Grunt-grunt-2-lyrics",
+                "pyongs_count": 7,
+                "relationships_index_url": "https://genius.com/Grunt-grunt-2-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 19
+                },
+                "release_date_for_display": "February 19, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 19, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/103229494779c47fad3f49756d135f04.300x200x1.jpg",
+                "song_art_image_url": "https://images.genius.com/103229494779c47fad3f49756d135f04.1000x667x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 10,
+                    "hot": false,
+                    "pageviews": 31626
+                },
+                "title": "Gr\u00fcnt #2",
+                "title_with_featured": "Gr\u00fcnt #2 (Ft.\u00a0Darryl\u00a0Zeuja, Doums, Framal, La\u00a0Mannschaft & Lomepal)",
+                "url": "https://genius.com/Grunt-grunt-2-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/55582",
+                        "header_image_url": "https://images.genius.com/c70927ea7a3c56f2601d00d553ee5687.640x458x1.jpg",
+                        "id": 55582,
+                        "image_url": "https://images.genius.com/626076d9c479c27aafba1a46b59d1639.406x406x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Framal",
+                        "url": "https://genius.com/artists/Framal"
+                    },
+                    {
+                        "api_path": "/artists/13259",
+                        "header_image_url": "https://images.genius.com/2b7f232410b28f8af904043afb9fc0f0.490x369x1.png",
+                        "id": 13259,
+                        "image_url": "https://images.genius.com/cf62164c1bf5688e70b3d1914af8a599.347x347x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Doums",
+                        "url": "https://genius.com/artists/Doums"
+                    },
+                    {
+                        "api_path": "/artists/16138",
+                        "header_image_url": "https://images.genius.com/98fa13a3b96d7b1c7e389278f625ab5f.712x283x1.png",
+                        "id": 16138,
+                        "image_url": "https://images.genius.com/cf19fa33f7a1cd3b1dd91d64dfc74d5c.406x406x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lomepal",
+                        "url": "https://genius.com/artists/Lomepal",
+                        "iq": 115
+                    },
+                    {
+                        "api_path": "/artists/87991",
+                        "header_image_url": "https://images.genius.com/d1268c9e77c538432761a912d15dc7c7.1000x370x1.png",
+                        "id": 87991,
+                        "image_url": "https://images.genius.com/cfb5fff2807ee3f7a9f3b33eb9d58763.459x459x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "La Mannschaft",
+                        "url": "https://genius.com/artists/La-mannschaft"
+                    },
+                    {
+                        "api_path": "/artists/17296",
+                        "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                        "id": 17296,
+                        "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Darryl Zeuja",
+                        "url": "https://genius.com/artists/Darryl-zeuja",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/65817",
+                    "header_image_url": "https://images.genius.com/2bc2e22a7e1c89acf9f6f5ba124d3a21.960x960x1.jpg",
+                    "id": 65817,
+                    "image_url": "https://images.genius.com/fbe49b7a95794a2f69c19c386fda2f93.475x475x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gr\u00fcnt",
+                    "url": "https://genius.com/artists/Grunt"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/349415",
+                "artist_names": "Typhoon (Ft. Darryl Zeuja)",
+                "full_title": "Hardly Home by\u00a0Typhoon (Ft.\u00a0Darryl\u00a0Zeuja)",
+                "header_image_thumbnail_url": "https://images.genius.com/152f2f5242763de43f2bde27cb6e429c.280x280x1.jpg",
+                "header_image_url": "https://images.genius.com/152f2f5242763de43f2bde27cb6e429c.280x280x1.jpg",
+                "id": 349415,
+                "language": "en",
+                "lyrics_owner_id": 95459,
+                "lyrics_state": "complete",
+                "path": "/Typhoon-hardly-home-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Typhoon-hardly-home-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 7,
+                    "day": 28
+                },
+                "release_date_for_display": "July 28, 2013",
+                "release_date_with_abbreviated_month_for_display": "Jul. 28, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/152f2f5242763de43f2bde27cb6e429c.280x280x1.jpg",
+                "song_art_image_url": "https://images.genius.com/152f2f5242763de43f2bde27cb6e429c.280x280x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Hardly Home",
+                "title_with_featured": "Hardly Home (Ft.\u00a0Darryl\u00a0Zeuja)",
+                "url": "https://genius.com/Typhoon-hardly-home-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/17296",
+                        "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                        "id": 17296,
+                        "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Darryl Zeuja",
+                        "url": "https://genius.com/artists/Darryl-zeuja",
+                        "iq": 100
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12927",
+                    "header_image_url": "https://images.genius.com/d626e73ae6fed120d16680e00982f023.1000x519x1.jpg",
+                    "id": 12927,
+                    "image_url": "https://images.genius.com/d626e73ae6fed120d16680e00982f023.1000x519x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Typhoon",
+                    "url": "https://genius.com/artists/Typhoon"
+                }
+            },
+            {
+                "annotation_count": 11,
+                "api_path": "/songs/61475",
+                "artist_names": "Cool Connexion",
+                "full_title": "Hommes de l'Est by\u00a0Cool\u00a0Connexion",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/3bce70554c6f3b056472bd1e2aa92844.300x169x1.png",
+                "header_image_url": "https://images.rapgenius.com/3bce70554c6f3b056472bd1e2aa92844.1000x563x1.png",
+                "id": 61475,
+                "language": "fr",
+                "lyrics_owner_id": 38835,
+                "lyrics_state": "complete",
+                "path": "/Cool-connexion-hommes-de-lest-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Cool-connexion-hommes-de-lest-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 6,
+                    "day": 7
+                },
+                "release_date_for_display": "June 7, 2011",
+                "release_date_with_abbreviated_month_for_display": "Jun. 7, 2011",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/3bce70554c6f3b056472bd1e2aa92844.300x169x1.png",
+                "song_art_image_url": "https://images.rapgenius.com/3bce70554c6f3b056472bd1e2aa92844.1000x563x1.png",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 6867
+                },
+                "title": "Hommes de l\u2019Est",
+                "title_with_featured": "Hommes de l'Est",
+                "url": "https://genius.com/Cool-connexion-hommes-de-lest-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/15748",
+                    "header_image_url": "https://images.genius.com/84d3610637039653a13e71b708aa16e9.594x448x1.png",
+                    "id": 15748,
+                    "image_url": "https://images.genius.com/8347151c54f5a822ec05d58f6117f4ba.452x452x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cool Connexion",
+                    "url": "https://genius.com/artists/Cool-connexion"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3610985",
+                "artist_names": "Nusky & Vaati",
+                "full_title": "Interlude by\u00a0Nusky\u00a0& Vaati",
+                "header_image_thumbnail_url": "https://images.genius.com/d22b5002472d1f58720e58d1543374fb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/d22b5002472d1f58720e58d1543374fb.960x960x1.jpg",
+                "id": 3610985,
+                "language": "en",
+                "lyrics_owner_id": 5776359,
+                "lyrics_state": "complete",
+                "path": "/Nusky-and-vaati-interlude-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Nusky-and-vaati-interlude-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 7,
+                    "day": 20
+                },
+                "release_date_for_display": "July 20, 2015",
+                "release_date_with_abbreviated_month_for_display": "Jul. 20, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d22b5002472d1f58720e58d1543374fb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d22b5002472d1f58720e58d1543374fb.960x960x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Interlude",
+                "title_with_featured": "Interlude",
+                "url": "https://genius.com/Nusky-and-vaati-interlude-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/1082380",
+                    "header_image_url": "https://images.genius.com/3bddba3adfafc15c184f55fdd8aeb520.1000x1000x1.jpg",
+                    "id": 1082380,
+                    "image_url": "https://images.genius.com/6dd1bab5fd1668996e375a22bb9580af.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nusky & Vaati",
+                    "url": "https://genius.com/artists/Nusky-and-vaati"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/5460456",
+                "artist_names": "Darryl Zeuja",
+                "full_title": "Intro by\u00a0Darryl\u00a0Zeuja",
+                "header_image_thumbnail_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.1000x1000x1.jpg",
+                "id": 5460456,
+                "language": "en",
+                "lyrics_owner_id": 3082514,
+                "lyrics_state": "complete",
+                "path": "/Darryl-zeuja-intro-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Darryl-zeuja-intro-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 13
+                },
+                "release_date_for_display": "February 13, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 13, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Intro",
+                "title_with_featured": "Intro",
+                "url": "https://genius.com/Darryl-zeuja-intro-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/17296",
+                    "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                    "id": 17296,
+                    "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Darryl Zeuja",
+                    "url": "https://genius.com/artists/Darryl-zeuja",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/529657",
+                "artist_names": "Darryl Zeuja & Hologram Lo'",
+                "full_title": "Introduction by\u00a0Darryl\u00a0Zeuja & Hologram Lo'",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/88ce35b678b9c3128eb04430b6b442a2.300x57x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/88ce35b678b9c3128eb04430b6b442a2.1000x190x1.jpg",
+                "id": 529657,
+                "language": "fr",
+                "lyrics_owner_id": 74564,
+                "lyrics_state": "complete",
+                "path": "/Darryl-zeuja-and-hologram-lo-introduction-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Darryl-zeuja-and-hologram-lo-introduction-sample",
+                "release_date_components": {
+                    "year": 2014,
+                    "month": 10,
+                    "day": 2
+                },
+                "release_date_for_display": "October 2, 2014",
+                "release_date_with_abbreviated_month_for_display": "Oct. 2, 2014",
+                "song_art_image_thumbnail_url": "https://images.genius.com/d4d895b96cf43d4861474b24635209e4.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/d4d895b96cf43d4861474b24635209e4.647x647x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Introduction",
+                "title_with_featured": "Introduction",
+                "url": "https://genius.com/Darryl-zeuja-and-hologram-lo-introduction-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/3243207",
+                    "header_image_url": "https://images.genius.com/e834161604bbe505eeb135e691f0c589.1000x1000x1.jpg",
+                    "id": 3243207,
+                    "image_url": "https://images.genius.com/e834161604bbe505eeb135e691f0c589.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Darryl Zeuja & Hologram Lo\u2019",
+                    "url": "https://genius.com/artists/Darryl-zeuja-and-hologram-lo"
+                }
+            },
+            {
+                "annotation_count": 25,
+                "api_path": "/songs/105606",
+                "artist_names": "1995",
+                "full_title": "J'aime \u00e7a by\u00a01995",
+                "header_image_thumbnail_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.600x600x1.jpg",
+                "id": 105606,
+                "language": "fr",
+                "lyrics_owner_id": 44422,
+                "lyrics_state": "complete",
+                "path": "/1995-jaime-ca-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/1995-jaime-ca-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 12,
+                    "day": 31
+                },
+                "release_date_for_display": "December 31, 2012",
+                "release_date_with_abbreviated_month_for_display": "Dec. 31, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 15060
+                },
+                "title": "J\u2019aime \u00e7a",
+                "title_with_featured": "J'aime \u00e7a",
+                "url": "https://genius.com/1995-jaime-ca-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12091",
+                    "header_image_url": "https://images.genius.com/84c92a1b8649b4945426aa03646a365b.1000x600x1.jpg",
+                    "id": 12091,
+                    "image_url": "https://images.genius.com/0d0c589a33ca5244d5345ef7be97d741.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "1995",
+                    "url": "https://genius.com/artists/1995"
+                }
+            },
+            {
+                "annotation_count": 1,
+                "api_path": "/songs/3283452",
+                "artist_names": "Darryl Zeuja",
+                "full_title": "Jamais assez by\u00a0Darryl\u00a0Zeuja",
+                "header_image_thumbnail_url": "https://images.genius.com/a1ea3de8c7e9e7d0b8ff576ad26613e9.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a1ea3de8c7e9e7d0b8ff576ad26613e9.600x600x1.jpg",
+                "id": 3283452,
+                "language": "fr",
+                "lyrics_owner_id": 224122,
+                "lyrics_state": "complete",
+                "path": "/Darryl-zeuja-jamais-assez-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Darryl-zeuja-jamais-assez-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 10,
+                    "day": 22
+                },
+                "release_date_for_display": "October 22, 2017",
+                "release_date_with_abbreviated_month_for_display": "Oct. 22, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a1ea3de8c7e9e7d0b8ff576ad26613e9.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a1ea3de8c7e9e7d0b8ff576ad26613e9.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Jamais assez",
+                "title_with_featured": "Jamais assez",
+                "url": "https://genius.com/Darryl-zeuja-jamais-assez-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/17296",
+                    "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                    "id": 17296,
+                    "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Darryl Zeuja",
+                    "url": "https://genius.com/artists/Darryl-zeuja",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 23,
+                "api_path": "/songs/65577",
+                "artist_names": "Darryl Zeuja",
+                "full_title": "Jaz Brel by\u00a0Darryl\u00a0Zeuja",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/b36fb8f0b4c1ddc6237d8304934504eb.300x300x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/b36fb8f0b4c1ddc6237d8304934504eb.1000x1000x1.jpg",
+                "id": 65577,
+                "language": "fr",
+                "lyrics_owner_id": 88747,
+                "lyrics_state": "complete",
+                "path": "/Darryl-zeuja-jaz-brel-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Darryl-zeuja-jaz-brel-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 13
+                },
+                "release_date_for_display": "February 13, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 13, 2012",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/b36fb8f0b4c1ddc6237d8304934504eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/b36fb8f0b4c1ddc6237d8304934504eb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false,
+                    "pageviews": 6219
+                },
+                "title": "Jaz Brel",
+                "title_with_featured": "Jaz Brel",
+                "url": "https://genius.com/Darryl-zeuja-jaz-brel-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/17296",
+                    "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                    "id": 17296,
+                    "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Darryl Zeuja",
+                    "url": "https://genius.com/artists/Darryl-zeuja",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 3,
+                "api_path": "/songs/73421",
+                "artist_names": "1995 (Ft. Sabrina Bellaouel)",
+                "full_title": "Je brille by\u00a01995 (Ft.\u00a0Sabrina\u00a0Bellaouel)",
+                "header_image_thumbnail_url": "https://images.genius.com/21ecb8a35569d18bc697595cc9b98109.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/21ecb8a35569d18bc697595cc9b98109.600x600x1.jpg",
+                "id": 73421,
+                "language": "fr",
+                "lyrics_owner_id": 69511,
+                "lyrics_state": "complete",
+                "path": "/1995-je-brille-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/1995-je-brille-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 6,
+                    "day": 27
+                },
+                "release_date_for_display": "June 27, 2011",
+                "release_date_with_abbreviated_month_for_display": "Jun. 27, 2011",
+                "song_art_image_thumbnail_url": "https://images.genius.com/21ecb8a35569d18bc697595cc9b98109.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/21ecb8a35569d18bc697595cc9b98109.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "Je brille",
+                "title_with_featured": "Je brille (Ft.\u00a0Sabrina\u00a0Bellaouel)",
+                "url": "https://genius.com/1995-je-brille-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/182870",
+                        "header_image_url": "https://images.genius.com/78480554a572399c22e54da748b6d7b4.960x959x1.jpg",
+                        "id": 182870,
+                        "image_url": "https://images.genius.com/fb98056f506a93b63510148181c308f7.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sabrina Bellaouel",
+                        "url": "https://genius.com/artists/Sabrina-bellaouel"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/12091",
+                    "header_image_url": "https://images.genius.com/84c92a1b8649b4945426aa03646a365b.1000x600x1.jpg",
+                    "id": 12091,
+                    "image_url": "https://images.genius.com/0d0c589a33ca5244d5345ef7be97d741.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "1995",
+                    "url": "https://genius.com/artists/1995"
+                }
+            },
+            {
+                "annotation_count": 17,
+                "api_path": "/songs/256674",
+                "artist_names": "XLR (Ft. Konspi)",
+                "full_title": "Je ne r\u00eave jamais by\u00a0XLR (Ft.\u00a0Konspi)",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/c4kjtonhw42upzibm7isixjw9.300x122x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/c4kjtonhw42upzibm7isixjw9.960x390x1.jpg",
+                "id": 256674,
+                "language": "fr",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Xlr-je-ne-reve-jamais-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Xlr-je-ne-reve-jamais-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 11,
+                    "day": 7
+                },
+                "release_date_for_display": "November 7, 2013",
+                "release_date_with_abbreviated_month_for_display": "Nov. 7, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/f3c75241a766637ab71634032020a333.300x298x1.jpg",
+                "song_art_image_url": "https://images.genius.com/f3c75241a766637ab71634032020a333.647x642x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                },
+                "title": "Je ne r\u00eave jamais",
+                "title_with_featured": "Je ne r\u00eave jamais (Ft.\u00a0Konspi)",
+                "url": "https://genius.com/Xlr-je-ne-reve-jamais-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/88341",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 88341,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Konspi",
+                        "url": "https://genius.com/artists/Konspi"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/88340",
+                    "header_image_url": "https://images.genius.com/4ee62tuwx0js1bb8y4adlv0fx.960x959x1.jpg",
+                    "id": 88340,
+                    "image_url": "https://images.genius.com/4ee62tuwx0js1bb8y4adlv0fx.960x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "XLR",
+                    "url": "https://genius.com/artists/Xlr"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/6860263",
+                "artist_names": "Darryl Zeuja",
+                "full_title": "Jeunes libres & courageux by\u00a0Darryl\u00a0Zeuja",
+                "header_image_thumbnail_url": "https://images.genius.com/bfb14bd94346cc41d21fcc0c28b96cc7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/bfb14bd94346cc41d21fcc0c28b96cc7.640x640x1.jpg",
+                "id": 6860263,
+                "language": "fr",
+                "lyrics_owner_id": 4335124,
+                "lyrics_state": "complete",
+                "path": "/Darryl-zeuja-jeunes-libres-and-courageux-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Darryl-zeuja-jeunes-libres-and-courageux-sample",
+                "release_date_components": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2021",
+                "release_date_with_abbreviated_month_for_display": "May. 29, 2021",
+                "song_art_image_thumbnail_url": "https://images.genius.com/bfb14bd94346cc41d21fcc0c28b96cc7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/bfb14bd94346cc41d21fcc0c28b96cc7.640x640x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jeunes libres & courageux",
+                "title_with_featured": "Jeunes libres & courageux",
+                "url": "https://genius.com/Darryl-zeuja-jeunes-libres-and-courageux-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/17296",
+                    "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                    "id": 17296,
+                    "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Darryl Zeuja",
+                    "url": "https://genius.com/artists/Darryl-zeuja",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 5,
+                "api_path": "/songs/292213",
+                "artist_names": "XLR (Ft. Yser One)",
+                "full_title": "Jeux d'enfant by\u00a0XLR (Ft.\u00a0Yser\u00a0One)",
+                "header_image_thumbnail_url": "https://images.genius.com/3e4eccb96341aaffe89661bd804739f0.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/3e4eccb96341aaffe89661bd804739f0.647x647x1.jpg",
+                "id": 292213,
+                "language": "en",
+                "lyrics_owner_id": 171814,
+                "lyrics_state": "complete",
+                "path": "/Xlr-jeux-denfant-lyrics",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Xlr-jeux-denfant-sample",
+                "release_date_components": {
+                    "year": 2013,
+                    "month": 12,
+                    "day": 9
+                },
+                "release_date_for_display": "December 9, 2013",
+                "release_date_with_abbreviated_month_for_display": "Dec. 9, 2013",
+                "song_art_image_thumbnail_url": "https://images.genius.com/3e4eccb96341aaffe89661bd804739f0.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/3e4eccb96341aaffe89661bd804739f0.647x647x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jeux d\u2019enfant",
+                "title_with_featured": "Jeux d'enfant (Ft.\u00a0Yser\u00a0One)",
+                "url": "https://genius.com/Xlr-jeux-denfant-lyrics",
+                "featured_artists": [
+                    {
+                        "api_path": "/artists/106533",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "id": 106533,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682537573",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Yser One",
+                        "url": "https://genius.com/artists/Yser-one"
+                    }
+                ],
+                "primary_artist": {
+                    "api_path": "/artists/88340",
+                    "header_image_url": "https://images.genius.com/4ee62tuwx0js1bb8y4adlv0fx.960x959x1.jpg",
+                    "id": 88340,
+                    "image_url": "https://images.genius.com/4ee62tuwx0js1bb8y4adlv0fx.960x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "XLR",
+                    "url": "https://genius.com/artists/Xlr"
+                }
+            },
+            {
+                "annotation_count": 27,
+                "api_path": "/songs/65573",
+                "artist_names": "Darryl Zeuja",
+                "full_title": "J'marche seul by\u00a0Darryl\u00a0Zeuja",
+                "header_image_thumbnail_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.1000x1000x1.jpg",
+                "id": 65573,
+                "language": "fr",
+                "lyrics_owner_id": 3639,
+                "lyrics_state": "complete",
+                "path": "/Darryl-zeuja-jmarche-seul-lyrics",
+                "pyongs_count": 3,
+                "relationships_index_url": "https://genius.com/Darryl-zeuja-jmarche-seul-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 2,
+                    "day": 13
+                },
+                "release_date_for_display": "February 13, 2012",
+                "release_date_with_abbreviated_month_for_display": "Feb. 13, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/b36fb8f0b4c1ddc6237d8304934504eb.1000x1000x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 4,
+                    "hot": false,
+                    "pageviews": 29013
+                },
+                "title": "J\u2019marche seul",
+                "title_with_featured": "J'marche seul",
+                "url": "https://genius.com/Darryl-zeuja-jmarche-seul-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/17296",
+                    "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                    "id": 17296,
+                    "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Darryl Zeuja",
+                    "url": "https://genius.com/artists/Darryl-zeuja",
+                    "iq": 100
+                }
+            },
+            {
+                "annotation_count": 37,
+                "api_path": "/songs/105418",
+                "artist_names": "1995",
+                "full_title": "J'participe by\u00a01995",
+                "header_image_thumbnail_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.600x600x1.jpg",
+                "id": 105418,
+                "language": "fr",
+                "lyrics_owner_id": 153634,
+                "lyrics_state": "complete",
+                "path": "/1995-jparticipe-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/1995-jparticipe-sample",
+                "release_date_components": {
+                    "year": 2012,
+                    "month": 12,
+                    "day": 31
+                },
+                "release_date_for_display": "December 31, 2012",
+                "release_date_with_abbreviated_month_for_display": "Dec. 31, 2012",
+                "song_art_image_thumbnail_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/a602a00ef6f461785967520d6d6d9d47.600x600x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 17133
+                },
+                "title": "J\u2019participe",
+                "title_with_featured": "J'participe",
+                "url": "https://genius.com/1995-jparticipe-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12091",
+                    "header_image_url": "https://images.genius.com/84c92a1b8649b4945426aa03646a365b.1000x600x1.jpg",
+                    "id": 12091,
+                    "image_url": "https://images.genius.com/0d0c589a33ca5244d5345ef7be97d741.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "1995",
+                    "url": "https://genius.com/artists/1995"
+                }
+            },
+            {
+                "annotation_count": 9,
+                "api_path": "/songs/80110",
+                "artist_names": "1995",
+                "full_title": "J'roule avec by\u00a01995",
+                "header_image_thumbnail_url": "https://images.rapgenius.com/414e93455aa52584218d0dcb8b454de8.300x205x1.jpg",
+                "header_image_url": "https://images.rapgenius.com/414e93455aa52584218d0dcb8b454de8.600x410x1.jpg",
+                "id": 80110,
+                "language": "fr",
+                "lyrics_owner_id": 107821,
+                "lyrics_state": "complete",
+                "path": "/1995-jroule-avec-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/1995-jroule-avec-sample",
+                "release_date_components": {
+                    "year": 2011,
+                    "month": 4,
+                    "day": 12
+                },
+                "release_date_for_display": "April 12, 2011",
+                "release_date_with_abbreviated_month_for_display": "Apr. 12, 2011",
+                "song_art_image_thumbnail_url": "https://images.rapgenius.com/414e93455aa52584218d0dcb8b454de8.300x205x1.jpg",
+                "song_art_image_url": "https://images.rapgenius.com/414e93455aa52584218d0dcb8b454de8.600x410x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 2,
+                    "hot": false
+                },
+                "title": "J\u2019roule avec",
+                "title_with_featured": "J'roule avec",
+                "url": "https://genius.com/1995-jroule-avec-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/12091",
+                    "header_image_url": "https://images.genius.com/84c92a1b8649b4945426aa03646a365b.1000x600x1.jpg",
+                    "id": 12091,
+                    "image_url": "https://images.genius.com/0d0c589a33ca5244d5345ef7be97d741.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "1995",
+                    "url": "https://genius.com/artists/1995"
+                }
+            },
+            {
+                "annotation_count": 0,
+                "api_path": "/songs/3133639",
+                "artist_names": "Darryl Zeuja",
+                "full_title": "Juste une fois by\u00a0Darryl\u00a0Zeuja",
+                "header_image_thumbnail_url": "https://images.genius.com/5f80367e9630fc67e3cd5618c2947014.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/5f80367e9630fc67e3cd5618c2947014.500x500x1.jpg",
+                "id": 3133639,
+                "language": "fr",
+                "lyrics_owner_id": 2542540,
+                "lyrics_state": "complete",
+                "path": "/Darryl-zeuja-juste-une-fois-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Darryl-zeuja-juste-une-fois-sample",
+                "release_date_components": {
+                    "year": 2017,
+                    "month": 6,
+                    "day": 25
+                },
+                "release_date_for_display": "June 25, 2017",
+                "release_date_with_abbreviated_month_for_display": "Jun. 25, 2017",
+                "song_art_image_thumbnail_url": "https://images.genius.com/5f80367e9630fc67e3cd5618c2947014.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/5f80367e9630fc67e3cd5618c2947014.500x500x1.jpg",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Juste une fois",
+                "title_with_featured": "Juste une fois",
+                "url": "https://genius.com/Darryl-zeuja-juste-une-fois-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "api_path": "/artists/17296",
+                    "header_image_url": "https://images.genius.com/ddf1653dbf4497134fd7d76e0534add6.595x351x1.png",
+                    "id": 17296,
+                    "image_url": "https://images.genius.com/69ba740f1774cb6ddcf116b71cb4972e.466x466x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Darryl Zeuja",
+                    "url": "https://genius.com/artists/Darryl-zeuja",
+                    "iq": 100
+                }
+            }
+        ],
+        "next_page": 4
+    }
+}
